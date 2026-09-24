@@ -208,7 +208,16 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - **Prayer rotation:** each week still follows adoration → thanksgiving → listening/silence → confession → intercession → adoration → rest, though the exact day each form lands on was matched to what fit the passage best that week rather than a rigid fixed slot — all five forms still appear every week.
 - Every OT/NT day added in weeks 2–10 uses `"api"` (bible-api.com, cached to localStorage) rather than bundled `"v"` text, matching the pattern already used for most of week 1's days.
 - Landing page (`index.html`) updated to list all built days instead of hard-coding the first 7, with a day count in the subheading.
-- **Not built yet:** days 71–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
+- **Not built yet (as of v6):** days 71–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
+
+### Weeks 11–20 built (v7) — days 71–140 complete
+- `data-year1.js` now holds days 1–140 (twenty full weeks). `data-year2.js` is still empty, waiting for days 366–730.
+- Same weekly pattern and prayer rotation as v6, continued without change.
+- **OT track:** Genesis 31 → Genesis 50 (Jacob's flight from Laban through Joseph's death, closing the book of Genesis), then straight into Exodus 1 → Exodus 10 (the birth of Moses, the burning bush, and the first nine plagues) — the Genesis/Exodus transition lands mid-plan, at Day 116.
+- **NT track:** Matthew 11 → Matthew 20 (John the Baptist's doubt through the parable of the labourers and the third prediction of the cross), continuing in canonical order from Day 75.
+- **Psalms & Wisdom track:** Psalms 63, 67, 71, 73, 84, 86, 90, 91, 95, 100, 103, 104, 107, 111, 112, 116, 118, 121, 130, 139 — again a curated mix rather than strict numerical order, including Psalm 90 (the only psalm attributed to Moses) placed deliberately alongside the early Exodus days.
+- Every day in weeks 11–20 uses `"api"` (bible-api.com) as before; none of the new days bundle `"v"` text.
+- **Not built yet:** days 141–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
 
 
 ### Images (v5) — kept in `data-images.js`
