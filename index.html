@@ -205,8 +205,8 @@ const DAYS=[...YEAR1,...YEAR2];
 let day=1,HL;
 S.hl=S.hl||{};if(!S.hl[1]&&(Object.keys(S.c||{}).length||Object.keys(S.n||{}).length))S.hl[1]={c:S.c,n:S.n};
 /* Images live in data-images.js. BANNER maps a study-step id to an image key
-   (Passage, Nuggets and the look-back card are placed directly in build()). */
-const BANNER={prayer:"prayer"};
+   (Passage and Nuggets are placed directly in build()). */
+const BANNER={prayer:"prayer",con:"river",life:"staff",spirit:"dove",back:"hands"};
 const banner=k=>IMAGES[k]?`<img class="banner" src="${IMAGES[k].src}" alt="${esc(IMAGES[k].alt)}" style="object-position:${IMAGES[k].pos||'50% 50%'}" decoding="async">`:"";
 {const h=$("#heroImg");h.src=IMAGES.hero.src;h.alt=IMAGES.hero.alt;h.style.objectPosition=IMAGES.hero.pos}
 const pk=d=>d===1?"":"d"+d+"_",pre=()=>pk(day);
