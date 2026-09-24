@@ -6,6 +6,8 @@
      v      array of verse strings (bundled text)   — OR —
      api    bible-api.com passage id (e.g. "genesis+2"), fetched and cached
      rest   1 for a rest/review day (no passage)
+     sum    "Retell it" summary: 2–4 short sentences on the main points of the day's reading,
+            rendered as its own card right after the Passage and before Nuggets. Omitted on rest days.
      nug    nuggets: [{h: heading, b: body}]
      steps  study steps: {id, t: title, m: time, xr: optional cross-refs, qs: [{th: thought, q: question}]}
    The shared "Today's takeaway" step is added automatically by index.html. */
@@ -47,6 +49,11 @@ const YEAR1=[
   "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.",
   "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.",
   "And God saw every thing that he made, and, behold, it was very good. And the evening and the morning were the sixth day."
+ ],
+ "sum": [
+  "God speaks the world into existence over six days: light, sky, land and plants, sun/moon/stars, sea and sky creatures, then land animals and humans.",
+  "Each day's work is called “good”; once humans are made, everything is “very good.”",
+  "Humanity, male and female, is made in God's own image and given charge over the earth."
  ],
  "nug": [
   {
@@ -136,6 +143,12 @@ const YEAR1=[
  "ref": "Genesis 2",
  "tag": "Old Testament",
  "api": "genesis+2",
+ "sum": [
+  "A closer look at day six: God forms the man from dust and breathes life into him.",
+  "God plants a garden in Eden, puts the man there to work it, and gives one command: don't eat from the tree of the knowledge of good and evil.",
+  "Seeing it's “not good for man to be alone,” God has him name the animals, then forms the woman from his side.",
+  "The chapter ends with the first marriage and the two becoming “one flesh.”"
+ ],
  "nug": [
   {
    "h": "The first thing called holy",
@@ -214,6 +227,11 @@ const YEAR1=[
   "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
   "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish."
  ],
+ "sum": [
+  "Contrasts two ways of life: the blessed person who avoids bad influence and delights in God's law, and the wicked who don't.",
+  "The blessed person is pictured as a tree planted by water, fruitful and unwithering.",
+  "The wicked are like chaff blown away, with no lasting stand in the judgment."
+ ],
  "nug": [
   {
    "h": "The front door of the book",
@@ -285,6 +303,12 @@ const YEAR1=[
  "ref": "Genesis 3",
  "tag": "Old Testament",
  "api": "genesis+3",
+ "sum": [
+  "The serpent tempts Eve by twisting God's word; she and Adam eat the forbidden fruit.",
+  "Their eyes are opened, they feel shame, and they hide from God.",
+  "God confronts them and pronounces real consequences, but also promises a future “seed” who will crush the serpent (3:15).",
+  "God clothes them with animal skins and sends them out of the garden."
+ ],
  "nug": [
   {
    "h": "The serpent starts with a question",
@@ -360,6 +384,11 @@ const YEAR1=[
  "ref": "Matthew 1",
  "tag": "New Testament",
  "api": "matthew+1",
+ "sum": [
+  "Traces Jesus' genealogy from Abraham through David to Joseph, including five women, several outsiders or linked to scandal.",
+  "Mary is found to be pregnant by the Holy Spirit before she and Joseph marry.",
+  "An angel reassures Joseph in a dream and tells him to name the child Jesus, “for he shall save his people from their sins.”"
+ ],
  "nug": [
   {
    "h": "Five women in a list of men",
@@ -440,6 +469,11 @@ const YEAR1=[
   "All sheep and oxen, yea, and the beasts of the field;",
   "The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.",
   "O LORD our Lord, how excellent is thy name in all the earth!"
+ ],
+ "sum": [
+  "David marvels that the Creator of the vast heavens is mindful of humanity at all.",
+  "Humans are described as made a little lower than the angels, crowned with glory and given dominion over creation.",
+  "The psalm opens and closes praising God's excellent name in all the earth."
  ],
  "nug": [
   {
@@ -553,6 +587,12 @@ const YEAR1=[
  "ref": "Genesis 4",
  "tag": "Old Testament",
  "api": "genesis+4",
+ "sum": [
+  "Cain and Abel each bring an offering; God accepts Abel's but not Cain's.",
+  "Cain, angry and warned that sin is “crouching at the door,” kills Abel.",
+  "God curses Cain to wander but marks him for protection.",
+  "Cain's line builds cities; Seth is born to Adam and Eve, and people begin “to call upon the name of the LORD.”"
+ ],
  "nug": [
   {
    "h": "Two offerings, one welcomed",
@@ -624,6 +664,11 @@ const YEAR1=[
  "ref": "Genesis 5",
  "tag": "Old Testament",
  "api": "genesis+5",
+ "sum": [
+  "A genealogy from Adam to Noah, each entry ending “and he died.”",
+  "Enoch is the exception: he “walked with God” and was taken without dying.",
+  "Noah is born, and his father Lamech hopes he will bring relief from the ground's curse."
+ ],
  "nug": [
   {
    "h": "A refrain that keeps interrupting",
@@ -695,6 +740,11 @@ const YEAR1=[
  "ref": "Psalm 2",
  "tag": "Psalms & Wisdom",
  "api": "psalms+2",
+ "sum": [
+  "Nations and rulers conspire against the LORD and his anointed king, but God laughs at their rebellion.",
+  "God declares the king his begotten Son and promises him the nations as an inheritance.",
+  "The psalm closes with a warning to submit to the Son and a blessing on those who trust him."
+ ],
  "nug": [
   {
    "h": "Quoted more than almost any other psalm",
@@ -766,6 +816,11 @@ const YEAR1=[
  "ref": "Genesis 6",
  "tag": "Old Testament",
  "api": "genesis+6",
+ "sum": [
+  "Human wickedness fills the earth; God grieves and decides to send a flood.",
+  "Noah alone “found grace” and is instructed to build a huge ark.",
+  "God gives detailed measurements and tells Noah to bring pairs of every animal, plus extra clean animals, to survive the coming judgment."
+ ],
  "nug": [
   {
    "h": "A God who grieves",
@@ -837,6 +892,11 @@ const YEAR1=[
  "ref": "Matthew 2",
  "tag": "New Testament",
  "api": "matthew+2",
+ "sum": [
+  "Wise men from the East follow a star to worship the infant Jesus, bringing gold, frankincense and myrrh.",
+  "Herod, threatened, secretly plots to kill the child and, once outwitted, massacres the infant boys of Bethlehem.",
+  "Warned in dreams, Joseph takes Mary and Jesus to Egypt, then later settles the family in Nazareth after Herod's death."
+ ],
  "nug": [
   {
    "h": "Wise men from the East",
@@ -908,6 +968,11 @@ const YEAR1=[
  "ref": "Psalm 3",
  "tag": "Psalms & Wisdom",
  "api": "psalms+3",
+ "sum": [
+  "Written while David fled his own son Absalom's rebellion, surrounded by enemies.",
+  "Despite the danger, David says the LORD is his shield and he can lie down and sleep in peace.",
+  "He ends confident that “salvation belongeth unto the LORD.”"
+ ],
  "nug": [
   {
    "h": "Written while running for his life",
@@ -1020,6 +1085,11 @@ const YEAR1=[
  "ref": "Genesis 7",
  "tag": "Old Testament",
  "api": "genesis+7",
+ "sum": [
+  "God tells Noah the flood will come in seven days and to enter the ark with his family and the animals.",
+  "The flood waters rise for forty days, covering even the highest mountains.",
+  "Every living thing outside the ark perishes; only Noah's family and the animals with him survive."
+ ],
  "nug": [
   {
    "h": "Seven days' warning, then seven pairs",
@@ -1091,6 +1161,11 @@ const YEAR1=[
  "ref": "Genesis 8",
  "tag": "Old Testament",
  "api": "genesis+8",
+ "sum": [
+  "The flood waters recede over months; Noah sends out a raven, then a dove three times, until the dove doesn't return.",
+  "Noah, his family and the animals leave the ark; Noah builds an altar and sacrifices to God.",
+  "God promises never again to destroy the earth by flood and reaffirms the “be fruitful and multiply” blessing."
+ ],
  "nug": [
   {
    "h": "“God remembered Noah”",
@@ -1162,6 +1237,11 @@ const YEAR1=[
  "ref": "Psalm 4",
  "tag": "Psalms & Wisdom",
  "api": "psalms+4",
+ "sum": [
+  "An evening prayer trusting God to hear and answer.",
+  "David tells his critics to be still and trust God rather than chase empty things.",
+  "He ends able to lie down and sleep in peace because God alone keeps him safe."
+ ],
  "nug": [
   {
    "h": "An evening companion to Psalm 3's morning",
@@ -1233,6 +1313,11 @@ const YEAR1=[
  "ref": "Genesis 9",
  "tag": "Old Testament",
  "api": "genesis+9",
+ "sum": [
+  "God establishes a covenant with Noah, promising never again to flood the whole earth, with the rainbow as the sign.",
+  "Humans are now permitted to eat meat, but not blood, and murder is to be punished because people are made in God's image.",
+  "Noah gets drunk; his son Ham dishonours him, leading Noah to bless Shem and Japheth and pronounce a curse involving Canaan."
+ ],
  "nug": [
   {
    "h": "The first covenant sign",
@@ -1304,6 +1389,11 @@ const YEAR1=[
  "ref": "Matthew 3",
  "tag": "New Testament",
  "api": "matthew+3",
+ "sum": [
+  "John the Baptist preaches repentance in the wilderness, calling people — including religious leaders — to genuine change, not just heritage.",
+  "Jesus comes to be baptized by John, who initially objects.",
+  "As Jesus comes up from the water, the Spirit descends like a dove and the Father's voice declares him his beloved Son."
+ ],
  "nug": [
   {
    "h": "A prophet after four centuries of silence",
@@ -1375,6 +1465,11 @@ const YEAR1=[
  "ref": "Psalm 5",
  "tag": "Psalms & Wisdom",
  "api": "psalms+5",
+ "sum": [
+  "A morning prayer asking God to hear him and to make his way straight.",
+  "David contrasts God's hatred of evil and deceit with his own trust and desire to worship rightly.",
+  "He asks blessing and protection for all who take refuge in God."
+ ],
  "nug": [
   {
    "h": "A morning psalm with a battle plan",
@@ -1487,6 +1582,11 @@ const YEAR1=[
  "ref": "Genesis 10",
  "tag": "Old Testament",
  "api": "genesis+10",
+ "sum": [
+  "The “Table of Nations” lists the descendants of Noah's three sons — Japheth, Ham and Shem — spreading into seventy nations.",
+  "Nimrod, a mighty ruler descended from Ham, builds an early empire that includes Babel.",
+  "The chapter shows humanity's origin as one family, later dividing into many nations."
+ ],
  "nug": [
   {
    "h": "A map of the ancient world",
@@ -1558,6 +1658,11 @@ const YEAR1=[
  "ref": "Genesis 11",
  "tag": "Old Testament",
  "api": "genesis+11",
+ "sum": [
+  "United by one language, people build a city and a tower at Babel to make a name for themselves rather than fill the earth as commanded.",
+  "God confuses their language so they can't understand each other, and scatters them across the earth.",
+  "The chapter ends with a genealogy tracing from Shem down to Abram's father Terah."
+ ],
  "nug": [
   {
    "h": "One language, one ambition",
@@ -1629,6 +1734,11 @@ const YEAR1=[
  "ref": "Psalm 15",
  "tag": "Psalms & Wisdom",
  "api": "psalms+15",
+ "sum": [
+  "Asks who may dwell in God's presence, then answers with a list of character traits rather than rituals.",
+  "The qualifying person walks with integrity, speaks truth, doesn't slander, and keeps costly promises.",
+  "Such a person, the psalm says, “shall never be moved.”"
+ ],
  "nug": [
   {
    "h": "A question with an eleven-part answer",
@@ -1700,6 +1810,11 @@ const YEAR1=[
  "ref": "Genesis 12",
  "tag": "Old Testament",
  "api": "genesis+12",
+ "sum": [
+  "God calls Abram to leave his homeland for a land he will show him, promising to make him a great nation and bless all families of the earth through him.",
+  "Abram obeys, travels to Canaan, and builds altars to worship God along the way.",
+  "A famine sends him to Egypt, where fear leads him to pass Sarai off as his sister, nearly costing him everything until God intervenes."
+ ],
  "nug": [
   {
    "h": "A promise with seven parts",
@@ -1771,6 +1886,11 @@ const YEAR1=[
  "ref": "Matthew 4",
  "tag": "New Testament",
  "api": "matthew+4",
+ "sum": [
+  "Jesus is led by the Spirit into the wilderness, fasting forty days, and is tempted three times by the devil.",
+  "Each time Jesus answers with Scripture rather than giving in.",
+  "He then begins his public ministry in Galilee and calls his first disciples — Peter, Andrew, James and John — who leave their nets to follow him."
+ ],
  "nug": [
   {
    "h": "Forty days echoing forty years",
@@ -1842,6 +1962,11 @@ const YEAR1=[
  "ref": "Psalm 16",
  "tag": "Psalms & Wisdom",
  "api": "psalms+16",
+ "sum": [
+  "David expresses confidence and contentment in God as his refuge and inheritance.",
+  "He rejects other gods and describes his “lines” as fallen in pleasant places.",
+  "The psalm ends with hope that God won't abandon him to death, a passage the New Testament applies to Jesus' resurrection."
+ ],
  "nug": [
   {
    "h": "A psalm Peter preaches from",
@@ -1954,6 +2079,11 @@ const YEAR1=[
  "ref": "Genesis 13",
  "tag": "Old Testament",
  "api": "genesis+13",
+ "sum": [
+  "Abram and his nephew Lot, both wealthy in livestock, find the land can't support them together and decide to separate.",
+  "Abram lets Lot choose first; Lot picks the fertile Jordan plain near Sodom, a city already noted as wicked.",
+  "God reaffirms his promise to Abram, telling him to look in every direction because all the land will belong to his descendants."
+ ],
  "nug": [
   {
    "h": "Wealthy enough to need to split up",
@@ -2025,6 +2155,11 @@ const YEAR1=[
  "ref": "Genesis 14",
  "tag": "Old Testament",
  "api": "genesis+14",
+ "sum": [
+  "Four kings defeat five others, including Sodom, and capture Lot along with the city's goods.",
+  "Abram leads a rescue mission with his own men and recovers Lot, the people and the plunder.",
+  "On his return, Abram is blessed by Melchizedek, king of Salem and priest of God Most High, and gives him a tenth of everything."
+ ],
  "nug": [
   {
    "h": "Abram the rescuer, not just the patriarch",
@@ -2096,6 +2231,11 @@ const YEAR1=[
  "ref": "Psalm 19",
  "tag": "Psalms & Wisdom",
  "api": "psalms+19",
+ "sum": [
+  "The heavens declare God's glory wordlessly to the whole earth.",
+  "God's law is then praised as perfect, sure, right and more desirable than gold or honey.",
+  "David ends asking that his words and thoughts be pleasing to God."
+ ],
  "nug": [
   {
    "h": "Two very different witnesses in one psalm",
@@ -2167,6 +2307,11 @@ const YEAR1=[
  "ref": "Genesis 15",
  "tag": "Old Testament",
  "api": "genesis+15",
+ "sum": [
+  "God reassures childless Abram that his own descendant will be his heir, and that his offspring will be as numerous as the stars.",
+  "Abram believes God, and it's counted to him as righteousness.",
+  "In a covenant ceremony, God alone passes between the sacrificed animals, making an unconditional promise, including a prophecy of 400 years of slavery before the exodus."
+ ],
  "nug": [
   {
    "h": "The verse Paul builds his gospel on",
@@ -2238,6 +2383,11 @@ const YEAR1=[
  "ref": "Matthew 5",
  "tag": "New Testament",
  "api": "matthew+5",
+ "sum": [
+  "Jesus opens the Sermon on the Mount with the Beatitudes, blessing the poor in spirit, the mourning, the meek and others.",
+  "He calls his followers salt and light, then says he came to fulfil, not abolish, the law.",
+  "He repeatedly deepens the law's demands (“you have heard… but I say”), addressing anger, lust, oaths, retaliation and love for enemies."
+ ],
  "nug": [
   {
    "h": "Blessed before instructed",
@@ -2309,6 +2459,11 @@ const YEAR1=[
  "ref": "Psalm 23",
  "tag": "Psalms & Wisdom",
  "api": "psalms+23",
+ "sum": [
+  "David pictures the LORD as a shepherd who provides rest, guidance and provision.",
+  "Even walking through the valley of the shadow of death, he fears no evil because God is with him.",
+  "The psalm ends with a table prepared in the presence of enemies and confidence that goodness and mercy will follow him all his days."
+ ],
  "nug": [
   {
    "h": "Possibly the most memorized chapter in the Bible",
@@ -2421,6 +2576,11 @@ const YEAR1=[
  "ref": "Genesis 16",
  "tag": "Old Testament",
  "api": "genesis+16",
+ "sum": [
+  "Sarai, still childless, gives her servant Hagar to Abram to bear a child by ancient custom.",
+  "Hagar conceives and begins to despise Sarai, who then treats her harshly, causing Hagar to flee.",
+  "The angel of the LORD finds Hagar in the wilderness, promises to multiply her son's descendants, and she names God “the God who sees me” before returning to bear Ishmael."
+ ],
  "nug": [
   {
    "h": "A plan that made sense culturally",
@@ -2492,6 +2652,11 @@ const YEAR1=[
  "ref": "Genesis 17",
  "tag": "Old Testament",
  "api": "genesis+17",
+ "sum": [
+  "God establishes his covenant with Abram, renaming him Abraham (“father of many”) and Sarai Sarah, and institutes circumcision as its sign.",
+  "God promises Sarah will bear a son, Isaac, within a year, despite their old age — Abraham laughs at the news.",
+  "God also blesses Ishmael with a nation of his own, but confirms the covenant will continue through Isaac."
+ ],
  "nug": [
   {
    "h": "New names for a new stage",
@@ -2563,6 +2728,11 @@ const YEAR1=[
  "ref": "Psalm 24",
  "tag": "Psalms & Wisdom",
  "api": "psalms+24",
+ "sum": [
+  "Declares the whole earth belongs to the LORD, its maker.",
+  "Asks who may ascend God's hill, answering: those with clean hands and a pure heart.",
+  "Ends with a call for the gates to lift up so the King of glory, the LORD of hosts, may come in."
+ ],
  "nug": [
   {
    "h": "A psalm possibly written for a procession",
@@ -2634,6 +2804,11 @@ const YEAR1=[
  "ref": "Genesis 18",
  "tag": "Old Testament",
  "api": "genesis+18",
+ "sum": [
+  "Three visitors, one of them the LORD, come to Abraham; he shows them lavish hospitality.",
+  "They promise Sarah will have a son within a year, and she laughs in disbelief.",
+  "The LORD reveals plans to judge Sodom and Gomorrah; Abraham intercedes, bargaining God down to sparing the city for the sake of just ten righteous people."
+ ],
  "nug": [
   {
    "h": "Three visitors, treated with lavish hospitality",
@@ -2705,6 +2880,11 @@ const YEAR1=[
  "ref": "Matthew 6",
  "tag": "New Testament",
  "api": "matthew+6",
+ "sum": [
+  "Jesus teaches that giving, prayer and fasting should be done for God, not for public show, and gives the Lord's Prayer as a model.",
+  "He tells his followers to store up treasure in heaven, not on earth, “for where your treasure is, there will your heart be also.”",
+  "He closes by telling them not to be anxious about food or clothing, but to seek God's kingdom first."
+ ],
  "nug": [
   {
    "h": "A prayer meant to be a pattern, not a script",
@@ -2776,6 +2956,11 @@ const YEAR1=[
  "ref": "Psalm 25",
  "tag": "Psalms & Wisdom",
  "api": "psalms+25",
+ "sum": [
+  "An alphabetic prayer for guidance, protection and forgiveness.",
+  "David asks God not to remember the sins of his youth but to teach him God's paths according to mercy.",
+  "He ends asking for deliverance from his troubles and enemies."
+ ],
  "nug": [
   {
    "h": "An acrostic prayer",
@@ -2888,6 +3073,11 @@ const YEAR1=[
  "ref": "Genesis 19",
  "tag": "Old Testament",
  "api": "genesis+19",
+ "sum": [
+  "Two angels visit Lot in Sodom; the men of the city try to assault them, showing the depth of the city's wickedness.",
+  "The angels rescue Lot, his wife and daughters, urging them to flee without looking back before the LORD destroys Sodom and Gomorrah.",
+  "Lot's wife looks back and becomes a pillar of salt; Lot's daughters later act shamefully to preserve their family line."
+ ],
  "nug": [
   {
    "h": "Lot still shows hospitality",
@@ -2959,6 +3149,11 @@ const YEAR1=[
  "ref": "Genesis 20",
  "tag": "Old Testament",
  "api": "genesis+20",
+ "sum": [
+  "Abraham again tells a foreign king, Abimelech, that Sarah is his sister, and Abimelech takes her, not knowing she's married.",
+  "God warns Abimelech in a dream before anything happens, and he confronts Abraham, who explains his fear.",
+  "Abimelech restores Sarah and gives Abraham gifts; Abraham prays for Abimelech's household to be healed."
+ ],
  "nug": [
   {
    "h": "The same lie, a second time",
@@ -3030,6 +3225,11 @@ const YEAR1=[
  "ref": "Psalm 27",
  "tag": "Psalms & Wisdom",
  "api": "psalms+27",
+ "sum": [
+  "David expresses bold confidence that the LORD is his light and salvation, so he need not fear enemies or war.",
+  "His one desire is to dwell in God's house and gaze on his beauty.",
+  "The psalm shifts to urgent pleading for help, ending with a call to wait on the LORD and be courageous."
+ ],
  "nug": [
   {
    "h": "Confidence and desperation in the same psalm",
@@ -3101,6 +3301,11 @@ const YEAR1=[
  "ref": "Genesis 21",
  "tag": "Old Testament",
  "api": "genesis+21",
+ "sum": [
+  "Sarah finally gives birth to Isaac, as God had promised, and there is great rejoicing.",
+  "Tension with Hagar and Ishmael leads Sarah to insist they be sent away; God reassures Abraham and cares for Hagar and Ishmael in the wilderness.",
+  "Abraham makes a peace covenant with Abimelech at Beersheba over a dispute about a well."
+ ],
  "nug": [
   {
    "h": "Laughter, twice over",
@@ -3172,6 +3377,11 @@ const YEAR1=[
  "ref": "Matthew 7",
  "tag": "New Testament",
  "api": "matthew+7",
+ "sum": [
+  "Jesus warns against harsh, hypocritical judgment of others while ignoring your own faults.",
+  "He teaches persistence in prayer (ask, seek, knock) and the golden rule.",
+  "He closes with warnings: the narrow gate versus the broad road, false prophets known by their fruit, and the wise builder on rock versus the foolish builder on sand."
+ ],
  "nug": [
   {
    "h": "A measure that comes back to you",
@@ -3243,6 +3453,11 @@ const YEAR1=[
  "ref": "Psalm 32",
  "tag": "Psalms & Wisdom",
  "api": "psalms+32",
+ "sum": [
+  "Opens declaring the blessing of forgiven sin, describing the physical toll of hiding guilt.",
+  "David describes confessing his sin and immediately being forgiven.",
+  "He counsels against being stubborn like a horse or mule, and ends with rejoicing for the upright in heart."
+ ],
  "nug": [
   {
    "h": "Possibly written after David's worst failure",
@@ -3355,6 +3570,11 @@ const YEAR1=[
  "ref": "Genesis 22",
  "tag": "Old Testament",
  "api": "genesis+22",
+ "sum": [
+  "God tests Abraham by asking him to sacrifice his son Isaac on Mount Moriah.",
+  "Abraham obeys, trusting God can even raise Isaac from the dead, but at the last moment an angel stops him and a ram is provided instead.",
+  "God reaffirms his covenant promise because of Abraham's obedience, and Abraham names the place “the LORD will provide.”"
+ ],
  "nug": [
   {
    "h": "A test, clearly labelled as one",
@@ -3426,6 +3646,11 @@ const YEAR1=[
  "ref": "Genesis 23",
  "tag": "Old Testament",
  "api": "genesis+23",
+ "sum": [
+  "Sarah dies at 127, and Abraham mourns her.",
+  "He negotiates carefully with Ephron the Hittite to buy the cave of Machpelah as a burial site, insisting on paying full price.",
+  "This becomes the only land Abraham ever formally owns in Canaan, and Sarah is buried there."
+ ],
  "nug": [
   {
    "h": "The only property Abraham ever owned",
@@ -3497,6 +3722,11 @@ const YEAR1=[
  "ref": "Psalm 34",
  "tag": "Psalms & Wisdom",
  "api": "psalms+34",
+ "sum": [
+  "Written after David feigned madness to escape a dangerous king, this psalm calls all to bless the LORD at all times.",
+  "David invites readers to “taste and see that the LORD is good,” describing God's rescue of the afflicted and brokenhearted.",
+  "The psalm promises the LORD's attentive care and eventual justice for the righteous."
+ ],
  "nug": [
   {
    "h": "Written while pretending to be insane",
@@ -3568,6 +3798,11 @@ const YEAR1=[
  "ref": "Genesis 24",
  "tag": "Old Testament",
  "api": "genesis+24",
+ "sum": [
+  "Abraham sends his servant to find a wife for Isaac from his own relatives rather than the local Canaanites.",
+  "The servant prays for a specific sign, and Rebekah fulfils it exactly by offering to water his camels.",
+  "Rebekah agrees to go, meets Isaac, and becomes his wife, comforting him after his mother's death."
+ ],
  "nug": [
   {
    "h": "A servant's careful, specific prayer",
@@ -3639,6 +3874,11 @@ const YEAR1=[
  "ref": "Matthew 8",
  "tag": "New Testament",
  "api": "matthew+8",
+ "sum": [
+  "Jesus heals a leper by touching him, then heals a Roman centurion's servant from a distance, praising the centurion's faith as greater than any he'd found in Israel.",
+  "He heals Peter's mother-in-law and many others, and calms a violent storm with a word.",
+  "He also casts demons out of two men into a herd of pigs, and the townspeople ask him to leave."
+ ],
  "nug": [
   {
    "h": "Touching the untouchable",
@@ -3710,6 +3950,11 @@ const YEAR1=[
  "ref": "Psalm 37",
  "tag": "Psalms & Wisdom",
  "api": "psalms+37",
+ "sum": [
+  "A long wisdom psalm instructing readers not to fret over the wicked's temporary prosperity.",
+  "Repeated counsel: trust, delight in, and commit your way to the LORD, and he will act.",
+  "Promises the meek will inherit the earth and that God never forsakes the righteous."
+ ],
  "nug": [
   {
    "h": "An acrostic about patience, fittingly long",
@@ -3822,6 +4067,11 @@ const YEAR1=[
  "ref": "Genesis 25",
  "tag": "Old Testament",
  "api": "genesis+25",
+ "sum": [
+  "Abraham dies and is buried by both Isaac and Ishmael together; genealogies of Ishmael's and Isaac's lines follow.",
+  "Rebekah, pregnant with twins who struggle in the womb, is told the older will serve the younger.",
+  "Esau, the firstborn, carelessly sells his birthright to Jacob for a bowl of stew."
+ ],
  "nug": [
   {
    "h": "A patriarch's death handled without drama",
@@ -3893,6 +4143,11 @@ const YEAR1=[
  "ref": "Genesis 26",
  "tag": "Old Testament",
  "api": "genesis+26",
+ "sum": [
+  "Isaac repeats his father's mistake, telling a foreign king Rebekah is his sister out of fear.",
+  "He grows wealthy in the land, and the Philistines fill in his father's old wells; Isaac re-digs them and eventually finds peace at a well he names Rehoboth.",
+  "God appears to Isaac, renewing the covenant promise given to Abraham."
+ ],
  "nug": [
   {
    "h": "The same failure, a third generation",
@@ -3964,6 +4219,11 @@ const YEAR1=[
  "ref": "Psalm 42",
  "tag": "Psalms & Wisdom",
  "api": "psalms+42",
+ "sum": [
+  "The psalmist longs for God the way a deer pants for water, remembering times of joyful worship now far away.",
+  "He repeatedly questions and then encourages his own soul: “Why art thou cast down?… hope thou in God.”",
+  "The psalm ends with continued honest struggle held together with renewed hope."
+ ],
  "nug": [
   {
    "h": "An animal image for spiritual thirst",
@@ -4035,6 +4295,11 @@ const YEAR1=[
  "ref": "Genesis 27",
  "tag": "Old Testament",
  "api": "genesis+27",
+ "sum": [
+  "With his mother Rebekah's help, Jacob deceives his blind father Isaac into giving him the blessing meant for the firstborn, Esau.",
+  "Esau is devastated and vows to kill Jacob once their father dies.",
+  "Rebekah sends Jacob away to her brother Laban's household to escape Esau's anger and to find a wife."
+ ],
  "nug": [
   {
    "h": "A blessing secured by deception",
@@ -4106,6 +4371,11 @@ const YEAR1=[
  "ref": "Matthew 9",
  "tag": "New Testament",
  "api": "matthew+9",
+ "sum": [
+  "Jesus forgives and heals a paralyzed man, provoking accusations of blasphemy from religious leaders.",
+  "He calls Matthew the tax collector to follow him and eats with “sinners,” explaining he came for the spiritually sick, not the healthy.",
+  "He heals a woman with a chronic bleeding disorder, raises a synagogue leader's daughter from death, and heals two blind men."
+ ],
  "nug": [
   {
    "h": "Forgiveness before healing",
@@ -4177,6 +4447,11 @@ const YEAR1=[
  "ref": "Psalm 46",
  "tag": "Psalms & Wisdom",
  "api": "psalms+46",
+ "sum": [
+  "Declares God as a refuge and strength, “a very present help in trouble,” even if the earth itself gives way.",
+  "Pictures a river bringing gladness to God's city while nations rage outside.",
+  "Famously commands, “Be still, and know that I am God,” amid real upheaval."
+ ],
  "nug": [
   {
    "h": "The psalm behind a famous hymn",
@@ -4289,6 +4564,11 @@ const YEAR1=[
  "ref": "Genesis 28",
  "tag": "Old Testament",
  "api": "genesis+28",
+ "sum": [
+  "Fleeing Esau, Jacob stops for the night at Bethel and dreams of a ladder reaching to heaven with angels ascending and descending.",
+  "God appears and renews the covenant promise made to Abraham and Isaac, promising to be with Jacob wherever he goes.",
+  "Jacob wakes in awe, sets up a memorial stone, and vows that if God brings him back safely, the LORD will be his God."
+ ],
  "nug": [
   {
    "h": "A fugitive's dream at a random stopping place",
@@ -4360,6 +4640,11 @@ const YEAR1=[
  "ref": "Genesis 29",
  "tag": "Old Testament",
  "api": "genesis+29",
+ "sum": [
+  "Jacob arrives in Paddan-aram and meets Rachel at a well; he works seven years for her hand in marriage.",
+  "On the wedding night, Laban deceives Jacob by substituting Rachel's older sister Leah; Jacob works another seven years for Rachel too.",
+  "Leah, unloved by Jacob, bears four sons, naming them with raw honesty about her longing for love."
+ ],
  "nug": [
   {
    "h": "The deceiver, deceived",
@@ -4431,6 +4716,11 @@ const YEAR1=[
  "ref": "Psalm 51",
  "tag": "Psalms & Wisdom",
  "api": "psalms+51",
+ "sum": [
+  "David's prayer of repentance after his sin with Bathsheba, pleading for mercy and cleansing.",
+  "He asks for a clean heart and a right spirit, acknowledging his sin is ultimately against God.",
+  "He ends recognizing that a broken and contrite heart, not empty ritual, is what God truly wants."
+ ],
  "nug": [
   {
    "h": "Written after the worst moment of David's life",
@@ -4502,6 +4792,11 @@ const YEAR1=[
  "ref": "Genesis 30",
  "tag": "Old Testament",
  "api": "genesis+30",
+ "sum": [
+  "Rachel and Leah compete for children and Jacob's affection, using their servants Bilhah and Zilpah to bear more sons.",
+  "Eventually Rachel herself bears Joseph.",
+  "Jacob makes a deal with Laban over speckled and spotted livestock, and through careful breeding his own flocks grow greatly, which he later credits to God's provision."
+ ],
  "nug": [
   {
    "h": "A household under real strain",
@@ -4573,6 +4868,11 @@ const YEAR1=[
  "ref": "Matthew 10",
  "tag": "New Testament",
  "api": "matthew+10",
+ "sum": [
+  "Jesus commissions his twelve apostles, naming them and sending them out to preach and heal, instructing them to travel light and depend on hospitality.",
+  "He warns them of coming persecution, urging fearless witness because even the smallest details of their lives are known to God.",
+  "He says his mission will bring division as well as peace, and that following him may cost even family relationships."
+ ],
  "nug": [
   {
    "h": "Twelve names, carefully listed",
@@ -4644,6 +4944,11 @@ const YEAR1=[
  "ref": "Psalm 62",
  "tag": "Psalms & Wisdom",
  "api": "psalms+62",
+ "sum": [
+  "David repeatedly affirms that his soul waits only on God, his rock and salvation.",
+  "He warns against trusting in oppression, robbery or increasing riches.",
+  "He invites all people to trust God at all times and pour out their hearts to him, since “power belongeth unto God.”"
+ ],
  "nug": [
   {
    "h": "“Only” appears again and again",
@@ -4756,6 +5061,11 @@ const YEAR1=[
  "ref": "Genesis 31",
  "tag": "Old Testament",
  "api": "genesis+31",
+ "sum": [
+  "After twenty years, God tells Jacob to return home; he leaves secretly with his family and flocks without telling Laban.",
+  "Rachel steals her father's household idols; Laban pursues and confronts Jacob, but God warns him not to harm him.",
+  "Jacob and Laban make a covenant of peace, marked by a pile of stones, and go their separate ways."
+ ],
  "nug": [
   {
    "h": "A departure with no goodbye",
@@ -4827,6 +5137,11 @@ const YEAR1=[
  "ref": "Genesis 32",
  "tag": "Old Testament",
  "api": "genesis+32",
+ "sum": [
+  "Fearing his reunion with Esau, Jacob sends gifts ahead, prays desperately, and prepares defensively.",
+  "That night, a mysterious man wrestles with Jacob until daybreak; Jacob won't let go without a blessing.",
+  "Jacob is renamed Israel (“struggles with God”) and walks away blessed but limping."
+ ],
  "nug": [
   {
    "h": "Fear before the reunion",
@@ -4898,6 +5213,11 @@ const YEAR1=[
  "ref": "Psalm 63",
  "tag": "Psalms & Wisdom",
  "api": "psalms+63",
+ "sum": [
+  "Written by David in the wilderness, expressing deep thirst for God like a dry, thirsty land longs for water.",
+  "He remembers God even during sleepless nights, praising him as better than life itself.",
+  "He ends confident that his enemies will be defeated while he rejoices in God."
+ ],
  "nug": [
   {
    "h": "Written in the wilderness, not the sanctuary",
@@ -4969,6 +5289,11 @@ const YEAR1=[
  "ref": "Genesis 33",
  "tag": "Old Testament",
  "api": "genesis+33",
+ "sum": [
+  "Jacob meets Esau, fearing the worst, but Esau runs to embrace and forgive him; the brothers reconcile with tears.",
+  "Jacob offers gifts, which Esau initially declines then accepts.",
+  "Jacob settles near Shechem, buys land, and builds an altar to God."
+ ],
  "nug": [
   {
    "h": "A run and an embrace, not a fight",
@@ -5040,6 +5365,11 @@ const YEAR1=[
  "ref": "Matthew 11",
  "tag": "New Testament",
  "api": "matthew+11",
+ "sum": [
+  "Imprisoned John the Baptist sends disciples to ask Jesus if he is truly the Messiah; Jesus points to his miracles as the answer, quoting Isaiah.",
+  "Jesus praises John highly, then pronounces woes on towns that saw his miracles yet didn't repent.",
+  "He extends a tender invitation to the weary and burdened to find rest by taking his easy yoke."
+ ],
  "nug": [
   {
    "h": "A doubting question from the greatest of the prophets",
@@ -5111,6 +5441,11 @@ const YEAR1=[
  "ref": "Psalm 67",
  "tag": "Psalms & Wisdom",
  "api": "psalms+67",
+ "sum": [
+  "A short psalm asking God to bless his people so his way and salvation would be known among all nations.",
+  "Calls for all peoples and nations to praise God together.",
+  "Ends confident that God's blessing will lead the whole earth to fear him."
+ ],
  "nug": [
   {
    "h": "A short psalm with a big reach",
@@ -5223,6 +5558,11 @@ const YEAR1=[
  "ref": "Genesis 34",
  "tag": "Old Testament",
  "api": "genesis+34",
+ "sum": [
+  "Jacob's daughter Dinah is violated by Shechem, who then wants to marry her; Jacob's sons agree only if the men of the city are circumcised.",
+  "While the men are recovering, Simeon and Levi massacre the city in revenge.",
+  "Jacob rebukes his sons for endangering the family, fearing retaliation from surrounding peoples."
+ ],
  "nug": [
   {
    "h": "A painful chapter with no easy hero",
@@ -5294,6 +5634,11 @@ const YEAR1=[
  "ref": "Genesis 35",
  "tag": "Old Testament",
  "api": "genesis+35",
+ "sum": [
+  "God tells Jacob to return to Bethel; Jacob has his household bury their foreign idols first.",
+  "God reaffirms the covenant and Jacob's new name, Israel.",
+  "Rachel dies giving birth to Benjamin; soon after, Isaac also dies and is buried by Jacob and Esau together."
+ ],
  "nug": [
   {
    "h": "A command to go back to where it began",
@@ -5365,6 +5710,11 @@ const YEAR1=[
  "ref": "Psalm 71",
  "tag": "Psalms & Wisdom",
  "api": "psalms+71",
+ "sum": [
+  "A prayer from someone aging, asking God not to forsake him now that his strength is failing.",
+  "He recalls God's faithfulness from his youth and even before birth.",
+  "He resolves to keep declaring God's righteousness to the next generation despite his age."
+ ],
  "nug": [
   {
    "h": "A prayer from someone growing old",
@@ -5436,6 +5786,11 @@ const YEAR1=[
  "ref": "Genesis 36",
  "tag": "Old Testament",
  "api": "genesis+36",
+ "sum": [
+  "A detailed genealogy of Esau's descendants, who become the nation of Edom.",
+  "Lists their chiefs, territories and kings, including some who reigned before Israel had kings.",
+  "Shows that even the “other” branch of Abraham's family experienced real blessing and prosperity."
+ ],
  "nug": [
   {
    "h": "A whole chapter for the brother who didn't get the promise",
@@ -5507,6 +5862,11 @@ const YEAR1=[
  "ref": "Matthew 12",
  "tag": "New Testament",
  "api": "matthew+12",
+ "sum": [
+  "Jesus defends his disciples picking grain on the Sabbath and heals a man's withered hand, provoking a plot against his life.",
+  "He is described as fulfilling Isaiah's gentle Suffering Servant, and warns that blasphemy against the Holy Spirit won't be forgiven.",
+  "He says those who do the Father's will are his true family."
+ ],
  "nug": [
   {
    "h": "A Sabbath argument settled with Scripture and mercy",
@@ -5578,6 +5938,11 @@ const YEAR1=[
  "ref": "Psalm 73",
  "tag": "Psalms & Wisdom",
  "api": "psalms+73",
+ "sum": [
+  "Asaph admits he nearly lost his faith envying the prosperity of the wicked.",
+  "Everything changes when he enters God's sanctuary and understands their ultimate end.",
+  "He concludes that God, not earthly gain, is truly all he desires."
+ ],
  "nug": [
   {
    "h": "A near-fall, honestly admitted",
@@ -5690,6 +6055,11 @@ const YEAR1=[
  "ref": "Genesis 37",
  "tag": "Old Testament",
  "api": "genesis+37",
+ "sum": [
+  "Jacob's favouritism toward Joseph, shown through a special coat, and Joseph's dreams of ruling over his family fuel his brothers' hatred.",
+  "The brothers plot against Joseph; Reuben tries to save him secretly, but the others sell him to traders instead.",
+  "Joseph is taken to Egypt and sold to Potiphar, while his father Jacob is deceived into thinking he's dead."
+ ],
  "nug": [
   {
    "h": "A coat that marked favouritism",
@@ -5761,6 +6131,11 @@ const YEAR1=[
  "ref": "Genesis 38",
  "tag": "Old Testament",
  "api": "genesis+38",
+ "sum": [
+  "Judah's sons Er and Onan both die for their wickedness, leaving his daughter-in-law Tamar without the son she was owed.",
+  "Tamar disguises herself and tricks Judah into fathering her children himself.",
+  "When exposed, Judah admits “she hath been more righteous than I,” and Tamar bears twins, including an ancestor of King David."
+ ],
  "nug": [
   {
    "h": "A chapter that interrupts Joseph's story on purpose",
@@ -5832,6 +6207,11 @@ const YEAR1=[
  "ref": "Psalm 84",
  "tag": "Psalms & Wisdom",
  "api": "psalms+84",
+ "sum": [
+  "Expresses deep longing for God's presence, comparing it to how even sparrows find a home near his altar.",
+  "Declares one day in God's courts better than a thousand elsewhere.",
+  "Ends praising God as a sun and shield who withholds no good thing from the upright."
+ ],
  "nug": [
   {
    "h": "Longing that starts with the body",
@@ -5903,6 +6283,11 @@ const YEAR1=[
  "ref": "Genesis 39",
  "tag": "Old Testament",
  "api": "genesis+39",
+ "sum": [
+  "Joseph prospers in Potiphar's household because “the LORD was with him,” rising to oversee everything.",
+  "Potiphar's wife repeatedly tries to seduce him; when he refuses and flees, she falsely accuses him of assault.",
+  "Joseph is imprisoned, but even there God's presence with him leads the jailer to put him in charge of the other prisoners."
+ ],
  "nug": [
   {
    "h": "A refrain repeated at both ends of a hard story",
@@ -5974,6 +6359,11 @@ const YEAR1=[
  "ref": "Matthew 13",
  "tag": "New Testament",
  "api": "matthew+13",
+ "sum": [
+  "Jesus teaches a series of parables about the kingdom of heaven, starting with the sower and different soils.",
+  "He explains why he teaches in parables and tells of the wheat and tares, mustard seed, leaven, hidden treasure, pearl and dragnet.",
+  "He is rejected in his own hometown, where people's familiarity with him limits their faith."
+ ],
  "nug": [
   {
    "h": "A whole chapter built from parables",
@@ -6045,6 +6435,11 @@ const YEAR1=[
  "ref": "Psalm 86",
  "tag": "Psalms & Wisdom",
  "api": "psalms+86",
+ "sum": [
+  "David, though a king, describes himself as poor and needy, calling on God's readiness to forgive and abundant mercy.",
+  "He asks God to unite his heart to fear God's name and to teach him God's ways.",
+  "He ends asking for a sign of God's favour against his enemies."
+ ],
  "nug": [
   {
    "h": "A rare title for someone not yet a king",
@@ -6157,6 +6552,11 @@ const YEAR1=[
  "ref": "Genesis 40",
  "tag": "Old Testament",
  "api": "genesis+40",
+ "sum": [
+  "In prison, Joseph accurately interprets the dreams of Pharaoh's imprisoned butler and baker.",
+  "The butler is restored to his position exactly as Joseph predicted; the baker is executed.",
+  "Joseph asks the butler to remember him to Pharaoh, but the butler forgets him for two more years."
+ ],
  "nug": [
   {
    "h": "Two dreams, two very different fates",
@@ -6228,6 +6628,11 @@ const YEAR1=[
  "ref": "Genesis 41",
  "tag": "Old Testament",
  "api": "genesis+41",
+ "sum": [
+  "Pharaoh has two troubling dreams that none of his wise men can interpret; the butler finally remembers Joseph.",
+  "Joseph interprets the dreams as seven years of plenty followed by seven years of famine, and proposes a plan to store grain.",
+  "Pharaoh elevates Joseph to rule over all Egypt, and Joseph marries and has two sons, Manasseh and Ephraim."
+ ],
  "nug": [
   {
    "h": "From prison to second-in-command in one day",
@@ -6299,6 +6704,11 @@ const YEAR1=[
  "ref": "Psalm 90",
  "tag": "Psalms & Wisdom",
  "api": "psalms+90",
+ "sum": [
+  "Moses' prayer reflecting on God's eternal nature compared to the brevity and frailty of human life.",
+  "He notes that human years pass quickly, often marked by labour and sorrow because of sin.",
+  "He prays for wisdom to number our days rightly, and for God's favour to be upon their work."
+ ],
  "nug": [
   {
    "h": "The only psalm attributed to Moses",
@@ -6370,6 +6780,11 @@ const YEAR1=[
  "ref": "Genesis 42",
  "tag": "Old Testament",
  "api": "genesis+42",
+ "sum": [
+  "Famine drives Joseph's ten brothers to Egypt to buy grain, where they unknowingly bow before Joseph, fulfilling his childhood dream.",
+  "Joseph, unrecognized, accuses them of spying, holds Simeon hostage, and demands they bring Benjamin next time.",
+  "The brothers admit to each other their guilt over what they did to Joseph years earlier."
+ ],
  "nug": [
   {
    "h": "Bowing down, unknowingly fulfilling a dream",
@@ -6441,6 +6856,11 @@ const YEAR1=[
  "ref": "Matthew 14",
  "tag": "New Testament",
  "api": "matthew+14",
+ "sum": [
+  "Herod beheads John the Baptist after a rash promise made during a birthday celebration.",
+  "Jesus feeds five thousand people from five loaves and two fish, with baskets of food left over.",
+  "Jesus walks on water to his disciples; Peter briefly walks toward him too before fear makes him sink."
+ ],
  "nug": [
   {
    "h": "A birthday party that ends in an execution",
@@ -6512,6 +6932,11 @@ const YEAR1=[
  "ref": "Psalm 91",
  "tag": "Psalms & Wisdom",
  "api": "psalms+91",
+ "sum": [
+  "Describes the security of one who dwells in God's shelter, safe from various dangers “by night” and “by day.”",
+  "Promises angels will guard and protect the one who trusts God, even amid real danger.",
+  "Ends with God speaking directly, promising to deliver, answer and honour those who love him."
+ ],
  "nug": [
   {
    "h": "A psalm without a named author",
@@ -6624,6 +7049,11 @@ const YEAR1=[
  "ref": "Genesis 43",
  "tag": "Old Testament",
  "api": "genesis+43",
+ "sum": [
+  "Jacob reluctantly agrees to send Benjamin to Egypt with his sons, and Judah personally guarantees his safety.",
+  "Joseph, still unrecognized, hosts his brothers at a feast, seating them by exact birth order and giving Benjamin extra portions.",
+  "The brothers are amazed and anxious, unaware of what's really happening."
+ ],
  "nug": [
   {
    "h": "Judah steps up where Reuben once failed",
@@ -6695,6 +7125,11 @@ const YEAR1=[
  "ref": "Genesis 44",
  "tag": "Old Testament",
  "api": "genesis+44",
+ "sum": [
+  "Joseph tests his brothers by having his silver cup secretly planted in Benjamin's sack, then having it “found.”",
+  "Judah delivers a passionate speech, recounting the family's grief and offering himself as a slave instead of Benjamin.",
+  "This proves the brothers have truly changed and sets up Joseph's dramatic reveal in the next chapter."
+ ],
  "nug": [
   {
    "h": "One final, carefully designed test",
@@ -6766,6 +7201,11 @@ const YEAR1=[
  "ref": "Psalm 95",
  "tag": "Psalms & Wisdom",
  "api": "psalms+95",
+ "sum": [
+  "Opens with a joyful call to worship and sing to the LORD, the great God and King.",
+  "Shifts to a solemn warning not to harden your heart as Israel did in the wilderness at Meribah.",
+  "Urges hearing God's voice “today” rather than repeating that generation's unbelief."
+ ],
  "nug": [
   {
    "h": "A call to worship with a warning attached",
@@ -6837,6 +7277,11 @@ const YEAR1=[
  "ref": "Genesis 45",
  "tag": "Old Testament",
  "api": "genesis+45",
+ "sum": [
+  "Overwhelmed, Joseph reveals his identity to his brothers, weeping loudly.",
+  "He reassures them that God sent him ahead to preserve life, turning their evil intentions into good.",
+  "Pharaoh invites the whole family to move to Egypt, and Joseph sends for his father Jacob."
+ ],
  "nug": [
   {
    "h": "A revelation too overwhelming to keep composed",
@@ -6908,6 +7353,11 @@ const YEAR1=[
  "ref": "Matthew 15",
  "tag": "New Testament",
  "api": "matthew+15",
+ "sum": [
+  "Jesus confronts religious leaders for elevating human tradition above God's actual commands, and teaches that true defilement comes from the heart, not unwashed hands.",
+  "A Canaanite woman's persistent faith moves Jesus to heal her daughter, and he commends her “great faith.”",
+  "Jesus feeds four thousand people from seven loaves and a few fish."
+ ],
  "nug": [
   {
    "h": "A tradition elevated above God's actual command",
@@ -6979,6 +7429,11 @@ const YEAR1=[
  "ref": "Psalm 100",
  "tag": "Psalms & Wisdom",
  "api": "psalms+100",
+ "sum": [
+  "A short, joyful psalm calling all the earth to serve the LORD with gladness.",
+  "Instructs entering God's presence with thanksgiving and praise.",
+  "Grounds this gratitude in God's goodness, everlasting mercy and enduring truth."
+ ],
  "nug": [
   {
    "h": "One of the shortest, most concentrated psalms",
@@ -7091,6 +7546,11 @@ const YEAR1=[
  "ref": "Genesis 46",
  "tag": "Old Testament",
  "api": "genesis+46",
+ "sum": [
+  "Jacob sets out for Egypt, stopping to worship at Beersheba, where God reassures him and promises to bring his descendants back one day.",
+  "A detailed list names the seventy family members who travel to Egypt.",
+  "Joseph is reunited with his father Jacob, and the family settles in Goshen."
+ ],
  "nug": [
   {
    "h": "A sacrifice before the journey, not after",
@@ -7162,6 +7622,11 @@ const YEAR1=[
  "ref": "Genesis 47",
  "tag": "Old Testament",
  "api": "genesis+47",
+ "sum": [
+  "Joseph's family is settled in Goshen as shepherds, and Jacob blesses Pharaoh.",
+  "During the ongoing famine, Joseph's policies have the Egyptian people sell land, and eventually themselves, to Pharaoh for food.",
+  "Jacob, nearing death, makes Joseph swear to bury him in Canaan, not Egypt."
+ ],
  "nug": [
   {
    "h": "Shepherds, honestly identified as such to Pharaoh",
@@ -7233,6 +7698,11 @@ const YEAR1=[
  "ref": "Psalm 103",
  "tag": "Psalms & Wisdom",
  "api": "psalms+103",
+ "sum": [
+  "David calls his own soul to bless the LORD and remember his many specific benefits — forgiveness, healing, redemption.",
+  "Describes God's compassion as fatherly and his removal of sin as far as east is from west.",
+  "Contrasts human life's brevity with God's everlasting mercy toward those who fear him."
+ ],
  "nug": [
   {
    "h": "A command given to one's own soul",
@@ -7304,6 +7774,11 @@ const YEAR1=[
  "ref": "Genesis 48",
  "tag": "Old Testament",
  "api": "genesis+48",
+ "sum": [
+  "Jacob, old and nearly blind, formally adopts Joseph's two sons Ephraim and Manasseh as his own.",
+  "He deliberately crosses his hands to bless the younger Ephraim above the older Manasseh, continuing the family pattern of the younger being chosen.",
+  "Joseph tries to correct him, but Jacob insists he knows what he's doing."
+ ],
  "nug": [
   {
    "h": "A dying man's memory sharpened, not dulled",
@@ -7375,6 +7850,11 @@ const YEAR1=[
  "ref": "Matthew 16",
  "tag": "New Testament",
  "api": "matthew+16",
+ "sum": [
+  "Jesus asks his disciples who people say he is, then who they say he is; Peter confesses him as the Christ, the Son of the living God.",
+  "Jesus says he will build his church on this confession, then predicts his coming death and resurrection.",
+  "When Peter objects, Jesus rebukes him sharply, then teaches that following him means self-denial and taking up a cross."
+ ],
  "nug": [
   {
    "h": "A question that gets to the heart of everything",
@@ -7446,6 +7926,11 @@ const YEAR1=[
  "ref": "Psalm 104",
  "tag": "Psalms & Wisdom",
  "api": "psalms+104",
+ "sum": [
+  "A long creation psalm celebrating God as sustainer of the natural world, echoing Genesis 1.",
+  "Describes light, water, mountains, plants, sun and moon, and creatures of every kind as continually dependent on God.",
+  "Ends with a lifelong commitment to keep singing praise to God."
+ ],
  "nug": [
   {
    "h": "Genesis 1 turned into an extended song",
@@ -7558,6 +8043,11 @@ const YEAR1=[
  "ref": "Genesis 49",
  "tag": "Old Testament",
  "api": "genesis+49",
+ "sum": [
+  "Jacob, near death, speaks individual, specific blessings and words over each of his twelve sons.",
+  "He rebukes Reuben, Simeon and Levi for past failures, but blesses Judah with royal, Messianic language about a coming ruler.",
+  "He gives instructions to be buried in the family tomb at Machpelah, then dies."
+ ],
  "nug": [
   {
    "h": "A father's final words, one son at a time",
@@ -7629,6 +8119,11 @@ const YEAR1=[
  "ref": "Genesis 50",
  "tag": "Old Testament",
  "api": "genesis+50",
+ "sum": [
+  "Joseph mourns his father Jacob deeply and has him buried in Canaan as promised.",
+  "After Jacob's death, the brothers fear Joseph will now take revenge, but he reassures them: “ye thought evil against me; but God meant it unto good.”",
+  "Joseph lives to see his family flourish in Egypt, and before he dies asks that his own bones eventually be carried to the promised land."
+ ],
  "nug": [
   {
    "h": "Grief expressed publicly and at length",
@@ -7700,6 +8195,11 @@ const YEAR1=[
  "ref": "Psalm 107",
  "tag": "Psalms & Wisdom",
  "api": "psalms+107",
+ "sum": [
+  "Calls the redeemed to give thanks and tell their stories of rescue.",
+  "Describes four groups in distress — wanderers, prisoners, the sick, and sailors in a storm — each crying to God and being delivered.",
+  "Closes urging the wise to observe these patterns and understand God's steadfast love."
+ ],
  "nug": [
   {
    "h": "Four vignettes, one repeated rescue",
@@ -7771,6 +8271,11 @@ const YEAR1=[
  "ref": "Exodus 1",
  "tag": "Old Testament",
  "api": "exodus+1",
+ "sum": [
+  "Israel multiplies greatly in Egypt; a new king who doesn't remember Joseph enslaves them with harsh labour out of fear.",
+  "Pharaoh orders Hebrew midwives to kill newborn baby boys, but they fear God and refuse.",
+  "Pharaoh then commands that all Hebrew baby boys be thrown into the Nile."
+ ],
  "nug": [
   {
    "h": "A book beginning with an ending",
@@ -7842,6 +8347,11 @@ const YEAR1=[
  "ref": "Matthew 17",
  "tag": "New Testament",
  "api": "matthew+17",
+ "sum": [
+  "Jesus is transfigured before Peter, James and John, appearing radiant alongside Moses and Elijah, with the Father's voice confirming him as his Son.",
+  "Coming down the mountain, Jesus heals a boy the disciples couldn't, teaching about the power of even small faith.",
+  "He predicts his death again and, through a miraculous coin in a fish's mouth, pays the temple tax."
+ ],
  "nug": [
   {
    "h": "A glimpse of who Jesus really was all along",
@@ -7913,6 +8423,11 @@ const YEAR1=[
  "ref": "Psalm 111",
  "tag": "Psalms & Wisdom",
  "api": "psalms+111",
+ "sum": [
+  "An alphabetic psalm praising God's great, remembered works and covenant faithfulness.",
+  "Highlights God's provision and trustworthy commandments.",
+  "Ends with the well-known line: “The fear of the LORD is the beginning of wisdom.”"
+ ],
  "nug": [
   {
    "h": "An acrostic praising specific works",
@@ -8025,6 +8540,11 @@ const YEAR1=[
  "ref": "Exodus 2",
  "tag": "Old Testament",
  "api": "exodus+2",
+ "sum": [
+  "Moses is born, hidden, and eventually placed in a basket on the Nile; Pharaoh's own daughter finds and raises him.",
+  "As an adult, Moses kills an Egyptian abusing a Hebrew slave and flees to Midian, where he marries and becomes a shepherd.",
+  "Meanwhile, Israel's groaning under slavery reaches God, who remembers his covenant."
+ ],
  "nug": [
   {
    "h": "A basket that shares its name with Noah's ark",
@@ -8096,6 +8616,11 @@ const YEAR1=[
  "ref": "Exodus 3",
  "tag": "Old Testament",
  "api": "exodus+3",
+ "sum": [
+  "God appears to Moses in a burning bush that isn't consumed and calls him to lead Israel out of Egypt.",
+  "God reveals his name, “I AM THAT I AM,” and promises to be with Moses.",
+  "Moses is told what to say to Pharaoh and the elders of Israel, and given signs to prove his calling."
+ ],
  "nug": [
   {
    "h": "A bush that burned without being consumed",
@@ -8167,6 +8692,11 @@ const YEAR1=[
  "ref": "Psalm 112",
  "tag": "Psalms & Wisdom",
  "api": "psalms+112",
+ "sum": [
+  "Describes the blessed life of a person who fears the LORD and delights in his commands.",
+  "Marked by generosity, stability, and fearlessness even in bad news.",
+  "Contrasts the lasting righteousness of such a person with the fading hopes of the wicked."
+ ],
  "nug": [
   {
    "h": "A companion piece to the psalm before it",
@@ -8238,6 +8768,11 @@ const YEAR1=[
  "ref": "Exodus 4",
  "tag": "Old Testament",
  "api": "exodus+4",
+ "sum": [
+  "God gives Moses miraculous signs to convince the Israelites, and provides Aaron as a spokesman for his hesitance about speaking.",
+  "On the way back to Egypt, a strange incident nearly costs Moses his life until his wife Zipporah circumcises their son.",
+  "Moses and Aaron gather Israel's elders, who believe when they see the signs and hear that God has seen their suffering."
+ ],
  "nug": [
   {
    "h": "Signs given to overcome specific doubt",
@@ -8309,6 +8844,11 @@ const YEAR1=[
  "ref": "Matthew 18",
  "tag": "New Testament",
  "api": "matthew+18",
+ "sum": [
+  "Jesus teaches that greatness in the kingdom looks like childlike humility, and warns against causing “little ones” to stumble.",
+  "He tells the parable of the lost sheep and gives clear steps for addressing sin between believers.",
+  "Peter asks about forgiving others; Jesus answers with the need for unlimited forgiveness, illustrated by the parable of the unforgiving servant."
+ ],
  "nug": [
   {
    "h": "A child placed in the middle of an argument about greatness",
@@ -8380,6 +8920,11 @@ const YEAR1=[
  "ref": "Psalm 116",
  "tag": "Psalms & Wisdom",
  "api": "psalms+116",
+ "sum": [
+  "Expresses love for God because he heard the psalmist's cry when death and distress were close.",
+  "Asks what can be given back to God for his many benefits, resolving to call on his name and pay vows publicly.",
+  "Declares that the death of God's saints is precious in his sight."
+ ],
  "nug": [
   {
    "h": "Love expressed as a direct response",
@@ -8492,6 +9037,11 @@ const YEAR1=[
  "ref": "Exodus 5",
  "tag": "Old Testament",
  "api": "exodus+5",
+ "sum": [
+  "Moses and Aaron ask Pharaoh to let Israel go, but he refuses and increases their workload instead, removing the straw for bricks.",
+  "Israelite foremen are beaten for failing to meet the harsher quota, and they blame Moses and Aaron.",
+  "Moses, discouraged, asks God why things have gotten worse instead of better."
+ ],
  "nug": [
   {
    "h": "A first request that makes things worse, not better",
@@ -8563,6 +9113,11 @@ const YEAR1=[
  "ref": "Exodus 6",
  "tag": "Old Testament",
  "api": "exodus+6",
+ "sum": [
+  "God reassures Moses, revealing his covenant name more fully and repeating four specific promises: bring out, deliver, redeem, and take as his people.",
+  "Moses relays this to Israel, but they are too discouraged by their suffering to listen.",
+  "A genealogy of Moses and Aaron's family is given."
+ ],
  "nug": [
   {
    "h": "A name revealed more fully than ever before",
@@ -8634,6 +9189,11 @@ const YEAR1=[
  "ref": "Psalm 118",
  "tag": "Psalms & Wisdom",
  "api": "psalms+118",
+ "sum": [
+  "Repeatedly gives thanks because God's mercy endures forever, describing deliverance from real distress.",
+  "Contains the famous verse about the rejected stone becoming the cornerstone, later applied to Jesus.",
+  "Includes “This is the day which the LORD hath made,” originally about a specific day of victory."
+ ],
  "nug": [
   {
    "h": "A repeated refrain that opens and closes the psalm",
@@ -8705,6 +9265,11 @@ const YEAR1=[
  "ref": "Exodus 7",
  "tag": "Old Testament",
  "api": "exodus+7",
+ "sum": [
+  "Moses (80) and Aaron (83) confront Pharaoh; Aaron's staff becomes a serpent and swallows the magicians' imitation serpents.",
+  "The first plague turns the Nile and Egypt's water to blood, but Pharaoh's heart remains hardened.",
+  "The pattern of confrontation, sign, and hardened heart begins that will repeat through the plagues."
+ ],
  "nug": [
   {
    "h": "An eighty-year-old man beginning his real life's work",
@@ -8776,6 +9341,11 @@ const YEAR1=[
  "ref": "Matthew 19",
  "tag": "New Testament",
  "api": "matthew+19",
+ "sum": [
+  "Jesus teaches on marriage and divorce, pointing back to God's original design in Genesis.",
+  "He welcomes children brought to him despite the disciples' objection.",
+  "A rich young man walks away sad after Jesus tells him to sell his possessions, prompting Jesus' teaching that salvation is impossible for people but possible with God."
+ ],
  "nug": [
   {
    "h": "A question meant to trap, met with a return to the beginning",
@@ -8847,6 +9417,11 @@ const YEAR1=[
  "ref": "Psalm 121",
  "tag": "Psalms & Wisdom",
  "api": "psalms+121",
+ "sum": [
+  "A pilgrim's song asking where help comes from, answered confidently: from the LORD, maker of heaven and earth.",
+  "Describes God as a keeper who never slumbers or sleeps, protecting from all harm.",
+  "Ends promising God's protection over every going out and coming in, forever."
+ ],
  "nug": [
   {
    "h": "A pilgrim's song for the road",
@@ -8959,6 +9534,11 @@ const YEAR1=[
  "ref": "Exodus 8",
  "tag": "Old Testament",
  "api": "exodus+8",
+ "sum": [
+  "The plague of frogs overwhelms Egypt; Pharaoh asks Moses to remove them, then hardens his heart again once relieved.",
+  "The plague of gnats or lice follows, which even Pharaoh's magicians admit is “the finger of God.”",
+  "The plague of flies afflicts Egypt but spares Goshen, where the Israelites live, showing a clear distinction between the two peoples."
+ ],
  "nug": [
   {
    "h": "Frogs everywhere, including in the kneading bowls",
@@ -9030,6 +9610,11 @@ const YEAR1=[
  "ref": "Exodus 9",
  "tag": "Old Testament",
  "api": "exodus+9",
+ "sum": [
+  "A plague kills Egyptian livestock while sparing Israel's; a plague of boils afflicts Egyptians, including the magicians.",
+  "A devastating hailstorm destroys crops and animals left in the open; Pharaoh briefly confesses his sin, then hardens his heart once the storm stops.",
+  "The distinction between Egypt's suffering and Israel's safety continues to grow clearer."
+ ],
  "nug": [
   {
    "h": "Livestock struck, but Israel's spared entirely",
@@ -9101,6 +9686,11 @@ const YEAR1=[
  "ref": "Psalm 130",
  "tag": "Psalms & Wisdom",
  "api": "psalms+130",
+ "sum": [
+  "A cry from “the depths,” acknowledging that no one could stand if God marked every sin.",
+  "Declares there is forgiveness with God, meant to produce reverence, not license.",
+  "Ends comparing waiting for God to a watchman's confident longing for the morning."
+ ],
  "nug": [
   {
    "h": "A cry from somewhere genuinely low",
@@ -9172,6 +9762,11 @@ const YEAR1=[
  "ref": "Exodus 10",
  "tag": "Old Testament",
  "api": "exodus+10",
+ "sum": [
+  "A plague of locusts devastates whatever crops the hail had left; Pharaoh's own officials urge him to relent.",
+  "Pharaoh tries to negotiate a partial release of the Israelites, which Moses refuses.",
+  "A plague of thick darkness covers Egypt for three days while Israel has light, and Pharaoh again refuses full release."
+ ],
  "nug": [
   {
    "h": "A plague that finishes what hail started",
@@ -9243,6 +9838,11 @@ const YEAR1=[
  "ref": "Matthew 20",
  "tag": "New Testament",
  "api": "matthew+20",
+ "sum": [
+  "Jesus tells the parable of the labourers in the vineyard, where all workers receive the same wage regardless of hours worked.",
+  "He predicts his death and resurrection in Jerusalem for the third time, with growing detail.",
+  "James and John's mother asks for places of honour for her sons; Jesus responds by redefining greatness as humble service."
+ ],
  "nug": [
   {
    "h": "Workers hired at different hours, paid exactly the same",
@@ -9314,6 +9914,11 @@ const YEAR1=[
  "ref": "Psalm 139",
  "tag": "Psalms & Wisdom",
  "api": "psalms+139",
+ "sum": [
+  "Celebrates being fully known by God — every thought, word and way.",
+  "Marvels that there's nowhere to flee from God's presence, and that we were formed and known by him even before birth.",
+  "Ends inviting God to search the heart and lead in the way everlasting."
+ ],
  "nug": [
   {
    "h": "A psalm about being fully known, before being fully understood",

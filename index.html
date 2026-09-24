@@ -44,6 +44,9 @@ main{max-width:760px;margin:0 auto;padding:0 20px 80px}
 .step p.q{margin:14px 0 6px}
 textarea{width:100%;min-height:76px;resize:vertical;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);font:inherit;padding:10px 12px}
 .xr{font-size:.92rem;color:var(--mute);margin:8px 0 0}
+ul.sum{margin:14px 0 0;padding:0 0 0 1.2em}
+ul.sum li{margin:0 0 10px;line-height:1.5}
+ul.sum li:last-child{margin-bottom:0}
 .tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:12px}
 .sw{width:24px;height:24px;border-radius:50%;border:2px solid var(--line);padding:0}
 .sw.on{border-color:var(--ink)}
@@ -222,6 +225,7 @@ function renderText(){const t=$("#text");if(!t)return;if(!V.length){t.innerHTML=
 function build(){const D=DAYS[day-1];$("#dayTag").textContent=`Day ${day} of 730 · ${D.tag}`;$("#dayTitle").textContent=D.ref;let h="";
  if(D.rest)h+=`<div class="step">${banner("hero")}<h3>This week <span>look back</span></h3>`+DAYS.slice(Math.max(0,day-7),day-1).map((d,j)=>{const i=Math.max(0,day-7)+j;const t=(S.f[pk(i+1)+"take0"]||"").trim();return `<p class="q"><b class="serif">Day ${i+1} · ${d.ref}</b> · <a href="#" onclick="openDay(${i+1});return false">open</a><br><span class="small">${t?esc(t):"No takeaway written"}</span></p>`}).join("")+`</div>`;
  else h+=`<div class="step">${banner("passage")}<h3>Passage <span>8–10 min · KJV</span></h3><p class="xr" style="margin:0 0 12px">Tap any verse to highlight it or add a note.</p><div class="text" id="text"></div></div>`;
+ if(!D.rest&&D.sum&&D.sum.length)h+=`<div class="step"><h3>Summary <span>1 min</span></h3><p class="xr" style="margin:0 0 4px">Retell it in your own words, then check the main points below.</p><ul class="sum">`+D.sum.map(s=>`<li>${s}</li>`).join("")+`</ul></div>`;
  if(NUG.length)h+=`<div class="step">${banner("nuggets")}<h3>Nuggets <span>3–5 min</span></h3><p class="xr" style="margin:0 0 4px">Things worth knowing before you go deeper.</p>`+NUG.map(n=>`<p class="q" style="margin-top:16px"><b class="serif" style="font-size:1.1rem">${n.h}</b><br>${n.b}</p>`).join("")+`</div>`;
  STEPS.forEach(s=>{h+=`<div class="step">${banner(BANNER[s.id])}<h3>${s.t}<span>${s.m}</span></h3>`+(s.xr?`<p class="xr">${s.xr}</p>`:"")+s.qs.map((q,i)=>`<p class="q serif" style="font-style:italic;font-size:1.05rem">${q.th}</p><p class="q" style="margin-top:10px"><b>${q.q}</b></p><textarea data-k="${pre()}${s.id}${i}" aria-label="${esc(q.q)}"></textarea>`).join("")+`</div>`});
  h+=`<div class="row" style="justify-content:space-between;margin-top:28px"><button class="ghost" onclick="openDay(${day-1})" ${day<2?"disabled":""}>← Previous</button><button class="btn" onclick="openDay(${day+1})" ${day>=DAYS.length?"hidden":""}>Next day →</button></div>`;

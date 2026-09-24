@@ -63,12 +63,15 @@ Each day opens as one screen with a simple vertical flow:
 | Step | Time | What it is |
 |---|---|---|
 | **1. Passage** | 8–10 min | Today's reading shown in the built-in Bible reader. Highlight + pin as you go. |
-| **2. Nuggets** | 3–5 min | **Written by the app, not filled in by you (no input boxes).** 4–6 short, interesting facts that aren't commonly known: history, culture and customs, original-language points, background on people and authors, structure. Each has a short heading and 2–3 sentences. *Example for Luke: he is the only Gentile Gospel writer, so he explains Jewish customs for a wider audience.* |
-| **3. Connections** | 3–5 min | Starter cross-references, then for each question a **thought first, then a question** (see "Prompt format" below). Ties today's passage to the rest of Scripture: fulfilled promises, echoed phrases, OT/NT pairings. This is where "beneath the surface" lives. |
-| **4. Life Reflection** | 5–7 min | 2 questions, each with a **thought or everyday example first**, then the question. Specific to the passage's themes, not generic "how can I apply this". |
-| **5. Holy Spirit** | 2–3 min | A thought (often from the passage or a linked verse) followed by a short, non-prescriptive question inviting attentiveness. |
-| **6. Prayer** | 3–5 min | Rotating form (adoration / confession / thanksgiving / intercession / silence). Thought or example first (e.g. how to start), then the question, with space to write your own prayer. |
-| **7. Takeaway** | — | A one-sentence "today's takeaway" box, with a short thought showing what a good takeaway looks like. Highlights, pins and answers save automatically. |
+| **2. Summary** | ~1 min | **Added in v8.** 2–4 short sentences, app-written, giving the main points of the day's reading in order — read right after finishing the passage, so you can retell it in your own words before moving on. Skipped on rest days (there's no new passage to summarise). |
+| **3. Nuggets** | 3–5 min | **Written by the app, not filled in by you (no input boxes).** 4–6 short, interesting facts that aren't commonly known: history, culture and customs, original-language points, background on people and authors, structure. Each has a short heading and 2–3 sentences. *Example for Luke: he is the only Gentile Gospel writer, so he explains Jewish customs for a wider audience.* |
+| **4. Connections** | 3–5 min | Starter cross-references, then for each question a **thought first, then a question** (see "Prompt format" below). Ties today's passage to the rest of Scripture: fulfilled promises, echoed phrases, OT/NT pairings. This is where "beneath the surface" lives. |
+| **5. Life Reflection** | 5–7 min | 2 questions, each with a **thought or everyday example first**, then the question. Specific to the passage's themes, not generic "how can I apply this". |
+| **6. Holy Spirit** | 2–3 min | A thought (often from the passage or a linked verse) followed by a short, non-prescriptive question inviting attentiveness. |
+| **7. Prayer** | 3–5 min | Rotating form (adoration / confession / thanksgiving / intercession / silence). Thought or example first (e.g. how to start), then the question, with space to write your own prayer. |
+| **8. Takeaway** | — | A one-sentence "today's takeaway" box, with a short thought showing what a good takeaway looks like. Highlights, pins and answers save automatically. |
+
+Adding the Summary step nudges each day a little past 30 minutes, but it means the passage actually sticks — reading it once, then retelling the main points in your own words, before moving into nuggets and questions.
 
 **Prompt format (applies to every question, every day):** never ask a bare question. Each has (a) a short **thought or example** in italics, drawn from the passage, a linked verse, history or everyday life, then (b) the **question** in bold, then (c) the answer box. Tone stays observational, never "the correct interpretation is…".
 
@@ -219,6 +222,12 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - Every day in weeks 11–20 uses `"api"` (bible-api.com) as before; none of the new days bundle `"v"` text.
 - **Not built yet:** days 141–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
 
+### Summary step added to every day (v8) — retrofitted to days 1–140
+- New `sum` field added to the day-object schema: an array of 2–4 short strings giving the main points of the day's reading, in order. Present on every non-rest day; omitted on rest days (there's no new passage to summarise).
+- Rendered as its own card in `index.html`, positioned right after the Passage card and before Nuggets — see the updated Section 4 table above. The idea: read the passage once, then read the summary and retell it in your own words before moving into nuggets and questions, so it actually sticks rather than just being read past.
+- **Retrofitted to all 120 non-rest days already built (days 1–140)** — the existing `ref`/`tag`/`api`/`v`/`nug`/`steps` content for those days was untouched; only the new `sum` field was added to each day object. The 20 rest days (7, 14, 21, … 140) were left as-is with no `sum` field.
+- `sum` is now part of the standard schema for every non-rest day going forward — all future weeks (from Day 141 on) will include it from the start rather than needing a retrofit.
+- Adds roughly a minute to the daily study, noted in the Section 4 table.
 
 ### Images (v5) — kept in `data-images.js`
 - `data-images.js` — `const IMAGES={hero, passage, nuggets, prayer}`. Each entry is `{src, alt, pos?}`: `src` is the image embedded as a data URI (WebP, 1400px wide, about 700 KB in total), `alt` is the screen-reader description, `pos` is an optional CSS `object-position` so the important part of the picture survives cropping. **All images used by the app live in this file; `index.html` contains none.** Loaded by a plain `<script src>` before the main script, so it still works by double-click.
