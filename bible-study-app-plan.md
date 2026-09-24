@@ -197,8 +197,18 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - `data-year1.js` — `const YEAR1=[…]`, days 1–365. `data-year2.js` — `const YEAR2=[…]`, days 366–730. Keep all files in the same folder. The app joins them: `DAYS=[...YEAR1,...YEAR2]`; array position = day number.
 - Day object: `{ref, tag, v | api, rest?, nug:[{h,b}], steps:[{id,t,m,xr?,qs:[{th,q}]}]}`. The schema is documented at the top of each data file.
 - The shared "Today's takeaway" step is added by `index.html` to every day, so it is not repeated in the data.
-- Currently only days 1–7 exist (in `data-year1.js`); `data-year2.js` is empty, waiting for days 366–730.
-- Rest-day look-back automatically shows the previous six days. The landing page lists only the first 7 days for now; a calendar/progress view will replace the list for the full plan.
+- Rest-day look-back automatically shows the previous six days. The landing page now lists every built day (not just the first 7); once the plan runs to 730 days this should switch to a calendar/progress view instead of a flat list.
+
+### Weeks 1–10 built (v6) — days 1–70 complete
+- `data-year1.js` now holds days 1–70 (ten full weeks). `data-year2.js` is still empty, waiting for days 366–730.
+- **Reading pattern kept from week 1:** each week is OT, OT, Psalms, OT, NT, Psalms, Rest — three Old Testament chapters, two psalms, one New Testament chapter, one rest/review day. At this pace Old Testament coverage is deliberately slower than the plan's long-run "~2 chapters/day average" (Section 3), which is fine early on — the unhurried Genesis narrative benefits from the extra sit-time and the average evens out once denser law and prophetic sections call for a faster pace later.
+- **OT track:** Genesis 4 → Genesis 30 (Cain and Abel through Jacob's growing family in Paddan-aram), continuing in canonical order from Day 4.
+- **NT track:** Matthew 2 → Matthew 10 (the Magi through the sending of the twelve), continuing in canonical order from Day 5.
+- **Psalms & Wisdom track:** Psalms 2, 3, 4, 5, 15, 16, 19, 23, 24, 25, 27, 32, 34, 37, 42, 46, 51, 62 — chosen for a mix of well-known and formative psalms rather than strict numerical order; Proverbs, Job, Ecclesiastes and Song of Songs are still to be interspersed later as the plan calls for.
+- **Prayer rotation:** each week still follows adoration → thanksgiving → listening/silence → confession → intercession → adoration → rest, though the exact day each form lands on was matched to what fit the passage best that week rather than a rigid fixed slot — all five forms still appear every week.
+- Every OT/NT day added in weeks 2–10 uses `"api"` (bible-api.com, cached to localStorage) rather than bundled `"v"` text, matching the pattern already used for most of week 1's days.
+- Landing page (`index.html`) updated to list all built days instead of hard-coding the first 7, with a day count in the subheading.
+- **Not built yet:** days 71–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
 
 
 ### Images (v5) — kept in `data-images.js`
