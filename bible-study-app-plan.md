@@ -229,6 +229,24 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - `sum` is now part of the standard schema for every non-rest day going forward — all future weeks (from Day 141 on) will include it from the start rather than needing a retrofit.
 - Adds roughly a minute to the daily study, noted in the Section 4 table.
 
+### Chapter audio narration (v9)
+- Every non-rest day's Passage card gained a "🔊 Listen to this chapter" button that reveals an `<audio>` player streaming free, public-domain KJV narration from wordproject.org — no API key needed.
+- `index.html` maps each day's `ref` to a chapter mp3 via a `BOOK_NUM` lookup covering all 66 KJV books, so it works automatically for every day, past and future.
+- Checked several free World English Bible audio sources for the same feature; all had inconsistent, unpredictable per-book file naming that couldn't be reliably automated, so audio stays KJV-only for now (labelled "(KJV audio)" on the button). Worth revisiting if a keyed source like Bible Brain (api.bible/Faith Comes By Hearing) is set up later.
+
+### KJV / WEB translation toggle (v10)
+- A KJV/WEB button in the header switches the Passage text between the King James Version and the World English Bible, both served free via bible-api.com (no key needed). The choice persists in `localStorage`, each translation is cached separately, and the Passage heading reflects the current selection.
+- The handful of very first days that bundle literal `"v"` verse text (rather than fetching via `"api"`) aren't affected by the toggle and always show their bundled KJV text — a minor legacy quirk from the app's earliest build.
+
+### Weeks 21–25 built (v11) — days 141–175 complete
+- `data-year1.js` now holds days 1–175 (twenty-five full weeks).
+- Same weekly pattern and prayer rotation as v6/v7, continued without change.
+- **OT track:** Exodus 11 → Exodus 25 (the tenth plague and first Passover, the Red Sea crossing, manna in the wilderness, Sinai and the Ten Commandments, case laws, covenant ratification, and the start of the tabernacle instructions).
+- **NT track:** Matthew 21 → Matthew 25 (the triumphal entry and temple cleansing, controversies in Jerusalem, the woes to the Pharisees, the Olivet Discourse, and the judgment parables), continuing in canonical order from Day 145.
+- **Psalms & Wisdom track:** Psalms 6, 9, 13, 17, 18, 22, 29, 30, 33, 36 — ten more not used in weeks 1–20, including Psalm 22 (the Messianic psalm of suffering, deliberately placed alongside the Sinai/Pharisee material in week 23).
+- Every day in weeks 21–25 uses `"api"` (bible-api.com) and includes the `sum` field from the start.
+- **Not built yet:** days 176–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
+
 ### Images (v5) — kept in `data-images.js`
 - `data-images.js` — `const IMAGES={hero, passage, nuggets, prayer}`. Each entry is `{src, alt, pos?}`: `src` is the image embedded as a data URI (WebP, 1400px wide, about 700 KB in total), `alt` is the screen-reader description, `pos` is an optional CSS `object-position` so the important part of the picture survives cropping. **All images used by the app live in this file; `index.html` contains none.** Loaded by a plain `<script src>` before the main script, so it still works by double-click.
 - The first four prompts from Section 7 are used, in order:
