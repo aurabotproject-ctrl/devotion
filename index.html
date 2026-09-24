@@ -83,6 +83,7 @@ footer{text-align:center}
  <nav>
   <button class="ghost" onclick="go('home')" aria-label="Back to landing page">☰ Menu</button>
   <button class="ghost" onclick="go('day')">Today</button>
+  <button class="ghost" id="transBtn" aria-label="Switch Bible translation" title="Switch between KJV and WEB text">KJV</button>
   <button class="ghost" id="themeBtn" aria-label="Toggle dark mode">Night</button>
  </nav>
 </header>
@@ -206,6 +207,9 @@ $("#themeBtn").onclick=()=>{S.theme=document.documentElement.dataset.theme==="da
 <script>
 const DAYS=[...YEAR1,...YEAR2];
 let day=1,HL;
+let TRANS=S.trans==="web"?"web":"kjv";
+$("#transBtn").textContent=TRANS.toUpperCase();
+$("#transBtn").onclick=()=>{TRANS=TRANS==="web"?"kjv":"web";S.trans=TRANS;save();$("#transBtn").textContent=TRANS.toUpperCase();DAYS.forEach(d=>{if(d.api)d.v=null});loadDay(day)};
 S.hl=S.hl||{};if(!S.hl[1]&&(Object.keys(S.c||{}).length||Object.keys(S.n||{}).length))S.hl[1]={c:S.c,n:S.n};
 /* Images live in data-images.js. BANNER maps a study-step id to an image key
    (Passage and Nuggets are placed directly in build()). */
@@ -217,18 +221,18 @@ const BOOK_NUM={Genesis:1,Exodus:2,Leviticus:3,Numbers:4,Deuteronomy:5,Joshua:6,
 function audioUrl(ref){const m=/^(.*)\s(\d+)$/.exec(ref||"");if(!m)return null;const b=BOOK_NUM[m[1]];return b?`https://www.wordpocket.org/bibles/app/audio/1/${b}/${m[2]}.mp3`:null}
 {const h=$("#heroImg");h.src=IMAGES.hero.src;h.alt=IMAGES.hero.alt;h.style.objectPosition=IMAGES.hero.pos}
 const pk=d=>d===1?"":"d"+d+"_",pre=()=>pk(day);
-function loadDay(n){day=n;S.cur=n;const D=DAYS[n-1];STEPS=D.steps.concat(TAKE);NUG=D.nug;HL=S.hl[n]=S.hl[n]||{c:{},n:{}};V=D.v||[];build();if(D.api&&!D.v)fetchPass(D)}
+function loadDay(n){day=n;S.cur=n;const D=DAYS[n-1];STEPS=D.steps.concat(TAKE);NUG=D.nug;HL=S.hl[n]=S.hl[n]||{c:{},n:{}};const stale=D.api&&D.vt&&D.vt!==TRANS;V=stale?[]:(D.v||[]);build();if(D.api&&(!D.v||stale))fetchPass(D)}
 function openDay(n){if(n<1||n>DAYS.length)return;loadDay(n);go("day");try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
-async function fetchPass(D){const k="dr-"+D.api,n=day;let c=null;try{c=localStorage.getItem(k)}catch(e){}
- try{let a;if(c)a=JSON.parse(c);else{const r=await fetch("https://bible-api.com/"+D.api+"?translation=kjv");a=(await r.json()).verses.map(x=>x.text.trim().replace(/\s+/g," "));try{localStorage.setItem(k,JSON.stringify(a))}catch(e){}}
-  D.v=a;if(day===n){V=a;renderText()}}
- catch(e){const t=$("#text");if(t&&day===n)t.innerHTML=`<p class="small">The passage couldn’t load (it needs internet the first time). <a target="_blank" rel="noopener" href="https://www.biblegateway.com/passage/?search=${encodeURIComponent(D.ref)}&version=KJV">Read ${D.ref} on Bible Gateway</a>, then come back for the questions.</p>`}}
+async function fetchPass(D){const k="dr-"+D.api+"-"+TRANS,n=day;let c=null;try{c=localStorage.getItem(k)}catch(e){}
+ try{let a;if(c)a=JSON.parse(c);else{const r=await fetch("https://bible-api.com/"+D.api+"?translation="+TRANS);a=(await r.json()).verses.map(x=>x.text.trim().replace(/\s+/g," "));try{localStorage.setItem(k,JSON.stringify(a))}catch(e){}}
+  D.v=a;D.vt=TRANS;if(day===n){V=a;renderText()}}
+ catch(e){const t=$("#text");if(t&&day===n)t.innerHTML=`<p class="small">The passage couldn’t load (it needs internet the first time). <a target="_blank" rel="noopener" href="https://www.biblegateway.com/passage/?search=${encodeURIComponent(D.ref)}&version=${TRANS==="web"?"WEB":"KJV"}">Read ${D.ref} on Bible Gateway</a>, then come back for the questions.</p>`}}
 function renderText(){const t=$("#text");if(!t)return;if(!V.length){t.innerHTML=`<p class="small">Loading…</p>`;return}
  t.innerHTML=V.map((v,i)=>{const n=i+1;return `<span class="v" tabindex="0" data-n="${n}" ${HL.c[n]?`data-c="${HL.c[n]}"`:""}><sup>${n}</sup>${v}</span>${HL.n[n]?`<span class="pin" title="${esc(HL.n[n])}" data-n="${n}">📌</span>`:""} `}).join("");
  t.querySelectorAll(".v,.pin").forEach(e=>{e.onclick=()=>openPop(+e.dataset.n);e.onkeydown=k=>{if(k.key==="Enter")openPop(+e.dataset.n)}})}
 function build(){const D=DAYS[day-1];$("#dayTag").textContent=`Day ${day} of 730 · ${D.tag}`;$("#dayTitle").textContent=D.ref;let h="";
  if(D.rest)h+=`<div class="step">${banner("hero")}<h3>This week <span>look back</span></h3>`+DAYS.slice(Math.max(0,day-7),day-1).map((d,j)=>{const i=Math.max(0,day-7)+j;const t=(S.f[pk(i+1)+"take0"]||"").trim();return `<p class="q"><b class="serif">Day ${i+1} · ${d.ref}</b> · <a href="#" onclick="openDay(${i+1});return false">open</a><br><span class="small">${t?esc(t):"No takeaway written"}</span></p>`}).join("")+`</div>`;
- else{const au=audioUrl(D.ref);h+=`<div class="step">${banner("passage")}<h3>Passage <span>8–10 min · KJV</span></h3><p class="xr" style="margin:0 0 12px">Tap any verse to highlight it or add a note.</p>`+(au?`<p class="xr" style="margin:0 0 6px">Prefer to listen? <button class="ghost" style="padding:2px 10px;font-size:.85em" onclick="this.parentElement.hidden=true;this.parentElement.nextElementSibling.hidden=false">🔊 Listen to this chapter</button></p><audio controls preload="none" style="width:100%;margin:0 0 14px" hidden src="${au}">Your browser can't play audio. <a href="${au}">Download the narration</a>.</audio>`:"")+`<div class="text" id="text"></div></div>`}
+ else{const au=audioUrl(D.ref);const tName=D.api?(TRANS==="web"?"WEB":"KJV"):"KJV";h+=`<div class="step">${banner("passage")}<h3>Passage <span>8–10 min · ${tName}</span></h3><p class="xr" style="margin:0 0 12px">Tap any verse to highlight it or add a note.${D.api?` Switch translation with the <b>${TRANS.toUpperCase()}</b> button up top.`:""}</p>`+(au?`<p class="xr" style="margin:0 0 6px">Prefer to listen? <button class="ghost" style="padding:2px 10px;font-size:.85em" onclick="this.parentElement.hidden=true;this.parentElement.nextElementSibling.hidden=false">🔊 Listen to this chapter (KJV audio)</button></p><audio controls preload="none" style="width:100%;margin:0 0 14px" hidden src="${au}">Your browser can't play audio. <a href="${au}">Download the narration</a>.</audio>`:"")+`<div class="text" id="text"></div></div>`}
  if(!D.rest&&D.sum&&D.sum.length)h+=`<div class="step"><h3>Summary <span>1 min</span></h3><p class="xr" style="margin:0 0 4px">Retell it in your own words, then check the main points below.</p><ul class="sum">`+D.sum.map(s=>`<li>${s}</li>`).join("")+`</ul></div>`;
  if(NUG.length)h+=`<div class="step">${banner("nuggets")}<h3>Nuggets <span>3–5 min</span></h3><p class="xr" style="margin:0 0 4px">Things worth knowing before you go deeper.</p>`+NUG.map(n=>`<p class="q" style="margin-top:16px"><b class="serif" style="font-size:1.1rem">${n.h}</b><br>${n.b}</p>`).join("")+`</div>`;
  STEPS.forEach(s=>{h+=`<div class="step">${banner(BANNER[s.id])}<h3>${s.t}<span>${s.m}</span></h3>`+(s.xr?`<p class="xr">${s.xr}</p>`:"")+s.qs.map((q,i)=>`<p class="q serif" style="font-style:italic;font-size:1.05rem">${q.th}</p><p class="q" style="margin-top:10px"><b>${q.q}</b></p><textarea data-k="${pre()}${s.id}${i}" aria-label="${esc(q.q)}"></textarea>`).join("")+`</div>`});
