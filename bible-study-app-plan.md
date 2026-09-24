@@ -1,5 +1,5 @@
 # Deep Roots — A 2‑Year Personal Bible Study App
-### Planning Document (v4 — data split into year files)
+### Planning Document (v5 — images added in their own data file)
 
 This is the spec the HTML app is built from. **v2 adds the decisions made during the first build (Day 1 prototype): app-written nuggets, thought-then-question prompts, and printing. See Section 9 for build status.** Keep this file in sync with every build.
 
@@ -194,8 +194,19 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 
 ### File structure (v4) — keep `index.html` clean
 - `index.html` — app only (layout, styling, logic). **No daily content inside.** Loads the two data files with plain `<script src>` tags (works by double-click, no server or fetch needed).
-- `data-year1.js` — `const YEAR1=[…]`, days 1–365. `data-year2.js` — `const YEAR2=[…]`, days 366–730. Keep all three files in the same folder. The app joins them: `DAYS=[...YEAR1,...YEAR2]`; array position = day number.
+- `data-year1.js` — `const YEAR1=[…]`, days 1–365. `data-year2.js` — `const YEAR2=[…]`, days 366–730. Keep all files in the same folder. The app joins them: `DAYS=[...YEAR1,...YEAR2]`; array position = day number.
 - Day object: `{ref, tag, v | api, rest?, nug:[{h,b}], steps:[{id,t,m,xr?,qs:[{th,q}]}]}`. The schema is documented at the top of each data file.
 - The shared "Today's takeaway" step is added by `index.html` to every day, so it is not repeated in the data.
 - Currently only days 1–7 exist (in `data-year1.js`); `data-year2.js` is empty, waiting for days 366–730.
 - Rest-day look-back automatically shows the previous six days. The landing page lists only the first 7 days for now; a calendar/progress view will replace the list for the full plan.
+
+
+### Images (v5) — kept in `data-images.js`
+- `data-images.js` — `const IMAGES={hero, passage, nuggets, prayer}`. Each entry is `{src, alt, pos?}`: `src` is the image embedded as a data URI (WebP, 1400px wide, about 700 KB in total), `alt` is the screen-reader description, `pos` is an optional CSS `object-position` so the important part of the picture survives cropping. **All images used by the app live in this file; `index.html` contains none.** Loaded by a plain `<script src>` before the main script, so it still works by double-click.
+- The first four prompts from Section 7 are used, in order:
+  1. Wheat-field path → **landing page banner** (`hero`). Also reused on the rest-day "This week / look back" card.
+  2. Open book with light rays → top of the **Passage** card (`passage`).
+  3. Olive branch on parchment → top of the **Nuggets** card (`nuggets`).
+  4. Clay lamp on a windowsill → top of the **Prayer** card (`prayer`).
+- In `index.html` a small `banner(key)` helper builds the `<img>`; `BANNER` maps a step id to an image key (currently `prayer`). Images dim slightly in night mode and are not part of the print sheet.
+- Prompts 5–8 are not used yet.
