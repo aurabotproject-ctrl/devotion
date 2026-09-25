@@ -282,6 +282,10 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - The "🔊 Listen to this chapter" button on the Passage card now plays **KJV audio** (wordproject.org, as in v9) when the KJV translation is selected, and **WEB audio** (publicdomainaudiobibles.com) when the WEB translation is selected — following the same KJV/WEB toggle from v10. The button label updates to say which one is playing.
 - Same `BOOK_NUM` lookup from v9 is reused to identify the book; a second lookup table maps each book to its WEB-source folder/filename spelling.
 
+### Legacy days moved onto the API text/audio pipeline; day picker now on every page (v17)
+- **KJV/WEB toggle and Listen audio now work on every single day.** The app's very first three days — Day 1 (Genesis 1), Day 3 (Psalm 1), Day 6 (Psalm 8) — predated the `"api"` field and carried their KJV text bundled straight into the day object (a `"v"` array), so they never responded to the KJV/WEB toggle and never got an audio button; those three days were switched over to the same `"api"` (bible-api.com) pipeline every other day already uses, so all 216 non-rest days now behave identically.
+- **Jump-to-day dropdown moved into the header**, so it's available on both the landing page and the day-study page — you can jump to any built day from wherever you are in the app, not just from the home screen. The original dropdown on the landing page (with its "Jump to any day" heading) is unchanged and still there too.
+
 ### Images (v5) — kept in `data-images.js`
 - `data-images.js` — `const IMAGES={hero, passage, nuggets, prayer}`. Each entry is `{src, alt, pos?}`: `src` is the image embedded as a data URI (WebP, 1400px wide, about 700 KB in total), `alt` is the screen-reader description, `pos` is an optional CSS `object-position` so the important part of the picture survives cropping. **All images used by the app live in this file; `index.html` contains none.** Loaded by a plain `<script src>` before the main script, so it still works by double-click.
 - The first four prompts from Section 7 are used, in order:

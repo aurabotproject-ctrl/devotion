@@ -16,7 +16,8 @@ body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Figtree,system
 .serif{font-family:Newsreader,Georgia,serif}
 header{display:flex;justify-content:space-between;align-items:center;padding:14px 24px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:5}
 .brand{font:600 1.35rem Newsreader,Georgia,serif;cursor:pointer}
-nav{display:flex;gap:8px}
+nav{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.navSelect{padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:.88rem Figtree,system-ui,sans-serif;max-width:170px;appearance:auto}
 button{font:inherit;cursor:pointer}
 .btn{background:var(--acc2);color:#fff;border:0;padding:10px 20px;border-radius:8px;font-weight:500}
 [data-theme=dark] .btn{color:#111}
@@ -82,6 +83,7 @@ footer{text-align:center}
 <header>
  <div class="brand" onclick="go('home')">Deep Roots</div>
  <nav>
+  <select class="navSelect" id="daySelectNav" aria-label="Jump to a specific day"><option value="">Jump to day…</option></select>
   <button class="ghost" onclick="go('home')" aria-label="Back to landing page">☰ Menu</button>
   <button class="ghost" onclick="go('day')">Today</button>
   <button class="ghost" id="transBtn" aria-label="Switch Bible translation" title="Switch between KJV and WEB text">KJV</button>
@@ -244,11 +246,13 @@ function build(){const D=DAYS[day-1];$("#dayTag").textContent=`Day ${day} of 730
  h+=`<div class="row" style="justify-content:space-between;margin-top:28px"><button class="ghost" onclick="openDay(${day-1})" ${day<2?"disabled":""}>← Previous</button><button class="btn" onclick="openDay(${day+1})" ${day>=DAYS.length?"hidden":""}>Next day →</button></div>`;
  $("#steps").innerHTML=h;document.querySelectorAll("textarea[data-k]").forEach(t=>{t.value=S.f[t.dataset.k]||"";t.oninput=()=>{S.f[t.dataset.k]=t.value;save()}});renderText();scrollTo(0,0)}
 $("#week").innerHTML=`<h3 class="serif" style="font-size:1.5rem;margin:48px 0 4px">Jump to any day</h3><p class="small" style="margin:0 0 12px">${DAYS.length} days are built so far — pick one below, or use Next day from Day 1 to move through them in order.</p><select class="daySelect" id="daySelect" aria-label="Jump to a specific day"><option value="">Choose a day…</option></select>`;
-{const sel=$("#daySelect");let optHtml="";
+function fillDaySelect(sel){let optHtml="";
  for(let w=0;w<Math.ceil(DAYS.length/7);w++){const start=w*7,end=Math.min(start+7,DAYS.length);
   optHtml+=`<optgroup label="Week ${w+1} (Day ${start+1}–${end})">`+DAYS.slice(start,end).map((d,j)=>{const i=start+j;return `<option value="${i+1}">Day ${i+1} — ${esc(d.ref)}${d.rest?" (rest)":""}</option>`}).join("")+`</optgroup>`}
  sel.insertAdjacentHTML("beforeend",optHtml);
  sel.onchange=()=>{if(sel.value){openDay(+sel.value);sel.value=""}}}
+fillDaySelect($("#daySelect"));
+fillDaySelect($("#daySelectNav"));
 loadDay(1);
 </script>
 </body>
