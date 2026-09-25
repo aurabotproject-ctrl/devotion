@@ -272,6 +272,16 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - Deliberate thematic pairing in week 36: Leviticus 16 (the Day of Atonement) lands the same week as Mark 8 (Peter's confession and the first passion prediction) — atonement theology arriving right as Mark's narrative turns explicitly toward the cross.
 - **Not built yet (as of v14):** days 253–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
 
+### Day picker replaces the long button grid (v15)
+- The landing page's "Jump to any day" section used to list every built day as its own button (252 of them, and growing every batch) — replaced with a single dropdown (`<select>`), grouped into `<optgroup>`s by week, so it stays tidy and fast to scan no matter how many days are built.
+- Picking a day from the dropdown opens it immediately (same as the old buttons); the dropdown resets to "Choose a day…" afterwards so it's ready for the next jump.
+- Purely a landing-page UI change — no change to the day-object schema or content.
+
+### Free WEB audio narration added (v16)
+- The v9/v10 notes above said no reliable free World English Bible audio source could be found — that turned out to be wrong. Deeper research (checking the actual page behaviour in a browser rather than just fetching page text, which misses JS-rendered download links) turned up **publicdomainaudiobibles.com**'s WEB recording, narrated by David Williams: free, public-domain, and — unlike the sources checked for v9/v10 — a fully consistent, predictable per-book/per-chapter file naming pattern across all 66 books, verified live against the site's own book/chapter selectors.
+- The "🔊 Listen to this chapter" button on the Passage card now plays **KJV audio** (wordproject.org, as in v9) when the KJV translation is selected, and **WEB audio** (publicdomainaudiobibles.com) when the WEB translation is selected — following the same KJV/WEB toggle from v10. The button label updates to say which one is playing.
+- Same `BOOK_NUM` lookup from v9 is reused to identify the book; a second lookup table maps each book to its WEB-source folder/filename spelling.
+
 ### Images (v5) — kept in `data-images.js`
 - `data-images.js` — `const IMAGES={hero, passage, nuggets, prayer}`. Each entry is `{src, alt, pos?}`: `src` is the image embedded as a data URI (WebP, 1400px wide, about 700 KB in total), `alt` is the screen-reader description, `pos` is an optional CSS `object-position` so the important part of the picture survives cropping. **All images used by the app live in this file; `index.html` contains none.** Loaded by a plain `<script src>` before the main script, so it still works by double-click.
 - The first four prompts from Section 7 are used, in order:
