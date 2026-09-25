@@ -245,7 +245,16 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - **NT track:** Matthew 21 → Matthew 25 (the triumphal entry and temple cleansing, controversies in Jerusalem, the woes to the Pharisees, the Olivet Discourse, and the judgment parables), continuing in canonical order from Day 145.
 - **Psalms & Wisdom track:** Psalms 6, 9, 13, 17, 18, 22, 29, 30, 33, 36 — ten more not used in weeks 1–20, including Psalm 22 (the Messianic psalm of suffering, deliberately placed alongside the Sinai/Pharisee material in week 23).
 - Every day in weeks 21–25 uses `"api"` (bible-api.com) and includes the `sum` field from the start.
-- **Not built yet:** days 176–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
+- **Not built yet (as of v11):** days 176–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
+
+### Days 176–200 built (v12) — completes Matthew, weeks 26–28 plus 4 days
+- `data-year1.js` now holds days 1–200. This batch is 25 days, not a full 5 weeks — it runs weeks 26, 27 and 28 in full, then stops 4 days into week 29 (no rest day yet for that partial week).
+- **OT track:** Exodus 26 → Exodus 37 (the tabernacle's structure and furnishings, the priestly garments, the ordination of Aaron's sons, the golden calf crisis and Moses' intercession, the covenant renewed and Moses' face shining, the people's freewill offerings, and Bezalel building the ark, mercy seat, table and lampstand).
+- **NT track:** Matthew 26 → Matthew 28 — **completes the Gospel of Matthew** (the Last Supper and Gethsemane, the trial and crucifixion, the resurrection and Great Commission). The next NT day (week 29, day 5) will move into Mark.
+- **Psalms & Wisdom track:** Psalms 20, 21, 26, 28, 31, 35, 38 — seven more not used before, including Psalm 31 ("into thine hand I commit my spirit"), paired with Matthew 27 in the same week since Jesus quotes that exact verse from the cross (Luke 23:46).
+- Real thematic overlap between the two tracks this batch — tabernacle/priesthood/atonement material in Exodus running alongside the Passion narrative in Matthew — woven in naturally in a few places (the torn veil, the mercy seat) rather than forced into every day.
+- Prayer-form rotation continues to be matched to what fits each day's passage rather than a fixed repeating slot.
+- **Not built yet (as of v12):** the rest of week 29 (day 201 onward, starting with Mark 1), days 202–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
 
 ### Images (v5) — kept in `data-images.js`
 - `data-images.js` — `const IMAGES={hero, passage, nuggets, prayer}`. Each entry is `{src, alt, pos?}`: `src` is the image embedded as a data URI (WebP, 1400px wide, about 700 KB in total), `alt` is the screen-reader description, `pos` is an optional CSS `object-position` so the important part of the picture survives cropping. **All images used by the app live in this file; `index.html` contains none.** Loaded by a plain `<script src>` before the main script, so it still works by double-click.
