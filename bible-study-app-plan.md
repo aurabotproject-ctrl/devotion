@@ -256,6 +256,14 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - Prayer-form rotation continues to be matched to what fits each day's passage rather than a fixed repeating slot.
 - **Not built yet (as of v12):** the rest of week 29 (day 201 onward, starting with Mark 1), days 202–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
 
+### Days 201–217 built (v13) — completes week 29, weeks 30–31, completes Exodus, starts Mark and Leviticus
+- `data-year1.js` now holds days 1–217, ending cleanly on that week's rest day.
+- **OT track:** Exodus 38 → Exodus 40 — **completes the book of Exodus**, closing with the tabernacle raised and the glory of the LORD filling it so completely Moses himself can't enter (Exodus 40:34–35) — then straight into Leviticus 1 → Leviticus 3, the first chapters of a new book (burnt, grain, and peace offerings), the first genuinely law-heavy stretch of the plan.
+- **NT track:** Mark 1 → Mark 3 — **starts the Gospel of Mark**, the plan's second Gospel, noted in the content for its markedly faster pace than Matthew (John the Baptist through the calling of the Twelve in three chapters).
+- **Psalms & Wisdom track:** Psalms 39, 40, 41, 43, 45 — including Psalm 40:6–8 (quoted of Christ in Hebrews 10:5–7), Psalm 41:9 (the betrayal-by-a-friend verse Jesus applies to Judas in John 13:18), and Psalm 45:6 (quoted of Christ's throne in Hebrews 1:8).
+- Two genuine book transitions land in this batch — Matthew → Mark at Day 201, and Exodus → Leviticus at Day 211 — both acknowledged briefly in that day's content rather than glossed over.
+- **Not built yet (as of v13):** days 218–730, calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
+
 ### Images (v5) — kept in `data-images.js`
 - `data-images.js` — `const IMAGES={hero, passage, nuggets, prayer}`. Each entry is `{src, alt, pos?}`: `src` is the image embedded as a data URI (WebP, 1400px wide, about 700 KB in total), `alt` is the screen-reader description, `pos` is an optional CSS `object-position` so the important part of the picture survives cropping. **All images used by the app live in this file; `index.html` contains none.** Loaded by a plain `<script src>` before the main script, so it still works by double-click.
 - The first four prompts from Section 7 are used, in order:

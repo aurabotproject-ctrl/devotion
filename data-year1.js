@@ -14140,5 +14140,1189 @@ const YEAR1=[
    ]
   }
  ]
+},
+// Day 201
+{
+ "ref": "Mark 1",
+ "tag": "New Testament",
+ "api": "mark+1",
+ "sum": [
+  "John the Baptist preaches repentance in the wilderness and baptizes Jesus, whom the Spirit descends upon like a dove.",
+  "The Spirit drives Jesus into the wilderness, where He is tempted by Satan for forty days among the wild beasts.",
+  "Jesus calls Simon, Andrew, James and John away from their nets, and in a single day at Capernaum teaches with authority, casts out an unclean spirit, and heals Peter's mother-in-law and many others.",
+  "Jesus heals a leper who, despite being told to tell no one, spreads the news so widely that Jesus can no longer enter a city openly."
+ ],
+ "nug": [
+  {
+   "h": "A Gospel that begins running",
+   "b": "Mark opens with none of Matthew's genealogy or infancy narrative — within ten verses John is preaching, Jesus is baptised, and the heavens are already torn open (v. 10). The word translated “straightway” or “immediately” appears again and again through this chapter alone (v. 10, 12, 18, 20, 21, 28, 29, 30, 31, 42) — a deliberately breathless pace that marks this second Gospel out as urgent action from its very first page."
+  },
+  {
+   "h": "Compassion willing to touch what no one else would",
+   "b": "When a leper begs to be made clean, “Jesus, moved with compassion, put forth his hand, and touched him” (v. 41) — a man who by law had to stay outside the camp crying “Unclean, unclean” (Leviticus 13:45–46) is touched deliberately, not healed from a safe distance."
+  },
+  {
+   "h": "A solitary place carved out of a frantic schedule",
+   "b": "After a single day so full it included an exorcism, a healing, and a whole city gathered at the door (v. 32–34), Jesus rises “a great while before day” and departs to “a solitary place, and there prayed” (v. 35) — even Mark's fastest-paced Gospel makes room for deliberate withdrawal."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Leviticus 13:45–46 · Isaiah 40:3 · Luke 5:15–16",
+   "qs": [
+    {
+     "th": "The law in Leviticus 13:45–46 required a leper to live outside the camp, warning everyone away with the cry “Unclean, unclean” — exactly the isolation Jesus reverses by reaching out and touching the man Himself in verse 41.",
+     "q": "Read Leviticus 13:45–46 alongside Mark 1:40–42. How does knowing the full weight of that isolation change how you read Jesus' willingness to touch him?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even in the middle of His busiest recorded day so far, with a whole town gathered at Peter's door (v. 33), Jesus still gets up before dawn to find a quiet place to pray, uninterrupted, before the demands of the day resume.",
+     "q": "What does your own version of \"rising a great while before day\" look like right now, and what usually crowds it out?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit that descends on Jesus like a dove at His baptism (v. 10) is the same Spirit that, only two verses later, “driveth him” out into the wilderness to be tempted (v. 12) — active, purposeful leading, not gentle suggestion.",
+     "q": "Where might the Holy Spirit currently be driving you toward something difficult rather than simply comforting, the way He drove Jesus into the wilderness?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "By evening “all the city was gathered together at the door” (v. 33), bringing to Jesus everyone who was sick or possessed with devils — a whole community carrying its need to one man.",
+     "q": "Bring to God today, by name if you can, the people in your own life who are sick, burdened or oppressed, the way this whole city brought its need to Jesus' door."
+    }
+   ]
+  }
+ ]
+},
+// Day 202
+{
+ "ref": "Psalm 39",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+39",
+ "sum": [
+  "David resolves to guard his tongue and keep silent in front of the wicked, but the fire of unspoken words burns within him until he finally speaks.",
+  "He asks God to show him the measure of his days, confessing that every man's life is but a breath, a shadow that disquiets itself in vain.",
+  "He appeals to God as his only real hope, praying to be delivered from his transgressions and spared the reproach of the foolish.",
+  "He closes asking God to spare him a little, that he might recover strength before he goes hence and is no more."
+ ],
+ "nug": [
+  {
+   "h": "Silence chosen, then broken by its own pressure",
+   "b": "David determines, “I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me” (v. 1) — but by verse 3 that restraint has become “my heart was hot within me… then spake I with my tongue,” disciplined silence that couldn't be sustained indefinitely."
+  },
+  {
+   "h": "A specific, numbered request about mortality",
+   "b": "“LORD, make me to know mine end, and the measure of my days, what it is” (v. 4) — not a vague wish to understand life's brevity in general, but a specific request to actually reckon with how short his own particular life really is."
+  },
+  {
+   "h": "Hope named as singular, not one option among several",
+   "b": "“And now, Lord, what wait I for? my hope is in thee” (v. 7) — after cataloguing life's fleeting vanity across six verses, David narrows every possible source of hope down to exactly one."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "James 4:14 · Psalm 90:12 · Psalm 62:5",
+   "qs": [
+    {
+     "th": "James later writes almost the identical picture of life's brevity — “What is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away” (James 4:14) — the same honest reckoning with mortality David prays for here becoming, centuries later, ordinary New Testament wisdom.",
+     "q": "Read James 4:14 alongside Psalm 39:4–6. How does praying to \"know mine end\" change the way you might plan this coming week, rather than assuming endless time ahead?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's silence in front of the wicked (v. 1–2) isn't peace but pressure — restraint that builds until it has to find an outlet, whether in prayer to God or eventually in speech.",
+     "q": "Is there a situation right now where you're holding your tongue in a way that's building pressure rather than genuine peace? What would it look like to bring that pressure to God honestly, the way David eventually does here?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's bridled silence in verses 1–2 is a deliberate, Spirit-shaped discipline chosen in advance, not a personality trait he happened to have — a decision made before the wicked were even present to provoke him.",
+     "q": "Where might the Holy Spirit be inviting you to decide your response in advance, the way David bridles his tongue here, rather than reacting in the moment?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Verse 2's “I was dumb with silence, I held my peace, even from good” describes a silence taken further than simply avoiding sin — restraint so complete David stopped speaking even good, helpful words for a time.",
+     "q": "Sit quietly for a few minutes today in genuine silence before God, without rushing to fill it with requests, the way David's silence in this psalm comes before his words do."
+    }
+   ]
+  }
+ ]
+},
+// Day 203
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A Gospel that starts at a run",
+   "b": "After 194 days spent in Matthew's careful genealogies and long discourses, Mark's Gospel opens with almost none of that scaffolding — just a wilderness voice, a torn-open heaven, and the word \"immediately\" repeated through the whole first chapter, a deliberately different rhythm for telling the very same story of Jesus."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Israel's overflowing generosity for the tabernacle in Exodus 35 and 36, David's physical and relational anguish over sin in Psalm 38, Bezalel's careful gold work in Exodus 37, and then a genuine turn of the page into the New Testament's second Gospel — Mark 1's fast-paced account of Jesus' baptism, temptation, and first day of ministry — followed by David's meditation on life's brevity in Psalm 39.",
+     "q": "Where this week did the deliberate care poured into unseen gold in Exodus 37, or Jesus' own withdrawal to a solitary place in Mark 1:35 even during His busiest day, most challenge how you spend time no one else sees?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"LORD, make me to know mine end, and the measure of my days, what it is\" (Psalm 39:4) — a prayer for honest reckoning with how short and fragile a single human life actually is.",
+     "q": "Sit quietly for a few minutes without an agenda, simply asking God, as David does here, to help you see your days rightly, neither anxious about their shortness nor careless with how you spend them."
+    }
+   ]
+  }
+ ]
+},
+// Day 204
+{
+ "ref": "Exodus 38",
+ "tag": "Old Testament",
+ "api": "exodus+38",
+ "sum": [
+  "Bezalel builds the bronze altar of burnt offering with its horns, pots, shovels and grate, overlaid and fitted with staves.",
+  "He makes the bronze laver and its base from the mirrors of the women who assembled at the tabernacle door.",
+  "The courtyard hangings, pillars and sockets are set up exactly as commanded, enclosing the whole tabernacle.",
+  "An account begins of all the gold, silver and brass used in the work, recorded under Ithamar's oversight."
+ ],
+ "nug": [
+  {
+   "h": "Mirrors turned into something to wash in",
+   "b": "The laver and its foot are made “of the looking glasses of the women assembling, which assembled at the door of the tabernacle of the congregation” (v. 8) — the very brass mirrors women once used to check their own appearance given up and reshaped into the basin priests would use to wash before serving God."
+  },
+  {
+   "h": "An exact account kept of what was given",
+   "b": "Verse 21 introduces “this is the sum of the tabernacle… as it was counted, according to the commandment of Moses,” beginning a careful, itemised record of gold, silver and brass (v. 24–31) — sacred generosity still subject to honest, transparent accounting, not left untracked simply because it was given to God."
+  },
+  {
+   "h": "A named man given specific oversight",
+   "b": "The reckoning is made “by the hand of Ithamar, son to Aaron the priest” (v. 21) — a specific, named individual entrusted with responsibility for tracking exactly where these freewill offerings went, accountability built into worship rather than assumed."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Corinthians 8:20–21 · Exodus 30:18 · 1 Corinthians 4:2",
+   "qs": [
+    {
+     "th": "Paul's insistence on handling a financial gift so carefully “that no man should blame us” (2 Corinthians 8:20–21) reflects the same principle already modelled here — Ithamar's careful accounting of gold, silver and brass given for the tabernacle, transparency treated as part of faithful stewardship, not a lack of trust.",
+     "q": "Read 2 Corinthians 8:20–21. Where in your own giving or leadership could more visible, honest accounting actually strengthen trust rather than suggest suspicion?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The women who gave up their bronze mirrors gave something genuinely useful and personal, not simply spare or unwanted material, and it was reshaped into something used every day in the priests' service.",
+     "q": "Is there something genuinely useful or valuable to you personally, not just spare change, that you could offer for God's purposes the way these women offered their mirrors?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Ithamar's careful, itemised record in verses 21–31 turns what could have been treated as a purely spiritual, untrackable gift into something openly, honestly accounted for.",
+     "q": "Where might the Holy Spirit be prompting you toward more honesty and transparency in how you handle what's been entrusted to you, rather than assuming good intentions are enough?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Every pot, shovel, basin and hook listed in this careful inventory (v. 3, 21–31) existed for one purpose — a place where a holy God would meet with ordinary people, down to the weight of the very silver and brass involved.",
+     "q": "Praise God today for His attention to exact, careful detail, worthy of worship down to the smallest recorded piece of bronze."
+    }
+   ]
+  }
+ ]
+},
+// Day 205
+{
+ "ref": "Exodus 39",
+ "tag": "Old Testament",
+ "api": "exodus+39",
+ "sum": [
+  "The craftsmen make the finely woven priestly garments — the blue, purple and scarlet cloth, and the ephod with its gold, blue, purple and scarlet threads.",
+  "The breastplate is set with twelve precious stones engraved with the names of Israel's tribes, attached exactly as instructed.",
+  "The robe, coats, mitre and girdle are made, along with the golden plate reading \"HOLINESS TO THE LORD.\"",
+  "Moses inspects all the finished work, finds it done exactly as the LORD commanded, and blesses the people."
+ ],
+ "nug": [
+  {
+   "h": "A refrain repeated until it can't be missed",
+   "b": "The phrase “as the LORD commanded Moses” appears no fewer than seven times across this single chapter (v. 1, 5, 7, 21, 26, 29, 31) — obedience recorded so emphatically and repeatedly that no reader could come away thinking anything had been improvised."
+  },
+  {
+   "h": "Every single piece brought, checked, and blessed",
+   "b": "Verses 32–43 describe every finished item brought to Moses, who “did look upon all the work, and, behold, they had done it as the LORD had commanded… and Moses blessed them” (v. 43) — a full, careful inspection before a single word of blessing is spoken."
+  },
+  {
+   "h": "Four words engraved for anyone to read",
+   "b": "The golden plate reads simply “HOLINESS TO THE LORD” (v. 30), echoing the instruction given back in Exodus 28:36 almost word for word — the completed object matching the original design down to its engraved lettering."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 28:1–43 · 1 Corinthians 15:58 · Titus 2:14",
+   "qs": [
+    {
+     "th": "Exodus 28 gave the original instructions for these same garments in careful detail; Exodus 39 is their exact, patient fulfilment, chapter for chapter and stone for stone — a striking picture of the gap between being told what to do and actually finishing it.",
+     "q": "Read back over Exodus 28's instructions alongside today's chapter. Is there something God has clearly instructed you to do that, like these garments, is still only in the planning stage rather than finished?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses doesn't bless the people until he has personally inspected “all the work” (v. 43) and confirmed it matches what was commanded — genuine blessing following genuine completion, not offered prematurely.",
+     "q": "Is there a piece of unfinished obedience in your own life that you've been hoping to receive encouragement or blessing for before it's actually done?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The sevenfold repetition of “as the LORD commanded Moses” through this chapter reflects a community so shaped by obedience that deviation from the pattern wasn't even considered.",
+     "q": "Where might the Holy Spirit be forming in you the same kind of settled, repeated obedience, rather than obedience that only shows up occasionally?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses' blessing of the people in verse 43 comes as a direct response to seeing finished, faithful work — gratitude expressed concretely once the task itself was actually complete.",
+     "q": "Thank God today for a piece of work, however small, that you've recently seen through to completion, and let that specific thanksgiving be as concrete as Moses' blessing here."
+    }
+   ]
+  }
+ ]
+},
+// Day 206
+{
+ "ref": "Psalm 40",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+40",
+ "sum": [
+  "David describes waiting patiently for the LORD, who lifted him from a horrible pit and set his feet upon a rock, putting a new song in his mouth.",
+  "He declares that God desired no sacrifice or offering but opened his ears, so he comes to do God's will, which is written in his heart.",
+  "He proclaims God's righteousness openly and prays for continued deliverance from his many troubles and enemies.",
+  "He closes describing himself as poor and needy, trusting that the Lord thinks upon him still."
+ ],
+ "nug": [
+  {
+   "h": "Patience that precedes, not follows, the rescue",
+   "b": "“I waited patiently for the LORD; and he inclined unto me, and heard my cry” (v. 1) — the waiting comes first in David's account, not an afterthought once help had already arrived, but the posture he held while still in “an horrible pit… the miry clay” (v. 2)."
+  },
+  {
+   "h": "Ears opened where sacrifice alone wouldn't do",
+   "b": "“Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required” (v. 6) — obedient attentiveness named as what God actually wanted underneath the whole sacrificial system, not ritual performed without a heart genuinely listening."
+  },
+  {
+   "h": "Words later placed directly in Christ's mouth",
+   "b": "Hebrews 10:5–7 quotes verses 6–8 almost exactly as the words of Christ Himself entering the world — “a body hast thou prepared me… Lo, I come to do thy will, O God” — David's own testimony becoming, centuries later, a description of Jesus' whole incarnation and mission."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Hebrews 10:5–9 · Psalm 51:16–17 · 1 Samuel 15:22",
+   "qs": [
+    {
+     "th": "Hebrews 10:5–9 takes David's words in verses 6–8 and applies them directly to Jesus — “Lo, I come to do thy will, O God” becoming the very reason Hebrews gives for why Christ's one sacrifice could finally do what animal sacrifices never could.",
+     "q": "Read Hebrews 10:5–9 alongside Psalm 40:6–8. How does seeing your own well-known psalm quoted directly as Christ's own words deepen how you read the rest of David's prayer?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's testimony begins with real waiting in a genuinely miry, horrible pit (v. 2) before any mention of the new song that eventually follows — the rescue doesn't erase how long or how low the waiting actually was.",
+     "q": "Are you currently in a season more like the \"horrible pit\" of verse 2 or the \"new song\" of verse 3? Either way, what would patient waiting, like David's, actually look like for you right now?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "“Mine ears hast thou opened” (v. 6) pictures a kind of listening that goes deeper than simply hearing words, an inner attentiveness God Himself had to open up in David before it was possible.",
+     "q": "Where might the Holy Spirit currently be trying to open your ears to something you've been hearing but not truly listening to?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even after describing real deliverance already received, David still admits, “innumerable evils have compassed me about… mine iniquities have taken hold upon me, so that I am not able to look up” (v. 12) — gratitude and honest confession held together in the very same prayer.",
+     "q": "Bring your own honest confession to God today, even in a season where you can also genuinely thank Him for real deliverance already given, the way David holds both together here."
+    }
+   ]
+  }
+ ]
+},
+// Day 207
+{
+ "ref": "Exodus 40",
+ "tag": "Old Testament",
+ "api": "exodus+40",
+ "sum": [
+  "The LORD instructs Moses to set up the tabernacle on the first day of the first month and anoint everything within it.",
+  "Moses does exactly as commanded, erecting the tabernacle, placing the ark, table, lampstand and altars, and anointing Aaron and his sons.",
+  "A cloud covers the tent and the glory of the LORD fills the tabernacle so completely that Moses is not able to enter.",
+  "The cloud rests over the tabernacle by day and fire by night, guiding all Israel's journeys throughout their travels — the climactic close of the whole book of Exodus."
+ ],
+ "nug": [
+  {
+   "h": "A book that closes exactly where it opened, in a promise fulfilled",
+   "b": "Exodus began with slaves crying out under Egypt's hand and ends here with “the glory of the LORD” filling a tent built by those same former slaves' own free, willing hands (v. 34) — the whole book's arc completed, from bondage to God's own dwelling among His people."
+  },
+  {
+   "h": "Obedience recorded with almost liturgical repetition",
+   "b": "“Thus did Moses: according to all that the LORD commanded him, so did he” (v. 16), echoed again through the chapter (v. 19, 21, 23, 25, 27, 29, 32) — the same emphatic pattern from Exodus 39 continuing right to the very last page, obedience the book's closing note as much as glory."
+  },
+  {
+   "h": "A glory too much even for Moses",
+   "b": "“Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the LORD filled the tabernacle” (v. 35) — the man who spoke with God face to face as a friend, who saw God's back parts pass by on the mountain, still cannot walk into this cloud-filled tent."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 25:8 · 1 Kings 8:10–11 · Revelation 21:3",
+   "qs": [
+    {
+     "th": "The very first instruction for this whole project, back in Exodus 25:8 — “let them make me a sanctuary; that I may dwell among them” — is finally, visibly fulfilled here as the cloud covers the tent and “the glory of the LORD filled the tabernacle” (v. 34), a promise stated on page one of the building project now completely kept.",
+     "q": "Read Exodus 25:8 again alongside Exodus 40:34–35. Looking back over these many weeks of tabernacle chapters, what does it mean to you to finally see that first promise fulfilled?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even Moses, who had unique, face-to-face access to God unlike anyone else in Israel, still couldn't enter the tent once the cloud and glory filled it completely — a reminder that closeness with God doesn't make His holiness any less overwhelming.",
+     "q": "Where in your own walk with God have you experienced His presence as genuinely overwhelming rather than simply comfortable or familiar?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The cloud that rested on the tabernacle by day and the fire by night (v. 38) guided every single stage of Israel's ongoing journey — visible, moment-by-moment direction rather than a single instruction given once and left behind.",
+     "q": "How is the Holy Spirit currently guiding you moment by moment, the way this cloud and fire guided Israel's actual travels, rather than only through decisions made long in the past?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The whole book of Exodus, from the burning bush to the finished tabernacle, closes not with a summary statement but with sheer, visible glory filling an ordinary tent pitched in the middle of a desert camp.",
+     "q": "Praise God today for being a God who actually keeps promises made many chapters, months or years earlier, exactly as fully as He first said He would."
+    }
+   ]
+  }
+ ]
+},
+// Day 208
+{
+ "ref": "Mark 2",
+ "tag": "New Testament",
+ "api": "mark+2",
+ "sum": [
+  "Four friends dig through a roof to lower a paralysed man to Jesus, who forgives his sins before healing him, to the scribes' astonishment.",
+  "Jesus calls Levi the tax collector to follow Him, then eats with tax collectors and sinners, saying He came to call sinners, not the righteous.",
+  "Questioned about fasting, Jesus describes Himself as the bridegroom and speaks of new wine needing new wineskins.",
+  "Jesus and His disciples pluck corn on the sabbath, and He declares that the sabbath was made for man, not man for the sabbath."
+ ],
+ "nug": [
+  {
+   "h": "Forgiveness spoken before healing is even mentioned",
+   "b": "Seeing the faith of the men who tore open a roof to lower their friend down, Jesus says first, “Son, thy sins be forgiven thee” (v. 5) — only afterward proving that authority visibly by healing the man's body (v. 10–11), forgiveness treated as the deeper, primary need."
+  },
+  {
+   "h": "A guest list that scandalised the religious",
+   "b": "“When the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?” (v. 16) — Jesus' answer is unapologetic: “I came not to call the righteous, but sinners to repentance” (v. 17)."
+  },
+  {
+   "h": "A statement that reorders who the sabbath actually serves",
+   "b": "“The sabbath was made for man, and not man for the sabbath” (v. 27) — Jesus doesn't abolish the sabbath but reorders its purpose, a gift given for people's genuine good rather than a burden people exist to carry."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 20:8–11 · Exodus 31:13–14 · Luke 19:10",
+   "qs": [
+    {
+     "th": "The sabbath commanded so carefully back in Exodus 20 and again in Exodus 31 as “a sign… that ye may know that I am the LORD that doth sanctify you” is the very institution Jesus reinterprets here — not cancelling it, but reminding the Pharisees of the purpose it always had, rest given for people's genuine good.",
+     "q": "Read Exodus 31:13–14 alongside Mark 2:27. How does remembering the sabbath's original purpose — a gift, not a burden — change how you think about rest in your own life right now?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The four friends in verses 1–5 couldn't get their paralysed friend through the crowded door, so they climbed onto the roof, dug through it, and lowered him down anyway — determined, inconvenient effort on someone else's behalf.",
+     "q": "Who in your life needs you to go to genuinely inconvenient lengths, the way these four friends did, to bring them into Jesus' presence?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus' image of new wine needing new wineskins (v. 22) pictures something genuinely new that the old, rigid forms simply can't contain without bursting.",
+     "q": "Where might the Holy Spirit be doing something new in your own life or church that an old, rigid way of doing things isn't flexible enough to hold?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Before Jesus heals the paralysed man's body at all, He simply names what he most needed first — forgiveness — without the man or his friends even asking for it explicitly.",
+     "q": "Sit quietly for a few minutes today and simply listen for what Jesus might want to say to you first, before you bring Him your list of requests."
+    }
+   ]
+  }
+ ]
+},
+// Day 209
+{
+ "ref": "Psalm 41",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+41",
+ "sum": [
+  "The psalm opens blessing the one who considers the poor, promising the LORD will preserve, bless and strengthen him in trouble and sickness.",
+  "David describes his own sickbed and prays for mercy and healing, confessing his sin against God.",
+  "He describes enemies who speak evil against him and a close, trusted friend who has betrayed him, lifting up his heel against him.",
+  "He asks God to raise him up so he can repay his enemies, and closes blessing the LORD God of Israel from everlasting to everlasting."
+ ],
+ "nug": [
+  {
+   "h": "A blessing that starts with someone else's need",
+   "b": "“Blessed is he that considereth the poor: the LORD will deliver him in time of trouble” (v. 1) — the psalm's opening blessing is tied specifically to attentiveness toward the poor, not to strength, wisdom or wealth."
+  },
+  {
+   "h": "Betrayal named with startling specificity",
+   "b": "“Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me” (v. 9) — not a stranger or an enemy from the outset, but someone who shared meals and earned genuine trust, betrayal made worse by the closeness it broke."
+  },
+  {
+   "h": "The very words Jesus later applies to Judas",
+   "b": "Jesus quotes this exact verse of Himself in John 13:18 — “that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me” — spoken about Judas at the Last Supper, David's own ancient betrayal becoming the precise language for Christ's."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "John 13:18 · Matthew 26:23 · Genesis 3:15",
+   "qs": [
+    {
+     "th": "Jesus takes David's exact words about his own betrayer — “he that eateth bread with me hath lifted up his heel against me” (v. 9) — and applies them directly to Judas at the Last Supper in John 13:18, a psalm written centuries earlier becoming the precise, deliberate language Jesus chooses for His own coming betrayal.",
+     "q": "Read John 13:18. How does knowing Jesus consciously identified with David's own experience of betrayal shape how you understand His awareness of what Judas was about to do?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's opening blessing rests specifically on considering the poor (v. 1), a deliberate, attentive habit rather than an occasional act of charity when convenient.",
+     "q": "Who around you right now genuinely needs to be \"considered\" — noticed, thought about, actively attended to — rather than simply pitied from a distance?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's honesty about his own sin — “LORD, be merciful unto me: heal my soul; for I have sinned against thee” (v. 4) — comes even while he's also naming real, painful betrayal by others, refusing to let someone else's wrong excuse his own.",
+     "q": "Where might the Holy Spirit be inviting you to own your own sin honestly, even in a season where you're also genuinely wronged by someone else, the way David does here?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's opening blessing promises that the LORD Himself will strengthen and sustain “upon the bed of languishing” (v. 3) the one who considers the poor — care shown to others met, in turn, by God's own care.",
+     "q": "Pray today for someone poor, sick or genuinely struggling that you could \"consider\" more actively this week, asking God to strengthen and provide for them by name."
+    }
+   ]
+  }
+ ]
+},
+// Day 210
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A book that ends exactly where it promised it would",
+   "b": "The very first reason God gave for building anything at all — \"let them make me a sanctuary; that I may dwell among them\" (Exodus 25:8) — is fulfilled word for word as Exodus closes: \"the glory of the LORD filled the tabernacle\" (Exodus 40:34), a promise made at the very start of this long project now completely, visibly kept."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week finished the book of Exodus entirely — the bronze altar and laver in Exodus 38, the finished priestly garments in Exodus 39, and the tabernacle finally raised with God's glory filling it in Exodus 40 — alongside David's testimony of rescue in Psalm 40, Jesus' healing of the paralysed man and His teaching that \"the sabbath was made for man\" in Mark 2, and David's prayer through betrayal in Psalm 41.",
+     "q": "Where this week did watching Exodus finally close with the glory of the LORD filling the tabernacle in Exodus 40:34, after so many weeks spent on its careful construction, most deepen your sense of a promise kept exactly as it was first given?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"I waited patiently for the LORD; and he inclined unto me, and heard my cry\" (Psalm 40:1) — patience that came before the rescue, not only in looking back at it.",
+     "q": "Sit quietly for a few minutes in whatever waiting you're currently in, without rushing to resolve it, and simply rest in the fact that God inclines toward those who wait for Him."
+    }
+   ]
+  }
+ ]
+},
+// Day 211
+{
+ "ref": "Leviticus 1",
+ "tag": "Old Testament",
+ "api": "leviticus+1",
+ "sum": [
+  "The LORD calls to Moses out of the tabernacle and gives instructions for the burnt offering, beginning a new book of detailed worship law.",
+  "A worshipper offering cattle must lay his hand on its head, and it is killed and wholly burnt upon the altar as a sweet savour to the LORD.",
+  "Instructions follow for offering sheep or goats, and then birds, as burnt offerings, each adapted to what the worshipper could afford.",
+  "Each version of the offering closes with the same phrase: a sweet savour, an offering made by fire unto the LORD."
+ ],
+ "nug": [
+  {
+   "h": "A new book, a genuinely different kind of reading",
+   "b": "Leviticus opens exactly where Exodus left off — “the LORD called unto Moses, and spake unto him out of the tabernacle” (v. 1), the very tent just filled with glory in Exodus 40 now becoming the place instruction is given from. The pace changes completely here: after weeks of narrative, and even Mark's breathless opening chapters, Leviticus slows right down into detailed ritual law — a different kind of reading, but not a lesser one, since it's here that the mechanics of approaching a holy God are laid out with genuine care."
+  },
+  {
+   "h": "A hand laid on the animal's head before it dies",
+   "b": "“He shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him” (v. 4) — a deliberate, physical act of identification, the worshipper's own hand connecting him directly to the animal that would die in his place."
+  },
+  {
+   "h": "Room made for what a person could actually afford",
+   "b": "The chapter moves from cattle (v. 3–9) to sheep or goats (v. 10–13) to “turtledoves, or of young pigeons” (v. 14) — the same offering, the same acceptance, scaled to what a poorer worshipper could genuinely bring, rather than one fixed standard that would exclude the poor."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 40:34–35 · Hebrews 10:1–4 · Romans 12:1",
+   "qs": [
+    {
+     "th": "Leviticus opens with God speaking “out of the tabernacle” (v. 1), the very structure whose completion and glory-filling closed the last chapter of Exodus — instruction on how to actually approach that glory now following immediately, book to book, without any narrative gap between the two.",
+     "q": "Read Exodus 40:34–35 again alongside Leviticus 1:1. Why might it matter that detailed instruction on approaching God follows immediately after His glory fills the tabernacle, rather than being given earlier?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Leviticus can feel like a harder book to connect with than Exodus's narrative or Mark's fast-paced healings, full of ritual detail rather than a story to follow — yet every detail here exists to answer a real, ongoing question: how does an ordinary, flawed person actually approach a holy God?",
+     "q": "What's your honest reaction to starting a book like Leviticus? Could treating its careful detail as evidence of how seriously God takes approaching Him change how you read it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The worshipper's hand on the animal's head (v. 4) is a small, physical act that carries real spiritual weight — identification made tangible rather than left only as an inward, invisible feeling.",
+     "q": "Where might the Holy Spirit want your own faith to become more tangible and physical, expressed in some deliberate act rather than staying only inward?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The burnt offering, wholly consumed on the altar rather than partly eaten, pictures total, complete surrender rather than a partial gift kept back in part.",
+     "q": "Bring before God today whatever you've been holding back rather than surrendering completely, and confess honestly where partial obedience has stood in for the whole offering He actually asks for."
+    }
+   ]
+  }
+ ]
+},
+// Day 212
+{
+ "ref": "Leviticus 2",
+ "tag": "Old Testament",
+ "api": "leviticus+2",
+ "sum": [
+  "Instructions are given for the meat (grain) offering of fine flour, oil and frankincense, a portion burned as a memorial and the rest given to the priests.",
+  "Meat offerings baked in an oven, on a griddle or in a pan are all described, each still requiring oil and no leaven.",
+  "No meat offering may contain leaven or honey, but every one must be seasoned with salt, called the salt of the covenant.",
+  "Firstfruits offerings of green ears of corn, dried and beaten, are also described as a sweet savour to the LORD."
+ ],
+ "nug": [
+  {
+   "h": "An offering that didn't require a death",
+   "b": "Unlike the burnt offering of chapter 1, the meat offering is made of “fine flour… oil… and frankincense” (v. 1) — no animal life given up, but still called “a sweet savour unto the LORD” (v. 2), worship expressed through the ordinary produce of daily work and harvest."
+  },
+  {
+   "h": "Two ingredients specifically excluded",
+   "b": "“Ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire” (v. 11) — leaven, associated elsewhere with corruption spreading through a whole batch, and honey, prone to fermentation, both deliberately kept out of what was offered to God."
+  },
+  {
+   "h": "One ingredient specifically required",
+   "b": "“Every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking” (v. 13) — salt, a preservative and a purifier, made a non-negotiable part of every single offering, called by its own covenant name."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Corinthians 5:6–8 · Numbers 18:19 · Colossians 4:6",
+   "qs": [
+    {
+     "th": "Paul later uses the same image of leaven spreading corruption through a whole batch of dough — “a little leaven leaveneth the whole lump” (1 Corinthians 5:6) — urging believers to “purge out therefore the old leaven,” the very ingredient excluded here from every offering becoming, in Paul's hands, a picture of sin's own spreading effect.",
+     "q": "Read 1 Corinthians 5:6–8. How does knowing leaven was deliberately excluded from Israel's offerings sharpen Paul's warning about \"a little leaven\" in your own life or community?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The meat offering required no animal death, only the ordinary produce of flour, oil and grain — a reminder that everyday work and harvest could themselves become genuine worship, not only dramatic sacrifice.",
+     "q": "What ordinary product of your own daily work or effort could you offer to God this week as genuine worship, the way this chapter treats flour and oil?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Salt, called here “the salt of the covenant” (v. 13), was required in every single offering without exception — a small, constant ingredient carrying covenant weight far beyond its size.",
+     "q": "Where might the Holy Spirit be a small but non-negotiable presence in your own life, easy to overlook yet quietly necessary the way this chapter treats salt?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The meat offering turned ordinary flour, oil and grain, the produce of everyday labour, into something specifically called “a sweet savour unto the LORD” (v. 2, 9).",
+     "q": "Thank God today for the ordinary work of your hands this week, and offer it to Him now as genuinely as this chapter treats flour and oil as worship."
+    }
+   ]
+  }
+ ]
+},
+// Day 213
+{
+ "ref": "Psalm 43",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+43",
+ "sum": [
+  "David prays for God to judge his cause and deliver him from a deceitful and unjust nation.",
+  "He asks God to send out His light and truth to lead him to God's holy hill and dwelling place.",
+  "He anticipates going to the altar of God, his exceeding joy, and praising Him there with the harp.",
+  "The psalm closes with the same refrain as Psalm 42, asking his soul why it is cast down and calling it to hope in God."
+ ],
+ "nug": [
+  {
+   "h": "Light and truth asked to do the leading",
+   "b": "“O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill” (v. 3) — David doesn't ask simply to be told the way, but for God's own light and truth to actively guide him there, as though they were living guides sent ahead of him."
+  },
+  {
+   "h": "Joy named with a striking, unhedged word",
+   "b": "David anticipates worship “unto God my exceeding joy” (v. 4) — not merely a comfort or a duty, but joy described in its fullest, most unrestrained form, the destination of this whole prayer for guidance."
+  },
+  {
+   "h": "The very same question asked again",
+   "b": "“Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God” (v. 5) closes this psalm almost word for word as it closed Psalm 42 — the same honest self-address returning, because some discouragement doesn't resolve after just one round of prayer."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 42:5, 11 · John 8:12 · Proverbs 4:18",
+   "qs": [
+    {
+     "th": "This exact refrain — “Why art thou cast down, O my soul… hope thou in God” — already closed Psalm 42 earlier in this reading plan, and returns here at the end of Psalm 43 nearly word for word, suggesting these two psalms were likely written as a single prayer, discouragement genuinely needing to be preached to twice.",
+     "q": "Read back over Psalm 42:5 and 11 alongside Psalm 43:5. Why might it matter that David needed to repeat the exact same self-address rather than settling it once and moving on?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's request for God's “light and truth” to actively lead him (v. 3) assumes he can't simply find his own way to God's presence by effort or cleverness alone, but needs to be actively guided there.",
+     "q": "Where in your own life right now do you need God's light and truth to actively lead you, rather than trying to find your own way there by sheer effort?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David pictures light and truth as things that can be \"sent out\" and can themselves \"lead\" and \"bring\" him somewhere (v. 3) — an unusually active, almost personal picture of how God's guidance actually works.",
+     "q": "Where might the Holy Spirit currently be sending His own light and truth ahead of you, guiding you toward something you haven't fully arrived at yet?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The refrain repeated from Psalm 42 — David talking directly to his own soul, asking it why it's downcast, and commanding it to hope — is itself a kind of quiet, deliberate self-examination rather than words rushed past.",
+     "q": "Sit quietly today and honestly ask your own soul, as David does here, why it might be cast down right now, giving that question real space before moving on to hope."
+    }
+   ]
+  }
+ ]
+},
+// Day 214
+{
+ "ref": "Leviticus 3",
+ "tag": "Old Testament",
+ "api": "leviticus+3",
+ "sum": [
+  "Instructions are given for the peace offering, from the herd or the flock, offered without blemish before the LORD.",
+  "The fat, kidneys and caul above the liver are burned on the altar as an offering made by fire, a sweet savour to the LORD.",
+  "The same instructions are repeated for a lamb and then for a goat offered as a peace offering.",
+  "The chapter closes with a perpetual statute that the people shall eat neither fat nor blood."
+ ],
+ "nug": [
+  {
+   "h": "An offering meant to be shared, not consumed entirely",
+   "b": "Unlike the burnt offering wholly burned in chapter 1, the peace offering's fat portions go to the altar while the rest of the meat is eaten — shared, later chapters make clear, between God, the priest and the worshipper's own family and friends, fellowship built directly into the meal."
+  },
+  {
+   "h": "The same offering, described three separate times",
+   "b": "The instructions for the herd (v. 1–5), the lamb (v. 6–11) and the goat (v. 12–16) repeat almost identically, differing only in the animal — a deliberate thoroughness that leaves no worshipper, whatever animal they could bring, uncertain about how to offer it rightly."
+  },
+  {
+   "h": "A boundary drawn around fat and blood specifically",
+   "b": "“It shall be a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood” (v. 17) — the richest and the most life-laden parts of the animal reserved specifically for God, never treated as ordinary food."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Leviticus 1:3–9 · Ephesians 2:14 · 1 Corinthians 10:16–18",
+   "qs": [
+    {
+     "th": "Where the burnt offering of Leviticus 1 was wholly consumed on the altar, the peace offering here is shared — between God, the priest, and the worshipper's own table — a meal of fellowship that Paul later echoes when describing the Lord's table as a shared communion “of the body of Christ” (1 Corinthians 10:16).",
+     "q": "Read 1 Corinthians 10:16–18 alongside today's chapter. How does the picture of a shared, fellowship meal in the peace offering deepen how you understand communion as genuinely shared fellowship rather than only private remembrance?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The peace offering, unlike the burnt offering, actually became a shared meal — the worshipper's own family and community eating together as part of the act of worship itself.",
+     "q": "Who could you share an actual meal with this week as a genuine act of fellowship, the way this offering combined worship with a shared table?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The thoroughness of describing the very same offering three times over, for herd, lamb and goat alike, shows God's concern that no worshipper be left uncertain about how to approach Him rightly, whatever they had to bring.",
+     "q": "Where might the Holy Spirit be offering you more clarity than you've been giving Him credit for, patiently repeating guidance you've perhaps only half-listened to?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The peace offering pictures worship as something that ends in shared fellowship and genuine peace between God and the worshipper, not only in guilt dealt with or duty discharged.",
+     "q": "Praise God today specifically for peace — not merely the absence of conflict, but the genuine fellowship with Him this offering was named to picture."
+    }
+   ]
+  }
+ ]
+},
+// Day 215
+{
+ "ref": "Mark 3",
+ "tag": "New Testament",
+ "api": "mark+3",
+ "sum": [
+  "Jesus heals a man's withered hand on the Sabbath, angering the Pharisees, who begin plotting with the Herodians to destroy Him.",
+  "Great crowds follow Jesus for healing, while unclean spirits cry out that He is the Son of God, and He charges them to be silent.",
+  "Jesus goes up a mountain and appoints twelve apostles by name to be with Him and to be sent out to preach and to have power to heal and cast out devils.",
+  "Accused by the scribes of casting out devils by Beelzebub, Jesus answers with the parable of a divided kingdom, then names those who do God's will as His true family."
+ ],
+ "nug": [
+  {
+   "h": "A question asked before the healing, not after",
+   "b": "Before healing the man's withered hand, Jesus asks the watching Pharisees directly, “Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill?” (v. 4) — met only with silence, He looks on them “with anger, being grieved for the hardness of their hearts” (v. 5), emotion named plainly on Jesus' own face."
+  },
+  {
+   "h": "Twelve named, for two specific purposes",
+   "b": "Jesus ordains twelve “that they should be with him, and that he might send them forth to preach, and to have power to heal sicknesses, and to cast out devils” (v. 14–15) — companionship and commission named together, being with Him coming before being sent by Him."
+  },
+  {
+   "h": "Family redefined around obedience, not blood",
+   "b": "Told His mother and brothers are outside asking for Him, Jesus looks at those sitting around Him and says, “Behold my mother and my brethren! For whosoever shall do the will of God, the same is my brother, and my sister, and mother” (v. 34–35) — family redrawn around shared obedience rather than shared bloodline alone."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 20:8–11 · 1 Samuel 16:7 · Matthew 12:46–50",
+   "qs": [
+    {
+     "th": "The same sabbath commanded so carefully in Exodus 20 as a gift of rest is now, generations later, used by the Pharisees to accuse Jesus of wrongdoing for healing a man's hand — the same law twisted from its original purpose into a weapon against genuine mercy.",
+     "q": "Read Exodus 20:8–11 alongside Mark 3:1–6. How does seeing the sabbath used here to oppose an act of healing, rather than to picture rest and goodness, warn you against misusing something good God has given?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus doesn't hide His reaction to the Pharisees' silence and hard-heartedness, looking on them “with anger, being grieved” (v. 5) — real emotion, not detached indifference, in response to genuine injustice.",
+     "q": "Is there something in your own life or community right now that genuinely deserves the same kind of grieved anger Jesus shows here, rather than passive acceptance?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The scribes accuse Jesus of casting out devils “by Beelzebub” and having “an unclean spirit” (v. 22, 30) — attributing the Holy Spirit's own work to an evil source, the very sin Jesus calls unforgivable in this chapter (v. 28–29).",
+     "q": "Where might you be at risk of misattributing something genuinely good the Holy Spirit is doing, whether in your own life or someone else's, to the wrong source entirely?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus appoints the twelve specifically “that they should be with him, and that he might send them forth to preach… and to cast out devils” (v. 14–15) — commissioned for the sake of people they hadn't yet reached.",
+     "q": "Pray today for someone you know who needs to hear about Jesus, asking God to send someone, perhaps even you, to reach them the way the twelve were sent out here."
+    }
+   ]
+  }
+ ]
+},
+// Day 216
+{
+ "ref": "Psalm 45",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+45",
+ "sum": [
+  "The psalmist's heart overflows with a good matter as he addresses a song touching the king, calling him fairer than the children of men.",
+  "He describes the king's majesty, sword and throne, declaring it established forever in righteousness.",
+  "He describes the king's garments, the ivory palaces, and a queen in gold of Ophir standing at his right hand.",
+  "The psalm closes promising the king's name will be remembered in all generations, and the people will praise him forever."
+ ],
+ "nug": [
+  {
+   "h": "A throne described as lasting beyond any human dynasty",
+   "b": "“Thy throne, O God, is for ever and ever: the sceptre of thy kingdom is a right sceptre” (v. 6) — language that stretches beyond what any merely human king's reign could actually claim, however great, an everlasting throne named plainly here centuries before any king could fulfil it."
+  },
+  {
+   "h": "Words the book of Hebrews applies directly to Jesus",
+   "b": "Hebrews 1:8 quotes this exact verse as spoken directly of the Son — “But unto the Son he saith, Thy throne, O God, is for ever and ever” — a royal wedding psalm written for an earthly king becoming, in the New Testament's own reading, a description of Christ's own eternal reign."
+  },
+  {
+   "h": "Gladness described as an anointing, not just a feeling",
+   "b": "“God, even thy God, hath anointed thee with the oil of gladness above thy fellows” (v. 7) — joy pictured here not merely as an emotion the king happened to feel, but as something poured out on him deliberately, setting him apart above others."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Hebrews 1:8–9 · 2 Samuel 7:12–13 · Revelation 19:7–9",
+   "qs": [
+    {
+     "th": "Hebrews 1:8 takes this psalm's words about an earthly king's throne — “Thy throne, O God, is for ever and ever” — and applies them directly to Jesus as evidence of His own divine, eternal kingship, a wedding song for a human ruler becoming, in the New Testament's hands, a description of Christ Himself.",
+     "q": "Read Hebrews 1:8–9 alongside Psalm 45:6–7. How does seeing this ancient royal wedding psalm applied directly to Jesus change how you read its language of throne, gladness and anointing?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalmist describes his own heart as overflowing before he's even finished a single line — “my heart is inditing a good matter… my tongue is the pen of a ready writer” (v. 1) — worship that spills out because it genuinely can't be contained.",
+     "q": "When did you last feel your own heart genuinely overflow in worship the way this psalmist describes, rather than worship feeling like an effort to work up?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The king's anointing “with the oil of gladness above thy fellows” (v. 7) pictures the Holy Spirit's own work of setting someone apart, joy itself becoming evidence of a particular calling rather than simply a private mood.",
+     "q": "Where might the Holy Spirit be inviting you to receive genuine gladness as part of your own calling, rather than treating joy as unrelated to serious faith?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole psalm is essentially one long, overflowing thanksgiving for a king whose reign, language and glory turn out to reach further than the psalmist himself could have known, all the way to Christ's own eternal throne.",
+     "q": "Thank God today that Jesus' throne, unlike any merely human one, truly is established \"for ever and ever\" (v. 6), and let that certainty shape your gratitude right now."
+    }
+   ]
+  }
+ ]
+},
+// Day 217
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "The same refrain, needed twice",
+   "b": "Psalm 43 closes with almost the exact words that already closed Psalm 42 earlier in this plan — \"Why art thou cast down, O my soul? … hope thou in God\" (Psalm 43:5) — a reminder that some discouragement genuinely needs to be preached to more than once before it lifts."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week opened a genuinely new book — Leviticus's burnt offering in chapter 1 and grain offering in chapter 2 — alongside David's prayer to be led by God's light and truth in Psalm 43, the peace offering's shared fellowship meal in Leviticus 3, growing opposition and the appointing of the twelve in Mark 3, and Psalm 45's royal wedding song later applied directly to Christ.",
+     "q": "Where this week did the shift from Exodus's narrative into Leviticus's careful ritual law in chapters 1 through 3, or Jesus renaming His true family around obedience in Mark 3:34–35, most challenge how you think about approaching and belonging to God?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill\" (Psalm 43:3) — a prayer to be actively guided, not merely informed.",
+     "q": "Sit quietly for a few minutes and simply ask God's light and truth to lead you somewhere specific this coming week, trusting Him to actually bring you there rather than leaving you to find the way alone."
+    }
+   ]
+  }
+ ]
 }
 ];
