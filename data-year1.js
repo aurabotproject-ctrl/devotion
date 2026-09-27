@@ -17755,5 +17755,8625 @@ const YEAR1=[
    ]
   }
  ]
+},
+// Day 253
+{
+ "ref": "Leviticus 19",
+ "tag": "Old Testament",
+ "api": "leviticus+19",
+ "sum": [
+  "The LORD calls Israel to \"be holy, for I am holy,\" and immediately works that holiness out into an unusually wide range of everyday relationships and habits.",
+  "Instructions cover honest business, fair courts that favour neither rich nor poor, and prompt payment of a hired man's wages.",
+  "Israel is forbidden to hate a brother in the heart, take vengeance, or bear a grudge, and is commanded instead to love the neighbour as oneself.",
+  "Further laws address mixing of kinds, pagan mourning customs, honouring the elderly, and loving the resident stranger as oneself, since Israel too were once strangers in Egypt."
+ ],
+ "nug": [
+  {
+   "h": "One command, worked out in a hundred small directions",
+   "b": "\"Ye shall be holy: for I the LORD your God am holy\" (v. 2) opens the chapter as a single, sweeping call, and everything that follows — honest weights, prompt wages, fair courts, gleaning laws — reads as that same holiness worked all the way down into the most ordinary transactions of daily life, not reserved only for the tabernacle."
+  },
+  {
+   "h": "Left standing in the field, on purpose",
+   "b": "\"Thou shalt not wholly reap the corners of thy field... thou shalt leave them for the poor and stranger\" (v. 9-10) built provision for the poor directly into the economics of harvest itself, a deliberate margin of generosity rather than a private, occasional charity."
+  },
+  {
+   "h": "A wage that couldn't wait till morning",
+   "b": "\"The wages of him that is hired shall not abide with thee all night until the morning\" (v. 13) recognised how completely a day labourer's household depended on that single day's pay, treating delay itself as a form of injustice."
+  },
+  {
+   "h": "Rebuke required, not just tolerance withheld",
+   "b": "\"Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him\" (v. 17) names silent, unaddressed resentment as its own kind of failure — staying quiet was never the same thing as genuinely loving someone."
+  },
+  {
+   "h": "The verse Jesus later ranked second only to loving God",
+   "b": "\"Thou shalt not avenge, nor bear any grudge... but thou shalt love thy neighbour as thyself: I am the LORD\" (v. 18) sits almost buried among dozens of smaller commands here, yet becomes, centuries later, the very words Jesus names as the second great commandment."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Matthew 22:37-40 · Romans 13:9-10 · James 2:8",
+   "qs": [
+    {
+     "th": "Jesus quotes this chapter's exact words — \"thou shalt love thy neighbour as thyself\" (v. 18) — and calls it the second great commandment, \"like unto\" loving God with all your heart (Matthew 22:39), showing that this one line from a long list of case laws was never a minor rule among many.",
+     "q": "Read Matthew 22:37-40 alongside Leviticus 19:18. Why might Jesus have reached back to this specific verse, out of everything in the law, to summarise how people should treat one another?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter names hidden resentment, not just visible cruelty, as a genuine failure to love — \"thou shalt not hate thy brother in thine heart\" (v. 17) reaches into feelings no one else could see.",
+     "q": "Is there someone you're quietly holding a grudge against right now, even while treating them politely on the surface? What would honest love, as this verse describes it, actually require of you?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The command to \"in any wise rebuke thy neighbour, and not suffer sin upon him\" (v. 17) assumes that real love sometimes means speaking up rather than staying comfortably silent.",
+     "q": "Where might the Holy Spirit be nudging you to have an honest conversation you've been avoiding, out of a mistaken idea that silence is kinder?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's repeated refrain, \"I am the LORD\" (v. 10, 12, 14, 16, 18, and elsewhere), anchors even its smallest instructions in the character of the God who gave them, not in mere social convenience.",
+     "q": "Confess to God today any place where you've quietly let a grudge, a shortcut in honesty, or unkindness toward someone vulnerable slide by unaddressed."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 254
+{
+ "ref": "Leviticus 20",
+ "tag": "Old Testament",
+ "api": "leviticus+20",
+ "sum": [
+  "The LORD commands death by stoning for anyone who gives their children to Molech, and warns that He himself will act against anyone who overlooks it.",
+  "Cursing father or mother, adultery, and a list of specific sexual sins are each named and given a set penalty, most often death.",
+  "Israel is commanded again to sanctify themselves and be holy, since the LORD has severed them from other peoples to be His own.",
+  "The chapter closes explaining that Israel must keep all these statutes and judgments so the land will not vomit them out, as it vomited out the nations before them."
+ ],
+ "nug": [
+  {
+   "h": "A penalty for looking away, not only for doing",
+   "b": "\"If the people of the land do any ways hide their eyes from that man, when he giveth of his seed unto Molech, and kill him not: then I will set my face against that man... and will cut him off\" (v. 4-5) — turning a blind eye to evident wrong is treated here as its own kind of guilt, not a neutral non-involvement."
+  },
+  {
+   "h": "Holiness described as being set apart, twice over",
+   "b": "\"Ye shall be holy unto me: for I the LORD am holy, and have severed you from other people, that ye should be mine\" (v. 26) uses the same word — severed, set apart — that this whole chapter's laws work out in painfully specific detail, holiness pictured as a genuine, visible difference from the surrounding nations."
+  },
+  {
+   "h": "A land pictured as unable to stomach certain things",
+   "b": "\"That the land spue not you out also, when ye defile it, as it spued out the nations that were before you\" (v. 22) gives the land itself something like a limit, unable to indefinitely tolerate the practices this chapter forbids."
+  },
+  {
+   "h": "Sins named specifically rather than left general",
+   "b": "Rather than a single broad statement against sexual sin, this chapter lists case after case by name — with a stepmother (v. 11), a daughter-in-law (v. 12), between men (v. 13), a wife and her mother together (v. 14) — a bluntness that leaves little room for the law to be read as vague or merely aspirational."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Leviticus 18:1-5 · Deuteronomy 18:9-12 · 1 Corinthians 6:9-11",
+   "qs": [
+    {
+     "th": "Leviticus 18 had already forbidden the very practices this chapter now attaches specific penalties to, the two chapters reading together as instruction and consequence — what was described there as defiling the land is punished here as a real, prosecutable offence.",
+     "q": "Read Leviticus 18:1-5 alongside Leviticus 20:22-24. Why might God have paired a description of what defiles the land with such severe, specific penalties, rather than leaving the earlier chapter to stand as a general ideal?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The warning against those who \"hide their eyes\" from wrongdoing (v. 4) challenges the comfortable idea that simply not participating in evil is the same thing as opposing it.",
+     "q": "Is there a wrong you've been quietly looking away from rather than confronting, telling yourself that staying uninvolved keeps you innocent?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Being \"severed\" and set apart \"that ye should be mine\" (v. 26) describes holiness as belonging to God in a way that visibly, practically differs from the culture around it.",
+     "q": "Where might the Holy Spirit be asking you to look more visibly different from the people around you, rather than blending comfortably in?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter assumes that real, specific sin has real, specific consequences, and that turning a blind eye to it carries its own guilt (v. 4-5).",
+     "q": "Confess to God today any specific wrong you've been minimising or excusing, whether your own or something you've simply chosen not to notice in someone else."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 255
+{
+ "ref": "Psalm 7",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+7",
+ "sum": [
+  "David appeals to God for deliverance from his pursuers, praying that if he has done wrong to a friend he would rather be caught and trodden down himself.",
+  "He calls on God to arise and judge, awarding him according to his own righteousness and integrity, while bringing the wickedness of the wicked to an end.",
+  "David pictures God as a righteous judge, angry with the wicked every day, sharpening His sword for whoever will not turn.",
+  "The psalm closes describing how the wicked man's own violence and mischief return upon his own head, and David vows to praise the LORD for His righteousness."
+ ],
+ "nug": [
+  {
+   "h": "A prayer that risks its own request",
+   "b": "\"If I have done this... let the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth\" (v. 3-5) is a striking prayer — David doesn't simply assert his innocence, he invites the very punishment he's fleeing if his own conscience is actually guilty."
+  },
+  {
+   "h": "God pictured as searching the deepest part of a person",
+   "b": "\"The righteous God trieth the hearts and reins\" (v. 9) uses an old figure of speech for the inward parts, the kidneys, as the seat of a person's most hidden motives — nothing about David's own case rests on outward appearance alone."
+  },
+  {
+   "h": "A trap that catches its own maker",
+   "b": "\"He made a pit, and digged it, and is fallen into the ditch which he made. His mischief shall return upon his own head\" (v. 14-16) pictures the wicked man's own scheme as the very thing that finally destroys him, justice arriving almost mechanically out of his own actions."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 9:15-16 · Proverbs 26:27 · Galatians 6:7",
+   "qs": [
+    {
+     "th": "Psalm 9, likely written alongside this one and sharing its heading's language of enemies and judgment, already declares that \"the heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken\" (Psalm 9:15) — the very picture this psalm returns to of a trap that catches its own builder.",
+     "q": "Read Psalm 9:15-16 alongside Psalm 7:14-16. What does it mean to you that this picture of self-destructive wickedness appears in two neighbouring psalms rather than just one?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's willingness to be judged by his own standard — \"if I have done this... let the enemy... tread down my life\" (v. 3-5) — models an integrity that doesn't ask for a different measure than it would apply to anyone else.",
+     "q": "Would you be willing to have your own recent conduct toward someone judged by exactly the standard you'd want applied to them? Where does that make you uncomfortable?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The description of God as one who \"trieth the hearts and reins\" (v. 9) pictures an examination that reaches far below any outward behaviour, into motive itself.",
+     "q": "Where might the Holy Spirit currently be trying your own heart and inward motives, in a way that goes deeper than how your actions actually look from outside?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's whole prayer here is a direct appeal for God to \"arise\" and act on behalf of someone genuinely under threat (v. 6), pleading his case rather than taking matters into his own hands.",
+     "q": "Bring before God today someone you know who is under real pressure or false accusation, asking Him to act as their judge and defender the way David asks here for himself."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 256
+{
+ "ref": "Leviticus 21",
+ "tag": "Old Testament",
+ "api": "leviticus+21",
+ "sum": [
+  "The LORD gives special holiness rules for ordinary priests, restricting whom they may mourn for and whom they may marry.",
+  "A priest's daughter who plays the harlot profanes her father and is to be burnt with fire, a harsher penalty than for others.",
+  "Even stricter rules govern the high priest, who may not uncover his head, rend his clothes, or go near any dead body, and may only marry a virgin of his own people.",
+  "A priest with any physical blemish may still eat the priests' holy bread but may not come near the altar or go in behind the veil to offer it."
+ ],
+ "nug": [
+  {
+   "h": "Grief itself brought under careful limits",
+   "b": "Ordinary priests may defile themselves only for the closest of kin — mother, father, son, daughter, brother, or an unmarried sister (v. 1-3) — even something as universal and instinctive as mourning was drawn within the boundaries of priestly holiness."
+  },
+  {
+   "h": "A standard raised again for the one who stood highest",
+   "b": "The high priest's restrictions go further still — he \"shall not uncover his head, nor rend his clothes... neither shall he go in to any dead body\" even for his own father or mother (v. 10-11) — the office itself carrying a weight of holiness beyond what was asked of other priests."
+  },
+  {
+   "h": "Exclusion from the altar, not from provision",
+   "b": "\"He shall eat the bread of his God... only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish\" (v. 22-23) — a priest disqualified by physical blemish from active service was still fed and cared for, excluded from one role without being excluded from belonging."
+  },
+  {
+   "h": "A list of blemishes read almost like a body inventory",
+   "b": "Verses 18-20 name blindness, lameness, a flat nose, anything superfluous, a broken foot or hand, a crookback, a dwarf, blemished eyes, scurvy, scabbed skin, and broken stones — an oddly specific, almost clinical list, showing how literally this chapter took the idea of physical wholeness before the altar."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Hebrews 7:26-28 · 1 Peter 2:5 · Malachi 2:7",
+   "qs": [
+    {
+     "th": "Hebrews later describes the priest Israel actually needed as one \"holy, harmless, undefiled, separate from sinners\" (Hebrews 7:26) — language that reads like the fulfilment of exactly the kind of unblemished, set-apart standard this chapter demands, but now perfectly met in a single high priest rather than approximated by a whole priestly line.",
+     "q": "Read Hebrews 7:26-28 alongside Leviticus 21:16-23. How does it change your reading of this chapter's strict physical standards to know they were always pointing toward a priest who could actually meet them completely?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter draws a real distinction between disqualification from a specific role and exclusion from provision and belonging (v. 22-23) — a blemished priest was still fed, still family, even while barred from the altar itself.",
+     "q": "Have you ever assumed that being disqualified from one particular role or ministry meant you'd been shut out of belonging altogether? Where might that assumption need correcting?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The high priest's restrictions go beyond what was asked of ordinary priests (v. 10-15), the weight of holiness increasing rather than easing the higher the office.",
+     "q": "Where might the Holy Spirit be asking more of you specifically because of a position of responsibility or influence you now carry?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter quietly assumes that closeness to God's altar carries real cost and real limits, even for those already set apart to serve there.",
+     "q": "Sit quietly today and consider, without rushing to a conclusion, what it might cost you to draw nearer to God than you currently do."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 257
+{
+ "ref": "Mark 9",
+ "tag": "New Testament",
+ "api": "mark+9",
+ "sum": [
+  "Jesus is transfigured before Peter, James and John, His clothing becoming shining white, and Moses and Elijah appear talking with Him, until a voice from a cloud says, \"This is my beloved Son: hear him.\"",
+  "Coming down the mountain, Jesus casts an unclean spirit out of a boy the disciples could not heal, after the father cries, \"Lord, I believe; help thou mine unbelief.\"",
+  "Jesus again predicts His own death and resurrection, and rebukes the disciples' argument over who is greatest, setting a child among them.",
+  "He warns against causing a little one to stumble, teaches on cutting off whatever offends rather than being cast into hell, and closes urging His disciples to have salt in themselves and peace with one another."
+ ],
+ "nug": [
+  {
+   "h": "A voice that redirects attention at the peak of glory",
+   "b": "Peter offers to build three tabernacles, one each for Jesus, Moses and Elijah, but a cloud overshadows them and a voice says simply, \"This is my beloved Son: hear him\" (v. 7) — even in a moment of overwhelming glory, the instruction given is to listen, not to build or preserve the experience."
+  },
+  {
+   "h": "Honesty that doesn't wait for doubt to disappear first",
+   "b": "\"Lord, I believe; help thou mine unbelief\" (v. 24) holds both halves of the father's condition together in a single breath, faith and doubt spoken in the very same sentence rather than one waiting to be resolved before the other is admitted."
+  },
+  {
+   "h": "A greatness measured by whom you're willing to welcome",
+   "b": "Jesus sets a child in the disciples' midst and says, \"Whosoever shall receive one of such children in my name, receiveth me\" (v. 37), redefining greatness away from status and toward the willingness to welcome someone with nothing to offer in return."
+  },
+  {
+   "h": "Language pushed to its most extreme to make a point",
+   "b": "\"If thy hand offend thee, cut it off... it is better for thee to enter into life maimed, than having two hands to go into hell\" (v. 43) uses deliberately shocking, hyperbolic language to make plain how seriously sin's cost should be taken, not a literal instruction to self-mutilate."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 18:15 · Isaiah 53:3-5 · Philippians 2:3-4",
+   "qs": [
+    {
+     "th": "The voice from the cloud, \"hear him\" (v. 7), echoes Moses' own ancient promise that God would one day \"raise up unto thee a Prophet... unto him ye shall hearken\" (Deuteronomy 18:15) — Moses himself, present at the Transfiguration, standing beside the very prophet his own words had long pointed toward.",
+     "q": "Read Deuteronomy 18:15 alongside Mark 9:2-7. What does it mean to you that Moses is shown here deferring to the one his own writings had promised would come after him?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The father's cry, \"Lord, I believe; help thou mine unbelief\" (v. 24), refuses to pretend his faith is stronger or more settled than it actually is.",
+     "q": "Where is your own faith genuinely mixed with doubt right now, and what would it look like to bring both halves honestly to God rather than only the part that sounds more impressive?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The disciples' argument over \"who should be the greatest\" (v. 34) happened right on the heels of Jesus' second plain prediction of His own suffering and death — status still occupying their minds even after hearing exactly where He was actually heading.",
+     "q": "Where might the Holy Spirit be exposing a competitive, status-conscious instinct in you that keeps surfacing even when you know it doesn't match what Jesus is actually calling you toward?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus' warning about causing \"one of these little ones that believe in me\" to stumble (v. 42) treats influence over the vulnerable as something to be handled with real seriousness, not carelessness.",
+     "q": "Confess to God today any way your words, example or impatience may have made it harder rather than easier for someone more vulnerable than you to trust Him."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 258
+{
+ "ref": "Psalm 10",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+10",
+ "sum": [
+  "The psalmist asks why the LORD stands far off and hides Himself in times of trouble, while the wicked pursues and boasts of his heart's desire.",
+  "The wicked man is described as proud, godless, deceitful, and confident that he will never be moved or brought into trouble.",
+  "He is pictured lying in wait for the poor and innocent like a lion in his den, believing that God has forgotten and will never see.",
+  "The psalmist appeals to God to arise, break the arm of the wicked, and hear the desire of the humble, judging the fatherless and the oppressed."
+ ],
+ "nug": [
+  {
+   "h": "A question that names God's apparent silence directly",
+   "b": "\"Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?\" (v. 1) opens with a blunt question rather than an assumed answer, honest confusion voiced straight to God rather than suppressed."
+  },
+  {
+   "h": "Pride described as having no room left for God at all",
+   "b": "\"The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts\" (v. 4) — the problem isn't stated wrong belief so much as total absence, God simply crowded entirely out of the wicked man's mind."
+  },
+  {
+   "h": "A confidence built on assumed divine forgetfulness",
+   "b": "\"He hath said in his heart, God hath forgotten: he hideth his face; he will never see it\" (v. 11) exposes the wicked man's whole scheme as ultimately resting on a bet that God either doesn't notice or doesn't care."
+  },
+  {
+   "h": "A God who is called the helper of exactly those with no other helper",
+   "b": "\"The poor committeth himself unto thee; thou art the helper of the fatherless\" (v. 14) names God's specific role toward those with no other advocate, directly answering the wicked man's assumption that no one is watching."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 9:9-10 · Habakkuk 1:2-4 · James 5:1-6",
+   "qs": [
+    {
+     "th": "Psalm 9, likely composed as one continuous acrostic with this psalm in the original Hebrew, has already declared that \"the LORD also will be a refuge for the oppressed, a refuge in times of trouble\" (Psalm 9:9) — a settled confidence this psalm now seems to directly question, the two halves of one psalm holding both trust and honest doubt together.",
+     "q": "Read Psalm 9:9-10 alongside Psalm 10:1. How do you hold together this psalm's confident earlier declaration and its later, honest complaint that God seems far off?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The wicked man's confidence that \"God hath forgotten: he hideth his face; he will never see it\" (v. 11) describes a kind of practical atheism, not disbelief in God's existence but functional disregard for His attention.",
+     "q": "Where might you be quietly living as though God isn't really watching or paying attention to a particular part of your life?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole psalm assumes God genuinely hears \"the desire of the humble\" (v. 17) even when His action seems delayed or hidden from view.",
+     "q": "Where might the Holy Spirit be asking you to keep trusting that God has heard you, even in a situation where His answer still feels genuinely far off?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing plea is specifically for \"the fatherless and the oppressed, that the man of the earth may no more oppress\" (v. 18) — prayer aimed outward, on behalf of the vulnerable rather than only the psalmist's own troubles.",
+     "q": "Pray today for someone genuinely vulnerable to being taken advantage of, asking God to be, as this psalm insists He is, the helper of exactly such people."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 259
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "Two neighbouring psalms, one open question",
+   "b": "Psalm 9 and Psalm 10 were most likely written as a single acrostic poem in the original Hebrew, later divided into two — meaning the confident refuge of Psalm 9:9 and the honest complaint of Psalm 10:1 were never meant to be read as two separate moods, but as one whole, unresolved prayer held together."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Leviticus 19's sweeping call to holiness worked out in daily honesty and love of neighbour, Leviticus 20's serious penalties for defiling both worship and family, Psalm 7's appeal to the God who tries the heart, Leviticus 21's careful holiness standards for the priesthood, Mark 9's Transfiguration and the father's cry \"Lord, I believe; help thou mine unbelief,\" and Psalm 10's honest question about God's apparent silence toward the suffering.",
+     "q": "Where this week did the father's honest mixture of faith and doubt in Mark 9:24, or the psalmist's blunt question in Psalm 10:1 — \"why hidest thou thyself?\" — most give you permission to bring an unresolved, mixed feeling honestly to God rather than tidying it up first?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"This is my beloved Son: hear him\" (Mark 9:7) — even Moses and Elijah, at the height of glory, are shown giving way to the instruction simply to listen.",
+     "q": "Sit quietly for a few minutes and simply listen, without adding your own words or requests, the way this voice from the cloud instructs."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 260
+{
+ "ref": "Leviticus 22",
+ "tag": "Old Testament",
+ "api": "leviticus+22",
+ "sum": [
+  "Priests are commanded to separate themselves from the holy things when unclean, on pain of being cut off from the LORD's presence.",
+  "Only a priest and those in his household who are ritually clean may eat of the holy things, with specific instructions for what defiles and disqualifies.",
+  "Offerings brought to the LORD must be without blemish, since anything with a blemish, a defect or a deformity is not acceptable.",
+  "The chapter closes forbidding an animal and its young from being killed on the same day, and repeating the call to keep God's commandments, since He is the LORD who hallows them."
+ ],
+ "nug": [
+  {
+   "h": "Access to holy food made conditional, not automatic",
+   "b": "\"Whatsoever man of the seed of Aaron... hath any blemish, he shall not approach to offer the bread of his God\" (v. 4, echoing chapter 21) is reinforced here from another angle — even a priest's own household needed to be genuinely clean, not merely related to Aaron by birth, before eating what was holy."
+  },
+  {
+   "h": "A standard of \"without blemish\" applied all the way down the list",
+   "b": "\"Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats\" (v. 19), followed by a detailed list of disqualifying defects — blind, broken, maimed, having a wen, scurvy, or scabbed (v. 22) — nothing second-rate considered acceptable simply because it cost the worshipper less."
+  },
+  {
+   "h": "A small mercy tucked inside a demanding law",
+   "b": "\"Whether it be cow or ewe, ye shall not kill it and her young both in one day\" (v. 28) shows unexpected tenderness even within a chapter otherwise focused on exacting standards, one small boundary protecting something like a mother animal's dignity."
+  },
+  {
+   "h": "Holiness traced back to being brought out of Egypt",
+   "b": "\"I am the LORD which hallow you, that brought you out of the land of Egypt, to be your God: I am the LORD\" (v. 32-33) grounds this chapter's demanding standards not in arbitrary rule-making, but in what God had already done for Israel before ever asking anything of them."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Malachi 1:6-8 · 2 Samuel 24:24 · Romans 12:1",
+   "qs": [
+    {
+     "th": "Centuries later, Malachi rebukes Israel for offering \"the blind... the lame, and the sick\" as sacrifices (Malachi 1:8), the very defects this chapter had explicitly ruled out (v. 22) — the same standard given here eventually neglected, offerings brought that cost the worshipper nothing.",
+     "q": "Read Malachi 1:6-8 alongside Leviticus 22:20-24. Where might you be tempted to offer God something less than your best, telling yourself it's good enough because it still technically counts?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's insistence, generations later, that he \"will not offer burnt offerings unto the LORD my God of that which doth cost me nothing\" (2 Samuel 24:24), captures the spirit behind this chapter's demand for unblemished offerings — genuine cost as part of genuine worship.",
+     "q": "Where in your own giving, service or worship have you been offering something that costs you comfortably little, rather than what would actually cost you something real?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter treats what is brought to God as a reflection of how seriously that worshipper takes Him, not a mere formality to complete.",
+     "q": "Where might the Holy Spirit be inviting you to bring your very best to Him in some specific area, rather than whatever is simply convenient or left over?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The repeated insistence on offerings \"without blemish\" (v. 19-25) invites honest reflection on whether our own worship and service have quietly become careless or half-hearted.",
+     "q": "Confess to God today any place where your worship, work or generosity has become a leftover rather than a genuine best offering."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 261
+{
+ "ref": "Leviticus 23",
+ "tag": "Old Testament",
+ "api": "leviticus+23",
+ "sum": [
+  "The LORD lays out Israel's appointed feasts, beginning with the weekly sabbath, then Passover and the Feast of Unleavened Bread in the first month.",
+  "Firstfruits requires a sheaf waved before the LORD, and fifty days later the Feast of Weeks brings a new grain offering and further sacrifices.",
+  "The seventh month brings the Feast of Trumpets, the Day of Atonement with its solemn affliction of soul, and the joyful week-long Feast of Tabernacles.",
+  "Israel is commanded to dwell in booths during Tabernacles so future generations will know that God made their fathers dwell in booths when He brought them out of Egypt."
+ ],
+ "nug": [
+  {
+   "h": "A whole year's rhythm named as \"holy convocations\"",
+   "b": "\"These are the feasts of the LORD, even holy convocations, which ye shall proclaim in their seasons\" (v. 4) frames Israel's entire calendar around gathering to God at fixed points throughout the year, worship built into time itself rather than left to occasional impulse."
+  },
+  {
+   "h": "A count of fifty days built into the calendar",
+   "b": "Firstfruits and the Feast of Weeks are separated by an exact count — \"ye shall count unto you from the morrow after the sabbath... even unto the morrow after the seventh sabbath shall ye number fifty days\" (v. 15-16) — a deliberate, counted anticipation rather than a vague waiting."
+  },
+  {
+   "h": "The same gleaning law repeated in the middle of the feasts",
+   "b": "Right inside the instructions for the Feast of Weeks, the LORD repeats almost word for word the command already given in Leviticus 19:9-10 — \"thou shalt leave them unto the poor, and to the stranger\" (v. 22) — care for the poor woven directly into the nation's most joyful harvest celebration."
+  },
+  {
+   "h": "A festival designed to keep a memory alive physically",
+   "b": "\"Ye shall dwell in booths seven days... that your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt\" (v. 42-43) — Tabernacles required Israel to physically re-enact wilderness dependence, not merely retell it in words."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 12:1-14 · 1 Corinthians 5:6-8 · John 7:37-38",
+   "qs": [
+    {
+     "th": "Paul writes plainly that \"Christ our passover is sacrificed for us\" (1 Corinthians 5:7), directly identifying the Passover lamb this chapter commands with the death of Christ, the ancient feast's meaning finally arriving at its fulfilment.",
+     "q": "Read Exodus 12:1-14 alongside Leviticus 23:5-8 and 1 Corinthians 5:7-8. What difference does it make to read Passover's instructions here already knowing what they were always pointing toward?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Tabernacles required Israel to physically live in temporary shelters, not just remember the wilderness in their minds (v. 42-43) — a bodily, inconvenient way of keeping a memory genuinely alive.",
+     "q": "What is one spiritual truth you know well in your head but rarely let shape your actual, physical, everyday habits the way this festival did?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The gleaning law repeated in the middle of this chapter's feasts (v. 22) shows generosity toward the poor treated as inseparable from genuine celebration before God, not a separate, unrelated concern.",
+     "q": "Where might the Holy Spirit be inviting you to build generosity into your own celebrations and good times, rather than keeping the two entirely apart?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire chapter structures Israel's year around repeated, appointed occasions to remember and give thanks for what God had done for them.",
+     "q": "Thank God today for a specific way He has provided for you this year, deliberately setting the moment apart the way this chapter sets apart Israel's feasts."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 262
+{
+ "ref": "Psalm 11",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+11",
+ "sum": [
+  "David responds to advice that he flee like a bird to the mountains, since the wicked bend their bow to shoot at the upright in darkness.",
+  "He asks what the righteous can do if the very foundations are destroyed, but answers his own question by declaring that the LORD is in His holy temple, His throne in heaven.",
+  "God's eyes behold and try the children of men, loving righteousness and hating the wicked and the lover of violence.",
+  "The psalm closes with the assurance that upon the wicked God will rain snares, fire and brimstone, while the upright shall behold His face."
+ ],
+ "nug": [
+  {
+   "h": "Advice to flee, met with a question instead",
+   "b": "\"How say ye to my soul, Flee as a bird to your mountain?\" (v. 1) records specific counsel David received to simply run from danger, which he answers not with panic but with a settled counter-question about where real security actually lies."
+  },
+  {
+   "h": "A question that refuses an easy answer",
+   "b": "\"If the foundations be destroyed, what can the righteous do?\" (v. 3) voices a genuinely hard question — what happens when the very structures you'd normally rely on for safety are the thing collapsing — without pretending the difficulty away."
+  },
+  {
+   "h": "Security relocated from the ground to the throne",
+   "b": "David answers his own unsettling question not by describing safer circumstances, but by pointing upward — \"the LORD is in his holy temple, the LORD's throne is in heaven\" (v. 4) — trust anchored in God's unshaken rule rather than in stable earthly ground."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 46:1-3 · 2 Corinthians 4:8-9 · 1 Peter 3:13-14",
+   "qs": [
+    {
+     "th": "Psalm 46's confidence that \"we will not fear, though the earth be removed\" (Psalm 46:2) answers this psalm's own hard question almost directly — even total, foundational collapse doesn't leave the righteous with nothing, because God's rule was never dependent on the ground staying still.",
+     "q": "Read Psalm 46:1-3 alongside Psalm 11:1-4. When circumstances you'd normally rely on have felt genuinely unstable, where have you located your actual sense of safety?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David was given specific, sensible-sounding advice to flee (v. 1), yet chose instead to examine where his security truly rested before deciding how to respond.",
+     "q": "When you're given advice to run from a hard situation, how do you usually discern whether that's wisdom or simply fear talking?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"The LORD trieth the righteous\" (v. 5) pictures God's ongoing examination of His people as part of His love for them, not a threat held over them.",
+     "q": "Where might the Holy Spirit currently be testing something in you, and how does it change your response to see that testing as an expression of love rather than suspicion?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing confidence — \"the upright shall behold his face\" (v. 7) — sets a vision of eventually seeing God directly against every threat named earlier in the psalm.",
+     "q": "Praise God today specifically for being unshaken, however unstable your own circumstances currently feel."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 263
+{
+ "ref": "Leviticus 24",
+ "tag": "Old Testament",
+ "api": "leviticus+24",
+ "sum": [
+  "Israel is commanded to bring pure beaten olive oil to keep lamps burning continually before the LORD, tended by Aaron from evening to morning.",
+  "Twelve loaves of showbread are set in two rows on the pure table before the LORD every sabbath, a perpetual covenant belonging to Aaron and his sons.",
+  "A man blasphemes the Name in a fight and is put in custody until the LORD's judgment is made known, then stoned to death by the whole congregation.",
+  "The LORD restates the law of exact retribution — life for life, eye for eye, tooth for tooth — applying it equally to the stranger and to Israel's own people."
+ ],
+ "nug": [
+  {
+   "h": "Light that was never allowed to be an afterthought",
+   "b": "\"Pure oil olive beaten for the light, to cause the lamps to burn continually\" (v. 2) required deliberate, ongoing tending from Aaron \"from evening unto morning before the LORD continually\" (v. 3) — light maintained as a perpetual, active duty rather than lit once and forgotten."
+  },
+  {
+   "h": "Bread that stayed fresh before God week after week",
+   "b": "Twelve fresh loaves, one for each tribe, were set before the LORD every sabbath in two rows of six, \"a perpetual covenant\" (v. 8) — a constant, renewed reminder of the whole nation's presence before God, never allowed to grow stale."
+  },
+  {
+   "h": "A punishment applied without regard for a person's background",
+   "b": "The blasphemer's mother is named as an Israelite but his father an Egyptian (v. 10-11), yet the law explicitly insists, \"Ye shall have one manner of law, as well for the stranger, as for one of your own country\" (v. 22) — mixed parentage offering no exemption either way."
+  },
+  {
+   "h": "A boundary meant to limit revenge, not license it",
+   "b": "\"Breach for breach, eye for eye, tooth for tooth\" (v. 20) reads harshly in isolation, but functioned as a limit on retaliation, ensuring punishment matched the offence exactly rather than escalating without restraint."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 27:20-21 · Matthew 5:38-39 · Hebrews 9:2",
+   "qs": [
+    {
+     "th": "Jesus later takes this exact law — \"an eye for an eye, and a tooth for a tooth\" (Matthew 5:38) — and calls His disciples to something even further, personal non-retaliation, not because the original law was unjust but because He was calling for something beyond its floor of restrained justice.",
+     "q": "Read Matthew 5:38-39 alongside Leviticus 24:19-20. How do you hold together this law's legitimate concern for proportionate justice and Jesus' call to go further still, absorbing wrong rather than merely limiting retaliation for it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The continually burning lamp and the perpetually fresh bread (v. 2-8) both required someone's unglamorous, repeated attention, week after week, with no dramatic moment marking the effort.",
+     "q": "What ordinary, repeated task in your own life or faith currently needs the kind of quiet, continual tending this lamp and this bread required?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The law's insistence on \"one manner of law... for the stranger\" as for Israel's own people (v. 22) resists the temptation to apply different standards depending on who someone is or where they come from.",
+     "q": "Where might the Holy Spirit be exposing an inconsistency in how fairly or generously you actually treat people who are different from you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter moves from quiet, ongoing acts of devotion — a tended lamp, fresh bread — to a sudden, disruptive act of blasphemy that required the whole community to pause and wait for the LORD's judgment (v. 12).",
+     "q": "Sit quietly today and consider what steady, ongoing devotion, like this lamp and this bread, most needs your attention right now."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 264
+{
+ "ref": "Mark 10",
+ "tag": "New Testament",
+ "api": "mark+10",
+ "sum": [
+  "Jesus answers the Pharisees' question about divorce by pointing back to God's original design in creation, calling what God has joined together not to be put asunder.",
+  "He receives little children brought to Him, teaching that the kingdom of God belongs to such as these, and warns a rich young ruler that he lacks one thing — to sell all he has and follow Him.",
+  "James and John ask for the chief seats in Jesus' glory, and Jesus redefines greatness as serving others, since even the Son of man came to serve and give His life a ransom for many.",
+  "Blind Bartimaeus cries out to Jesus for mercy, and upon receiving his sight, follows Him in the way."
+ ],
+ "nug": [
+  {
+   "h": "A question about divorce answered from creation, not custom",
+   "b": "Rather than debating the fine print of Mosaic permission, Jesus goes back to the beginning — \"from the beginning of the creation God made them male and female... what therefore God hath joined together, let not man put asunder\" (v. 6-9) — grounding the answer in original design rather than accumulated legal precedent."
+  },
+  {
+   "h": "Displeasure at disciples keeping people away from Jesus",
+   "b": "\"When Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not\" (v. 14) — a rare, explicit note of Jesus' irritation, aimed specifically at anyone obstructing access to Him rather than at the children themselves."
+  },
+  {
+   "h": "A man who went away sorrowful rather than sold",
+   "b": "The rich young ruler, told to \"sell whatsoever thou hast, and give to the poor... and come, take up the cross, and follow me\" (v. 21), \"went away grieved: for he had great possessions\" (v. 22) — genuine sorrow at a genuine cost he wasn't willing to pay."
+  },
+  {
+   "h": "Greatness redefined around service rather than status",
+   "b": "To James and John's request for the best seats, Jesus answers, \"Whosoever will be great among you, shall be your minister... For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many\" (v. 43-45) — the entire logic of ambition turned upside down."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 2:24 · Matthew 20:26-28 · Philippians 2:5-8",
+   "qs": [
+    {
+     "th": "Jesus' answer on divorce quotes Genesis 2:24 almost directly — \"they twain shall be one flesh\" (v. 8) — reaching all the way back past the law of Moses to what marriage was designed to be before any accommodation for hardness of heart was ever needed.",
+     "q": "Read Genesis 2:24 alongside Mark 10:6-9. Why might it matter that Jesus roots His teaching in the original design of creation rather than simply in the legal permissions later given?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The rich young ruler kept the commandments faithfully from his youth (v. 20) yet still walked away sorrowful when asked to release the one thing he wasn't willing to give up.",
+     "q": "If Jesus named the one thing you're least willing to release for Him, what do you think it would be?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Bartimaeus cried out persistently even as many charged him to hold his peace (v. 48), refusing to let others' impatience silence his own need.",
+     "q": "Where might the Holy Spirit be inviting you to keep crying out honestly for something you need, even if others around you would rather you stayed quiet about it?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Bartimaeus' simple, direct plea — \"Jesus, thou son of David, have mercy on me\" (v. 47) — asked plainly for exactly what he needed, without elaborate justification.",
+     "q": "Bring a specific need before God today as plainly and persistently as Bartimaeus does here, trusting Him to hear it even amid noise or discouragement."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 265
+{
+ "ref": "Psalm 12",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+12",
+ "sum": [
+  "The psalmist cries for help since the godly and faithful have ceased among men, replaced by vanity, flattery and a double heart.",
+  "He prays that the LORD would cut off flattering lips and the tongue that speaks proud things, boasting that their own lips are their own and no one is their master.",
+  "The LORD promises to arise for the sake of the oppressed and the sighing of the poor, setting them in the safety they long for.",
+  "The psalmist declares that the LORD's own words are pure, like silver refined seven times, and that He will preserve His people from this generation forever."
+ ],
+ "nug": [
+  {
+   "h": "A cry that names an entire generation's failure",
+   "b": "\"Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men\" (v. 1) opens with an almost despairing, sweeping observation, not one isolated act of dishonesty but a whole climate of it."
+  },
+  {
+   "h": "Speech itself named as the specific problem",
+   "b": "\"They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak\" (v. 2) locates the corruption precisely in words — flattery and duplicity rather than outright violence — a quieter but no less real kind of unfaithfulness."
+  },
+  {
+   "h": "Words trusted precisely because they've been tested",
+   "b": "Against all that unreliable, flattering human speech, \"the words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times\" (v. 6) — God's own speech offered as the one thing that has actually been proven trustworthy under pressure."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Proverbs 26:28 · James 3:9-10 · Titus 1:2",
+   "qs": [
+    {
+     "th": "Proverbs later names precisely this psalm's concern — \"a lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin\" (Proverbs 26:28) — flattery exposed there, as here, as something that actually damages rather than merely displeases.",
+     "q": "Read Proverbs 26:28 alongside Psalm 12:2-3. Where have you seen flattery, rather than outright hostility, quietly cause real harm in a relationship?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm names a double heart — speaking one way while thinking another — as its central complaint (v. 2), a temptation that doesn't require dramatic deceit to be genuinely dishonest.",
+     "q": "Where in your own conversations lately has what you said not quite matched what you actually thought or felt?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Against a culture of flattering, unreliable speech, the psalmist rests instead in words that have been \"purified seven times\" (v. 6) — thoroughly tested and proven trustworthy.",
+     "q": "Where might the Holy Spirit be inviting you to let God's own tested words settle an anxiety that other people's shifting words have stirred up in you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalmist doesn't exempt himself from this culture of flattery and double-heartedness, but simply cries, \"Help, LORD\" (v. 1), aware that the problem is bigger than he can fix alone.",
+     "q": "Confess to God today any way your own speech has recently been more flattering or double-hearted than plainly, simply honest."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 266
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A festival calendar built to hold a whole nation's memory",
+   "b": "Leviticus 23's Feast of Tabernacles required Israel to physically dwell in temporary booths every year, \"that your generations may know\" what it was once like to depend entirely on God in the wilderness (v. 43) — a reminder that some truths are best kept not just remembered, but lived out again and again."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Leviticus 22's demand for unblemished offerings, Leviticus 23's full calendar of appointed feasts from Passover to Tabernacles, Psalm 11's settled trust in God's throne even when the foundations shake, Leviticus 24's continually tended lamp and fresh showbread alongside the law of exact retribution, Mark 10's teaching on marriage, the rich young ruler, true greatness, and blind Bartimaeus, and Psalm 12's contrast between flattering human speech and God's own tested, pure words.",
+     "q": "Where this week did the rich young ruler's sorrowful walk away in Mark 10:22, or David's settled question in Psalm 11:3 — \"if the foundations be destroyed, what can the righteous do?\" — most challenge what you're actually resting your security or your obedience on?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times\" (Psalm 12:6) — a trustworthiness proven under real pressure, not merely claimed.",
+     "q": "Sit quietly for a few minutes and simply rest in the reliability of God's own word, letting it settle any anxiety stirred up by less trustworthy words you've heard this week."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 267
+{
+ "ref": "Leviticus 25",
+ "tag": "Old Testament",
+ "api": "leviticus+25",
+ "sum": [
+  "The LORD commands a sabbath rest for the land itself every seventh year, when it may not be sown or pruned, but its natural growth is left for everyone to eat.",
+  "After seven sabbaths of years, the fiftieth year is proclaimed a Jubilee, when liberty is announced throughout the land and property returns to its original family.",
+  "Land sold in the meantime is to be priced according to the number of harvests remaining until the next Jubilee, since the land itself belongs to the LORD.",
+  "Instructions follow for helping an impoverished brother without charging interest, and for the release of Hebrew servants at the Jubilee, since Israel are the LORD's own servants."
+ ],
+ "nug": [
+  {
+   "h": "Rest legislated for the ground itself, not only for people",
+   "b": "\"Six years thou shalt sow thy field... but in the seventh year shall be a sabbath of rest unto the land\" (v. 3-4) extends the principle of sabbath rest beyond people to the very soil they depended on, a rhythm built into creation's use rather than left to human decision."
+  },
+  {
+   "h": "Liberty proclaimed for everyone, all at once",
+   "b": "\"Ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof: it shall be a jubile unto you\" (v. 10) is one of the most sweeping single sentences in the whole law, a nationwide, scheduled reset of debt, land and servitude built directly into the calendar."
+  },
+  {
+   "h": "Land priced by what it could still produce, not owned outright",
+   "b": "\"The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me\" (v. 23) reframes even permanent-seeming property transactions as temporary leases, since ultimate ownership never actually left God's hands."
+  },
+  {
+   "h": "Servanthood remembered as something Israel had also once endured",
+   "b": "\"For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen\" (v. 42) grounds Israel's own treatment of servants in the memory of their own former slavery, mercy required precisely because they knew exactly what it felt like to lack it."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 61:1-2 · Luke 4:18-19 · Deuteronomy 15:1-2",
+   "qs": [
+    {
+     "th": "Jesus reads from Isaiah in the Nazareth synagogue and declares, \"the acceptable year of the Lord\" (Luke 4:19) has now come in Himself — language drawn straight from this chapter's Jubilee, His whole ministry announced as the true, ultimate liberty this ancient fiftieth year could only picture.",
+     "q": "Read Isaiah 61:1-2 alongside Luke 4:18-19 and Leviticus 25:10. What does it mean to you that Jesus applies this exact Jubilee language directly to His own arrival and mission?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter assumes that debt, poverty and servitude were never meant to be permanent conditions, but were built with a scheduled, guaranteed release point (v. 10, 39-41).",
+     "q": "Is there a debt, burden or broken situation in your own life that you've quietly assumed is simply permanent, when God's pattern here suggests He intends real release rather than endless bondage?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The command not to charge a struggling brother \"usury\" or increase (v. 36-37) asks Israel to treat a neighbour's hardship as an occasion for help rather than for profit.",
+     "q": "Where might the Holy Spirit be asking you to help someone struggling without looking for anything in return, the way this law required?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The whole Jubilee pictures a fresh start freely given, not earned back through years of careful effort — property, freedom and rest all restored together at the appointed time (v. 10-13).",
+     "q": "Thank God today for a fresh start He has already given you, whether recently or long ago, that you didn't have to earn your way back to."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 268
+{
+ "ref": "Leviticus 26",
+ "tag": "Old Testament",
+ "api": "leviticus+26",
+ "sum": [
+  "The LORD promises rich blessing for obedience — rain in season, abundant harvests, peace in the land, and His own presence walking among them.",
+  "Escalating warnings follow for disobedience, moving from illness and defeat through drought, wild beasts, siege and eventually exile from the land itself.",
+  "Even in exile, the LORD promises the land will finally enjoy the sabbaths it was denied, and that if the people humble themselves and confess their iniquity, He will remember His covenant.",
+  "The chapter closes assuring Israel that God will not utterly cast them away or break His covenant, even when they are scattered among their enemies."
+ ],
+ "nug": [
+  {
+   "h": "A promise that God Himself would be present, not just favourable",
+   "b": "\"I will set my tabernacle among you... and I will walk among you, and will be your God, and ye shall be my people\" (v. 11-12) names the deepest blessing of obedience not as prosperity itself, but as God's own nearness."
+  },
+  {
+   "h": "Consequences that escalate rather than strike all at once",
+   "b": "The warnings for disobedience build in stages — sickness and defeat (v. 16-17), then drought (v. 19-20), then wild beasts (v. 22), then siege and famine (v. 25-26), then exile (v. 33) — each stage explicitly tied to continued refusal to listen, discipline given room to be heard before it worsens."
+  },
+  {
+   "h": "A rest the land would eventually take either way",
+   "b": "\"Then shall the land enjoy her sabbaths, as long as it lieth desolate... even then shall the land rest, and enjoy her sabbaths\" (v. 34) promises that the sabbath rest denied through disobedience would eventually be taken regardless, even if that meant the land lying empty during exile."
+  },
+  {
+   "h": "A covenant remembered even in exile, on the strength of confession",
+   "b": "\"If they shall confess their iniquity... then will I remember my covenant with Jacob... and I will remember the land\" (v. 40-42) keeps restoration genuinely available even at the very furthest point of judgment, contingent only on honest confession."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 28:1-14 · 2 Chronicles 7:14 · Romans 11:1-2",
+   "qs": [
+    {
+     "th": "Deuteronomy 28 restates this same structure of blessing and curse at even greater length, the two chapters together forming the backbone of Israel's whole covenant relationship with God — obedience and disobedience each carrying real, foretold consequences rather than uncertain ones.",
+     "q": "Read Deuteronomy 28:1-14 alongside Leviticus 26:3-13. How does having these consequences spelled out so specifically, long in advance, change how you think about the relationship between obedience and blessing in your own life?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The escalating warnings in this chapter (v. 14-33) show God giving repeated room for a change of course before the most severe consequence arrives, discipline that isn't sudden but patient.",
+     "q": "Where in your own life has God given you repeated, escalating warning before a consequence finally landed — and did you recognise it as warning at the time?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even at the point of exile, the promise remains that honest confession reopens the covenant relationship (v. 40-42), restoration never permanently foreclosed.",
+     "q": "Where might the Holy Spirit be inviting you toward honest confession right now, trusting this chapter's promise that God's covenant faithfulness outlasts even serious failure?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's turning point isn't a change in circumstance but a change of heart — \"if they shall confess their iniquity... and that also they have walked contrary unto me\" (v. 40) — confession itself named as the doorway back.",
+     "q": "Confess to God today anything you have been walking \"contrary\" to Him about, trusting His promise here that He remembers His covenant rather than abandoning it."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 269
+{
+ "ref": "Psalm 14",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+14",
+ "sum": [
+  "The psalmist declares that the fool has said in his heart there is no God, and describes such people as corrupt, having done abominable works.",
+  "The LORD looks down from heaven to see if any understand and seek after Him, but finds that all have turned aside and become filthy, with none doing good.",
+  "The psalmist notes that these workers of iniquity devour God's people as they eat bread, and refuse to call upon the LORD.",
+  "The psalm closes with confidence that God is with the generation of the righteous, and longing for salvation to come out of Zion."
+ ],
+ "nug": [
+  {
+   "h": "Denial of God located in the heart, not just the intellect",
+   "b": "\"The fool hath said in his heart, There is no God\" (v. 1) doesn't describe a carefully reasoned philosophical position so much as an inward posture — practical, willed disregard for God rather than merely an intellectual conclusion."
+  },
+  {
+   "h": "A search that comes back with the same verdict for everyone",
+   "b": "\"The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God... there is none that doeth good, no, not one\" (v. 2-3) describes a genuine, active search that finds no exception at all, not even one person quietly outside the general verdict."
+  },
+  {
+   "h": "Evil described in the most everyday terms imaginable",
+   "b": "\"Who eat up my people as they eat bread\" (v. 4) makes wickedness sound almost casual, oppression of the vulnerable carried out as unthinkingly and habitually as eating a meal."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Romans 3:10-12 · Psalm 53:1-6 · Genesis 6:5",
+   "qs": [
+    {
+     "th": "Paul quotes this exact psalm almost word for word in Romans 3:10-12 as central evidence for his case that every person, without exception, has fallen short of God — an ancient poem about universal corruption becoming, in Paul's hands, the theological foundation for the gospel's need.",
+     "q": "Read Romans 3:10-12 alongside Psalm 14:1-3. How does seeing Paul quote this psalm change how personally you apply its universal verdict to yourself, rather than reading it as describing other, more obviously wicked people?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's description of wickedness as eating up the vulnerable \"as they eat bread\" (v. 4) suggests some of the worst harm is done casually, almost thoughtlessly, rather than through dramatic malice.",
+     "q": "Where might you be casually benefiting from or overlooking harm done to someone more vulnerable than you, without ever consciously deciding to be unkind?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God's active search — \"to see if there were any that did understand, and seek God\" (v. 2) — pictures Him genuinely looking for a response, not merely observing from a passive distance.",
+     "q": "Where might the Holy Spirit currently be searching for genuine understanding and seeking from you, rather than routine or half-hearted religious habit?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The verdict \"there is none that doeth good, no, not one\" (v. 3) leaves no room for anyone, including the reader, to quietly assume they're the exception.",
+     "q": "Confess honestly to God today that you belong within this psalm's universal verdict, resisting the instinct to think of yourself as somehow set apart from it."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 270
+{
+ "ref": "Leviticus 27",
+ "tag": "Old Testament",
+ "api": "leviticus+27",
+ "sum": [
+  "The LORD gives Moses fixed valuations for persons dedicated to Him by vow, scaled by age and sex, with reduced rates set for the poor.",
+  "Instructions follow for vowing animals, houses and fields, including how to redeem what was vowed by adding a fifth to its value.",
+  "Anything devoted as \"most holy\" to the LORD, including a person under the ban, cannot be redeemed or sold, but must surely be put to death or given wholly to God.",
+  "The chapter closes affirming that all tithes of land and herd belong to the LORD as holy, ending the book of Leviticus with these commandments given at Sinai."
+ ],
+ "nug": [
+  {
+   "h": "Value fixed by category, adjusted for ability to pay",
+   "b": "The valuation for a man twenty to sixty years old is fifty shekels, but drops considerably for the young, the old, and women (v. 3-7), and \"if he be poorer than thy estimation... according to his ability that vowed shall the priest value him\" (v. 8) — the system built with real, deliberate flexibility for the poor, even within a rigid-looking scale."
+  },
+  {
+   "h": "Redemption available, but never without cost",
+   "b": "Someone wanting to take back a vowed animal, house or field could do so, but only \"if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation\" (v. 13, 15, 19) — changing your mind after making a vow to God was possible, but never free."
+  },
+  {
+   "h": "A category with no redemption offered at all",
+   "b": "\"None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death\" (v. 29) marks the single most severe category in the whole chapter — some things dedicated to God were placed entirely beyond any possibility of buy-back."
+  },
+  {
+   "h": "A book that closes exactly where it began",
+   "b": "\"These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai\" (v. 34) ends the whole book of Leviticus by returning to the very setting named in its opening verse, the entire book framed as one continuous body of instruction given at that one mountain."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 30:2 · Ecclesiastes 5:4-5 · Matthew 5:33-37",
+   "qs": [
+    {
+     "th": "Ecclesiastes later warns, \"when thou vowest a vow unto God, defer not to pay it... better is it that thou shouldest not vow, than that thou shouldest vow and not pay\" (Ecclesiastes 5:4-5) — a direct commentary on the seriousness this whole chapter assumes about vows, since even redeeming one required an added cost rather than simply walking away free.",
+     "q": "Read Ecclesiastes 5:4-5 alongside Leviticus 27:9-13. Is there a vow, promise or commitment you made to God that you've since quietly stopped intending to keep? What would honestly following through, or honestly redeeming it, look like?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The sliding scale for the poor built into even this chapter's fixed valuations (v. 8) shows God's law consistently making room for people without much, a pattern repeated throughout Leviticus.",
+     "q": "Where has God made a costly commitment more accessible for you than you initially assumed, adjusting the requirement to what you could actually manage?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter treats vows made to God with real weight, assuming they were never meant to be casual words spoken and then quietly forgotten.",
+     "q": "Where might the Holy Spirit be reminding you of a promise you made to God, perhaps in a season of real need, that has since faded from your attention?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Leviticus closes on this quiet, careful note about vows and valuations, having moved across offerings, priesthood, feasts, and now personal commitments made to God, all given \"in mount Sinai\" (v. 34).",
+     "q": "Sit quietly today and consider the whole sweep of Leviticus you've now read, letting whatever has struck you most this book settle rather than rushing straight past it."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 271
+{
+ "ref": "Mark 11",
+ "tag": "New Testament",
+ "api": "mark+11",
+ "sum": [
+  "Jesus rides into Jerusalem on a colt as crowds spread garments and branches, crying, \"Hosanna; Blessed is he that cometh in the name of the Lord.\"",
+  "The next day, finding no fruit on a fig tree though it was not the season, Jesus curses it, and it withers away by the following morning.",
+  "Entering the temple, Jesus overturns the tables of the money changers, declaring His Father's house was meant to be a house of prayer for all nations, not a den of thieves.",
+  "Jesus teaches on faith that can move mountains and on forgiving others before praying, when Peter notices the fig tree has withered from the roots."
+ ],
+ "nug": [
+  {
+   "h": "A king's welcome given in humble form",
+   "b": "The crowd cries, \"Hosanna; Blessed is he that cometh in the name of the Lord: Blessed be the kingdom of our father David\" (v. 9-10), openly hailing Jesus with royal, messianic language, even as He rides not on a warhorse but on a borrowed colt."
+  },
+  {
+   "h": "A tree judged for looking fruitful without delivering",
+   "b": "\"He came, if haply he might find any thing thereon: and when he came to it, he found nothing but leaves, for the time of figs was not yet\" (v. 13) — the tree's abundant leaves suggested fruit that simply wasn't there, an acted parable of appearance without substance."
+  },
+  {
+   "h": "A house meant for the whole world, narrowed to profit",
+   "b": "Quoting Isaiah and Jeremiah together, Jesus declares, \"My house shall be called of all nations the house of prayer? but ye have made it a den of thieves\" (v. 17) — the temple's original, international purpose for prayer specifically named against what commercial use had reduced it to."
+  },
+  {
+   "h": "Faith described with striking, deliberate exaggeration",
+   "b": "\"Whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe... he shall have whatsoever he saith\" (v. 23) uses an image as immovable as a mountain to describe the kind of undivided confidence in God this teaching calls for."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Zechariah 9:9 · Isaiah 56:7 · Jeremiah 7:11",
+   "qs": [
+    {
+     "th": "The triumphal entry fulfils Zechariah's centuries-old prophecy almost exactly — \"thy King cometh unto thee... lowly, and riding upon an ass\" (Zechariah 9:9) — a king announced not by military might but by exactly the humble form this prophecy had long described.",
+     "q": "Read Zechariah 9:9 alongside Mark 11:7-10. What does it mean to you that the crowd's spontaneous celebration was, without most of them realising it, fulfilling a specific and very old prophecy?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The fig tree's leaves promised fruit that wasn't actually there (v. 13), an image Jesus deliberately used right beside His confrontation with an outwardly impressive temple system that had lost its real purpose.",
+     "q": "Where in your own life might there be an outward appearance of spiritual fruitfulness that, honestly examined, isn't actually backed up by anything real?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus links effective prayer directly to forgiveness — \"when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses\" (v. 25).",
+     "q": "Where might the Holy Spirit be asking you to forgive someone specific before you bring your next request to God, rather than treating the two as unrelated?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus' anger at the temple's misuse (v. 15-17) shows that His concern for genuine worship was serious enough to provoke real, visible action, not quiet disapproval only.",
+     "q": "Confess to God today any place where your own worship or spiritual life has become more about routine, appearance, or convenience than about genuine, wholehearted devotion to Him."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 272
+{
+ "ref": "Psalm 57",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+57",
+ "sum": [
+  "Written while David fled from Saul in the cave, he cries for mercy, taking refuge under the shadow of God's wings until calamities pass.",
+  "He describes his soul as among lions, surrounded by men whose teeth are spears and whose tongue is a sharp sword, yet declares God's mercy and truth reach to the heavens.",
+  "He notes that his enemies had prepared a net for his steps and dug a pit before him, but have themselves fallen into the midst of it.",
+  "The psalm closes with David declaring his heart is fixed, resolving to sing and give praise, and calling on his own glory to awake early with music."
+ ],
+ "nug": [
+  {
+   "h": "Refuge pictured with tender, sheltering imagery",
+   "b": "\"Be merciful unto me, O God... for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast\" (v. 1) chooses a strikingly gentle image — a bird sheltering its young — for a man hiding physically in a cave from a king trying to kill him."
+  },
+  {
+   "h": "Danger described with vivid, almost visceral detail",
+   "b": "\"My soul is among lions... whose teeth are spears and arrows, and their tongue a sharp sword\" (v. 4) makes David's surrounding threat feel immediate and physical, not an abstract worry but genuinely predatory danger."
+  },
+  {
+   "h": "A trap that catches its own makers",
+   "b": "\"They have prepared a net for my steps... they have digged a pit before me, into the midst whereof they are fallen themselves\" (v. 6) pictures the enemies' own scheming turning back on them, an ironic justice arriving almost automatically."
+  },
+  {
+   "h": "A resolve repeated for emphasis",
+   "b": "\"My heart is fixed, O God, my heart is fixed: I will sing and give praise\" (v. 7) repeats the same declaration twice in one breath, David deliberately steadying his own resolve to praise even from inside a literal cave."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Samuel 24:1-7 · Psalm 108:1-5 · Romans 8:31",
+   "qs": [
+    {
+     "th": "This psalm's heading points directly to 1 Samuel 24, where David, hiding in a cave with Saul unknowingly nearby, chooses to spare his enemy's life rather than take the opportunity for revenge — the same cave that produced this whole song of trust also produced an act of remarkable restraint.",
+     "q": "Read 1 Samuel 24:1-7 alongside Psalm 57. How does knowing David wrote this song of trust in the very same cave where he later refused to harm Saul change how you read his confidence here?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's repeated declaration, \"my heart is fixed\" (v. 7), didn't follow from safer circumstances but preceded any change in his situation at all — his resolve to praise came first, not last.",
+     "q": "In a current difficulty, what would it look like for your own heart to become \"fixed\" toward praise before your circumstances actually improve?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David calls on his own soul and instruments to \"awake early\" (v. 8), taking deliberate initiative to begin praise rather than waiting for the mood to arrive on its own.",
+     "q": "Where might the Holy Spirit be inviting you to deliberately initiate praise today, rather than waiting until you feel like it?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm closes reaching beyond David's own immediate danger entirely — \"be thou exalted, O God, above the heavens: let thy glory be above all the earth\" (v. 11) — personal deliverance opening out into universal praise.",
+     "q": "Praise God today for His glory over the whole earth, letting your own current situation, whatever it is, open out into worship bigger than just your own need."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 273
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A book that ends exactly where it began",
+   "b": "Leviticus's closing words — \"which the LORD commanded Moses for the children of Israel in mount Sinai\" (Leviticus 27:34) — return to the very setting named in the book's opening verse, framing this whole long, detailed book as one continuous body of instruction given in one place, to one people, at one decisive moment."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Leviticus 25's Jubilee of proclaimed liberty, Leviticus 26's escalating blessings and curses tied to covenant faithfulness, Psalm 14's sober verdict that none does good, no not one, Leviticus 27's closing laws on vows and valuations that end the book at Sinai, Mark 11's triumphal entry, cursed fig tree and cleansed temple, and Psalm 57's trust sung from inside an actual cave while fleeing for his life.",
+     "q": "Where this week did the Jubilee's proclaimed liberty in Leviticus 25:10, or David's fixed heart in Psalm 57:7 even while hiding in a cave, most reshape how you think about the relationship between your circumstances and your worship?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"My heart is fixed, O God, my heart is fixed: I will sing and give praise\" (Psalm 57:7) — a resolve to praise decided before circumstances improved, not after.",
+     "q": "Sit quietly for a few minutes and simply let your own heart become fixed toward praise, whatever your current circumstances actually are."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 274
+{
+ "ref": "Numbers 1",
+ "tag": "Old Testament",
+ "api": "numbers+1",
+ "sum": [
+  "The LORD commands Moses to number every male of Israel twenty years old and upward, able to go to war, by their families and fathers' houses.",
+  "A leader from each tribe is named to assist, and the total number of fighting men from the twelve tribes comes to 603,550.",
+  "The Levites alone are not numbered among the other tribes, since they are appointed instead to the care of the tabernacle.",
+  "The Levites are commanded to camp around the tabernacle so that no wrath comes upon the congregation of Israel."
+ ],
+ "nug": [
+  {
+   "h": "A census taken for a specific purpose, not mere curiosity",
+   "b": "This numbering counts only those \"able to go forth to war\" (v. 3) — not a general population count but a deliberate military and organisational preparation for the journey and conquest still ahead."
+  },
+  {
+   "h": "One tribe deliberately left uncounted with the rest",
+   "b": "\"The Levites after the tribe of their fathers were not numbered among them\" (v. 47) sets the Levites apart from the very first census of the book that bears their eventual duties, their calling different enough to be excluded from the ordinary count."
+  },
+  {
+   "h": "A camp arranged to protect, not merely to organise",
+   "b": "\"The Levites shall pitch round about the tabernacle of testimony; that there be no wrath upon the congregation of the children of Israel\" (v. 53) frames the Levites' position around the tabernacle as genuinely protective, standing between the people and the danger of careless approach to what was holy."
+  },
+  {
+   "h": "A book that gets its very name from this moment",
+   "b": "This numbering of the people is what gives the whole book of Numbers its English title — a book that will go on to record forty years of wandering, beginning here with the ordinary, careful work of counting exactly who was setting out."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 30:11-16 · 1 Chronicles 21:1-6 · Luke 2:1-3",
+   "qs": [
+    {
+     "th": "Exodus 30 had already established a ransom to be paid whenever Israel was numbered, \"that there be no plague among them, when thou numberest them\" (Exodus 30:12) — a safeguard this careful, commanded census in Numbers 1 appears to observe, in contrast to David's later, unauthorised census that brought exactly the plague this earlier law had warned against (1 Chronicles 21).",
+     "q": "Read Exodus 30:11-16 alongside Numbers 1:1-3 and 1 Chronicles 21:1-6. What does the contrast between this commanded census and David's later unauthorised one suggest about the difference between obeying God's timing and acting on your own initiative, even for something that looks administratively reasonable?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter is essentially a long list of names and numbers, unglamorous record-keeping that nonetheless mattered enough to open an entire book of Scripture.",
+     "q": "Where in your own life might God be present and at work in unglamorous, administrative details you'd normally consider too mundane to matter spiritually?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Levites' distinct calling, set apart from the ordinary count for the specific purpose of protecting the people from careless approach to the holy (v. 53), shows God assigning different roles to different people for the good of the whole community.",
+     "q": "Where might the Holy Spirit have given you a specific, different role within your own community that isn't the same as everyone else's, but still serves everyone's good?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "A total of 603,550 fighting men (v. 46) represents an enormous multiplication from the seventy who originally went down into Egypt, a nation grown exactly as God had long promised Abraham.",
+     "q": "Thank God today for a promise of His that has grown and multiplied in your own life or family, far beyond its small beginnings."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 275
+{
+ "ref": "Numbers 2",
+ "tag": "Old Testament",
+ "api": "numbers+2",
+ "sum": [
+  "Each tribe is assigned a specific standard and position around the tabernacle, camping on the east, south, west and north sides in named groups of three.",
+  "Judah leads the eastern camp, with Reuben leading the south, Ephraim the west, and Dan the north, each group following in that order when the camp moves.",
+  "The tabernacle, carried by the Levites, is placed in the very middle of the camp, with the Levites' own camp set immediately around it.",
+  "The chapter closes noting that the children of Israel did according to all that the LORD commanded Moses, each man pitching by his own standard."
+ ],
+ "nug": [
+  {
+   "h": "Order given to what could easily have been chaos",
+   "b": "Roughly two million people, moving and camping together, are organised here into a precise, repeatable arrangement — four groups of three tribes each, on four sides, each with its own named standard (v. 2-31) — structure imposed on what could otherwise have been an unmanageable crowd."
+  },
+  {
+   "h": "The tabernacle placed deliberately at the centre of everything",
+   "b": "\"The tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp\" (v. 17) positions God's dwelling place literally in the middle of the nation's life, every tribe camped in relation to it rather than the reverse."
+  },
+  {
+   "h": "A leading tribe already carrying its later significance",
+   "b": "Judah is named first and given the leading position on the east, the most prominent side of the camp (v. 3, 9) — the same tribe that will later produce David's throne and, ultimately, the Messiah, already occupying a place of prominence even here."
+  },
+  {
+   "h": "Obedience recorded simply, without embellishment",
+   "b": "\"The children of Israel did according to all that the LORD commanded Moses: so they pitched by their standards, and so they set forward\" (v. 34) closes the chapter with plain, unremarkable compliance, an entire nation quietly falling into the exact order it had been given."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 49:8-10 · Revelation 7:4-8 · Ephesians 2:19-22",
+   "qs": [
+    {
+     "th": "Jacob's blessing over Judah long before had already promised, \"the sceptre shall not depart from Judah... until Shiloh come\" (Genesis 49:10) — this camp's arrangement, with Judah leading the whole nation on its most prominent side, quietly reflecting a significance already spoken over that tribe generations earlier.",
+     "q": "Read Genesis 49:8-10 alongside Numbers 2:3, 9. What does it mean to you that Judah's later, larger significance in Israel's story was already being reflected in something as ordinary as camp arrangement?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's structure placed the tabernacle physically at the centre of the nation's daily life, every tribe oriented around it rather than the tabernacle simply being one location among many.",
+     "q": "What would need to change in your own daily arrangement of time and attention for God to genuinely occupy the centre, rather than being one consideration among several others?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The plain, unremarkable obedience recorded at the chapter's end (v. 34) shows faithfulness that didn't need to be dramatic to be genuine, an entire nation simply doing what it had been told.",
+     "q": "Where might the Holy Spirit be asking for exactly this kind of quiet, undramatic obedience from you — not a bold gesture, but simply doing what you've already been told?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter pictures an enormous, potentially chaotic multitude brought instead into careful, ordered stillness around God's own dwelling place at the centre.",
+     "q": "Sit quietly today and picture your own life arranged, like this camp, around God's presence at the centre rather than at the edges."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 276
+{
+ "ref": "Psalm 58",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+58",
+ "sum": [
+  "David challenges corrupt judges, asking whether their speech is actually righteous and their judgment actually upright, when in fact they weigh out violence with their own hands.",
+  "He describes the wicked as estranged and speaking lies from birth, their poison compared to a serpent's, deaf to any voice that might charm them.",
+  "David prays that God would break their teeth and let them melt away like water, or like a snail that dissolves, or a stillborn child that never sees the sun.",
+  "The psalm closes anticipating that the righteous will rejoice when they see justice done, and that people will then say there is indeed a reward for the righteous and a God who judges the earth."
+ ],
+ "nug": [
+  {
+   "h": "A direct challenge aimed at those meant to judge fairly",
+   "b": "\"Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?\" (v. 1) opens with a pointed question to people specifically responsible for justice, exposing the gap between their office and their actual conduct."
+  },
+  {
+   "h": "Wickedness described as present from the very start",
+   "b": "\"The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies\" (v. 3) makes a striking, sobering claim about how deeply corrupted human nature can run, not a later development but present almost from the beginning."
+  },
+  {
+   "h": "Vivid, deliberately extreme imagery for judgment",
+   "b": "The prayer that the wicked \"melt away as waters\" or become \"as a snail which melteth\" or \"the untimely birth of a woman, that they may not see the sun\" (v. 7-8) uses some of the most graphic language in the psalter to picture the wicked's schemes coming utterly to nothing."
+  },
+  {
+   "h": "Justice that becomes visible evidence for everyone watching",
+   "b": "\"So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth\" (v. 11) frames the eventual outcome of justice not just as personal vindication but as public proof that God actually governs history."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Samuel 8:1-3 · Micah 3:1-3 · Romans 12:19",
+   "qs": [
+    {
+     "th": "Samuel's own sons, appointed as judges, \"turned aside after lucre, and took bribes, and perverted judgment\" (1 Samuel 8:3) — a concrete, historical instance of exactly the corrupted judgment this psalm confronts, showing this wasn't an abstract or exaggerated concern.",
+     "q": "Read 1 Samuel 8:1-3 alongside Psalm 58:1-2. Where have you seen people entrusted with real authority use it for personal gain rather than genuine fairness, and how did you respond to witnessing it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's blunt, harsh language for judgment sits uncomfortably for many readers, yet it comes from someone genuinely wronged crying out for justice rather than taking revenge himself.",
+     "q": "Where do you currently sit with anger toward genuine injustice — bringing it honestly to God the way David does here, or quietly taking matters into your own hands instead?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's confidence that eventually \"a man shall say... he is a God that judgeth in the earth\" (v. 11) trusts that justice delayed is not justice abandoned, even when corruption currently seems to be winning.",
+     "q": "Where might the Holy Spirit be asking you to keep trusting God's justice in a situation that currently looks entirely unresolved?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire psalm is a prayer against corrupted authority, brought directly to God rather than acted on by David's own hand.",
+     "q": "Pray today for a situation of genuine injustice you're aware of, asking God to act as judge rather than trying to resolve it through your own retaliation."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 277
+{
+ "ref": "Numbers 3",
+ "tag": "Old Testament",
+ "api": "numbers+3",
+ "sum": [
+  "The LORD takes the Levites in place of every firstborn male in Israel, giving them wholly to Aaron and his sons to assist in the service of the tabernacle.",
+  "The three Levite families — Gershon, Kohath, and Merari — are each numbered and assigned specific parts of the tabernacle and its furniture to carry and care for.",
+  "All the Levites are numbered from a month old and upward at 22,000, camping around the tabernacle on its north, south and west sides, with Moses and Aaron on the east.",
+  "Since the firstborn of Israel outnumber the Levites by 273, the excess is redeemed with five shekels apiece, given to Aaron and his sons."
+ ],
+ "nug": [
+  {
+   "h": "A whole tribe substituted for a specific debt",
+   "b": "\"I have taken the Levites... instead of all the firstborn that openeth the matrix among the children of Israel... the Levites shall be mine; for all the firstborn are mine\" (v. 12-13) — the Levites don't simply volunteer for service, they specifically stand in the place of every Israelite firstborn son, who by rights already belonged to God."
+  },
+  {
+   "h": "Duties assigned by family, matched to specific furniture",
+   "b": "Gershon's family cared for the tabernacle's coverings and hangings, Kohath's for the ark, table, lampstand and altars, and Merari's for the boards, bars and pillars (v. 25-26, 31, 36-37) — every piece of the tabernacle's structure and furnishing had a specific family responsible for it."
+  },
+  {
+   "h": "A leftover debt paid down to the exact person",
+   "b": "The 273 firstborn beyond what the Levites could cover required redemption money \"of every one... five shekels apiece\" (v. 46-47), collected precisely and \"given to Aaron and to his sons\" (v. 51) — a remainder that couldn't simply be rounded off or ignored, dealt with to the last person."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 13:11-15 · Numbers 8:16-18 · Luke 2:22-24",
+   "qs": [
+    {
+     "th": "Exodus had already established that \"all the firstborn are mine\" (Exodus 13:2), a claim on Israel's firstborn sons this chapter now formally satisfies by substituting the whole tribe of Levi in their place — an old debt, owed since the exodus itself, finally settled through an entire tribe's dedicated service.",
+     "q": "Read Exodus 13:11-15 alongside Numbers 3:12-13. What does it mean that God's ownership claim on Israel's firstborn, made at their deliverance from Egypt, wasn't simply forgotten over time but was eventually and formally addressed?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Each Levite family was given a specific, unglamorous responsibility matched to their particular part of the tabernacle, rather than one generic job for everyone.",
+     "q": "What is your own specific, perhaps unglamorous responsibility within your community or family right now, and how does it feel to think of it as genuinely matched to you rather than interchangeable with anyone else's?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The precise redemption money required for the 273 extra firstborn (v. 46-51) shows God's attention reaching down to an exact remainder, not simply the larger, rounder numbers.",
+     "q": "Where might the Holy Spirit be attending to a small, specific detail in your life that you'd assumed was too minor to matter to Him?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter rests on the reminder that Israel's firstborn already belonged to God by right, redeemed at a cost rather than simply released for free (v. 45-51).",
+     "q": "Confess to God today anywhere you've been living as though you, or something precious to you, belonged entirely to yourself rather than acknowledging what it actually cost to redeem you."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 278
+{
+ "ref": "Mark 12",
+ "tag": "New Testament",
+ "api": "mark+12",
+ "sum": [
+  "Jesus tells the parable of the vineyard let out to husbandmen who beat and kill the servants sent for fruit, and finally the owner's own beloved son.",
+  "Asked whether it is lawful to pay tribute to Caesar, Jesus takes a coin and answers, \"Render to Caesar the things that are Caesar's, and to God the things that are God's.\"",
+  "Questioned by a scribe about the greatest commandment, Jesus names loving God with all one's heart, soul, mind and strength, and loving one's neighbour as oneself.",
+  "Sitting opposite the treasury, Jesus commends a poor widow who cast in two mites, declaring she gave more than all the rich, since she gave out of her want, even all her living."
+ ],
+ "nug": [
+  {
+   "h": "A story that names its own ending in advance",
+   "b": "The vineyard owner sends servant after servant, then finally \"he had yet therefore one son, his wellbeloved: he sent him also last unto them, saying, They will reverence my son\" (v. 6) — the parable's tragic outcome, the son's murder, foretold within the story even as the religious leaders listening fail to see themselves in it."
+  },
+  {
+   "h": "A rejected stone becoming the very foundation",
+   "b": "Jesus quotes Psalm 118 directly against His own coming rejection — \"the stone which the builders rejected is become the head of the corner: this was the Lord's doing, and it is marvellous in our eyes\" (v. 10-11) — apparent failure reframed as the deliberate cornerstone of something new."
+  },
+  {
+   "h": "Two competing claims held apart without collapsing either",
+   "b": "\"Render to Caesar the things that are Caesar's, and to God the things that are God's\" (v. 17) refuses to let a trick question force a false choice, insisting instead that legitimate civil obligation and total devotion to God can be genuinely distinguished without either being dismissed."
+  },
+  {
+   "h": "Giving measured by what was left, not what was given",
+   "b": "\"This poor widow hath cast more in, than all they which have cast into the treasury: for all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living\" (v. 43-44) — Jesus values the gift entirely differently than the size everyone else in the temple could see."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 118:22-23 · Isaiah 5:1-7 · 2 Corinthians 8:12",
+   "qs": [
+    {
+     "th": "The parable of the vineyard deliberately echoes Isaiah's own \"song of the vineyard,\" where God likewise plants and cares for a vineyard that yields only wild grapes (Isaiah 5:1-7) — Jesus retelling an old, familiar image of Israel's failure, but now bringing it to its final, most serious point with the killing of the owner's own son.",
+     "q": "Read Isaiah 5:1-7 alongside Mark 12:1-9. How does knowing this parable draws on such an old, familiar image change how sharply you feel its final twist — the owner sending his own beloved son?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The widow's two mites represented \"all her living\" (v. 44), a total, unhedged gift rather than a calculated, comfortable portion.",
+     "q": "Where has your own giving, of time, money or attention, tended to come from comfortable surplus rather than genuine, felt sacrifice?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus names loving God \"with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength\" as the first and greatest commandment (v. 30), a wholeness that leaves no part of a person held back.",
+     "q": "Where might the Holy Spirit be pointing to one specific part of yourself — heart, soul, mind or strength — that you've been holding back from fully loving God with?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus' quotation of the rejected stone \"become the head of the corner\" (v. 10) points to His own coming resurrection and exaltation, glory arriving precisely through what looked, at the time, like total failure.",
+     "q": "Praise God today for turning what looked like failure or rejection, whether in Christ's story or in your own, into something He has used as a genuine cornerstone."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 279
+{
+ "ref": "Psalm 59",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+59",
+ "sum": [
+  "Written when Saul sent men to watch David's house in order to kill him, David prays for deliverance from his enemies and defence from those who rise up against him.",
+  "He describes his enemies returning at evening, making a noise like dogs, going about the city, belching out with their mouths and asking who will hear.",
+  "David declares that the LORD will laugh at the nations, being his high defence and the God of his mercy, who will prevent him and let him see his desire on his enemies.",
+  "The psalm closes with David resolving to sing of God's power and mercy every morning, since God has been his defence and refuge in the day of his trouble."
+ ],
+ "nug": [
+  {
+   "h": "A prayer written from the exact moment of danger",
+   "b": "The heading places this psalm precisely \"when Saul sent, and they watched the house to kill him\" (title) — not a reflection composed safely afterward, but a prayer prayed while armed men were actually watching outside David's own door."
+  },
+  {
+   "h": "Enemies compared to prowling, restless dogs",
+   "b": "\"They return at evening: they make a noise like a dog, and go round about the city\" (v. 6, repeated at v. 14) pictures David's besiegers with an image of persistent, snarling, circling threat, unable to simply leave him alone."
+  },
+  {
+   "h": "A striking confidence held in the middle of real danger",
+   "b": "\"But thou, O LORD, shalt laugh at them; thou shalt have all the heathen in derision\" (v. 8) declares God's untroubled, sovereign perspective on threats that, from David's own vantage point hiding in his house, looked genuinely serious."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Samuel 19:11-17 · Psalm 56:3-4 · Romans 8:31",
+   "qs": [
+    {
+     "th": "1 Samuel 19 records the actual events behind this psalm's title — Michal helping David escape through a window while Saul's men watched the house, expecting to kill him the next morning (1 Samuel 19:11-17) — the psalm's urgent language matching a very real, specific night of danger.",
+     "q": "Read 1 Samuel 19:11-17 alongside Psalm 59:1-4. How does knowing the specific, narrow escape behind this psalm change how you read David's confident declarations of God as his defence, written seemingly in the very middle of the danger?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's enemies are described as returning again and again, \"at evening,\" refusing to simply give up (v. 6, 14) — a persistent, wearing kind of threat rather than a single dramatic confrontation.",
+     "q": "What ongoing, wearing difficulty in your own life feels like these circling dogs — not one crisis, but a threat that keeps returning night after night?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David resolves to \"sing of thy power\" and \"sing aloud of thy mercy in the morning\" (v. 16), deliberately choosing morning praise after nights that were clearly full of genuine fear.",
+     "q": "Where might the Holy Spirit be inviting you to build a specific habit of morning praise, especially after nights when fear or worry has kept you up?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's closing declaration — \"unto thee, O my strength, will I sing: for God is my defence, and the God of my mercy\" (v. 17) — moves from urgent plea at the psalm's opening to settled praise by its end, without his actual circumstances having yet visibly changed.",
+     "q": "Praise God today as your own strength and defence, even if, like David here, your circumstances haven't yet visibly changed."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 280
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A nation ordered around one centre",
+   "b": "Numbers 2's whole camp — nearly two million people arranged into four groups of three tribes on four sides — was structured entirely around the tabernacle placed \"in the midst of the camp\" (v. 17), a picture of ordinary life organised deliberately around God's presence rather than around itself."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 1's careful census that gives the whole book its name, Numbers 2's ordered camp arranged around the tabernacle at its centre, Psalm 58's prayer against corrupted judges, Numbers 3's substitution of the Levites for Israel's firstborn, Mark 12's parable of the vineyard, the greatest commandment, and the widow's two mites, and Psalm 59's urgent prayer written the very night Saul's men watched David's house.",
+     "q": "Where this week did the widow's total gift in Mark 12:44, or David's settled confidence in Psalm 59:9 even while men watched his house to kill him, most challenge how fully or how fearfully you're currently trusting God with something?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Render to Caesar the things that are Caesar's, and to God the things that are God's\" (Mark 12:17) — two genuine claims held apart without either collapsing into the other.",
+     "q": "Sit quietly for a few minutes and simply consider what genuinely belongs to God in your own life right now, without rushing to resolve every tension you notice."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 281
+{
+ "ref": "Numbers 4",
+ "tag": "Old Testament",
+ "api": "numbers+4",
+ "sum": [
+  "The LORD numbers the Kohathites from thirty to fifty years old, assigning them to carry the ark, table, lampstand and altars once Aaron's sons have covered them.",
+  "The Kohathites are warned not to touch the holy things themselves or look upon them uncovered, on pain of death.",
+  "The Gershonites are assigned the tabernacle's curtains, coverings and hangings, and the Merarites its boards, bars, pillars and sockets, each family under a named overseer.",
+  "The total number of Levites fit for this service, from thirty to fifty years old, comes to 8,580, each family serving according to its specific charge."
+ ],
+ "nug": [
+  {
+   "h": "Sacred things covered before anyone was allowed to carry them",
+   "b": "\"When the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it\" (v. 5) — even the Kohathites, entrusted with carrying the most holy objects, were never permitted to see or touch them directly; someone else's careful preparation always came first."
+  },
+  {
+   "h": "A warning severe enough to specify exactly what not to do",
+   "b": "\"They shall not touch any holy thing, lest they die\" (v. 15) states the danger in the plainest possible terms, holiness treated as genuinely, physically dangerous to approach carelessly, not merely symbolically significant."
+  },
+  {
+   "h": "A specific age range set for active service",
+   "b": "Service here is required specifically \"from thirty years old and upward even until fifty years old\" (v. 3, 23, 30) — a defined season of active duty, neither too young nor stretched on indefinitely, service that had its own appointed span."
+  },
+  {
+   "h": "Every single load assigned to someone specific by name",
+   "b": "The chapter closes noting that the Levites were counted and appointed \"every one to his service, and to his burden... according to the commandment of the LORD by the hand of Moses\" (v. 49) — nothing left generic or unassigned, each person's exact responsibility named."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 6:6-7 · 1 Chronicles 15:13-15 · Hebrews 9:6-7",
+   "qs": [
+    {
+     "th": "Uzzah's death for touching the ark to steady it during transport (2 Samuel 6:6-7), generations later, shows in tragic, real terms exactly what this chapter's warning not to touch the holy things (v. 15) was protecting against — a rule that looked merely procedural until someone ignored it.",
+     "q": "Read 2 Samuel 6:6-7 alongside Numbers 4:15. Why might it matter to you that a rule given here in careful, almost bureaucratic detail turned out, generations later, to carry genuinely fatal consequences when it was disregarded?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even the Kohathites, given the honour of carrying the ark itself, were kept from ever directly seeing or touching it — closeness to something holy didn't automatically mean unrestricted access to it.",
+     "q": "Where in your own life have you assumed that being close to something sacred or important entitles you to handle it however you like, rather than with the care it actually requires?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter assumes real, specific danger attaches to carelessness around what is holy (v. 15, 20), discernment and obedience treated as matters of life and death rather than mere preference.",
+     "q": "Where might the Holy Spirit be asking you to treat something you've grown too casual about with the seriousness this chapter insists holy things deserve?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Every Levite's task in this chapter was assigned specifically, in detail, \"according to the commandment of the LORD\" (v. 49), leaving no room for improvisation around what was holy.",
+     "q": "Sit quietly today and consider whether there's an area where you've been improvising rather than genuinely listening for and following specific instruction."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 282
+{
+ "ref": "Numbers 5",
+ "tag": "Old Testament",
+ "api": "numbers+5",
+ "sum": [
+  "The LORD commands that anyone with leprosy, an issue, or defilement from the dead be put outside the camp, so as not to defile the place where He dwells among them.",
+  "Instructions are given for restitution when a wrong is done — confessing the sin and repaying the full amount plus a fifth part, given to the wronged person or, if none remains, to the priest.",
+  "A jealous husband suspecting his wife of unfaithfulness may bring her to the priest for the ritual of bitter water, which will reveal her guilt or confirm her innocence.",
+  "If the woman is innocent, she is free and shall conceive seed, but if guilty, the water will bring the specific, described curse upon her."
+ ],
+ "nug": [
+  {
+   "h": "A camp kept clean for the sake of who dwelt in its midst",
+   "b": "\"That they defile not their camps, in the midst whereof I dwell\" (v. 3) states plainly why exclusion for uncleanness mattered so much — not mere hygiene, but the reality of God's own presence living right there among the people."
+  },
+  {
+   "h": "Restitution that goes beyond simply making things even",
+   "b": "\"He shall recompense his trespass with the principal thereof, and add unto it the fifth part thereof\" (v. 7) required more than returning exactly what was taken, an added cost built into genuine repentance rather than a bare, even settlement."
+  },
+  {
+   "h": "A ritual designed to bring a private suspicion into the open",
+   "b": "The whole elaborate bitter water procedure (v. 12-31) existed to resolve a husband's jealous suspicion definitively, in public, before God, rather than leaving an accusation to fester privately without any means of confirmation or clearing."
+  },
+  {
+   "h": "Innocence explicitly protected within a harsh-sounding ritual",
+   "b": "\"If the woman be not defiled, but be clean; then she shall be free, and shall conceive seed\" (v. 28) makes clear this procedure wasn't designed merely to punish a suspected woman, but genuinely to establish and protect her innocence when that was in fact the truth."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Leviticus 6:1-5 · Numbers 12:14-15 · John 8:1-11",
+   "qs": [
+    {
+     "th": "Leviticus had already established that a wrong done against another required confession and restitution \"with the principal, and shall add the fifth part more thereto\" (Leviticus 6:5) — this chapter applies the same specific formula, showing how consistently this particular standard of repentance ran through the law.",
+     "q": "Read Leviticus 6:1-5 alongside Numbers 5:6-7. Where might genuine repentance in your own life require not just returning what was taken or undoing what was done, but adding something further as a mark of how seriously you take it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's laws around uncleanness assume that God's own presence \"in the midst\" of the camp (v. 3) makes ordinary carelessness into something with real, communal consequences.",
+     "q": "How aware are you, day to day, of God's presence genuinely being \"in the midst\" of your own ordinary life and community, rather than at a comfortable distance?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The bitter water ritual existed specifically to bring a hidden, private suspicion into open, resolvable clarity (v. 12-31), rather than leaving it to quietly damage a marriage from within.",
+     "q": "Where might the Holy Spirit be inviting you to bring a private suspicion or unresolved tension into the open, rather than letting it continue unaddressed?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The restitution law here assumes real wrongdoing requires more than a quiet, internal decision to do better — it requires actual confession and actual repayment (v. 6-7).",
+     "q": "Confess to God today a specific wrong you've done that still needs some concrete restitution, not only an inward change of heart."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 283
+{
+ "ref": "Psalm 60",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+60",
+ "sum": [
+  "Written after David's wars with Syria, the psalm opens lamenting that God has cast Israel off, broken them, and made the earth to tremble.",
+  "David prays that God would show His people hard things, but has also given a banner to those who fear Him, to be displayed because of the truth.",
+  "God speaks in His holiness, dividing and measuring out the land, naming Moab as a washpot and casting His shoe over Edom.",
+  "The psalm closes asking who will lead David into the strong city, since God alone gives real help, better than any help from man."
+ ],
+ "nug": [
+  {
+   "h": "Honest complaint held alongside genuine confidence",
+   "b": "\"O God, thou hast cast us off, thou hast scattered us, thou hast been displeased\" (v. 1) opens with blunt lament, yet the same psalm moves within a few verses to God's own sovereign declaration of victory (v. 6-8) — grief and confidence held together rather than one cancelling out the other."
+  },
+  {
+   "h": "A banner given specifically for truth's sake",
+   "b": "\"Thou hast given a banner to them that fear thee, that it may be displayed because of the truth\" (v. 4) pictures a rallying sign raised not for national pride alone, but explicitly tied to truth, something worth gathering and standing for."
+  },
+  {
+   "h": "Neighbouring nations reduced to household items",
+   "b": "God's own speech pictures Moab as \"my washpot\" and declares, \"over Edom will I cast out my shoe\" (v. 8) — vivid, almost dismissive imagery, powerful nations reduced in God's own words to items of ordinary domestic use."
+  },
+  {
+   "h": "A closing admission that human help alone was never enough",
+   "b": "\"Give us help from trouble: for vain is the help of man\" (v. 11) closes the psalm with an honest limit placed on human strength, whatever victories had already been described, real help located finally in God alone."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 8:1-14 · Psalm 108:6-13 · Isaiah 30:1-3",
+   "qs": [
+    {
+     "th": "2 Samuel 8 records the actual, successful military campaigns this psalm's heading refers to — David's decisive victories over Syria and Edom — showing that even genuine, hard-won victory in the past didn't stop David from also honestly admitting, in the very same psalm, real earlier defeat and real ongoing dependence on God.",
+     "q": "Read 2 Samuel 8:1-14 alongside Psalm 60:1-4, 11-12. How do you hold together genuine past victories and an honest, ongoing sense that \"vain is the help of man\" (v. 11)? Does remembering one make it harder or easier to admit the other?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm doesn't resolve its opening lament before moving to confidence — both are simply true at once, grief over what's happened and trust in what God has promised.",
+     "q": "Where in your own life are you currently holding genuine grief and genuine hope together, rather than waiting for one to fully resolve before admitting the other?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The banner \"displayed because of the truth\" (v. 4) pictures something worth rallying around precisely because it's true, not merely because it's comforting or convenient.",
+     "q": "Where might the Holy Spirit be calling you to rally around a hard truth right now, rather than a more comfortable but less accurate version of your situation?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing plea, \"give us help from trouble\" (v. 11), is a communal prayer on behalf of the whole nation, not only David's personal request.",
+     "q": "Pray today for a community or group you belong to that is currently facing real trouble, asking God for help that no merely human effort could fully supply."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 284
+{
+ "ref": "Numbers 6",
+ "tag": "Old Testament",
+ "api": "numbers+6",
+ "sum": [
+  "The LORD gives the law of the Nazirite vow, a voluntary period of special separation to the LORD involving abstaining from wine, strong drink, and even grapes.",
+  "During his vow the Nazirite must let the hair of his head grow, avoid coming near any dead body even of close family, and if suddenly defiled, begin the days of his separation over again.",
+  "When the days of separation are fulfilled, the Nazirite brings specific offerings, shaves the hair of his separation, and puts it in the fire under the peace offering.",
+  "The chapter closes with the priestly blessing the LORD commands Aaron to pronounce over Israel, putting His own name upon them so that He may bless them."
+ ],
+ "nug": [
+  {
+   "h": "A vow anyone could take, not reserved for the priesthood",
+   "b": "\"When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD\" (v. 2) opens this special consecration to ordinary Israelites, man or woman, not only to those already born into priestly service."
+  },
+  {
+   "h": "Restrictions covering even what seems harmless",
+   "b": "The Nazirite could not eat \"moist grapes, or dried\" nor anything made from the grapevine, \"from the kernels even to the husk\" (v. 3-4) — an unusually thorough restriction reaching even into details that had nothing directly to do with drunkenness itself, a wholehearted rather than partial separation."
+  },
+  {
+   "h": "Devotion interrupted, and simply begun again",
+   "b": "If someone died suddenly beside a Nazirite, defiling him unexpectedly, \"the days of his separation shall be lost\" and he had to shave his head and \"begin the days of his separation\" all over again (v. 9-12) — failure didn't cancel the vow permanently, it simply required starting over."
+  },
+  {
+   "h": "A blessing given by name, not by circumstance",
+   "b": "\"The LORD bless thee, and keep thee: The LORD make his face shine upon thee, and be gracious unto thee: The LORD lift up his countenance upon thee, and give thee peace\" (v. 24-26) closes the chapter with words still spoken over God's people today, three lines naming protection, grace and peace together."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Judges 13:5 · Luke 1:15 · 2 Corinthians 6:17",
+   "qs": [
+    {
+     "th": "The angel announces before Samson's birth that he \"shall be a Nazarite unto God from the womb\" (Judges 13:5), his lifelong separation echoing this chapter's voluntary vow but imposed on him from birth rather than chosen by him personally, a reminder that some callings, unlike this chapter's ordinary Nazirite vow, are given rather than taken up.",
+     "q": "Read Judges 13:2-5 alongside Numbers 6:1-8. What's the difference between a calling you actively choose, as this chapter's Nazirite vow describes, and one that, like Samson's, is given to you before you had any say in it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The requirement to begin the whole vow again after even accidental defilement (v. 9-12) shows that devotion interrupted through no deliberate fault still required a genuine fresh start, not a shrugged-off exception.",
+     "q": "Where has a season of genuine devotion or discipline in your own life been interrupted, and have you actually begun again, or simply left it unfinished?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Aaronic blessing asks specifically that the LORD's \"face shine upon thee\" and that He \"lift up his countenance upon thee\" (v. 25-26), pictures of close, personal attention rather than distant, general goodwill.",
+     "q": "Where might the Holy Spirit want you to receive this blessing personally today — God's face shining specifically on you, not merely on people in general?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This ancient blessing closes with the LORD putting His own \"name upon the children of Israel\" so that \"I will bless them\" (v. 27), God's blessing tied directly and personally to His own character and name.",
+     "q": "Praise God today by receiving and speaking this same blessing over your own life — His face shining on you, His grace toward you, His peace given to you."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 285
+{
+ "ref": "Mark 13",
+ "tag": "New Testament",
+ "api": "mark+13",
+ "sum": [
+  "Leaving the temple, Jesus predicts that not one stone will be left upon another, and privately tells Peter, James, John and Andrew of wars, earthquakes and famines that are only the beginning of sorrows.",
+  "He warns of persecution and betrayal even within families, but promises that the gospel must first be published among all nations, and that the one who endures to the end shall be saved.",
+  "Jesus describes the abomination of desolation and days of tribulation such as have never been, followed by cosmic signs and the Son of man coming in clouds with great power and glory.",
+  "He teaches the parable of the fig tree's budding leaves as a sign of nearness, insists no one knows the exact day or hour, not even the angels or the Son, and closes urging his hearers to watch."
+ ],
+ "nug": [
+  {
+   "h": "A prediction that would sound almost unbelievable at the time",
+   "b": "\"Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down\" (v. 2) foretells the destruction of a temple complex so massive and impressive that its total demolition would have seemed nearly inconceivable to anyone hearing it that day."
+  },
+  {
+   "h": "Signs named as a beginning, not the end itself",
+   "b": "\"These are the beginnings of sorrows\" (v. 8) deliberately frames wars, earthquakes and famines as an opening stage rather than the climax itself, warning against reading every alarming event as necessarily the final one."
+  },
+  {
+   "h": "A striking claim to divine authority made almost in passing",
+   "b": "\"Heaven and earth shall pass away: but my words shall not pass away\" (v. 31) places Jesus' own spoken words on the same permanent footing as, and even beyond, the physical universe itself, an enormous claim delivered without any accompanying fanfare."
+  },
+  {
+   "h": "A limit admitted even by the Son himself",
+   "b": "\"Of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father\" (v. 32) includes an unusually candid admission of limited knowledge, even from Jesus, about the exact timing of what He has just described."
+  },
+  {
+   "h": "A single word repeated to close the whole discourse",
+   "b": "\"And what I say unto you I say unto all, Watch\" (v. 37) ends this long, often unsettling teaching with one simple, repeated command, rather than a detailed timetable anyone could try to calculate."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Daniel 9:27 · Matthew 24:36 · 1 Thessalonians 5:1-6",
+   "qs": [
+    {
+     "th": "Jesus' reference to \"the abomination of desolation\" (v. 14) draws directly on Daniel's centuries-old prophecy of a specific desecration of the temple (Daniel 9:27), an ancient prediction Jesus treats as still awaiting a further, future fulfilment even after its partial fulfilment in Israel's past.",
+     "q": "Read Daniel 9:27 alongside Mark 13:14. What does it mean to you that Jesus takes an already partially fulfilled Old Testament prophecy and points His disciples toward a further fulfilment still to come?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus' repeated emphasis falls not on calculating dates but on staying alert and faithful — \"take ye heed, watch and pray: for ye know not when the time is\" (v. 33).",
+     "q": "Where in your own life have you spent more energy trying to predict or control the future than simply staying faithfully alert and ready in the present?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The admission that \"no, not the angels... neither the Son, but the Father\" knows the exact timing (v. 32) models a genuine, comfortable acceptance of not knowing everything, even about matters of real importance.",
+     "q": "Where might the Holy Spirit be inviting you to accept not knowing the outcome or timing of something significant, resting in trust rather than needing certainty first?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire long discourse closes with a single repeated word — \"Watch\" (v. 33, 35, 37) — a call to attentive readiness rather than anxious speculation.",
+     "q": "Sit quietly today and simply practise watchfulness, without trying to predict or control what's still ahead, resting instead in readiness."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 286
+{
+ "ref": "Psalm 61",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+61",
+ "sum": [
+  "David cries to God from the end of the earth, his heart overwhelmed, asking to be led to the rock that is higher than himself.",
+  "He recalls God as a shelter and a strong tower from the enemy, and desires to abide in God's tabernacle forever, trusting in the covert of His wings.",
+  "David prays specifically for the king's life to be prolonged through many generations, that he may sit enthroned before God forever.",
+  "The psalm closes with David's resolve to sing praise to God's name forever, performing his vows daily."
+ ],
+ "nug": [
+  {
+   "h": "Distance and inward collapse named together",
+   "b": "\"From the end of the earth will I cry unto thee, when my heart is overwhelmed\" (v. 2) links physical distance from home with an internal, emotional state of being overwhelmed, both named honestly in the very same breath."
+  },
+  {
+   "h": "A rock sought precisely because it stands beyond reach",
+   "b": "\"Lead me to the rock that is higher than I\" (v. 2) doesn't ask merely for comfort but for something genuinely above David's own capacity to reach or provide for himself, security that had to come from outside him."
+  },
+  {
+   "h": "Two images of safety layered together",
+   "b": "\"For thou hast been a shelter for me, and a strong tower from the enemy\" (v. 3) combines a soft, sheltering image with a hard, fortified one, security described as both gentle and genuinely strong at once."
+  },
+  {
+   "h": "A personal prayer that reaches toward generations yet unborn",
+   "b": "\"Thou wilt prolong the king's life: and his years as many generations\" (v. 6) extends David's own prayer for himself outward into a hope for stability reaching far beyond his own lifetime."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 15:13-14 · Psalm 27:5 · Hebrews 6:19-20",
+   "qs": [
+    {
+     "th": "David's cry \"from the end of the earth\" (v. 2) closely matches his flight from Jerusalem during Absalom's rebellion, fleeing his own capital city and, quite possibly, his own son (2 Samuel 15:13-14) — this psalm's overwhelmed heart likely written from inside exactly that kind of personal and political devastation.",
+     "q": "Read 2 Samuel 15:13-14 alongside Psalm 61:1-2. How does knowing this psalm may have been written during betrayal by David's own son change how you read his prayer to be led to \"the rock that is higher than I\"?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David asks specifically to be \"led\" to the rock (v. 2), not simply to arrive there under his own strength, admitting he needed guidance rather than only rescue.",
+     "q": "Where in a current overwhelmed feeling do you need to be actively led toward stability, rather than simply told to try harder to find it yourself?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's desire to \"abide in thy tabernacle for ever\" and trust \"in the covert of thy wings\" (v. 4) pictures an ongoing, permanent nearness to God rather than only a momentary rescue from present danger.",
+     "q": "Where might the Holy Spirit be inviting you toward a more permanent, ongoing nearness to God, rather than only reaching for Him in moments of acute crisis?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm closes with David's resolve, \"so will I sing praise unto thy name for ever, that I may daily perform my vows\" (v. 8) — praise not as a single response to rescue, but as a daily, ongoing pattern of life.",
+     "q": "Praise God today, and resolve to make it a daily pattern rather than only an occasional response to crisis, the way David commits to here."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 287
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "Five weeks that closed one book and opened another",
+   "b": "This block of readings finished the book of Leviticus and moved into Numbers, from Leviticus 27's closing commandments \"in mount Sinai\" to Numbers 6's Aaronic blessing — the law of holiness now beginning its long, unfolding journey out into forty years of actual wilderness life."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 4's careful assignment of Levitical duties around the tabernacle's most holy things, Numbers 5's laws on camp purity and restitution, Psalm 60's honest lament held together with confident trust after David's wars, Numbers 6's Nazirite vow and the Aaronic blessing, Mark 13's Olivet Discourse on wars, signs, and the call to watch, and Psalm 61's cry from the end of the earth to be led to the rock that is higher than himself.",
+     "q": "Where this week did the Aaronic blessing's personal warmth in Numbers 6:24-26, or David's honest overwhelm in Psalm 61:2 — \"lead me to the rock that is higher than I\" — most shape how you're currently bringing your own need honestly before God?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"The LORD bless thee, and keep thee: the LORD make his face shine upon thee, and be gracious unto thee: the LORD lift up his countenance upon thee, and give thee peace\" (Numbers 6:24-26).",
+     "q": "Sit quietly for a few minutes and simply receive this ancient blessing over your own life, letting each of its three lines settle rather than rushing past them."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 288
+{
+ "ref": "Numbers 7",
+ "tag": "Old Testament",
+ "api": "numbers+7",
+ "sum": [
+  "On the day the tabernacle is fully set up and anointed, the twelve princes of Israel bring wagons and oxen to help carry it, given to the Gershonites and Merarites but not the Kohathites, who must bear the holy things on their own shoulders.",
+  "Over twelve consecutive days, each tribal prince in turn brings an identical dedication offering — a silver charger, a silver bowl, a golden spoon of incense, and animals for burnt, sin and peace offerings.",
+  "Though the gifts are all the same, the chapter records each prince's name, tribe and offering individually and in full, repeating the same list twelve times rather than summarising it once.",
+  "The chapter closes with Moses going into the tabernacle to speak with the LORD, who answers him from between the two cherubims above the mercy seat."
+ ],
+ "nug": [
+  {
+   "h": "A gift so identical it could have been summarised in one line — but wasn't",
+   "b": "Verses 12-83 repeat the exact same offering — \"one silver charger, the weight thereof was an hundred and thirty shekels, one silver bowl of seventy shekels... one spoon of gold of ten shekels, full of incense\" — twelve separate times, once for each prince by name, when a single summary sentence could easily have covered it; Scripture chose instead to name every man and count every shekel again."
+  },
+  {
+   "h": "Two families given wheels, one given a warning instead",
+   "b": "\"Two wagons and four oxen he gave unto the sons of Gershon... four wagons and eight oxen he gave unto the sons of Merari... but unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them was that they should bear upon their shoulders\" (v. 7-9) — the very tribe closest to the ark's holiest furniture was given the heaviest, least convenient task, carried by hand rather than wheel."
+  },
+  {
+   "h": "An order that ran by tribe and by day, not by convenience",
+   "b": "Each prince brought his offering \"on the first day,\" \"on the second day,\" and so on through the twelfth (v. 12, 18, 24...), the whole nation's dedication stretched out across nearly two full weeks rather than compressed into one busy ceremony."
+  },
+  {
+   "h": "A voice heard exactly where the plan said it would be",
+   "b": "\"He heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims\" (v. 89) — the very spot described so precisely back in Exodus 25:22 turns out, chapters later, to be exactly where God's voice is actually heard, promise and fulfilment matching in the smallest detail."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 25:22 · 1 Corinthians 14:40 · Malachi 3:16",
+   "qs": [
+    {
+     "th": "Exodus 25:22 had already promised, \"there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims\" — a promise made long before the tabernacle was ever built, now quietly and exactly fulfilled the moment it was finished (v. 89).",
+     "q": "Read Exodus 25:22 alongside Numbers 7:89. What does it do to your own trust in God's promises to see one kept so precisely, down to the exact location, after so many chapters had passed in between?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's longest, most repetitive passage exists entirely to record ordinary individuals — Nahshon, Nethaneel, Eliab and the rest — giving identical gifts, none more prominent than another simply because their name came later in the list.",
+     "q": "Where might you be quietly assuming your own ordinary, unremarkable giving or service matters less than someone else's, when this chapter suggests God records each one just as fully?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Kohathites carried the holiest things by hand, on their own shoulders, while other Levites were given wagons for lighter loads (v. 9) — the greater honour of nearness to what was holy came paired with the harder task, not an easier one.",
+     "q": "Where might the Holy Spirit be asking you to carry something significant the harder, more personal way, rather than looking for a shortcut that would make it easier but less your own?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Twelve princes, twelve days, one identical gift repeated in full each time — nothing about this chapter suggests God grew bored of hearing the same offering brought again and again.",
+     "q": "Thank God today for a way you have been faithfully repeating the same small act of devotion or service for a long time, trusting that repetition itself is not wasted on Him."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 289
+{
+ "ref": "Numbers 8",
+ "tag": "Old Testament",
+ "api": "numbers+8",
+ "sum": [
+  "Aaron is instructed to light the seven lamps of the candlestick so that they give light over against it, exactly as the LORD had shown Moses the pattern.",
+  "The Levites are ceremonially purified — sprinkled with water, shaving all their flesh, washing their clothes — then presented before the LORD as a wave offering from the children of Israel.",
+  "Israel lays hands on the Levites, and the Levites lay hands on the bullocks, formally substituting the whole tribe for every firstborn son in Israel.",
+  "A specific age range is set for active service, from twenty-five years old to fifty, after which Levites minister only in a lighter, supportive role."
+ ],
+ "nug": [
+  {
+   "h": "A lampstand lit exactly as shown, nothing improvised",
+   "b": "\"And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses\" (v. 3) — even something as ordinary as lighting a lamp each evening was done according to a pattern given long before in Exodus, not according to Aaron's own preference."
+  },
+  {
+   "h": "A whole nation's hands laid on a single tribe",
+   "b": "\"The children of Israel shall put their hands upon the Levites\" (v. 10) has all Israel physically identifying itself with this one tribe before they are ever presented to the LORD, ownership and substitution made into a deliberate, tangible act rather than a private legal formality."
+  },
+  {
+   "h": "A different starting age from the very same duties described elsewhere",
+   "b": "This chapter sets Levitical service beginning \"from twenty and five years old and upward\" (v. 24), while Numbers 4 had counted only those \"from thirty years old and upward even until fifty years old\" for carrying the tabernacle's furniture — most naturally read as five years of apprenticeship before full active duty, rather than a contradiction."
+  },
+  {
+   "h": "Retirement that still kept a role, just a lighter one",
+   "b": "\"From the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more: but shall minister with their brethren... and shall do no service\" (v. 25-26) — a Levite past fifty wasn't put out of usefulness altogether, simply moved to a role suited to what he could still give."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 25:37 · 1 Corinthians 12:4-7 · 1 Timothy 4:14",
+   "qs": [
+    {
+     "th": "Exodus 25:37 had specified exactly how the candlestick's lamps should be arranged, \"that they may give light over against it\" — the very phrase repeated here in Numbers 8:3, showing Aaron's obedience matched, years later, the precise pattern God had shown Moses on the mountain long before any of it was built.",
+     "q": "Read Exodus 25:37 alongside Numbers 8:1-3. Why might it matter to you that faithfulness here is measured by matching an old pattern exactly, rather than by finding a fresher or more convenient way to do the same job?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Levites' active service had a defined beginning and a defined ending (v. 24-25), rather than running indefinitely regardless of a person's actual season of life.",
+     "q": "Where in your own life might you need to honestly recognise that a particular season of active service is drawing to its appointed close, without treating that as being made useless?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "A Levite past fifty still \"ministered with their brethren\" even though his heaviest labour was over (v. 26), his continued presence and support still counted as real contribution.",
+     "q": "Where might the Holy Spirit be inviting you to keep contributing in a quieter, supportive way, even in an area where your most active role has already passed?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Every detail in this chapter — the lamp lit exactly as shown, the purification rites, the age brackets — traces back to instruction already given rather than being decided freshly here.",
+     "q": "Sit quietly today and consider one area of your own life where following an already-given pattern faithfully matters more than inventing something new."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 290
+{
+ "ref": "Psalm 64",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+64",
+ "sum": [
+  "David prays for his life to be preserved from the fear of the enemy, asking to be hidden from the secret counsel of the wicked and the insurrection of evildoers.",
+  "He describes enemies who whet their tongue like a sword and bend their bows to shoot bitter words in secret at the innocent, encouraging one another in their scheme and believing no one will see.",
+  "David declares that God will suddenly shoot them with His own arrow, their own tongue causing their fall, so that all who see will flee and everyone will fear and declare God's work.",
+  "The psalm closes with the righteous glad in the LORD, trusting Him, and all the upright in heart able to glory."
+ ],
+ "nug": [
+  {
+   "h": "Danger named specifically as secret, not open",
+   "b": "\"Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity\" (v. 2) prays against a threat that can't easily be confronted directly, since its whole power lies in staying hidden from view."
+  },
+  {
+   "h": "Words themselves pictured as weapons",
+   "b": "\"Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words\" (v. 3) makes speech itself the actual armament in view here, cruelty carried out with a tongue rather than a blade."
+  },
+  {
+   "h": "A confidence that no one is watching, answered directly",
+   "b": "\"They encourage themselves in an evil matter... they say, Who shall see them?\" (v. 5) exposes the plotters' whole scheme as resting on an assumed absence of witnesses, an assumption this very psalm goes on to overturn."
+  },
+  {
+   "h": "A trap that turns on its own makers",
+   "b": "\"So they shall make their own tongue to fall upon themselves\" (v. 8) pictures the same weapon named in verse 3 — the tongue — becoming the very thing that finally destroys the ones who used it, judgment arriving through their own chosen instrument."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 7:14-16 · Proverbs 26:27 · Romans 3:13-14",
+   "qs": [
+    {
+     "th": "Psalm 7, prayed under a similar threat, already pictured a trap that catches its own maker — \"he made a pit, and digged it, and is fallen into the ditch which he made\" (Psalm 7:15) — the same pattern of self-destructive scheming this psalm now applies specifically to cruel, hidden speech.",
+     "q": "Read Psalm 7:14-16 alongside Psalm 64:3-8. Why might this same picture of a plot turning back on its own maker appear more than once across David's prayers, rather than only here?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's fear here isn't of open confrontation but of \"the secret counsel of the wicked\" (v. 2) — harm plotted quietly, out of sight, rather than declared openly.",
+     "q": "Have you ever been genuinely hurt by something said or planned about you in secret, and how did you bring that specific hurt honestly before God, rather than only to other people?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The wicked's confident assumption, \"who shall see them?\" (v. 5), describes a life lived as though no one, not even God, is actually paying attention.",
+     "q": "Where might the Holy Spirit be reminding you that your own private words and plans, not only your public actions, are genuinely seen and known?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing verse turns entirely away from the threat it spent most of its length describing — \"the righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory\" (v. 10).",
+     "q": "Praise God today specifically for being trustworthy even against threats you cannot see coming or fully understand."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 291
+{
+ "ref": "Numbers 9",
+ "tag": "Old Testament",
+ "api": "numbers+9",
+ "sum": [
+  "Israel keeps the Passover in the wilderness of Sinai at its appointed time, but men defiled by a dead body ask why they should be kept back from offering it in its season.",
+  "The LORD institutes a second Passover, one month later, for anyone unclean or on a distant journey, so that no one who genuinely desires to keep it is shut out.",
+  "On the day the tabernacle is reared up, a cloud covers it, appearing as fire by night, and Israel's whole camp lives and moves according to whether the cloud lifts or stays.",
+  "Whether the cloud tarried two days, a month, or a year, Israel kept the charge of the LORD and did not journey until it lifted, then set out the moment it did."
+ ],
+ "nug": [
+  {
+   "h": "A complaint that leads to a new provision rather than a rebuke",
+   "b": "\"Wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel?\" (v. 7) is met not with correction but with an entirely new law, a second Passover instituted specifically because their question was reasonable and their desire genuine."
+  },
+  {
+   "h": "A single rhythm governing an entire nation's movement",
+   "b": "\"At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses\" (v. 23) repeats the same phrase four times in one verse, obedience to the cloud's movement described almost as a single, settled reflex rather than a fresh decision each time."
+  },
+  {
+   "h": "No length of waiting treated as too long to honour",
+   "b": "\"Whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle... the children of Israel abode in their tents, and journeyed not\" (v. 22) makes plain that Israel's obedience wasn't contingent on the wait being short or convenient."
+  },
+  {
+   "h": "Fire filling the exact role light usually plays",
+   "b": "\"At even there was upon the tabernacle as it were the appearance of fire, until the morning\" (v. 15-16) gave Israel, camped in open wilderness, a constant visible marker of God's presence whether the hour was day or night."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 12:1-14 · Exodus 40:36-38 · 1 Corinthians 10:1-4",
+   "qs": [
+    {
+     "th": "Exodus 40 had already described this same cloud settling on the newly finished tabernacle — \"a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle\" (Exodus 40:34) — the pattern of guidance this chapter now describes in more detail having already begun the very day the tabernacle was completed.",
+     "q": "Read Exodus 40:36-38 alongside Numbers 9:15-23. What difference does it make to you that Israel's guidance depended entirely on watching and waiting for something visible, rather than on their own sense of readiness to move?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The second Passover exists because some genuinely wanted to keep the feast but were prevented by circumstances outside their control (v. 6-7), and God made room for their desire rather than simply excluding them.",
+     "q": "Is there a spiritual practice or observance you've assumed is now closed to you because of circumstances beyond your control? Where might God be more willing to make room for you than you've assumed?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Israel's whole rhythm of rest and movement depended entirely on watching for the cloud rather than deciding for themselves when the time was right (v. 17-23).",
+     "q": "Where might the Holy Spirit be asking you to wait for a clearer sense of His timing, rather than moving ahead simply because you feel ready to?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The unclean men's honest question — why should genuine desire to obey be shut out by circumstances they didn't choose? (v. 7) — assumes God cares more about the heart's actual desire than about a technicality.",
+     "q": "Confess to God today any place where you've assumed a past failure or circumstance permanently disqualifies you from something you still genuinely long to do for Him."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 292
+{
+ "ref": "Mark 14",
+ "tag": "New Testament",
+ "api": "mark+14",
+ "sum": [
+  "A woman anoints Jesus' head with a costly alabaster box of ointment of spikenard at Bethany, and Jesus defends her act as done beforehand for His burial, while Judas goes to the chief priests to betray Him for money.",
+  "At the Last Supper Jesus institutes the bread and cup as His body and blood, and predicts both His betrayal and Peter's threefold denial before the cock crows twice.",
+  "In Gethsemane Jesus prays in anguish while the disciples sleep, is betrayed by Judas with a kiss, and is arrested as a young man flees naked, leaving his linen cloth behind.",
+  "Jesus stands trial before the high priest and council, is condemned for blasphemy, and Peter, waiting below, denies Him three times before the cock crows a second time and weeps."
+ ],
+ "nug": [
+  {
+   "h": "Extravagance defended against calculation",
+   "b": "\"She hath done what she could: she is come aforehand to anoint my body to the burying\" (v. 8) answers the complaint that the ointment, worth \"more than three hundred pence,\" was simply wasted — Jesus receives as insight and devotion what others saw only as loss."
+  },
+  {
+   "h": "Honesty that admits the cost before accepting it",
+   "b": "\"Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt\" (v. 36) holds real, spoken dread together with complete submission in the very same breath, without pretending the dread away."
+  },
+  {
+   "h": "A detail no other Gospel keeps, likely from an eyewitness closest to the scene",
+   "b": "\"There followed him a certain young man, having a linen cloth cast about his naked body; and the young men laid hold on him: and he left the linen cloth, and fled from them naked\" (v. 51-52) — a strange, oddly specific detail unique to Mark, long thought by many readers to be Mark's own quiet signature on the account."
+  },
+  {
+   "h": "A prediction whose exact wording is remembered afterward",
+   "b": "Jesus tells Peter, \"before the cock crow twice, thou shalt deny me thrice\" (v. 30) — Mark alone specifying two crowings rather than one — and by verse 72 records precisely that detail fulfilled, \"the second time the cock crew,\" a small precision consistent with Mark's Gospel drawing closely on Peter's own memory of that night."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 12:1-14 · Psalm 22:1-18 · Zechariah 13:7",
+   "qs": [
+    {
+     "th": "The cup Jesus shares here reshapes the Passover meal first instituted in Exodus 12 to remember blood that turned aside death — \"this is my blood of the new testament, which is shed for many\" (v. 24) — the ancient meal's whole meaning now centred on His own blood rather than a lamb's.",
+     "q": "Read Exodus 12:1-14 alongside Mark 14:22-24. How does knowing the Last Supper deliberately reshapes the Passover meal change what you notice the next time you take communion?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus asks Peter, James and John to \"watch\" with Him in His hour of deepest anguish (v. 34, 37), and finds them asleep not once but repeatedly, at the very moment His need for companionship was greatest.",
+     "q": "Is there someone in your life right now who most needs you simply to stay awake and present with them in a hard hour, rather than looking away because it's uncomfortable?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"The spirit truly is ready, but the flesh is weak\" (v. 38) names a real gap between genuine spiritual willingness and actual human weakness, spoken directly to disciples who had just failed to stay awake.",
+     "q": "Where might the Holy Spirit currently be highlighting this same gap in you — a genuine desire to do right that keeps being outpaced by simple human weakness?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Peter's failure deepens across the night rather than stopping at a single slip — three separate denials, the last accompanied by cursing and swearing (v. 71) — before he remembers Jesus' words and weeps (v. 72).",
+     "q": "Confess to God today any place where an initial small compromise has been allowed to deepen further, the way Peter's single denial grew into three across just a few hours."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 293
+{
+ "ref": "Psalm 65",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+65",
+ "sum": [
+  "David declares that praise waits for God in Zion, and that all flesh will come to Him, the one who hears prayer and purges away transgressions.",
+  "He blesses those God chooses and brings near to dwell in His courts, satisfied with the goodness of His house and His holy temple.",
+  "God is praised as the one who by His strength sets fast the mountains, stills the noise of the seas, and makes the outgoings of morning and evening rejoice.",
+  "The psalm closes describing God visiting and watering the earth, crowning the year with goodness, so that the pastures, hills and valleys shout for joy and sing."
+ ],
+ "nug": [
+  {
+   "h": "Praise pictured as something already waiting, not yet begun",
+   "b": "\"Praise waiteth for thee, O God, in Sion\" (v. 1) — some translators note the underlying Hebrew can carry the sense of praise being silent, held in reserve, as though worship itself is poised in anticipation before it even begins to sound out loud."
+  },
+  {
+   "h": "An open invitation given global scope",
+   "b": "\"O thou that hearest prayer, unto thee shall all flesh come\" (v. 2) widens what could easily have stayed a local, national confidence into a claim covering every person who would ever pray, not Israel's God alone but the God every human being must eventually reckon with."
+  },
+  {
+   "h": "Sin purged, not merely covered over",
+   "b": "\"Iniquities prevail against me: as for our transgressions, thou shalt purge them away\" (v. 3) admits real, ongoing struggle with sin in the very same breath as confident trust that God actually removes it rather than simply overlooking it."
+  },
+  {
+   "h": "Creation itself given a voice to celebrate with",
+   "b": "\"The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing\" (v. 13) closes the psalm with an image of the physical world responding to God's provision almost as though it had its own choir."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Kings 8:41-43 · Matthew 6:26 · 2 Corinthians 9:10",
+   "qs": [
+    {
+     "th": "Solomon's temple dedication prayer specifically asks that even \"the stranger, that is not of thy people Israel... when he shall come and pray toward this house\" would be heard (1 Kings 8:41-43) — the same wide-open invitation this psalm makes explicit, that God who hears prayer draws \"all flesh,\" not one nation only.",
+     "q": "Read 1 Kings 8:41-43 alongside Psalm 65:2. How does it change your own praying to know that this psalm's confidence — God hears prayer, and all flesh may come — was never meant to be Israel's private assurance alone?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm names both a struggle with sin still \"prevailing\" and confident trust that God purges it away (v. 3), holding honest admission and settled hope together rather than pretending the struggle isn't real.",
+     "q": "Where in your own life are you currently holding an honest, ongoing struggle and genuine trust in God's forgiveness together, the way this verse does?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The whole second half of this psalm traces God's provision through rain, harvest and growing pasture without a single human hand credited for any of it (v. 9-13).",
+     "q": "Where might the Holy Spirit be inviting you to notice quiet, ordinary provision in your own life this week that you've been crediting to circumstance rather than to God?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing picture of pastures, valleys and hills all \"shouting for joy\" over a harvest none of them produced themselves (v. 12-13) offers thanksgiving as the most natural response to provision freely given.",
+     "q": "Thank God today for a specific, tangible provision in your life this season — food, harvest, income, growth — naming it as concretely as this psalm names corn and flocks and valleys."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 294
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A name recorded twelve times over",
+   "b": "Numbers 7 could have summarised its twelve identical offerings in a single sentence, yet Scripture instead names each prince and repeats each gift in full (v. 12-83) — a striking suggestion that God's record-keeping doesn't grow bored of the same faithful thing offered again and again."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 7's twelve identical dedication offerings recorded in full rather than summarised, Numbers 8's consecration of the Levites and the lamp lit exactly as shown, Psalm 64's prayer against secret plots that turn back on their own makers, Numbers 9's second Passover and the cloud that governed Israel's every movement, Mark 14's Last Supper, Gethsemane and Peter's threefold denial, and Psalm 65's praise for a God who purges sin and crowns the year with goodness.",
+     "q": "Where this week did Israel's patient obedience to the cloud in Numbers 9:22-23, or Jesus' honest \"nevertheless not what I will, but what thou wilt\" in Mark 14:36, most challenge how willingly you're currently waiting on God's timing rather than your own?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"The spirit truly is ready, but the flesh is weak\" (Mark 14:38) — spoken gently to disciples who had genuinely meant to stay awake, and failed anyway.",
+     "q": "Sit quietly for a few minutes and bring before God one specific place where your own willing spirit keeps being outpaced by real weakness, without excusing it or despairing over it."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 295
+{
+ "ref": "Numbers 10",
+ "tag": "Old Testament",
+ "api": "numbers+10",
+ "sum": [
+  "The LORD commands two silver trumpets to be made for calling the assembly and for signalling the camps to journey, blown in specific patterns by the priests.",
+  "On the twentieth day of the second month, in the second year, the cloud lifts and Israel sets out from Sinai in the exact order previously assigned, tribe by tribe.",
+  "Moses urges Hobab, his father-in-law's son, to journey with them as a guide who knows the wilderness, since the ark itself goes before them three days' journey to search out a resting place.",
+  "Whenever the ark set forward, Moses declared, \"Rise up, LORD, and let thine enemies be scattered,\" and whenever it rested, \"Return, O LORD, unto the many thousands of Israel.\""
+ ],
+ "nug": [
+  {
+   "h": "An instrument given two entirely different jobs",
+   "b": "The same silver trumpets serve both \"for the calling of the assembly, and for the journeying of the camps\" (v. 2), one instrument doing double duty for two very different purposes — gathering people in, and sending them out."
+  },
+  {
+   "h": "A guide requested even with the cloud already leading",
+   "b": "\"Leave us not, I pray thee... thou mayest be to us instead of eyes\" (v. 31) shows Moses asking Hobab for practical, human wilderness knowledge even while Israel already had God's own visible cloud to follow — divine guidance and ordinary human wisdom sought together, not treated as competitors."
+  },
+  {
+   "h": "A search party sent three days ahead",
+   "b": "\"The ark of the covenant of the LORD went before them in the three days' journey, to search out a resting place for them\" (v. 33) has the symbol of God's own presence doing the practical work of scouting the road itself, not merely riding along behind."
+  },
+  {
+   "h": "A prayer repeated at every single stop and start",
+   "b": "\"Rise up, LORD, and let thine enemies be scattered... Return, O LORD, unto the many thousands of Israel\" (v. 35-36) turned Israel's ordinary, repeated act of breaking and making camp into an occasion for prayer each time, not left as a wordless routine."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 40:36-38 · Psalm 68:1 · 1 Corinthians 14:8",
+   "qs": [
+    {
+     "th": "This same cry, \"Rise up, LORD, and let thine enemies be scattered\" (v. 35), reappears almost word for word generations later as the opening line of Psalm 68 — an ancient marching prayer from the wilderness becoming the opening note of a much later psalm of triumphant praise.",
+     "q": "Read Numbers 10:35 alongside Psalm 68:1, which you'll read again later this week. Why might it matter that a prayer first prayed over the ark's departure from a wilderness campsite was still being prayed, in nearly the same words, so much later in Israel's story?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses asked Hobab for guidance even while trusting God's cloud completely, treating human wisdom and divine leading as complementary rather than as a sign of insufficient faith (v. 29-31).",
+     "q": "Where in your own life have you hesitated to seek practical human advice or help, mistakenly treating it as a lack of trust in God rather than a genuine gift He also provides?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The trumpets' \"certain sound\" (echoed later by Paul in 1 Corinthians 14:8) had to be clear and distinguishable so the camp would know exactly what was being asked of them.",
+     "q": "Where might the Holy Spirit be asking you for a clearer, more distinguishable response in your own life, rather than an uncertain or ambiguous one?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter describes an enormous nation moving in precise, obedient response to a sound and a cloud neither of which they controlled themselves.",
+     "q": "Sit quietly today and consider what it would look like to respond as readily and attentively to God's leading as this camp responded to its trumpets and its cloud."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 296
+{
+ "ref": "Numbers 11",
+ "tag": "Old Testament",
+ "api": "numbers+11",
+ "sum": [
+  "The people complain, and fire from the LORD burns among them at Taberah until Moses prays and it is quenched.",
+  "The mixed multitude lusts after meat, and Israel weeps for the food of Egypt, despising the manna, until Moses cries out to God that the burden of the people is too heavy for him alone.",
+  "God tells Moses to gather seventy elders to share the burden, and the Spirit that rests on Moses rests also on them, so that even Eldad and Medad, who stayed in the camp, prophesy there.",
+  "A wind from the LORD brings a vast number of quail, but while the flesh is still between their teeth a great plague strikes the people at a place named Kibrothhattaavah, the graves of lust."
+ ],
+ "nug": [
+  {
+   "h": "A menu remembered more fondly than it deserved",
+   "b": "\"We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick\" (v. 5) recalls slavery's food with startling nostalgia, memory of bondage softened into longing once freedom itself grew inconvenient."
+  },
+  {
+   "h": "A complaint honest enough to ask for death",
+   "b": "\"Kill me, I pray thee, out of hand... and let me not see my wretchedness\" (v. 15) shows Moses' own leadership reaching genuine exhaustion and despair, his complaint to God every bit as raw as the people's complaint against him."
+  },
+  {
+   "h": "A gift shared without being diminished",
+   "b": "\"I will take of the spirit which is upon thee, and will put it upon them\" (v. 17) describes the Spirit given to the seventy elders without any suggestion that Moses himself now had less — burden shared multiplied capacity rather than dividing a fixed supply."
+  },
+  {
+   "h": "A leader glad to see his own authority spread further than he expected",
+   "b": "When Joshua asks Moses to stop Eldad and Medad from prophesying in the camp, Moses answers, \"Enviest thou for my sake? would God that all the LORD's people were prophets, and that the LORD would put his spirit upon them!\" (v. 29) — no defensiveness at all about others sharing what he had."
+  },
+  {
+   "h": "Judgment landing in the middle of the very appetite it answered",
+   "b": "\"While the flesh was yet between their teeth, ere it was chewed, the wrath of the LORD was kindled against the people\" (v. 33) makes the timing itself part of the lesson, the craving satisfied and judged almost in the same instant."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 16:2-3 · Acts 6:1-6 · 1 Corinthians 12:4-7",
+   "qs": [
+    {
+     "th": "Israel's craving here for Egypt's food directly echoes their earlier complaint in Exodus 16:2-3, back when the manna was first given — the same underlying discontent surfacing again years later, now aimed specifically at the very provision God had faithfully kept sending them the whole time.",
+     "q": "Read Exodus 16:2-3 alongside Numbers 11:4-6. Why might the same complaint resurface years apart, even after God had proven faithful in the meantime? Where has an old, familiar discontent resurfaced in your own life despite plenty of evidence it wasn't warranted?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses' honest admission that the burden had become too heavy for him alone (v. 14) wasn't treated as a failure of faith but was met with a practical, structural solution — more people sharing the load.",
+     "q": "Where in your own responsibilities might honestly admitting a burden is too heavy for you alone open the door to help you've been reluctant to ask for?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses' wish that \"all the LORD's people were prophets, and that the LORD would put his spirit upon them\" (v. 29) longed for the Spirit's work to be far more widely shared than his own particular role required.",
+     "q": "Where might the Holy Spirit be at work in someone around you in a way that, like Eldad and Medad, doesn't fit the usual, expected structure — and are you as glad to see it as Moses was?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter traces a straight line from ordinary grumbling to genuine, deadly craving, discontent with what God had already provided escalating into demanding more of it on their own terms (v. 4-6, 33).",
+     "q": "Confess to God today any place where ordinary grumbling about what you have has been quietly hardening into a demanding, entitled craving for something else."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 297
+{
+ "ref": "Psalm 66",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+66",
+ "sum": [
+  "The psalmist calls all lands to make a joyful noise unto God, singing forth the honour of His name, since His works are terrible and His enemies submit to Him.",
+  "He remembers how God turned the sea into dry land so Israel walked through the flood on foot, ruling by His power forever, His eyes watching the nations.",
+  "The psalmist describes being tried like silver, brought through fire and through water, yet brought out into a wealthy place, and invites everyone who fears God to hear what He has done.",
+  "He declares his own vows will be paid, and that if he had regarded iniquity in his heart the LORD would not have heard him, but instead God has heard and not turned away His mercy."
+ ],
+ "nug": [
+  {
+   "h": "A call to worship with no borders drawn around it",
+   "b": "\"Make a joyful noise unto God, all ye lands\" (v. 1) opens a psalm rooted in Israel's own specific deliverance history yet addresses every nation on earth, national testimony offered as an invitation rather than kept as a private memory."
+  },
+  {
+   "h": "A crossing remembered as walking, not swimming or fleeing",
+   "b": "\"He turned the sea into dry land: they went through the flood on foot\" (v. 6) recalls the Red Sea crossing with a strikingly calm, ordinary verb — walking — for an event that must have felt anything but ordinary at the time."
+  },
+  {
+   "h": "Refining that leads somewhere better, not merely somewhere safer",
+   "b": "\"We went through fire and through water: but thou broughtest us out into a wealthy place\" (v. 12) doesn't end the testimony simply with survival, but with genuine increase and abundance following real hardship."
+  },
+  {
+   "h": "A heart-check offered as the reason prayer works at all",
+   "b": "\"If I regard iniquity in my heart, the Lord will not hear me\" (v. 18) names honest self-examination as directly connected to whether prayer is actually heard, not a separate matter from it."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 14:21-22 · 1 Peter 1:6-7 · Psalm 34:15-18",
+   "qs": [
+    {
+     "th": "Exodus 14:21-22 records the actual crossing this psalm remembers — \"the children of Israel went into the midst of the sea upon the dry ground\" — a specific historical rescue now become, generations later, a testimony offered to every nation on earth as evidence of who God is.",
+     "q": "Read Exodus 14:21-22 alongside Psalm 66:6. How does turning a specific, personal deliverance into public testimony, the way this psalm does with the Exodus, change how you think about sharing your own story of what God has done?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalmist openly names being \"tried\" and brought \"through fire and through water\" (v. 10, 12) as part of the very testimony he's giving, not a part of the story he leaves out to make God look better.",
+     "q": "Would you be willing to include the genuinely hard, refining parts of your own story when you tell others what God has done for you, the way this psalm does?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The connection drawn between an examined heart and a heard prayer (v. 18) suggests the Holy Spirit's ongoing work of conviction is directly tied to whether our prayers land anywhere at all.",
+     "q": "Where might the Holy Spirit currently be highlighting something in your own heart that needs honest examination before you bring your next request to God?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalmist's whole testimony builds toward one specific declaration — \"blessed be God, which hath not turned away my prayer, nor his mercy from me\" (v. 20) — thanksgiving rooted in a particular, remembered answer.",
+     "q": "Thank God today for a specific, particular time He heard and answered you, naming it as concretely as this psalm names the sea, the fire and the water."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 298
+{
+ "ref": "Numbers 12",
+ "tag": "Old Testament",
+ "api": "numbers+12",
+ "sum": [
+  "Miriam and Aaron speak against Moses because of the Cushite woman he had married, asking whether the LORD has spoken only through Moses and not also through them.",
+  "The LORD hears it, calls the three of them out, and defends Moses as uniquely faithful, one with whom He speaks \"mouth to mouth, even apparently, and not in dark speeches.\"",
+  "The LORD's anger burns against Miriam and Aaron, and when the cloud departs Miriam is found leprous, white as snow.",
+  "Aaron pleads with Moses, who cries out, \"Heal her now, O God, I beseech thee,\" and Miriam is shut out of the camp seven days while the whole people wait for her before journeying on."
+ ],
+ "nug": [
+  {
+   "h": "A description quietly placed right in the middle of the conflict",
+   "b": "\"Now the man Moses was very meek, above all the men which were upon the face of the earth\" (v. 3) sits almost as an aside within the narrative, yet it's precisely this meekness that lets Moses stay silent under attack while God Himself steps in to answer it."
+  },
+  {
+   "h": "A form of relationship named as unlike any prophet's",
+   "b": "\"With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold\" (v. 8) draws a sharp line between the visions and dreams given to ordinary prophets and the direct, clear communication reserved uniquely for Moses."
+  },
+  {
+   "h": "A private complaint that had a very public trigger",
+   "b": "The chapter opens naming Moses' marriage — \"because of the Ethiopian woman whom he had married\" (v. 1) — as the occasion for the complaint, though the substance of the challenge that follows is really about authority, not marriage, a grievance about one thing quickly widening into resentment about something else entirely."
+  },
+  {
+   "h": "A prayer as short as it is urgent",
+   "b": "Moses' whole intercession for his own sister who had just spoken against him is a single, plain sentence — \"Heal her now, O God, I beseech thee\" (v. 13) — no lengthy justification, simply an immediate plea on behalf of someone who had just wronged him."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 34:6-7 · Galatians 6:1 · Matthew 5:5",
+   "qs": [
+    {
+     "th": "Moses' description here as \"very meek, above all the men which were upon the face of the earth\" (v. 3) is lived out concretely in the very next verses, where he asks nothing for himself and prays instead for the sister who had just attacked him — meekness shown in action, not only stated as a trait.",
+     "q": "Read Matthew 5:5 alongside Numbers 12:3, 13. What does Moses' actual response here — silence under attack, then immediate prayer for his accuser — teach you about what meekness looks like in practice rather than only in definition?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Miriam and Aaron's complaint began with something personal — Moses' marriage — but quickly surfaced a deeper resentment about status and authority (v. 1-2).",
+     "q": "Has a complaint you've raised about something small ever turned out, on honest reflection, to really be about something else — status, comparison, or feeling overlooked? What was the real issue underneath?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses' instant prayer for Miriam's healing (v. 13), offered without delay or condition immediately after she had spoken against him, models forgiveness acted on before it's even fully processed.",
+     "q": "Where might the Holy Spirit be asking you to pray for someone's genuine good right now, even while the hurt from what they said or did is still fresh?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole episode began with comparing roles and privileges — \"hath he not spoken also by us?\" (v. 2) — envy dressed up as a legitimate question about fairness.",
+     "q": "Confess to God today any place where a reasonable-sounding question you've raised about fairness or recognition has really been envy in disguise."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 299
+{
+ "ref": "Mark 15",
+ "tag": "New Testament",
+ "api": "mark+15",
+ "sum": [
+  "Jesus is delivered to Pilate, who asks, \"Art thou the King of the Jews?\" and, finding no real charge, still releases Barabbas and delivers Jesus to be scourged and crucified after the crowd cries out against Him.",
+  "Soldiers mock Jesus with a purple robe and a crown of thorns, and Simon of Cyrene is compelled to carry His cross to Golgotha, where He is crucified between two thieves as soldiers cast lots for His garments.",
+  "Darkness covers the land from the sixth to the ninth hour, and Jesus cries, \"Eloi, Eloi, lama sabachthani,\" before giving up the ghost as the temple veil is torn in two from top to bottom.",
+  "A centurion declares Jesus truly the Son of God, and Joseph of Arimathaea, waiting for the kingdom of God, boldly asks Pilate for the body and buries it in a tomb hewn out of rock."
+ ],
+ "nug": [
+  {
+   "h": "A question answered without a direct answer",
+   "b": "\"Art thou the King of the Jews? And he answering said unto him, Thou sayest it\" (v. 2) has Jesus neither denying nor claiming the title in the way Pilate expects, an answer that leaves the truth of it standing without giving Pilate the plain confession he wanted to dismiss."
+  },
+  {
+   "h": "A cross carried by someone who happened to be passing by",
+   "b": "\"They compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross\" (v. 21) — Mark names Simon's sons specifically, a detail that meant little to most readers then but likely identified, for Mark's earliest audience, people they actually knew (compare Romans 16:13's greeting to a Rufus in Rome)."
+  },
+  {
+   "h": "The exact words of abandonment, kept in their original language",
+   "b": "\"Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?\" (v. 34) preserves Jesus' actual Aramaic cry before translating it, quoting Psalm 22:1 word for word at the very depth of His suffering."
+  },
+  {
+   "h": "A curtain torn from above, not worn through from below",
+   "b": "\"The veil of the temple was rent in twain from the top to the bottom\" (v. 38) makes the direction of the tear itself significant — not damage worked upward by human hands, but something done from above, by God."
+  },
+  {
+   "h": "A verdict spoken by the one least expected to say it",
+   "b": "\"Truly this man was the Son of God\" (v. 39) comes from a Roman centurion who had just overseen the execution, not from a disciple or a religious leader, the clearest human confession in the whole account coming from an outsider watching Jesus actually die."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 22:1, 18 · Isaiah 53:3-9 · Zechariah 12:10",
+   "qs": [
+    {
+     "th": "Psalm 22, written centuries earlier, describes both the exact cry Jesus utters here — \"my God, my God, why hast thou forsaken me?\" (Psalm 22:1) — and the detail of soldiers parting garments and casting lots for them (Psalm 22:18, echoed in v. 24), an ancient psalm of suffering matching this scene with striking, specific precision.",
+     "q": "Read Psalm 22:1 and 22:18 alongside Mark 15:24, 34. What does it mean to you that David, centuries before crucifixion even existed as a Roman practice, wrote details this exact about the death Jesus would actually die?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus' cry of abandonment (v. 34) is the rawest, most honest expression of forsakenness in all of Scripture, spoken by the one person who had never actually sinned against the Father He now felt cut off from.",
+     "q": "Where have you felt genuinely forsaken by God, even briefly, and how does it change that feeling to know Jesus Himself gave voice to exactly that experience?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The temple veil torn \"from the top to the bottom\" (v. 38) opened, at the exact moment of Jesus' death, the way into God's presence that had been closed since the tabernacle was first built.",
+     "q": "Where might the Holy Spirit be inviting you to approach God with new confidence today, remembering that this torn veil means the way in is already, permanently, open?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire, devastating chapter unfolds with almost no explanatory commentary from Mark — the darkness, the cry, the torn veil, the centurion's confession are simply recorded, one after another, without being interpreted for the reader.",
+     "q": "Sit quietly today with the weight of this chapter, resisting the urge to move quickly to explanation or application, and simply let the cost of the cross settle in you."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 300
+{
+ "ref": "Psalm 68",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+68",
+ "sum": [
+  "David calls for God to arise and scatter His enemies, praising Him as a father of the fatherless and a judge of widows who sets the solitary in families.",
+  "He recalls God's provision through the wilderness and pictures a great procession of chariots and thousands of angels, God ascending on high, leading captivity captive and receiving gifts for men.",
+  "Singers and instrument players process before God, tribes of Israel named together, kingdoms of the earth called to sing praises to Him who rides upon the heavens.",
+  "The psalm closes anticipating that even Egypt and Ethiopia will stretch out their hands to God, whose strength and power are given to His people."
+ ],
+ "nug": [
+  {
+   "h": "A prayer that echoes an old wilderness cry almost word for word",
+   "b": "\"Let God arise, let his enemies be scattered: let them also that hate him flee before him\" (v. 1) opens with nearly the exact words Moses spoke every time the ark set forward in the wilderness (Numbers 10:35), a prayer first prayed over a moving tabernacle now sung generations later over an entire nation's history."
+  },
+  {
+   "h": "Care named specifically for those with no one else",
+   "b": "\"A father of the fatherless, and a judge of the widows, is God in his holy habitation\" (v. 5) singles out exactly those left most vulnerable by loss, describing God's care in the most personal, relational terms rather than only as sweeping national deliverance."
+  },
+  {
+   "h": "A verse quoted, and reworked, centuries later by Paul",
+   "b": "\"Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men\" (v. 18) is picked up by Paul in Ephesians 4:8, who applies this picture of a victorious king distributing spoils directly to Christ's ascension and His gifts given to the church."
+  },
+  {
+   "h": "An outcome that reaches even Israel's old enemies",
+   "b": "\"Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God\" (v. 31) closes the psalm's vision with former adversaries themselves turning to worship, victory widening out into worship rather than staying focused only on defeat."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 10:35 · Ephesians 4:7-8 · Psalm 146:9",
+   "qs": [
+    {
+     "th": "This psalm's opening line is almost identical to the very prayer Moses spoke every time the ark set forward in the wilderness (Numbers 10:35), which you read earlier this week — the same words moving from a specific, repeated wilderness ritual into one of Israel's grandest psalms of praise.",
+     "q": "Read Numbers 10:35 again alongside Psalm 68:1. What does it do to your own sense of continuity in Scripture to see one generation's brief, practical prayer become another generation's opening line of worship?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm names God's care for \"the fatherless\" and \"the widows\" specifically (v. 5), tying His greatness not only to power over enemies but to tenderness toward the most vulnerable.",
+     "q": "Where in your own circle is there someone genuinely vulnerable — through loss, isolation or need — that this psalm's picture of God might call you to notice and care for more deliberately?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Paul takes this psalm's picture of a victorious ascending king distributing spoils and applies it directly to Christ giving gifts to His church (Ephesians 4:8) — gifts given specifically because of a victory already won.",
+     "q": "Where might the Holy Spirit be reminding you that a gift or ability you have wasn't simply natural talent, but something given out of Christ's own victory?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing picture of former enemies stretching out their hands to God (v. 31) shows worship spreading far beyond its original borders, exactly the direction this whole psalm has been building toward.",
+     "q": "Praise God today for His reach beyond your own familiar circle, for people and places you'd never have expected to turn toward Him."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 301
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "One prayer, prayed twice across centuries",
+   "b": "\"Rise up, LORD, and let thine enemies be scattered\" was first prayed by Moses over a moving ark in the wilderness (Numbers 10:35), and reappears almost word for word centuries later as the opening line of Psalm 68 — a brief, practical, repeated prayer becoming, generations on, the opening note of one of Scripture's grandest songs of praise."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 10's silver trumpets and Israel's departure from Sinai behind the ark, Numbers 11's complaining, quail and the seventy elders who shared Moses' burden, Psalm 66's testimony of being tried like silver and brought into a wealthy place, Numbers 12's rebellion of Miriam and Aaron against meek Moses, Mark 15's crucifixion and the torn veil, and Psalm 68's triumphant procession echoing Moses' own wilderness prayer.",
+     "q": "Where this week did Moses' honest cry that the burden was too heavy in Numbers 11:14, or Jesus' cry of forsakenness on the cross in Mark 15:34, most give you permission to bring an overwhelming feeling honestly to God rather than carrying it silently?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Truly this man was the Son of God\" (Mark 15:39) — spoken by a Roman centurion, the clearest confession in the whole account coming from the one person least likely to say it.",
+     "q": "Sit quietly for a few minutes with the cost of the cross, letting whoever it is in this account — the centurion, the women watching afar off, Joseph of Arimathaea — most moves you settle in you without rushing to a tidy conclusion."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 302
+{
+ "ref": "Numbers 13",
+ "tag": "Old Testament",
+ "api": "numbers+13",
+ "sum": [
+  "Moses sends twelve men, one leader from each tribe, to search out the land of Canaan, its people, cities and produce.",
+  "After forty days they return, bringing a single cluster of grapes so large it is carried between two men on a staff, along with pomegranates and figs.",
+  "All twelve agree the land flows with milk and honey, but ten report that its people are strong, its cities great and walled, and its inhabitants include the giant sons of Anak.",
+  "Caleb alone stills the people, urging them to go up at once and possess it, while the other ten insist the people are too strong, describing themselves as grasshoppers in their own sight."
+ ],
+ "nug": [
+  {
+   "h": "Evidence of abundance too heavy for one man to carry",
+   "b": "The spies \"cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff\" (v. 23) — the sheer size of the fruit itself becoming physical, undeniable proof of exactly the abundance God had promised."
+  },
+  {
+   "h": "The same facts, read two completely different ways",
+   "b": "All twelve spies agree on what they actually saw — a good land, strong people, walled cities (v. 27-28) — yet from that identical set of facts, ten conclude defeat is certain while Caleb concludes victory is possible, the difference lying entirely in what each man believed about God rather than in what either side had actually observed."
+  },
+  {
+   "h": "A single voice standing against the majority's fear",
+   "b": "\"Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it\" (v. 30) shows one man's confidence in God proving entirely unmoved by how many others around him saw things differently."
+  },
+  {
+   "h": "A self-image shrunk down to nothing",
+   "b": "\"We were in our own sight as grasshoppers, and so we were in their sight\" (v. 33) — the ten spies' fear didn't stay a private feeling, it reshaped how small they believed themselves to actually be, an assessment offered as fact rather than named as fear."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 1:22-25 · Hebrews 3:19 · 2 Corinthians 10:5",
+   "qs": [
+    {
+     "th": "Moses later retells this exact episode in Deuteronomy 1:22-25, recalling that the spies themselves initially brought back a genuinely good report of the land and its fruit — the fear that took over only entering once the ten began speaking of the people's size and strength rather than the land's abundance.",
+     "q": "Read Deuteronomy 1:22-25 alongside Numbers 13:27-33. What does it suggest to you that the same trip could be reported two such different ways, depending on what the reporters chose to focus on and believe about God's power?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The ten spies' fear didn't stay a private opinion — it reshaped their entire self-perception, describing themselves as grasshoppers rather than simply saying the task looked hard (v. 33).",
+     "q": "Where has fear in your own life gone beyond simply making a task feel difficult, and actually shrunk how capable or valuable you believe yourself to be?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Caleb's confidence rested specifically on what he believed about God's power, not on any different set of facts than the other ten spies had (v. 30).",
+     "q": "Where might the Holy Spirit be inviting you to look at the very same set of facts you're currently facing and draw a different conclusion, not because the facts have changed, but because of what you actually believe about God?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter ends without yet telling us how the people responded to these two competing reports, the tension of the moment left to sit before the next chapter reveals which voice they actually believed.",
+     "q": "Sit quietly today with a current decision where fear and faith are offering you two different readings of the very same facts, without rushing yet to resolve which one you'll believe."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 303
+{
+ "ref": "Numbers 14",
+ "tag": "Old Testament",
+ "api": "numbers+14",
+ "sum": [
+  "The whole congregation weeps, wishing they had died in Egypt or in the wilderness, and proposes making a captain to lead them back rather than trusting God for the land.",
+  "Joshua and Caleb tear their clothes and plead with the people not to rebel, but the congregation moves to stone them until the glory of the LORD appears at the tabernacle.",
+  "God threatens to disinherit the people, but Moses intercedes, appealing to God's own name and character, and the LORD pardons according to Moses' word.",
+  "The LORD decrees that this generation will die in the wilderness over forty years, a year for each of the forty days spent spying, except for Caleb and Joshua, and the people's presumptuous attempt to take the land without God is defeated at Hormah."
+ ],
+ "nug": [
+  {
+   "h": "A grief that reaches for the wrong solution entirely",
+   "b": "\"Would God we had died in this wilderness!... were it not better for us to return into Egypt?\" (v. 2-3) shows real despair answered not with trust but with a longing to reverse the very deliverance God had already accomplished."
+  },
+  {
+   "h": "An intercession built on God's own reputation, not the people's merit",
+   "b": "Moses pleads, \"the Egyptians shall hear it... and they will tell it to the inhabitants of this land\" (v. 13-14), appealing not to Israel's worthiness but to how God's own name and character would be perceived by the watching nations."
+  },
+  {
+   "h": "The very words God had spoken about Himself, handed back to Him in prayer",
+   "b": "Moses' plea, \"The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression\" (v. 18), quotes almost exactly what God had already declared of His own character back at Sinai (Exodus 34:6-7) — Moses praying God's own revealed nature back to Him as the basis for mercy."
+  },
+  {
+   "h": "A punishment measured out by the very method of the failure",
+   "b": "\"After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years\" (v. 34) ties the consequence directly to the shape of the offence itself, forty days of doubting fruit answered with forty years of wandering."
+  },
+  {
+   "h": "A late obedience that arrives too late to count",
+   "b": "Told they will not enter the land, the people presume to attack anyway the next morning without the ark or Moses, and are defeated decisively at Hormah (v. 40-45) — a sudden burst of effort offered only once it could no longer be counted as trust."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 34:6-7 · Deuteronomy 1:34-36 · Hebrews 3:16-19",
+   "qs": [
+    {
+     "th": "Moses' prayer here draws directly on God's own self-description given at Sinai after the golden calf — \"The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth\" (Exodus 34:6) — the very words God once spoke about Himself becoming, chapters later, the grounds on which Moses now pleads for an entirely new act of national rebellion to be forgiven.",
+     "q": "Read Exodus 34:6-7 alongside Numbers 14:17-19. What does it mean to you that Moses' most effective prayer here consists mostly of repeating God's own revealed character back to Him, rather than presenting a fresh argument of his own?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The people's presumptuous attack the next morning (v. 40-45), attempted without the ark and against Moses' explicit warning, looked like sudden obedience but was really just another form of doing things their own way, on their own timing.",
+     "q": "Where in your own life might a burst of sudden effort actually be an attempt to undo a consequence on your own terms, rather than genuine trust offered at the time God actually asked for it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God's declared character — merciful, gracious, longsuffering — becomes here the literal basis for pardoning the single worst act of national unbelief in the whole wilderness story (v. 18-20).",
+     "q": "Where might the Holy Spirit be inviting you to trust God's own stated character more than your own sense of whether you deserve to be forgiven for something specific?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter turns on the difference between the ten spies' fear-driven report and Caleb and Joshua's trust in the very same God who had already proven faithful again and again (v. 6-9).",
+     "q": "Confess to God today any place where your own fear, like the ten spies', has been shaping your view of a situation more than your trust in what He has already proven Himself to be."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 304
+{
+ "ref": "Psalm 69",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+69",
+ "sum": [
+  "David cries out from deep waters, sinking in mire where there is no standing, weary from crying and waiting for his God, hated without cause by more than the hairs of his head.",
+  "He declares that zeal for God's house has eaten him up, and the reproaches of those who reproached God have fallen on him, describing being met with reproach, shame and no comfort.",
+  "Given gall for meat and vinegar for his thirst, David prays that his enemies' own table would become a snare, and asks that they be blotted out of the book of the living.",
+  "The psalm turns to praise, declaring that God will save Zion, that the humble shall see it and be glad, and calling heaven, earth, seas and everything that moves in them to praise Him."
+ ],
+ "nug": [
+  {
+   "h": "Distress described with total physical immersion",
+   "b": "\"I sink in deep mire, where there is no standing: I am come into deep waters, where the floods overflow me\" (v. 2) pictures suffering not as a difficulty to manage but as genuine drowning, no foothold left anywhere."
+  },
+  {
+   "h": "A hostility quoted directly by Jesus of Himself",
+   "b": "\"They that hate me without a cause are more than the hairs of mine head\" (v. 4) is applied by Jesus to His own experience in John 15:25, David's ancient complaint of unjustified hatred becoming, centuries later, Christ's own description of the world's response to Him."
+  },
+  {
+   "h": "Devotion that costs rather than simply comforts",
+   "b": "\"The zeal of thine house hath eaten me up\" (v. 9) is quoted by John of Jesus at the temple cleansing (John 2:17), a costly, consuming zeal for God's honour that both David and Jesus experienced as genuinely draining, not merely energising."
+  },
+  {
+   "h": "Suffering absorbed on behalf of someone else's honour",
+   "b": "\"The reproaches of them that reproached thee are fallen upon me\" (v. 9) is quoted by Paul in Romans 15:3 of Christ, describing insults aimed originally at God being borne instead by the one who stood in God's place."
+  },
+  {
+   "h": "Comfortless suffering met with the cruellest possible response",
+   "b": "\"I looked for some to take pity, but there was none; and for comforters, but I found none. They gave me also gall for my meat; and in my thirst they gave me vinegar to drink\" (v. 20-21) describes an isolation and mockery the Gospel accounts of the crucifixion strikingly echo, without ever directly quoting this verse as fulfilled prophecy the way the others here are quoted."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "John 2:17 · John 15:25 · Romans 15:3",
+   "qs": [
+    {
+     "th": "This psalm is quoted directly of Jesus three separate times in the New Testament — His zeal for the temple (John 2:17), the world's causeless hatred of Him (John 15:25), and His bearing of reproaches meant for God (Romans 15:3) — an ancient psalm of personal anguish becoming, in the New Testament's hands, a detailed portrait of Christ's own suffering centuries before it happened.",
+     "q": "Read John 2:17, John 15:25 and Romans 15:3 alongside Psalm 69:4, 9. What does it do to your reading of this psalm to see it applied so specifically, three separate times, to Jesus rather than only to David's own circumstances?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David names his isolation with painful specificity — \"I looked for some to take pity, but there was none\" (v. 20) — rather than describing his suffering only in vague, general terms.",
+     "q": "Can you name a time you looked for comfort and genuinely found none, as specifically and honestly as David does here, rather than softening the memory?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's zeal for God's house is described as something that \"eaten him up\" (v. 9) — costly, consuming devotion rather than a comfortable, easy enthusiasm.",
+     "q": "Where might the Holy Spirit be inviting you toward a costlier, more consuming zeal for something that matters to Him, rather than a comfortable, low-cost version of devotion?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm moves from David's own raw distress (v. 1-21) all the way to praise that reaches beyond himself entirely — \"let heaven and earth praise him, the seas, and every thing that moveth therein\" (v. 34) — personal anguish widening out into the widest possible call to worship.",
+     "q": "Bring before God today someone you know who is genuinely comfortless right now, asking Him, as this psalm does, to be near to exactly that kind of isolation."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 305
+{
+ "ref": "Numbers 15",
+ "tag": "Old Testament",
+ "api": "numbers+15",
+ "sum": [
+  "The LORD gives laws for offerings once Israel enters the land, specifying measures of flour, oil and wine to accompany various sacrifices, with one manner of law for both native and stranger.",
+  "A distinction is drawn between unwitting sin, which can be atoned for, and a presumptuous sin done \"with a high hand,\" which reproaches the LORD and cuts a person off from the people.",
+  "A man is found gathering sticks on the sabbath day and, on the LORD's own instruction, is stoned to death by the whole congregation outside the camp.",
+  "Israel is commanded to make fringes on the borders of their garments with a blue ribband, a visible reminder to look upon and remember all the LORD's commandments rather than following one's own heart and eyes."
+ ],
+ "nug": [
+  {
+   "h": "A law that looked ahead to a land not yet possessed",
+   "b": "\"When ye be come into the land of your habitations, which I give unto you\" (v. 2) frames these offering instructions entirely around a future not yet reached, law given in the wilderness for a life not yet lived, an act of confident anticipation rather than immediate application."
+  },
+  {
+   "h": "Two very different weights given to two very different failures",
+   "b": "Unintentional sin required only a specific atonement (v. 22-29), while sin done \"presumptuously... with a high hand\" (v. 30) carried no such provision at all — the distinction resting entirely on whether the wrong was a stumble or a deliberate, defiant choice."
+  },
+  {
+   "h": "A punishment that unsettled even those who witnessed it",
+   "b": "The man gathering sticks is first simply \"put in ward, because it was not declared what should be done to him\" (v. 34) — even Moses himself needed to specifically inquire of the LORD before this case, ordinary-looking as the offence seemed, could be settled."
+  },
+  {
+   "h": "A visible knot meant to interrupt a wandering eye",
+   "b": "\"That ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes\" (v. 39) ties an ordinary piece of clothing directly to the much larger danger of simply following wherever your own impulses happen to lead."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 22:12 · Matthew 9:20 · Matthew 23:5",
+   "qs": [
+    {
+     "th": "The very fringes commanded here reappear centuries later as the hem of Jesus' own garment, which the woman with the issue of blood reaches out to touch for healing (Matthew 9:20) — an ordinary, commanded reminder of obedience becoming, in that moment, the specific point of contact for someone desperate for mercy.",
+     "q": "Read Numbers 15:38-39 alongside Matthew 9:20-22. What does it mean to you that the very fringe meant to prompt obedience became, centuries later, the place where a woman's faith reached out and was met?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter draws a real, meaningful line between an honest mistake and a defiant, deliberate choice (v. 27-30), refusing to treat every failure as equally serious.",
+     "q": "Is there a recent failure you've been carrying with more guilt than it actually warrants, when honestly it was more a stumble than a deliberate, high-handed choice?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The fringes were designed as a physical, visible interruption to \"your own heart and your own eyes\" (v. 39) — a deliberate check against simply following whatever impulse currently feels most compelling.",
+     "q": "Where might the Holy Spirit be inviting you to build some kind of visible, physical reminder into your own life, the way these fringes did, rather than relying only on remembering in the moment?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even a case as seemingly minor as gathering sticks required Moses to specifically wait on and inquire of the LORD before any judgment was given (v. 34).",
+     "q": "Sit quietly today and consider whether there's a decision you've been quick to settle on your own, when what it actually needs first is patient inquiry before God."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 306
+{
+ "ref": "Mark 16",
+ "tag": "New Testament",
+ "api": "mark+16",
+ "sum": [
+  "At dawn on the first day of the week, Mary Magdalene, Mary the mother of James, and Salome come to the tomb with spices and find the stone already rolled away.",
+  "A young man in a long white garment tells them not to be afraid, that Jesus is risen, and to go tell His disciples, and Peter by name, that He goes before them into Galilee.",
+  "The women flee the tomb trembling and amazed, saying nothing to anyone, for they were afraid, ending Mark's earliest and most reliable manuscripts on that note of astonished silence.",
+  "Later manuscripts include appearances to Mary Magdalene and to the eleven, the Great Commission to preach the gospel to every creature, and Jesus' ascension to sit at the right hand of God."
+ ],
+ "nug": [
+  {
+   "h": "A name specifically singled out despite his own failure",
+   "b": "\"Go your way, tell his disciples and Peter that he goeth before you into Galilee\" (v. 7) names Peter individually, apart from the other disciples — a man who had denied Jesus three times only days earlier, deliberately included by name rather than left to wonder if he still belonged."
+  },
+  {
+   "h": "Fear and obedience left unresolved on the very last honest word of the earliest text",
+   "b": "\"Neither said they any thing to any man; for they were afraid\" (v. 8) is, in the earliest and most reliable Greek manuscripts, the actual ending of Mark's Gospel — an abrupt, unfinished-feeling close that leaves the women's fear and the reader's own response genuinely open rather than neatly resolved."
+  },
+  {
+   "h": "A message given before there was time to process it",
+   "b": "The angel's first words to the trembling women are simply, \"Be not affrighted... he is risen; he is not here\" (v. 6) — comfort and fact stated plainly and immediately, before any explanation of how or why."
+  },
+  {
+   "h": "A commission grounded in a location already promised",
+   "b": "The instruction to meet Jesus \"in Galilee\" (v. 7) fulfils His own earlier promise, given the very night of His arrest, that \"after that I am risen, I will go before you into Galilee\" (Mark 14:28) — a specific word spoken in advance of the crisis, now specifically kept afterward."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Mark 14:27-28 · Matthew 28:16-20 · Acts 1:8-9",
+   "qs": [
+    {
+     "th": "Jesus had told His disciples the very night of His arrest, \"after that I am risen, I will go before you into Galilee\" (Mark 14:28) — a promise made in the darkest hour of the whole story, now precisely repeated and kept in this chapter's closing instruction to the women (v. 7).",
+     "q": "Read Mark 14:27-28 alongside Mark 16:7. What does it mean to you that Jesus made this exact promise before His arrest, at the very moment His disciples were about to fail Him completely, and then kept it in full afterward?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The women's response to genuinely good news is trembling, amazement and frightened silence (v. 8), not immediate, confident celebration — good news that takes real time to be believed and processed.",
+     "q": "Has genuinely good news in your own life ever been met, at least at first, with fear or disbelief rather than immediate joy? How did you eventually move from one to the other?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Peter, singled out by name in the angel's message despite his recent, public denial (v. 7), is treated as still fully belonging among the disciples Jesus is going ahead to meet.",
+     "q": "Where might the Holy Spirit be reminding you that a recent failure hasn't actually removed you from where God still intends to meet you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter completes the whole Gospel of Mark, which opened simply announcing \"the beginning of the gospel of Jesus Christ, the Son of God\" (Mark 1:1) and now closes with that same Jesus risen, ascended, and \"sat on the right hand of God\" (v. 19).",
+     "q": "Praise God today for the resurrection as the actual completion of everything Mark's Gospel set out from its very first verse to tell."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 307
+{
+ "ref": "Psalm 70",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+70",
+ "sum": [
+  "David prays urgently for God to make haste to deliver him and help him, asking that those who seek his soul be confounded and turned back.",
+  "He prays that those who mock him with \"Aha, aha\" be turned back for a reward of their own shame.",
+  "He asks that all who seek God rejoice and be glad in Him, and that those who love His salvation say continually, \"Let God be magnified.\"",
+  "The psalm closes admitting David is poor and needy, and pleading again for God to make haste, since He alone is David's help and deliverer."
+ ],
+ "nug": [
+  {
+   "h": "A prayer almost identical to an earlier one, given again",
+   "b": "This entire short psalm closely repeats the closing verses of Psalm 40 (Psalm 40:13-17), the same urgent cry given a second time in its own right, as though some prayers are worth praying again in their own words rather than only once."
+  },
+  {
+   "h": "Urgency named twice in a single opening line",
+   "b": "\"Make haste, O God, to deliver me; make haste to help me, O LORD\" (v. 1) doubles the plea for speed within one verse, the repetition itself conveying just how immediate David's sense of need actually was."
+  },
+  {
+   "h": "A taunt quoted in its own mocking sound",
+   "b": "\"Let them be turned back for a reward of their shame that say, Aha, aha\" (v. 3) preserves the actual sound of the mockery David faced, a taunting laugh recorded almost onomatopoeically rather than paraphrased away."
+  },
+  {
+   "h": "Need stated as plainly as possible, with nothing to soften it",
+   "b": "\"But I am poor and needy: make haste unto me, O God\" (v. 5) offers no accomplishment or merit alongside the request, simply naming genuine lack as reason enough to expect God's quick help."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 40:13-17 · Philippians 4:6 · James 5:16",
+   "qs": [
+    {
+     "th": "This psalm is, almost word for word, the closing section of Psalm 40 given again as its own complete prayer — the same urgent cry apparently important enough to David to be prayed a second time, in its own right, rather than only referred back to.",
+     "q": "Read Psalm 40:13-17 alongside Psalm 70. Why might it matter to you that David didn't consider one earlier prayer permanently finished, but returned to pray substantially the same words again?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's admission, \"I am poor and needy\" (v. 5), offers no other qualification for why God should act quickly on his behalf, simply naming honest need as sufficient grounds for the request.",
+     "q": "Where in your own praying do you tend to add justifications or explanations before asking for help, rather than simply naming your need as plainly as David does here?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's repeated \"make haste\" (v. 1, 5) expresses urgency without ever suggesting David has stopped trusting God's timing altogether.",
+     "q": "Where might the Holy Spirit be inviting you to pray with this same honest urgency, without either suppressing how badly you need help or losing trust in God's own timing?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's prayer for himself widens briefly to include \"all those that seek thee\" and \"all those that love thy salvation\" (v. 4), asking not only for his own rescue but for others' joy in God to increase alongside it.",
+     "q": "Pray today both for your own urgent need and for someone else who loves God's salvation, asking that both your joy and theirs would increase together, the way David's prayer widens here."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 308
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A cluster too heavy to carry alone",
+   "b": "The single cluster of grapes the spies brought back from Eshcol was so large it had to be carried \"between two upon a staff\" (Numbers 13:23) — tangible, undeniable proof of the very abundance ten of the twelve men would go on to talk themselves out of trusting."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 13's twelve spies bringing back the same facts read two different ways, Numbers 14's unbelief, Moses' intercession, and the forty years' sentence, Psalm 69's deep distress later quoted three times of Christ, Numbers 15's fringes meant to interrupt a wandering heart, Mark 16's resurrection completing the whole Gospel and Peter singled out by name despite his denial, and Psalm 70's urgent, repeated prayer for God to make haste.",
+     "q": "Where this week did Caleb's confidence in the very same facts that made ten other men afraid in Numbers 13:30, or Peter being specifically named despite his recent failure in Mark 16:7, most challenge how you're currently reading your own circumstances or your own past failure?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Go your way, tell his disciples and Peter\" (Mark 16:7) — one denier, named specifically, still fully expected at the meeting place.",
+     "q": "Sit quietly for a few minutes and receive, as Peter did, that a recent failure hasn't removed you from wherever God still intends to meet you."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 309
+{
+ "ref": "Numbers 16",
+ "tag": "Old Testament",
+ "api": "numbers+16",
+ "sum": [
+  "Korah, a Levite, joins with Dathan and Abiram, Reubenites, and 250 princes to rise up against Moses and Aaron, claiming the whole congregation is holy and asking why they lift themselves above it.",
+  "Moses proposes a test with censers of incense before the LORD, and pleads separately with Dathan and Abiram, who refuse even to come up and meet him.",
+  "The earth opens and swallows Korah's household along with Dathan and Abiram and all that belongs to them, while fire from the LORD consumes the 250 men offering incense.",
+  "The next day the congregation again blames Moses and Aaron for the deaths, a plague breaks out, and Aaron runs with a censer to stand between the dead and the living until the plague is stayed."
+ ],
+ "nug": [
+  {
+   "h": "A demand for equality that ignored a real, appointed difference",
+   "b": "\"Ye take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift ye up yourselves above the congregation of the LORD?\" (v. 3) sounds almost democratic in its appeal to shared holiness, yet it directly challenged distinctions God Himself had specifically appointed rather than Moses' own invention."
+  },
+  {
+   "h": "A judgment visible enough to leave no room for doubt",
+   "b": "\"The earth opened her mouth, and swallowed them up... they, and all that appertained to them, went down alive into the pit, and the earth closed upon them\" (v. 32-33) was deliberately unmistakable, a sign so total and public that Moses had specifically asked God for exactly this kind of unambiguous confirmation beforehand (v. 28-30)."
+  },
+  {
+   "h": "Rebellion that survived even the rebels' own destruction",
+   "b": "The very next day, with the ground barely closed over Korah's company, \"all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of the LORD\" (v. 41) — an astonishing, almost unbelievable return to the same complaint immediately after witnessing its consequences."
+  },
+  {
+   "h": "A man standing deliberately between wrath and the people it was reaching",
+   "b": "\"He stood between the dead and the living; and the plague was stayed\" (v. 48) pictures Aaron, still holding the smoking censer, physically placing himself at the exact boundary where judgment was advancing, stopping it there rather than fleeing from it."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 12:1-2 · Jude 1:11 · Hebrews 7:25",
+   "qs": [
+    {
+     "th": "Aaron's act of standing \"between the dead and the living\" with atonement in his hands (v. 48) offers one of the clearest Old Testament pictures of a mediator physically interposed between God's judgment and a guilty people, a role Hebrews later says Christ now fulfils permanently, since \"he ever liveth to make intercession\" for those He represents (Hebrews 7:25).",
+     "q": "Read Hebrews 7:25 alongside Numbers 16:46-48. How does Aaron's specific, physical act of standing between the living and the dead deepen your understanding of what it means that Christ now intercedes for you continually?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The rebellion's language — \"all the congregation are holy, every one of them\" (v. 3) — took a true statement about Israel's calling and used it to justify ignoring a specific, appointed structure of leadership and service.",
+     "q": "Where have you seen, or been tempted toward, using a true general principle to justify ignoring a specific responsibility or role God has actually assigned?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The congregation's return to the exact same complaint the very next day, immediately after watching its previous instance judged so decisively (v. 41), shows how quickly a lesson witnessed firsthand can still fail to change a heart.",
+     "q": "Where might the Holy Spirit be pointing out a pattern in your own life that keeps recurring despite having already seen, more than once, where it leads?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Aaron's intervention here cost him nothing but obedience and speed — he simply ran, censer in hand, and placed himself where the danger already was (v. 46-48), interceding with his own presence rather than only with words.",
+     "q": "Pray today for someone caught between real consequences and real mercy, asking God to let your own prayer, like Aaron's censer, genuinely stand in the gap for them."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 310
+{
+ "ref": "Numbers 17",
+ "tag": "Old Testament",
+ "api": "numbers+17",
+ "sum": [
+  "The LORD instructs Moses to take a rod from the leader of each tribe, with Aaron's name written on the rod for Levi, and lay all twelve before the ark overnight.",
+  "The next morning, Aaron's rod alone has budded, bloomed blossoms, and yielded ripe almonds, while the other eleven rods remain exactly as they were laid down.",
+  "The LORD commands that Aaron's rod be kept permanently before the testimony as a sign against future rebels, so that Israel's murmuring against the priesthood would stop.",
+  "The people respond in fear, believing that anyone who comes near the tabernacle will die, and cry out that they are perishing and undone."
+ ],
+ "nug": [
+  {
+   "h": "A test that removed all ambiguity about who chose whom",
+   "b": "Twelve identical, lifeless rods were laid down side by side (v. 6-7), removing any possibility that Aaron's selection as high priest could be credited to Moses' own preference rather than to God's own visible confirmation."
+  },
+  {
+   "h": "Life appearing where nothing had been planted",
+   "b": "\"The rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds\" (v. 8) describes a dry, cut piece of wood producing not one but three stages of growth overnight — buds, blossoms and fruit together — a sign deliberately beyond any natural explanation."
+  },
+  {
+   "h": "A rebuke preserved as a permanent, physical reminder",
+   "b": "\"Bring Aaron's rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not\" (v. 10) turned the previous chapter's crisis into a lasting object kept inside the ark's own vicinity, evidence permanently on hand rather than a memory left to fade."
+  },
+  {
+   "h": "A confirmation followed immediately by fresh terror rather than relief",
+   "b": "\"Behold, we die, we perish, we all perish. Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?\" (v. 12-13) shows the people responding to God's mercy in confirming Aaron not with confidence, but with a fear that His holiness might yet consume them too."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 16:41-49 · Hebrews 9:4 · Jeremiah 1:11-12",
+   "qs": [
+    {
+     "th": "This dry rod's sudden, undeniable budding overnight directly answers the previous chapter's rebellion against Aaron's calling (Numbers 16), the same rod later kept permanently inside the ark itself alongside the tables of the covenant and the pot of manna (Hebrews 9:4) — a settled, physical answer to Korah's challenge, still on hand generations later.",
+     "q": "Read Numbers 16:1-3 alongside Numbers 17:8, 10. How does knowing this rod was kept as a permanent, physical token deepen your sense of how seriously God treated putting the earlier rebellion fully to rest?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Aaron's rod didn't earn its selection through any effort of its own — it was simply laid down, identical to the others, and God alone brought forth life from it (v. 8).",
+     "q": "Where in your own life has God brought about growth or fruit that you know, honestly, you didn't produce yourself, but that He caused to appear?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The people's fearful response even after such clear confirmation (v. 12-13) shows that being given certainty didn't automatically bring peace — it could just as easily deepen an existing fear of God's holiness.",
+     "q": "Where might the Holy Spirit be inviting you to receive a clear confirmation or answer from Him with genuine peace, rather than letting it deepen an existing anxiety about His holiness instead?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Out of twelve identical, lifeless rods, one alone produced buds, blossoms and ripe almonds overnight (v. 8) — a sign of life and provision appearing exactly where the previous chapter's rebellion had brought only death.",
+     "q": "Thank God today for a specific instance where He brought unmistakable, undeniable confirmation into a situation that had genuinely been in doubt or dispute."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 311
+{
+ "ref": "Psalm 72",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+72",
+ "sum": [
+  "A prayer for the king, likely written by or for Solomon, asks God to give him righteous judgment so he may judge the people rightly and defend the poor and needy.",
+  "The king's reign is pictured coming down like rain upon the mown grass, with dominion from sea to sea and from the river to the ends of the earth, all kings falling down before him.",
+  "He is described delivering the needy when they cry, sparing the poor and needy, and redeeming their soul from deceit and violence, their blood precious in his sight.",
+  "The psalm closes with his name enduring forever, all nations blessed in him, and a doxology ending, \"the prayers of David the son of Jesse are ended.\""
+ ],
+ "nug": [
+  {
+   "h": "A reign measured by how it treats those with least power",
+   "b": "\"He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor\" (v. 4) sets the standard for this king's greatness not in conquest or wealth, but in specific, active justice for people with no other advocate."
+  },
+  {
+   "h": "Gentleness pictured alongside global dominion",
+   "b": "\"He shall come down like rain upon the mown grass: as showers that water the earth\" (v. 6) sits directly beside declarations of a kingdom stretching \"from sea to sea, and from the river unto the ends of the earth\" (v. 8) — enormous power described in the very same breath as quiet, life-giving gentleness."
+  },
+  {
+   "h": "A value placed on the poor and needy explicitly beyond their usefulness",
+   "b": "\"He shall spare the poor and needy, and shall save the souls of the needy... precious shall their blood be in his sight\" (v. 13-14) states plainly that this king values the vulnerable for who they are, not for what they can offer him in return."
+  },
+  {
+   "h": "A closing signature that marks the end of a whole collection",
+   "b": "\"The prayers of David the son of Jesse are ended\" (v. 20) closes not just this single psalm but the entire second book of the Psalter, an editorial note marking a genuine structural boundary within Scripture's own collection of David's prayers."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 11:1-5 · Matthew 2:1-2, 11 · 1 Corinthians 15:24-25",
+   "qs": [
+    {
+     "th": "Isaiah later describes a coming king from David's line who will \"judge the poor with righteousness, and reprove with equity for the meek of the earth\" (Isaiah 11:4), echoing almost exactly this psalm's picture of a reign measured by justice for the vulnerable — a hope traditionally read of Solomon, but reaching, like Isaiah's prophecy, toward a king greater than Solomon ever fully was.",
+     "q": "Read Isaiah 11:1-5 alongside Psalm 72:1-4, 12-14. Why might a psalm written about one specific historical king still function, generations later, as a genuine hope for someone still to come?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This king's greatness is defined here specifically by how he treats \"the poor and needy\" who have \"no helper\" (v. 12) — people with nothing to offer him in exchange for his protection.",
+     "q": "Where might your own sense of who deserves your time or generosity be shaped more by what someone can offer back than by genuine need, unlike the standard this psalm sets?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The image of a reign \"like rain upon the mown grass\" (v. 6) pictures a kind of quiet, restorative growth after something has already been cut down or exhausted.",
+     "q": "Where might the Holy Spirit currently be working like this quiet rain in your own life, restoring something that had felt cut down or spent, in a way that isn't dramatic but is genuinely life-giving?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing vision — \"his name shall endure for ever... and men shall be blessed in him: all nations shall call him blessed\" (v. 17) — reaches beyond any single earthly king's actual, limited reign.",
+     "q": "Praise God today for a King whose reign genuinely reaches every nation and endures forever, rather than being limited the way every merely human kingdom eventually is."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 312
+{
+ "ref": "Numbers 18",
+ "tag": "Old Testament",
+ "api": "numbers+18",
+ "sum": [
+  "The LORD tells Aaron that he and his sons, along with the Levites, will bear the iniquity connected to the sanctuary and the priesthood, the Levites given to Aaron as a gift to help in that service.",
+  "Priests are given a portion from the most holy offerings and the wave offerings, along with the redemption money for the firstborn, since Aaron will have no inheritance of land among Israel.",
+  "The LORD gives all the tithes in Israel to the Levites as their inheritance in return for their service at the tabernacle.",
+  "The Levites are then commanded to offer up a tenth of what they receive as a heave offering to the LORD, giving it to Aaron the priest as the tithe of their tithe."
+ ],
+ "nug": [
+  {
+   "h": "A burden carried so others wouldn't have to bear it directly",
+   "b": "\"Ye shall bear the iniquity of the sanctuary... that there be no wrath any more upon the children of Israel\" (v. 1, 5) describes the priesthood's responsibility not just as ceremonial duty, but as genuinely absorbing risk that would otherwise fall on the whole camp."
+  },
+  {
+   "h": "An inheritance defined entirely by relationship rather than land",
+   "b": "\"I am thy part and thine inheritance among the children of Israel\" (v. 20) tells Aaron plainly that while every other tribe would receive territory, his own inheritance would be God Himself, nothing else offered as a substitute or consolation."
+  },
+  {
+   "h": "Generosity received, then generosity passed further along",
+   "b": "The Levites, having just been given \"all the tenth in Israel for an inheritance\" (v. 21), are immediately commanded to tithe a tenth of that tithe onward to the priests (v. 26) — provision received was never meant to simply stop with the one who first received it."
+  },
+  {
+   "h": "Reward named plainly, without embarrassment",
+   "b": "\"Ye shall eat it in every place, ye and your households: for it is your reward for your service in the tabernacle of the congregation\" (v. 31) states directly that faithful service and genuine, material reward belonged together, with no discomfort about naming the connection."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 10:8-9 · 1 Corinthians 9:13-14 · Hebrews 7:5-10",
+   "qs": [
+    {
+     "th": "Paul draws directly on this chapter's principle — \"they which minister about holy things live of the things of the temple\" (1 Corinthians 9:13) — to argue that those who preach the gospel today have just as genuine a right to material support, the same logic first laid out here for Israel's priests and Levites now applied to gospel ministry.",
+     "q": "Read 1 Corinthians 9:13-14 alongside Numbers 18:8, 31. How does seeing Paul apply this ancient principle to gospel workers change how you think about supporting those who serve you spiritually today?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Aaron's stated inheritance — God Himself, rather than any portion of land (v. 20) — meant he would never own the kind of visible, tangible security every other Israelite family had.",
+     "q": "Would you be content, like Aaron, if God Himself were named as your whole inheritance, with none of the more tangible security everyone around you gets to hold onto?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chain of generosity in this chapter — God to Levites, Levites onward to priests (v. 21, 26) — shows provision designed to keep moving rather than settling permanently with whoever first receives it.",
+     "q": "Where might the Holy Spirit be asking you to pass along some of what you've received, rather than treating it as something meant to stop with you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter carefully, deliberately provides for the priests and Levites even though they held no land of their own, ensuring their faithful service would never leave them without genuine provision (v. 8-19, 21-24).",
+     "q": "Thank God today for a specific way He has provided for you even in an area where you had no obvious, self-sufficient means of providing for yourself."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 313
+{
+ "ref": "Luke 1",
+ "tag": "New Testament",
+ "api": "luke+1",
+ "sum": [
+  "Luke addresses Theophilus, explaining he has carefully investigated everything from the very first in order to write an orderly, certain account.",
+  "The angel Gabriel announces to Zechariah, struck dumb for his unbelief, that his barren wife Elisabeth will bear a son to be called John, and six months later announces to Mary that she will conceive by the Holy Ghost and bear the Son of the Highest.",
+  "Mary visits Elisabeth, whose babe leaps in her womb, and responds to Elisabeth's blessing with the Magnificat, praising God for regarding her low estate and scattering the proud.",
+  "John is born, Zechariah's tongue is loosed, and he prophesies the Benedictus, praising God for raising up salvation and promising that this child will give light to those in darkness and guide feet into the way of peace."
+ ],
+ "nug": [
+  {
+   "h": "A historian's own account of his own method",
+   "b": "\"It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus, that thou mightest know the certainty of those things\" (v. 3-4) opens the whole Gospel with a strikingly careful, almost formal historian's preface, unlike anything at the start of Mark's fast-moving account, signalling from its very first sentence that Luke intends careful, checkable history."
+  },
+  {
+   "h": "Doubt met with silence, faith met with a question answered plainly",
+   "b": "Zechariah's doubting question, \"Whereby shall I know this?\" (v. 18), is met with being struck dumb (v. 20), while Mary's very similar question, \"How shall this be, seeing I know not a man?\" (v. 34), receives instead a patient, direct explanation (v. 35) — two nearly identical questions, met with two strikingly different responses."
+  },
+  {
+   "h": "Consent given without any guarantee of how it would look to others",
+   "b": "\"Behold the handmaid of the Lord; be it unto me according to thy word\" (v. 38) is spoken by an unmarried young woman fully aware of what an unexplained pregnancy would likely cost her socially, her yes given before any of the difficulty that would follow had actually played out."
+  },
+  {
+   "h": "Two women's experience given unusually careful attention",
+   "b": "This entire chapter centres on Elisabeth's barrenness and Mary's pregnancy — their private conversations, their own words of praise recorded at length (v. 25, 42-45, 46-55) — an attention to women's own experience and speech notably fuller here than in Mark's much faster-moving Gospel."
+  },
+  {
+   "h": "A father's silence broken only once he finally agreed with heaven",
+   "b": "Zechariah, still mute, insists in writing that his son be called John rather than after himself or a relative (v. 63), and \"immediately his mouth was opened, and his tongue loosed, and he spake, and praised God\" (v. 64) — his silence lifting the exact moment he aligned himself with what the angel had already declared."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Kings 17:1 · Genesis 18:14 · Malachi 4:5-6",
+   "qs": [
+    {
+     "th": "Gabriel's assurance to Mary, \"for with God nothing shall be impossible\" (v. 37), echoes the LORD's own words to Abraham and Sarah generations earlier — \"is any thing too hard for the LORD?\" (Genesis 18:14) — the same confidence in God's power over impossible situations spoken across centuries to two very different women.",
+     "q": "Read Genesis 18:14 alongside Luke 1:37. What does it mean to you that this exact assurance — nothing is too hard for God — was spoken to two women in situations that looked, by any ordinary measure, genuinely impossible?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Mary's response weighs an angel's announcement honestly — \"How shall this be?\" (v. 34) — before arriving at full, willing submission, her faith including real questions rather than skipping past them.",
+     "q": "Where in your own faith is there an honest question you've been afraid to voice, worried that asking it might look like doubt rather than genuine seeking?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Elisabeth is specifically described as \"filled with the Holy Ghost\" the moment the babe leaps in her womb (v. 41), her own prophetic recognition of Mary's child credited directly to the Spirit's work in her rather than to her own insight.",
+     "q": "Where might the Holy Spirit currently be giving you sudden recognition or insight about something you couldn't have worked out on your own, the way Elisabeth immediately knew who Mary was carrying?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter closes with two extended songs of praise, the Magnificat and the Benedictus (v. 46-55, 68-79), Luke choosing to let both Mary and Zechariah speak their worship in full rather than merely summarising what they said.",
+     "q": "Praise God today using the Magnificat's own confidence as your pattern — that He regards the lowly, scatters the proud, and fills the hungry with good things — naming a specific way you've seen Him do exactly that."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 314
+{
+ "ref": "Psalm 74",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+74",
+ "sum": [
+  "The psalmist asks why God has cast His people off forever, pleading with Him to remember the congregation He purchased of old and the mount Zion where He once dwelt.",
+  "He describes enemies who have cast fire into the sanctuary and burned the meeting places of God throughout the land, so that no sign or prophet remains to say how long this will last.",
+  "He recalls God's ancient power in creation — dividing the sea, breaking the heads of leviathan, establishing light and the sun, setting the borders of the earth, making summer and winter.",
+  "The psalm closes pleading with God to have respect to His covenant, to arise and plead His own cause, remembering the reproach of the foolish and not letting the oppressed be ashamed."
+ ],
+ "nug": [
+  {
+   "h": "A question aimed directly at God rather than left unspoken",
+   "b": "\"O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?\" (v. 1) refuses to soften genuine confusion into safer, more resigned language, bringing the hardest question straight to God rather than around Him."
+  },
+  {
+   "h": "Destruction described with specific, visible detail",
+   "b": "\"They have cast fire into thy sanctuary, they have defiled by casting down the dwelling place of thy name to the ground\" (v. 7) names the actual, physical devastation rather than speaking only in general terms about hardship or loss."
+  },
+  {
+   "h": "An absence noticed alongside the destruction itself",
+   "b": "\"We see not our signs: there is no more any prophet: neither is there among us any that knoweth how long\" (v. 9) names a second, quieter grief layered under the first — not only the sanctuary destroyed, but the sense of God's ongoing communication apparently gone silent too."
+  },
+  {
+   "h": "An old memory of power used to argue for present help",
+   "b": "\"Thou didst divide the sea by thy strength: thou brakest the heads of leviathan in pieces\" (v. 13-14) reaches back to ancient acts of power specifically to argue that a God capable of such things is surely still capable of acting now."
+  },
+  {
+   "h": "A plea grounded in relationship, not merely in need",
+   "b": "\"Have respect unto the covenant\" (v. 20) appeals not to the size of the crisis alone but to an existing, binding relationship, asking God to act because of who He has already committed to be toward His people."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Lamentations 2:6-9 · 2 Kings 25:8-10 · 1 Peter 4:12-13",
+   "qs": [
+    {
+     "th": "2 Kings 25:8-10 records the actual, historical burning of the temple by the Babylonians — the very devastation this psalm most likely mourns — showing that this psalm's raw, unflinching questions were prayed out of a genuine, specific national catastrophe, not a hypothetical or exaggerated one.",
+     "q": "Read 2 Kings 25:8-10 alongside Psalm 74:1-8. How does knowing this psalm was likely written after an actual, historical destruction — not a vague or general grief — change how much permission it gives you to bring your own specific losses honestly before God?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalmist doesn't wait to feel resolved before praying — the entire psalm is prayed from inside genuine, unresolved devastation, without pretending confidence he doesn't yet feel.",
+     "q": "Is there a loss or disappointment in your own life you've been waiting to feel more resolved about before bringing it honestly to God, rather than praying through it while it's still raw?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalmist's specific grief that \"there is no more any prophet\" (v. 9) names the ache of feeling that God's ongoing communication has gone quiet, not only that circumstances are hard.",
+     "q": "Where might you currently feel that God has gone unusually quiet, and how might the Holy Spirit be inviting you to keep listening rather than assuming the silence is permanent?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing plea widens from personal distress into full-throated intercession for the whole community — \"let not the oppressed return ashamed: let the poor and needy praise thy name\" (v. 21) — corporate suffering met with corporate appeal.",
+     "q": "Pray today for a community, church or nation currently facing real devastation or loss, asking God, as this psalm does, to remember His covenant and act on their behalf."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 315
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "One Gospel's fast pace, another's careful preface",
+   "b": "Where Mark's Gospel had opened abruptly mid-action, Luke opens instead with a deliberate historian's preface — \"having had perfect understanding of all things from the very first, to write unto thee in order\" (Luke 1:3) — a real shift in voice and pace as this study now moves from one Gospel account into another."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 16's rebellion of Korah and Aaron standing between the dead and the living, Numbers 17's rod that budded overnight as a settled, physical answer to that rebellion, Psalm 72's prayer for a righteous, gentle king whose reign reaches every nation, Numbers 18's provision for priests and Levites who held God Himself as their inheritance, Luke 1's careful historian's preface, two annunciations, and the Magnificat and Benedictus, and Psalm 74's honest lament over the sanctuary's destruction.",
+     "q": "Where this week did Aaron standing between the dead and the living in Numbers 16:48, or Mary's willing \"be it unto me according to thy word\" in Luke 1:38, most challenge how readily you're placing yourself, cost included, into something God is asking of you?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"For with God nothing shall be impossible\" (Luke 1:37) — spoken to a young, unmarried woman facing a situation that looked, by any ordinary measure, genuinely impossible.",
+     "q": "Sit quietly for a few minutes and bring before God whatever in your own life currently looks impossible, letting this same assurance settle over it rather than rushing past it."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 316
+{
+ "ref": "Numbers 19",
+ "tag": "Old Testament",
+ "api": "numbers+19",
+ "sum": [
+  "The LORD commands a red heifer without spot or blemish, one that never bore a yoke, to be slain outside the camp and entirely burned with cedar wood, hyssop and scarlet.",
+  "Its ashes are kept for the congregation as a water of separation, a purification for sin, though even the priest who burns it and the man who gathers its ashes become unclean until evening.",
+  "Anyone who touches a dead body becomes unclean for seven days and must be purified with this water on the third and seventh day, or be cut off for defiling the LORD's sanctuary.",
+  "The chapter closes noting that whoever touches one who is unclean and fails to purify himself defiles the tabernacle and shall be cut off from Israel."
+ ],
+ "nug": [
+  {
+   "h": "A single animal defined entirely by what it had never done",
+   "b": "The heifer had to be one \"wherein is no blemish, and upon which never came yoke\" (v. 2) — its qualification wasn't a special ability, but an absence, a life that had never yet been used for ordinary labour."
+  },
+  {
+   "h": "A cleansing rite that left even the cleansers unclean",
+   "b": "\"He that burneth her shall wash his clothes... and shall be unclean until the even\" (v. 8), and likewise for whoever gathers the ashes (v. 10) — the very people producing the means of purification were themselves made unclean in the process, a costly, almost paradoxical arrangement."
+  },
+  {
+   "h": "Death treated as something that spread simply by nearness",
+   "b": "\"Whosoever toucheth the dead body of any man shall be unclean seven days\" (v. 11) required no wrongdoing at all on the toucher's part, only contact — uncleanness pictured here as something that could genuinely spread by mere proximity to death, not only through deliberate sin."
+  },
+  {
+   "h": "A remedy specific enough that nothing else would substitute",
+   "b": "Failing to be purified with this particular water on the third and seventh day meant a person remained unclean regardless of anything else they did (v. 12-13) — no alternative was offered, this specific provision was the only way back."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Hebrews 9:13-14 · Leviticus 17:11 · 1 John 1:7",
+   "qs": [
+    {
+     "th": "Hebrews draws this exact ritual out into direct comparison — \"the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: how much more shall the blood of Christ... purge your conscience from dead works to serve the living God?\" (Hebrews 9:13-14) — an external, ceremonial cleansing from contact with death set directly against a deeper, inward cleansing from the guilt of it.",
+     "q": "Read Hebrews 9:13-14 alongside Numbers 19:9, 17-19. What does it mean to you that this ancient ritual only ever cleansed the outward, ceremonial defilement of contact with death, while pointing toward something that could actually reach the conscience itself?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Uncleanness here spread through simple contact with death, without requiring any wrongdoing on the person's part (v. 11) — a genuine, real consequence that wasn't about blame.",
+     "q": "Where in your own life have you carried a real, unwanted effect of something — grief, loss, someone else's brokenness — that wasn't your fault, yet still left you needing genuine cleansing or restoration?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter insists that only this one, specific provision — the water made from the heifer's ashes — could actually remove the defilement in view, no substitute accepted (v. 12-13, 20).",
+     "q": "Where might the Holy Spirit be reminding you that only one specific remedy, not a general effort at self-improvement, can actually address what's defiling a particular part of your life?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire chapter takes the ordinary, unavoidable reality of death seriously enough to require deliberate, specific cleansing afterward, rather than treating contact with it as something to simply move past unaddressed (v. 11-13).",
+     "q": "Confess to God today anywhere that grief, loss, or exposure to someone else's brokenness has left a real defilement in you that you've been trying to simply move past, rather than bringing honestly to Him for cleansing."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 317
+{
+ "ref": "Numbers 20",
+ "tag": "Old Testament",
+ "api": "numbers+20",
+ "sum": [
+  "Miriam dies at Kadesh and is buried there, and when the congregation finds no water they again chide Moses and Aaron, wishing they had died with their brethren before the LORD.",
+  "God tells Moses to speak to the rock before the people's eyes, but Moses instead strikes it twice with his rod, saying, \"Must we fetch you water out of this rock?\"",
+  "Though water comes out abundantly, the LORD tells Moses and Aaron that because they did not believe Him, to sanctify Him in the eyes of Israel, they will not bring this congregation into the promised land.",
+  "Edom refuses Israel passage through its territory, and Aaron dies on Mount Hor after his garments are transferred to his son Eleazar, mourned by the whole house of Israel for thirty days."
+ ],
+ "nug": [
+  {
+   "h": "A death recorded in a single, unadorned sentence",
+   "b": "\"And Miriam died there, and was buried there\" (v. 1) gives almost no space to the death of the woman who had once led Israel's women in song at the Red Sea (Exodus 15:20-21), grief compressed into the barest possible statement before the narrative moves straight on to the next crisis."
+  },
+  {
+   "h": "Words that claimed credit meant for God alone",
+   "b": "\"Must we fetch you water out of this rock?\" (v. 10) — that single word \"we\" is what proved fatal, Moses momentarily speaking as though the coming miracle belonged to himself and Aaron rather than to the LORD who had actually commanded it."
+  },
+  {
+   "h": "A consequence out of proportion to how small the moment looks",
+   "b": "After a lifetime of faithful, difficult leadership, Moses is barred from the promised land over one specific act of striking rather than speaking (v. 12) — the severity of the consequence measured not by the size of the act itself, but by what it publicly misrepresented about God."
+  },
+  {
+   "h": "A transfer of office performed in full view of the people",
+   "b": "\"Strip Aaron of his garments, and put them upon Eleazar his son... and Aaron shall be gathered unto his people, and shall die there\" (v. 26) had the high priesthood pass from father to son visibly, before the whole assembly, rather than privately or afterward."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 17:5-6 · Psalm 106:32-33 · 1 Corinthians 10:4",
+   "qs": [
+    {
+     "th": "This same rock-and-water miracle had already happened once before, decades earlier at Rephidim, where God specifically told Moses to strike the rock (Exodus 17:5-6) — meaning Moses' error here wasn't simply striking a rock, but disobeying the specific, different instruction actually given this time, after presuming the earlier method still applied.",
+     "q": "Read Exodus 17:5-6 alongside Numbers 20:8, 10-11. How does knowing Moses had successfully struck a rock once before change how you understand what went wrong here, when he was told this time only to speak?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses' failure here came not from outright rebellion but from decades of accumulated frustration finally boiling over into a moment of taking credit that wasn't his (v. 10, echoed in Psalm 106:32-33, which says the people \"provoked his spirit, so that he spake unadvisedly with his lips\").",
+     "q": "Where has long accumulated frustration, rather than a single sudden temptation, been the real reason behind a recent moment where you spoke or acted in a way you now regret?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God's stated reason for barring Moses and Aaron from the land was specifically that they failed \"to sanctify me in the eyes of the children of Israel\" (v. 12) — the public, representative nature of their role making a private lapse into a very public misrepresentation.",
+     "q": "Where might the Holy Spirit be reminding you that a role you hold makes even your smaller moments of impatience or self-credit more visible, and more consequential, than they might otherwise be?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses, described elsewhere as the meekest man on the face of the earth (Numbers 12:3), still failed here in a single, specific moment of frustration and self-credit (v. 10-12) — a reminder that even long, faithful obedience doesn't make a person immune to a genuine lapse.",
+     "q": "Confess to God today a specific moment, even a brief one, where frustration led you to take credit or act in a way that misrepresented Him to people watching you."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 318
+{
+ "ref": "Psalm 75",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+75",
+ "sum": [
+  "The psalmist gives thanks to God, whose name is near, declaring that when the set time comes He will judge uprightly.",
+  "God alone bears up the pillars of a dissolving earth, warning the proud not to lift up their horn or speak with a stiff neck.",
+  "Promotion is declared to come neither from the east, the west, nor the south, since God alone is judge, putting down one and setting up another.",
+  "A cup of red wine, full of mixture, is in the LORD's hand, poured out so that the wicked of the earth must drink even its dregs, while the psalmist vows to declare God's works forever."
+ ],
+ "nug": [
+  {
+   "h": "Thanks given before the judgment described has actually arrived",
+   "b": "\"Unto thee, O God, do we give thanks... when I shall receive the congregation I will judge uprightly\" (v. 1-2) offers gratitude ahead of the outcome, confidence in God's coming justice expressed as settled fact rather than as something still uncertain."
+  },
+  {
+   "h": "A warning aimed specifically at confident self-promotion",
+   "b": "\"Lift not up your horn on high: speak not with a stiff neck\" (v. 5) pictures pride quite physically, an animal raising its horn to display strength, aimed at anyone tempted to advertise their own importance."
+  },
+  {
+   "h": "Advancement traced to one source and firmly denied to every other",
+   "b": "\"Promotion cometh neither from the east, nor from the west, nor from the south. But God is the judge: he putteth down one, and setteth up another\" (v. 6-7) rules out every ordinary, human explanation for rising influence, crediting it entirely to God's own decision instead."
+  },
+  {
+   "h": "Judgment pictured as a cup no one can refuse to finish",
+   "b": "\"In the hand of the LORD there is a cup, and the wine is red; it is full of mixture... but the dregs thereof, all the wicked of the earth shall wring them out, and drink them\" (v. 8) makes coming judgment as inescapable and total as draining a cup to its very last, bitter portion."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 51:17 · Matthew 26:39 · Revelation 14:10",
+   "qs": [
+    {
+     "th": "This same image of a cup of divine wrath reappears throughout Scripture, from Isaiah's warning of \"the cup of his fury\" (Isaiah 51:17) to Jesus' own prayer in Gethsemane, \"O my Father, if it be possible, let this cup pass from me\" (Matthew 26:39) — the very cup this psalm pictures the wicked eventually forced to drink instead willingly taken up by Christ Himself on behalf of others.",
+     "q": "Read Matthew 26:39 alongside Psalm 75:8. What does it change in your reading of Gethsemane to know the cup Jesus asked to have removed carries this same Old Testament weight of deserved, inescapable judgment?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm names a specific temptation — advertising your own rising influence with a \"stiff neck\" (v. 5) — as something worth actively resisting rather than simply enjoying quietly.",
+     "q": "Where in your own recent success or advancement have you been tempted to credit your own effort more than the psalm's insistence that promotion genuinely comes from God alone?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's confident thanksgiving is offered \"when I shall receive the congregation\" (v. 2) — a future, appointed moment the psalmist trusts without yet having seen it arrive.",
+     "q": "Where might the Holy Spirit be inviting you to give thanks now for a future justice or resolution you trust is coming, rather than waiting until you can actually see it?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's central claim — that advancement comes \"neither from the east, nor from the west, nor from the south\" but from God alone (v. 6-7) — leaves remarkably little room for anxious striving or self-promotion.",
+     "q": "Sit quietly today and consider one area where you've been striving anxiously for advancement or recognition, letting this psalm's confidence that God alone decides such things settle your grip on it."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 319
+{
+ "ref": "Numbers 21",
+ "tag": "Old Testament",
+ "api": "numbers+21",
+ "sum": [
+  "Israel destroys Arad's cities after vowing them to the LORD, but then speaks against God and Moses again over the wilderness journey, and fiery serpents are sent among them.",
+  "The people confess their sin, and the LORD tells Moses to make a fiery serpent of brass and set it on a pole, so that anyone bitten who looks upon it will live.",
+  "Israel journeys on, singing a song at a well the princes and nobles dig with their staves, then defeats Sihon king of the Amorites and Og king of Bashan in battle.",
+  "The chapter closes with Israel dwelling in the land of the Amorites, having taken the very territory these two defeated kings once ruled."
+ ],
+ "nug": [
+  {
+   "h": "A cure that required looking rather than doing anything else",
+   "b": "\"It shall come to pass, that every one that is bitten, when he looketh upon it, shall live\" (v. 8-9) asked nothing of the dying person except to look — no antidote to prepare, no ritual to perform, healing made available through the simplest possible act of trust."
+  },
+  {
+   "h": "An image of judgment turned into the very means of healing",
+   "b": "The bronze serpent, shaped in the very likeness of what was killing the people, became instead the thing that saved them when they looked at it — the source of the plague and the source of the cure sharing the very same form."
+  },
+  {
+   "h": "A dying nation's own well-digging turned into a song",
+   "b": "\"Then Israel sang this song, Spring up, O well; sing ye unto it: the princes digged the well, the nobles of the people digged it\" (v. 17-18) marks an ordinary act of communal labour — digging for water — as significant enough to be remembered in verse rather than left as a plain, practical detail."
+  },
+  {
+   "h": "A giant king whose bed alone testified to his size",
+   "b": "Og of Bashan's defeat here (v. 33-35) is remembered elsewhere with a striking physical detail — his iron bedstead measured \"nine cubits\" long (Deuteronomy 3:11) — a king so large that even furniture built to accommodate him became a lasting, tangible witness to how real this victory actually was."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "John 3:14-15 · 2 Kings 18:4 · Numbers 20:16",
+   "qs": [
+    {
+     "th": "Jesus applies this exact image directly to Himself — \"as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: that whosoever believeth in him should not perish, but have eternal life\" (John 3:14-15) — the bronze serpent becoming, in His own words, a deliberate picture of His own crucifixion and the simple faith it asks for.",
+     "q": "Read John 3:14-15 alongside Numbers 21:8-9. What does it mean to you that the cure here required nothing but looking, and that Jesus applies that exact simplicity directly to what it takes to be saved through Him?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The dying Israelites in this chapter had to actually look at the bronze serpent — believing wasn't enough if it stayed a private, unexpressed conviction, they had to turn their eyes toward the actual, specific remedy God provided.",
+     "q": "Is there an area of your own life where you believe help is available in general, but haven't actually turned toward the specific place God has provided it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This same bronze serpent, kept as a reminder of God's mercy, was eventually destroyed by King Hezekiah centuries later specifically because the people had begun burning incense to it as an idol (2 Kings 18:4) — a genuine gift twisted, over time, into the very thing it was meant to save people from.",
+     "q": "Where might the Holy Spirit be showing you that something originally given as a genuine gift from God has, over time, quietly become something you now trust in for its own sake rather than as a pointer back to Him?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's bronze serpent stands as one of the clearest Old Testament pictures Jesus Himself ever directly applies to His own coming death (John 3:14), a strange and unlikely-looking object becoming, centuries later, His own chosen illustration of the cross.",
+     "q": "Praise God today for choosing an object as unexpected as a bronze serpent to point, long in advance, toward the simple, look-and-live nature of the salvation He would provide in Christ."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 320
+{
+ "ref": "Luke 2",
+ "tag": "New Testament",
+ "api": "luke+2",
+ "sum": [
+  "A decree from Caesar Augustus brings Joseph and the pregnant Mary to Bethlehem, where she brings forth her firstborn son and lays him in a manger, since there is no room in the inn.",
+  "An angel announces good tidings of great joy to shepherds keeping watch by night, and a multitude of the heavenly host praises God, \"Glory to God in the highest, and on earth peace, good will toward men.\"",
+  "At His presentation in the temple, Simeon, having waited to see the Lord's Christ, takes the child in his arms and blesses God, while Anna the prophetess also gives thanks and speaks of Him to all who looked for redemption.",
+  "At twelve years old, Jesus stays behind in the temple among the doctors, and when found, tells His anxious parents He must be about His Father's business, then returns to Nazareth and grows in wisdom and stature."
+ ],
+ "nug": [
+  {
+   "h": "A king's birth registered by an empire that had no idea what it was recording",
+   "b": "\"There went out a decree from Caesar Augustus, that all the world should be taxed\" (v. 1) has the most powerful ruler on earth unknowingly setting in motion the exact journey that would fulfil, of all things, an ancient prophecy naming Bethlehem as the Messiah's birthplace (Micah 5:2)."
+  },
+  {
+   "h": "An announcement given first to the least prominent people available",
+   "b": "\"There were in the same country shepherds abiding in the field, keeping watch over their flock by night\" (v. 8) receive the first announcement of Christ's birth, not priests, scholars or officials — ordinary night-shift workers made the very first witnesses of this news."
+  },
+  {
+   "h": "Words kept quietly rather than repeated immediately",
+   "b": "\"Mary kept all these things, and pondered them in her heart\" (v. 19) shows a strikingly different response to the shepherds' extraordinary report than excited retelling — private, unhurried reflection instead."
+  },
+  {
+   "h": "A blessing that included a warning of real cost",
+   "b": "Simeon's praise over the infant Jesus turns, within the same breath, to tell Mary directly, \"Yea, a sword shall pierce through thy own soul also\" (v. 35) — joy at this child's arrival paired immediately with an honest, specific warning of the grief still to come."
+  },
+  {
+   "h": "A boy's own sense of belonging stated plainly, if confusingly, to His parents",
+   "b": "\"How is it that ye sought me? wist ye not that I must be about my Father's business?\" (v. 49) is Jesus' first recorded words in any Gospel, already naming a relationship and a purpose His own parents \"understood not\" (v. 50) even as they raised Him."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Micah 5:2 · Isaiah 9:6-7 · Isaiah 52:7",
+   "qs": [
+    {
+     "th": "Micah had specifically named Bethlehem centuries earlier as the birthplace of \"he that is to be ruler in Israel\" (Micah 5:2) — a decree from a Roman emperor, issued for entirely unrelated reasons of taxation, becoming the very means by which that ancient, specific prophecy was fulfilled to the letter.",
+     "q": "Read Micah 5:2 alongside Luke 2:1-7. What does it mean to you that an emperor's ordinary administrative decision, made for reasons having nothing to do with prophecy, still ended up fulfilling something written centuries before he was even born?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Simeon's blessing pairs genuine joy at seeing \"thy salvation\" (v. 30) with an honest warning of future grief for Mary (v. 35), refusing to offer celebration without also naming the real cost still ahead.",
+     "q": "Where in your own life have you experienced genuine joy and an honest awareness of coming cost or grief arriving together, the way Simeon names both to Mary in the very same moment?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Anna, a widow of eighty-four who \"departed not from the temple, but served God with fastings and prayers night and day\" (v. 37), had spent decades in quiet, faithful waiting before this one moment of recognizing the Christ finally arrived.",
+     "q": "Where might the Holy Spirit be asking you to keep faithfully waiting and watching for something, the way Anna did for decades, even without knowing when or how it will finally be answered?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The heavenly host's declaration over the shepherds' field — \"Glory to God in the highest, and on earth peace, good will toward men\" (v. 14) — remains one of the most direct, unfiltered bursts of praise recorded anywhere in Scripture.",
+     "q": "Praise God today using these exact words as your own prayer, letting \"glory to God in the highest\" be the first thing you say to Him rather than moving straight to requests."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 321
+{
+ "ref": "Psalm 76",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+76",
+ "sum": [
+  "God is known in Judah, His name great in Israel, His tabernacle in Salem and His dwelling place in Zion.",
+  "There He broke the arrows of the bow, the shield, the sword and the battle, more glorious and excellent than the mountains of prey.",
+  "At His rebuke both chariot and horse are cast into a dead sleep, and none of the men of might can find their hands, since when God arises to judgment the earth fears and is still.",
+  "The psalm closes declaring that even the wrath of man shall praise Him, calling all people to vow and pay to the LORD their God, who cuts off the spirit of princes and is terrible to the kings of the earth."
+ ],
+ "nug": [
+  {
+   "h": "A single, defended city named as God's own chosen resting place",
+   "b": "\"In Salem also is his tabernacle, and his dwelling place in Zion\" (v. 2) locates the psalm's whole vision of God's power specifically in one particular city, His strength shown not abstractly but through defending a place He had actually chosen to dwell in."
+  },
+  {
+   "h": "Weapons rendered useless without a battle described",
+   "b": "\"There brake he the arrows of the bow, the shield, and the sword, and the battle\" (v. 3) pictures an entire arsenal disabled, the fighting itself apparently never needing to happen in the way the enemy expected."
+  },
+  {
+   "h": "An army left unable to even move",
+   "b": "\"Both the chariot and horse are cast into a dead sleep... none of the men of might have found their hands\" (v. 5-6) describes soldiers so completely overwhelmed that even their own hands seem to fail them, strength made suddenly and totally unusable."
+  },
+  {
+   "h": "Even hostility forced into an unwilling kind of praise",
+   "b": "\"Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain\" (v. 10) makes the striking claim that human anger itself, even at its most defiant, ends up serving God's own purposes and glory, whatever it intended."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Kings 19:35-36 · Exodus 15:14-16 · Zechariah 4:6",
+   "qs": [
+    {
+     "th": "This psalm's picture of an army defeated without a described battle — weapons broken, soldiers unable to move — closely matches the account of Sennacherib's army destroyed overnight outside Jerusalem, \"an hundred fourscore and five thousand\" struck down before any actual fighting began (2 Kings 19:35-36).",
+     "q": "Read 2 Kings 19:35-36 alongside Psalm 76:3-6. How does knowing this psalm may describe a defeat won without Israel ever needing to fight change how you think about a difficulty you're currently facing on your own strength?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm credits an entire military victory to God alone, without describing any human strategy, weapon or courage as the actual cause (v. 3, 5-6).",
+     "q": "Where in your own life have you quietly credited your own effort or strategy for an outcome that, looked at honestly, was really God's doing all along?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The claim that \"the wrath of man shall praise thee\" (v. 10) trusts that even genuine hostility and opposition can end up serving God's purposes rather than ultimately defeating them.",
+     "q": "Where might the Holy Spirit be inviting you to trust that a specific hostility or opposition you're currently facing cannot actually work against God's purposes for you, however threatening it feels?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing instruction is direct and communal — \"vow, and pay unto the LORD your God: let all that be round about him bring presents unto him\" (v. 11) — worship expected to result in real, kept commitments, not only passing admiration.",
+     "q": "Thank God today for a specific victory or deliverance in your own life that, honestly examined, you had far less to do with than you assumed at the time."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 322
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A well worth singing about",
+   "b": "Numbers 21:17-18 records an entire song Israel sang over nothing more dramatic than princes and nobles digging a well with their own staves — \"Spring up, O well; sing ye unto it\" — a reminder that even the most ordinary, practical labour was, in this wilderness journey, still considered worth turning into worship."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week closed our study of Numbers and completed our first look at Luke's opening chapters — moving through Numbers 19's red heifer and its purification from death, Numbers 20's water from the rock and the deaths of Miriam and Aaron, Psalm 75's cup of judgment no one can refuse to drink, Numbers 21's bronze serpent that Jesus Himself would later apply directly to His own cross, Luke 2's nativity, the shepherds, Simeon and Anna, and the boy Jesus in the temple, and Psalm 76's victory won seemingly without a single blow struck.",
+     "q": "Where this week did the simple instruction to look at the bronze serpent and live in Numbers 21:8-9, or the shepherds receiving the very first announcement of Christ's birth in Luke 2:8-11, most challenge an assumption that God's help or attention has to come through impressive people or complicated means?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Glory to God in the highest, and on earth peace, good will toward men\" (Luke 2:14) — the heavenly host's own words, given first not to kings or priests, but to shepherds in a field at night.",
+     "q": "Sit quietly for a few minutes and simply let these words be your own praise, without moving straight to a request, the way the angels offered them with nothing attached but glory itself."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 323
+{
+ "ref": "Numbers 22",
+ "tag": "Old Testament",
+ "api": "numbers+22",
+ "sum": [
+  "Balak king of Moab, terrified of Israel's numbers camped on his border, sends elders of Moab and Midian to hire Balaam son of Beor to curse them.",
+  "Balaam inquires of the LORD, who forbids him to go or curse a people already blessed, but when Balak sends more honourable princes with greater rewards, God permits Balaam to go, saying he must speak only the word given him.",
+  "On the road, Balaam's ass sees the angel of the LORD standing in the way with a drawn sword and turns aside three times, and after Balaam strikes her, the LORD opens the ass's mouth to reason with him.",
+  "Balaam's eyes are opened to see the angel, who rebukes him but sends him on with the same warning, and Balaam finally meets Balak at Kiriathhuzoth."
+ ],
+ "nug": [
+  {
+   "h": "A price too high spoken before it is even offered",
+   "b": "\"If Balak would give me his house full of silver and gold, I cannot go beyond the word of the LORD my God, to do less or more\" (v. 18) — Balaam states this principle clearly and correctly, yet immediately afterward sets out anyway, his stated conviction and his actual next step pulling in two different directions."
+  },
+  {
+   "h": "Permission granted that still provoked anger",
+   "b": "God tells Balaam, \"Rise up, and go with them\" (v. 20), yet the very next verse records, \"God's anger was kindled because he went\" (v. 22) — Scripture holds both together without smoothing over the tension, suggesting Balaam's heart in going was not the same as simple obedience to a plain command."
+  },
+  {
+   "h": "A dumb animal seeing what a paid prophet could not",
+   "b": "\"The ass saw the angel of the LORD standing in the way, and his sword drawn in his hand... but Balaam saw him not\" (v. 23, 31) — an ordinary beast of burden perceives the danger three separate times before the man renowned for spiritual sight sees anything at all."
+  },
+  {
+   "h": "A voice given to the one being beaten rather than the one striking",
+   "b": "\"The LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?\" (v. 28) — the animal, not the prophet, becomes the one reasoning rightly, asking the very question Balaam should have been asking himself."
+  },
+  {
+   "h": "A life spared that the man never knew was in danger",
+   "b": "The angel tells Balaam plainly, \"unless she had turned from me, surely now also I had slain thee, and saved her alive\" (v. 33) — Balaam had been angry at the ass for saving his own life, entirely unaware how close he had actually come to death."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Peter 2:15-16 · Jude 1:11 · Deuteronomy 23:4-5",
+   "qs": [
+    {
+     "th": "Peter later remembers this exact episode as a byword for a prophet loved wrong gain — \"the dumb ass speaking with man's voice forbad the madness of the prophet\" (2 Peter 2:16) — the strange, almost comic detail of a talking donkey becoming, centuries later, a fixed New Testament warning about the danger of a gift for hire.",
+     "q": "Read 2 Peter 2:15-16 alongside Numbers 22:21-30. Why might a story this unusual — an animal correcting a prophet — have stuck so firmly in the church's memory as a warning worth repeating?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Balaam knew the right principle — he could not go beyond the word of the LORD (v. 18) — yet still saddled his ass and set out toward exactly the reward he claimed he wasn't chasing (v. 21).",
+     "q": "Where in your own life have you stated the right conviction clearly, and then taken a next step that quietly moved you toward the very thing you said you wouldn't be swayed by?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Balaam's physical eyes had to be specifically opened by the LORD before he could see what his own donkey had already perceived three times over (v. 31).",
+     "q": "Where might the Holy Spirit be trying to open your eyes to a danger or a warning that has, in some sense, already been obvious to someone or something around you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Balaam's anger at his ass for saving his own life (v. 27, 29) shows how easily a person can resent the very thing protecting them, when their heart is already set on a different direction.",
+     "q": "Confess to God today any place where you've resented a warning, a delay, or an obstacle that may, in fact, have been protecting you from something you couldn't yet see."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 324
+{
+ "ref": "Numbers 23",
+ "tag": "Old Testament",
+ "api": "numbers+23",
+ "sum": [
+  "Balaam instructs Balak to build seven altars and offer seven bullocks and seven rams, then goes alone to meet the LORD, who puts a word in his mouth.",
+  "In his first oracle, Balaam declares that God has not beheld iniquity in Jacob, that he cannot curse whom God has not cursed, and wishes to die the death of the righteous.",
+  "Balak, dismayed, moves Balaam to a second location and repeats the sacrifices, but the second oracle again blesses Israel, declaring that God is not a man that he should lie or repent, and that no enchantment or divination can prevail against Jacob.",
+  "Balak protests that Balaam has neither cursed nor blessed as instructed, but Balaam answers only that he must speak what the LORD puts in his mouth."
+ ],
+ "nug": [
+  {
+   "h": "A curse that turned into a blessing before it ever left his mouth",
+   "b": "\"How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?\" (v. 8) has Balaam arriving fully intending, at Balak's expense, to do exactly what he was hired for, and instead finding the words simply will not come out any other way."
+  },
+  {
+   "h": "A wish spoken by a man who would not himself live that way",
+   "b": "\"Let me die the death of the righteous, and let my last end be like his!\" (v. 10) has Balaam genuinely longing for Israel's ultimate destiny even while actively working, in this very chapter, against Israel's present good — admiration for an outcome without any matching change of course."
+  },
+  {
+   "h": "A God whose word cannot be renegotiated by moving the meeting",
+   "b": "Balak relocates Balaam to a different vantage point specifically hoping a change of scenery might produce a different verdict (v. 13-14), yet the second oracle answers that very hope directly: \"God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?\" (v. 19)."
+  },
+  {
+   "h": "A nation declared beyond the reach of the very arts being used against it",
+   "b": "\"Surely there is no enchantment against Jacob, neither is there any divination against Israel\" (v. 23) is spoken by the one man on the scene actually skilled in enchantment and divination, an expert testifying against the effectiveness of his own trade."
+  },
+  {
+   "h": "A complaint answered with a job description rather than an apology",
+   "b": "When Balak protests, \"I took thee to curse mine enemies, and, behold, thou hast blessed them altogether\" (v. 11), Balaam simply repeats his terms again: \"Must I not take heed to speak that which the LORD hath put in my mouth?\" (v. 12) — no negotiation offered, because none was ever really available."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 22:38 · Isaiah 54:17 · Romans 8:31",
+   "qs": [
+    {
+     "th": "Balaam had already warned Balak at their first meeting, \"the word that God putteth in my mouth, that shall I speak\" (Numbers 22:38) — a promise this chapter now shows kept in full, twice over, regardless of how much Balak paid or how the location changed.",
+     "q": "Read Numbers 22:38 alongside Numbers 23:8, 19-20. What does it mean to you that Balaam's stated limitation, given before any money changed hands, held firm through every attempt afterward to work around it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Balak's strategy assumes that a different location, a fresh set of altars, might yield him a different result (v. 13) — treating God's verdict as something that might shift with enough manoeuvring.",
+     "q": "Where have you, like Balak, hoped that changing your circumstances or your approach might eventually produce a different answer from God than the one He has already clearly given?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Balaam's oracle credits Israel's safety entirely to something outside their own strength or cleverness — no enchantment, no divination, can touch what God has already blessed (v. 23).",
+     "q": "Where might the Holy Spirit be reminding you that your own security rests on God's settled verdict over your life, rather than on your ability to out-manoeuvre whatever currently threatens you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Twice in this one chapter, money, pressure and relocation all fail to alter a single word of blessing already spoken over Israel (v. 8-10, 18-24).",
+     "q": "Thank God today for a blessing or a promise over your own life that has proven, in practice, to be unmovable by circumstances that tried hard to shift it."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 325
+{
+ "ref": "Psalm 77",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+77",
+ "sum": [
+  "Asaph cries aloud to God in his day of trouble, so troubled he cannot speak, his soul refusing to be comforted, and wonders aloud whether the Lord has cast him off forever.",
+  "He asks whether God's mercy is clean gone, whether His promise has failed, whether He has forgotten to be gracious, calling this questioning itself his own infirmity.",
+  "He deliberately turns to remember the years of God's right hand, the works of the LORD, meditating on His way in the sanctuary and His greatness among the gods.",
+  "The psalm ends recalling the exodus specifically, the waters that saw God and were afraid, the earth that trembled, and God leading His people like a flock by the hand of Moses and Aaron."
+ ],
+ "nug": [
+  {
+   "h": "Grief specific enough to name the body it affected",
+   "b": "\"My sore ran in the night, and ceased not: my soul refused to be comforted\" (v. 2) describes distress physically enough that it reads almost like insomnia or illness, not only an abstract spiritual complaint."
+  },
+  {
+   "h": "Four honest questions left completely unanswered in the moment they're asked",
+   "b": "\"Will the Lord cast off for ever? and will he be favourable no more? Is his mercy clean gone for ever? doth his promise fail for evermore? Hath God forgotten to be gracious?\" (v. 7-9) piles up doubt after doubt without a single reassurance offered in between — the psalm simply lets the questions stand, unanswered, before moving anywhere else."
+  },
+  {
+   "h": "A named turning point in the middle of the poem itself",
+   "b": "\"And I said, This is my infirmity: but I will remember the years of the right hand of the most High\" (v. 10) marks the exact hinge of the whole psalm — Asaph doesn't argue himself out of his questions, he simply chooses, by an act of will, to remember instead of continuing to spiral."
+  },
+  {
+   "h": "A path through the sea that left no trace behind it",
+   "b": "\"Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known\" (v. 19) pictures God's own guidance through the Red Sea as genuinely untraceable even in the moment of its greatest, most visible act — mystery and clear deliverance held together in the very same image."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 14:21-22 · Habakkuk 3:2 · Lamentations 3:19-24",
+   "qs": [
+    {
+     "th": "This psalm's closing verses recall, almost word for word, the actual Red Sea crossing — \"the waters saw thee, O God... the earth trembled and shook\" (v. 16, 18) recalling Exodus 14:21-22's account of the sea divided and Israel walking through on dry ground — ancient history deliberately pulled forward to answer a present, unresolved ache.",
+     "q": "Read Exodus 14:21-22 alongside Psalm 77:16-20. Why might deliberately remembering a specific, historical deliverance be Asaph's actual answer to his questions, rather than a fresh argument or a new reassurance?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Asaph names his own spiral of doubt honestly as \"my infirmity\" (v. 10) rather than either indulging it endlessly or pretending it never happened.",
+     "q": "Where in your own life have you needed to name a repeated pattern of doubt or despair honestly as your own infirmity, neither excusing it nor being ashamed to admit it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The turning point of this whole psalm is a deliberate choice to remember rather than a fresh feeling that simply arrived on its own (v. 10-12).",
+     "q": "Where might the Holy Spirit be inviting you to deliberately remember something specific He has already done, rather than waiting for a feeling of comfort to arrive first?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Asaph's four unanswered questions (v. 7-9) are never rebuked in this psalm — they're simply set alongside, and eventually outweighed by, deliberate remembrance.",
+     "q": "Confess to God today any of your own version of these same questions — that His mercy or promise might somehow have failed you — trusting Him to receive the honesty rather than the tidy version."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 326
+{
+ "ref": "Numbers 24",
+ "tag": "Old Testament",
+ "api": "numbers+24",
+ "sum": [
+  "Balaam, seeing it pleases the LORD to bless Israel, no longer seeks enchantments as before but sets his face toward the wilderness, and the Spirit of God comes upon him.",
+  "His third oracle praises the beauty of Israel's tents, pictures their king exalted above Agag, and pronounces blessing on whoever blesses them and a curse on whoever curses them.",
+  "Balak's anger is kindled and he smites his hands together, but Balaam gives a fourth oracle unbidden, seeing one who is not yet come — \"there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel.\"",
+  "Balaam adds further oracles concerning Amalek, the Kenites, and Asshur, and then he and Balak each go their own way."
+ ],
+ "nug": [
+  {
+   "h": "A prophet who finally stops looking for a loophole",
+   "b": "\"Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments\" (v. 1) marks a real shift — after two failed attempts to find an angle that might satisfy Balak, Balaam simply stops trying, resigned rather than repentant."
+  },
+  {
+   "h": "A blessing repeating the very promise made to Israel's ancestor",
+   "b": "\"Blessed is he that blesseth thee, and cursed is he that curseth thee\" (v. 9) echoes almost word for word God's own promise to Abraham generations earlier (Genesis 12:3) — a hired prophet from a foreign land, without meaning to, ends up simply reciting God's ancient covenant back over the very people he was paid to curse."
+  },
+  {
+   "h": "A star seen from very far away, and clearly not yet arrived",
+   "b": "\"I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel\" (v. 17) is spoken by a pagan diviner centuries before any Davidic king existed, describing a coming ruler in terms so specific that later readers, both Jewish and Christian, would recognise it as pointing toward the Messiah himself."
+  },
+  {
+   "h": "Anger with nowhere left to go",
+   "b": "\"Balak's anger was kindled against Balaam, and he smote his hands together\" (v. 10) shows Balak's fury finally boiling over with no further leverage to apply — every attempt at bargaining, relocating, and pressuring has by now completely run out."
+  },
+  {
+   "h": "A message given even after the money had clearly stopped changing hands",
+   "b": "Balaam's fourth oracle (v. 15-24) is spoken entirely unprompted, after Balak has already dismissed him in anger (v. 11) — the last, most explicitly messianic word in the whole account comes freely, not for pay at all."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 12:3 · Matthew 2:1-2 · Revelation 22:16",
+   "qs": [
+    {
+     "th": "God's ancient promise to Abraham, \"I will bless them that bless thee, and curse him that curseth thee\" (Genesis 12:3), is repeated here almost verbatim by a foreign prophet hired specifically to curse Abraham's own descendants (v. 9) — the covenant proving itself durable even in the mouth of someone actively working against it.",
+     "q": "Read Genesis 12:3 alongside Numbers 24:9. What does it mean to you that this ancient promise held firm even when spoken through someone with every incentive to say the opposite?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Balaam sees Israel's future blessing clearly and even longs to share in it (Numbers 23:10), yet nothing in this chapter suggests he actually changed course toward God as a result of what he saw and said.",
+     "q": "Have you ever recognised real spiritual truth clearly, even spoken it aloud to others, without it actually changing the direction of your own life? What kept the two apart?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit of God comes upon Balaam specifically (v. 2), producing genuine, accurate prophecy through a man whose heart was clearly not aligned with what he was saying.",
+     "q": "Where might the Holy Spirit be reminding you that true words spoken about Him don't necessarily prove the speaker's own heart is right before Him?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's furthest-reaching oracle — a Star out of Jacob, a Sceptre out of Israel (v. 17) — was given centuries before it could be understood, let alone fulfilled, by wise men from the east who would one day follow an actual star toward a newborn King.",
+     "q": "Praise God today for placing genuine hints of Christ's coming even in the mouth of a reluctant, foreign prophet, long before anyone could have grasped their full meaning."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 327
+{
+ "ref": "Luke 3",
+ "tag": "New Testament",
+ "api": "luke+3",
+ "sum": [
+  "Luke carefully dates the start of John the Baptist's ministry by name of Roman emperor, governor, and Jewish rulers, as John preaches a baptism of repentance in the wilderness, quoting Isaiah's promise of a voice preparing the way of the Lord.",
+  "John calls the crowds to bring forth fruits worthy of repentance, giving specific, practical instructions to the multitudes, to publicans, and to soldiers, while denying that he himself is the Christ.",
+  "Jesus is baptized, and as he prays the heaven opens, the Holy Ghost descends on him in bodily shape like a dove, and a voice declares, \"Thou art my beloved Son; in thee I am well pleased.\"",
+  "Luke gives Jesus' genealogy, tracing it backward through Joseph all the way to Adam, \"which was the son of God.\""
+ ],
+ "nug": [
+  {
+   "h": "A historian's precision applied to the start of a ministry",
+   "b": "\"Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee... Annas and Caiaphas being the high priests\" (v. 1-2) pins John's ministry to a specific, checkable moment in Roman and Jewish history, exactly the kind of careful dating Luke's opening preface (Luke 1:3) had already promised."
+  },
+  {
+   "h": "Repentance given specific, ordinary shape rather than left abstract",
+   "b": "John doesn't merely call for generic change; asked directly what to do, he answers each group concretely — \"He that hath two coats, let him impart to him that hath none\" to the people, \"Exact no more than that which is appointed you\" to the publicans, \"Do violence to no man... and be content with your wages\" to the soldiers (v. 11, 13, 14)."
+  },
+  {
+   "h": "A voice claiming nothing for itself",
+   "b": "\"There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to unloose\" (v. 16) has John, at the height of his own popularity and influence, actively pointing every bit of it away from himself and toward someone still to come."
+  },
+  {
+   "h": "Sonship declared before any ministry had yet begun",
+   "b": "The voice from heaven, \"Thou art my beloved Son; in thee I am well pleased\" (v. 22), comes before Jesus has taught a single parable or worked a single miracle — the Father's approval resting on who Jesus already is, not on anything he has yet accomplished."
+  },
+  {
+   "h": "A genealogy that reaches past Israel's founder to humanity's own",
+   "b": "Unlike Matthew's genealogy, which moves forward from Abraham and stresses David's throne, Luke's moves backward all the way to \"Adam, which was the son of God\" (v. 38) — quietly signalling that this Gospel's good news reaches every son of Adam, not Israel alone."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 40:3-5 · Genesis 12:3 · Matthew 1:1-17",
+   "qs": [
+    {
+     "th": "John's ministry deliberately fulfils Isaiah's centuries-old promise, quoted in full here — \"the voice of one crying in the wilderness, Prepare ye the way of the Lord... and all flesh shall see the salvation of God\" (v. 4-6, quoting Isaiah 40:3-5) — an ancient prophecy of universal salvation matched, word for word, to one man's specific desert ministry.",
+     "q": "Read Isaiah 40:3-5 alongside Luke 3:4-6. Why might Luke choose to quote this prophecy in its fuller form — reaching all flesh — rather than stopping at the narrower promise of a voice in the wilderness?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "John gave each group who asked him a genuinely practical, specific answer rather than a single, generic call to \"repent\" (v. 10-14).",
+     "q": "If you asked John directly, right now, \"what shall we do?\" about your own particular circumstances, what specific, concrete answer do you suspect he would actually give you?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Holy Ghost descends on Jesus \"in a bodily shape like a dove\" specifically while he is praying (v. 21-22), the Spirit's visible coming tied directly to a moment of prayer rather than to any public act or miracle.",
+     "q": "Where might the Holy Spirit be waiting to meet you specifically in prayer, in a quiet moment rather than in the middle of visible activity or achievement?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Father's words over Jesus — \"in thee I am well pleased\" (v. 22) — are spoken before Jesus has preached a sermon, healed anyone, or performed a single recorded miracle.",
+     "q": "Sit quietly today with the thought that this same kind of approval — resting on who you are in Christ, not on what you have yet accomplished — is also spoken over you."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 328
+{
+ "ref": "Psalm 78",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+78",
+ "sum": [
+  "Asaph opens by calling Israel to hear a parable rooted in things heard from their fathers, resolved not to hide them from the next generation, so children yet unborn would set their hope in God and not repeat their fathers' rebellion.",
+  "He recounts Ephraim's failure, then rehearses the exodus wonders in Egypt, the sea divided, the pillar of cloud and fire, and the wilderness provision of water from the rock, manna as \"corn of heaven\" and \"angels' food,\" and quails brought by a wind.",
+  "Despite all this, Israel sinned still, testing God repeatedly even while their heart was not right with him, until his anger rose and the sanctuary at Shiloh was forsaken, the ark itself delivered into captivity and priests falling by the sword.",
+  "The psalm closes with God awaking as one out of sleep, rejecting the tribe of Ephraim, choosing instead the tribe of Judah and mount Zion, and raising up David his servant, taken from following the sheep to shepherd Jacob his people."
+ ],
+ "nug": [
+  {
+   "h": "A deliberate strategy against forgetting, stated before a single event is even told",
+   "b": "\"We will not hide them from their children, shewing to the generation to come the praises of the LORD... that they might set their hope in God, and not forget the works of God, but keep his commandments: and might not be as their fathers, a stubborn and rebellious generation\" (v. 4, 7-8) frames this entire seventy-two-verse psalm, unusually long for the Psalter, as a deliberate act of education rather than only worship — history rehearsed specifically so a future generation won't have to relearn its lessons the hard way."
+  },
+  {
+   "h": "Provision named with a dignity beyond its plainness",
+   "b": "Manna is called here \"corn of heaven\" and \"angels' food\" (v. 24-25) — ordinary daily bread given titles that elevate it far beyond a mere survival ration, as though the psalm itself refuses to let readers remember it as unremarkable."
+  },
+  {
+   "h": "A verdict on the heart delivered in the very same breath as praise for the mouth",
+   "b": "\"They did flatter him with their mouth, and they lied unto him with their tongues. For their heart was not right with him, neither were they stedfast in his covenant\" (v. 36-37) draws a sharp, uncomfortable line between outward words of devotion and an inward condition entirely unmatched to them."
+  },
+  {
+   "h": "Mercy repeated so often the psalm has to keep restarting the sentence",
+   "b": "\"But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath\" (v. 38) sits in the very middle of a long list of provocations, refusing to let the record of Israel's failure stand without an equally emphatic record of God's restraint."
+  },
+  {
+   "h": "A defeat recorded with the plainest possible language for a holy object",
+   "b": "\"He forsook the tabernacle of Shiloh... and delivered his strength into captivity, and his glory into the enemy's hand\" (v. 60-61) describes, without any softening, the ark of the covenant itself being captured by the Philistines (1 Samuel 4) — the psalm willing to let its own worst chapter stand in full view rather than skip past it."
+  },
+  {
+   "h": "A king chosen from the very back of the flock",
+   "b": "\"He chose David also his servant, and took him from the sheepfolds... to feed Jacob his people\" (v. 70-71) closes this long, often painful history not with judgment but with the unlikely rise of a shepherd boy — generations of rebellion answered, in the end, with the establishment of a king after God's own choosing."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 6:6-7 · 1 Samuel 4:10-11 · Matthew 13:34-35",
+   "qs": [
+    {
+     "th": "Moses had already commanded Israel to teach these very things diligently to their children, talking of them \"when thou sittest in thine house, and when thou walkest by the way\" (Deuteronomy 6:7) — this psalm is that commandment actually carried out, an entire national history compressed into a single, deliberately teachable song.",
+     "q": "Read Deuteronomy 6:6-7 alongside Psalm 78:1-8. What difference might it make to actually put your own family's or your own life's history into a form deliberately meant to be retold to those who come after you, rather than leaving it to be forgotten?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm doesn't flatten Israel's whole history into either constant failure or constant faithfulness — it holds real, repeated rebellion and real, repeated mercy together across the very same span of years (v. 17-19, 38, 56-58).",
+     "q": "Looking honestly at your own history with God, can you name both a repeated pattern of your own rebellion and a repeated pattern of His mercy toward it, holding both together the way this psalm does?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's sharpest verdict falls not on outward disobedience alone but on a heart \"not right with him\" even while the mouth still spoke words of devotion (v. 36-37).",
+     "q": "Where might the Holy Spirit be inviting you to examine whether your own words of devotion currently match the actual state of your heart, rather than assuming the two are automatically the same?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm names, without excusing it, an entire nation's habit of \"tempting God, and limiting the Holy One of Israel\" (v. 41) even directly after having witnessed his wonders.",
+     "q": "Confess to God today any place where, like Israel here, a recent, remembered proof of his faithfulness has still failed to stop you from doubting him again soon afterward."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 329
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A blessing no amount of money could undo",
+   "b": "Balak paid for a curse three separate times and three separate times received a blessing instead, the words simply refusing to come out any other way (Numbers 23:8, 20; 24:1) — a vivid, repeated picture that no amount of pressure, relocation, or reward can move God to unsay what he has already spoken over his people."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 22's talking donkey and the angel Balaam could not see, Numbers 23's curse that turned to blessing no matter how many times the altars were rebuilt, Psalm 77's honest questions answered by deliberate remembrance, Numbers 24's unbidden prophecy of a Star out of Jacob, Luke 3's careful dating of John's ministry and the voice declaring Jesus God's beloved Son before any miracle was worked, and Psalm 78's long, unflinching history of Israel's failure and God's far more persistent mercy.",
+     "q": "Where this week did Balaam's donkey seeing what the prophet himself could not in Numbers 22:23-31, or Asaph's deliberate choice to remember rather than to keep spiralling in Psalm 77:10-12, most challenge how you're currently responding to a warning you may have been too quick to dismiss, or a doubt you've let run unchecked?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"This is my infirmity: but I will remember the years of the right hand of the most High\" (Psalm 77:10) — a single, deliberate decision to remember, made in the very middle of a spiral of unanswered questions.",
+     "q": "Sit quietly for a few minutes and name one specific work of God you know to be true, letting deliberate remembrance, as it did for Asaph, begin to answer whatever question currently troubles you most."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 330
+{
+ "ref": "Numbers 25",
+ "tag": "Old Testament",
+ "api": "numbers+25",
+ "sum": [
+  "Israel, camped at Shittim, commits whoredom with the daughters of Moab, who invite the people to sacrifices of their gods, and Israel joins itself to Baalpeor, kindling the LORD's anger.",
+  "The LORD commands the heads of the people to be hanged before him, and Moses tells the judges to slay every man joined to Baalpeor, while a plague breaks out among the congregation.",
+  "An Israelite man brings a Midianitish woman openly into the camp in the sight of Moses and the weeping congregation, and Phinehas the son of Eleazar rises, takes a javelin, and thrusts them both through, staying the plague at the cost of 24,000 lives already lost.",
+  "The LORD declares that Phinehas's zeal has turned away his wrath and grants him a covenant of peace and an everlasting priesthood, then commands Israel to vex the Midianites who had ensnared them."
+ ],
+ "nug": [
+  {
+   "h": "Idolatry entered through an invitation to a meal",
+   "b": "\"The people did eat, and bowed down to their gods\" (v. 2) shows Israel's fall into Baalpeor beginning not with a theological argument but with ordinary hospitality, an invitation to eat leading somewhere far more serious than the meal itself."
+  },
+  {
+   "h": "Grief and open defiance happening in the very same place at once",
+   "b": "The chapter's most shocking detail is its timing — the man brings the Midianitish woman \"in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle\" (v. 6) — brazen sin committed in full view of a nation already mourning the very judgment it was causing."
+  },
+  {
+   "h": "A single act credited with stopping a plague already in motion",
+   "b": "\"So the plague was stayed from the children of Israel... and those that died in the plague were twenty and four thousand\" (v. 8-9) places Phinehas's action at the exact turning point of the judgment, decisive intervention arriving only after enormous loss had already occurred."
+  },
+  {
+   "h": "Zeal rewarded with permanence rather than merely praised",
+   "b": "\"Behold, I give unto him my covenant of peace: and he shall have it, and his seed after him, even the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel\" (v. 12-13) — Phinehas's single decisive act secures not a passing commendation but a lasting, hereditary office."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 16:46-48 · Psalm 106:28-31 · Romans 5:9",
+   "qs": [
+    {
+     "th": "Phinehas's act here is described in Psalm 106 in language usually reserved for priestly sacrifice — \"that was counted unto him for righteousness unto all generations for evermore\" (Psalm 106:31) — his intervention functioning, like Aaron's censer in Numbers 16, as a specific act of atonement that turns aside wrath already in motion.",
+     "q": "Read Numbers 16:46-48 alongside Numbers 25:7-8, 13. What does the repeated Old Testament pattern of one man's decisive intervention halting a plague already killing many others teach you about how atonement actually works?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Israel's fall here began at an ordinary meal with ordinary neighbours, not through some dramatic assault on their faith (v. 1-2).",
+     "q": "Where in your own life has a small, seemingly ordinary social invitation or compromise quietly opened the door to something far more serious than it first appeared to be?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Phinehas's zeal is named specifically as being \"for his God,\" not for his own reputation or comfort (v. 11, 13), an act that cost him considerable personal risk in a moment when most of the congregation was simply weeping rather than acting.",
+     "q": "Where might the Holy Spirit be asking you for a costlier, more decisive kind of zeal than simply feeling grieved by something wrong while doing nothing about it?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter traces a straight line from an ordinary invitation to a shared meal, to idolatry, to a plague that cost 24,000 lives before it was finally stopped (v. 1-9).",
+     "q": "Confess to God today any place where an ordinary compromise you've allowed has been quietly costing far more than you first realised."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 331
+{
+ "ref": "Numbers 26",
+ "tag": "Old Testament",
+ "api": "numbers+26",
+ "sum": [
+  "After the plague, the LORD commands a second census of all Israel from twenty years old and upward able to go to war, numbered by tribe and family.",
+  "The total comes to 601,730, and the chapter notes carefully that among all these there was not a man of those numbered by Moses and Aaron in the wilderness of Sinai forty years earlier, except Caleb and Joshua.",
+  "Instructions are given that the land is to be divided by lot according to the names of the tribes, with larger tribes given more inheritance and smaller tribes less.",
+  "The Levites are numbered separately from a month old, coming to 23,000, receiving no inheritance of land among the children of Israel because the LORD himself is their inheritance."
+ ],
+ "nug": [
+  {
+   "h": "A number that is also a quiet obituary",
+   "b": "\"But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai. For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun\" (v. 64-65) turns what could have been a purely administrative census into the final, sobering confirmation that an entire generation's forty-year sentence (Numbers 14:29-34) had been carried out to the letter."
+  },
+  {
+   "h": "A new generation counted by the very same method as the old",
+   "b": "This second census follows almost the identical structure, tribe by tribe, as the first census taken in Numbers 1 — an entirely new generation counted the same careful way, the nation itself effectively starting over rather than simply continuing forward with survivors."
+  },
+  {
+   "h": "Land divided by both need and by chance together",
+   "b": "\"To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance... notwithstanding the land shall be divided by lot\" (v. 54, 56) combines a fair, proportional principle with an element of lot-casting that removed the decision from any single leader's discretion or favouritism."
+  },
+  {
+   "h": "An inheritance defined by absence rather than by acreage",
+   "b": "\"The Levites were not numbered among the children of Israel; for there was no inheritance given them among the children of Israel\" (v. 62) states plainly what Numbers 18 had already promised — the Levites' portion was deliberately different in kind, not simply smaller in size."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 14:28-35 · Numbers 1:1-3 · Hebrews 3:16-19",
+   "qs": [
+    {
+     "th": "God's sentence in Numbers 14 that the whole generation of spies would die in the wilderness (Numbers 14:29-33) is here confirmed with unusual precision — every single name from the first census gone except two — Scripture willing to let a difficult, decades-old judgment be fully and specifically accounted for rather than quietly dropped.",
+     "q": "Read Numbers 14:28-35 alongside Numbers 26:64-65. Why might it matter to you that this judgment, spoken decades earlier, is here so carefully verified rather than simply assumed to have happened?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "An entirely new generation stands here, counted the same careful way as their parents once were, given a fresh chance at the very inheritance their parents forfeited through unbelief (v. 63-65).",
+     "q": "Where in your own life might you be standing, like this new generation, at the start of a genuinely fresh opportunity that an earlier season's failure had seemed to close off completely?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Levites' unusual inheritance — God himself, rather than a measured plot of land (v. 62) — was announced as a genuine, sufficient portion, not a consolation for missing out on something better.",
+     "q": "Where might the Holy Spirit be inviting you to see an unusual portion in your own life not as a lesser share, but as a genuinely sufficient one?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire chapter is essentially a list of names and numbers, yet each name represents an actual household carrying either the weight of an old judgment or the hope of a fresh start.",
+     "q": "Sit quietly today and consider your own name as it would appear on a list like this one — carrying both what has already been settled about your past and what remains genuinely open ahead of you."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 332
+{
+ "ref": "Psalm 79",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+79",
+ "sum": [
+  "Asaph laments that the heathen have come into God's inheritance, defiled the holy temple, and laid Jerusalem in heaps, leaving the dead bodies of God's servants unburied as meat for birds and beasts.",
+  "He cries out, \"How long, LORD? wilt thou be angry for ever?\" pleading that God would not remember former iniquities but let his tender mercies come speedily.",
+  "He asks God to help for the glory of his own name, to purge away Israel's sins, and to make himself known among the heathen by avenging the blood of his servants that has been shed.",
+  "The psalm closes vowing that God's people, as the sheep of his pasture, will give him thanks forever and show forth his praise to all generations."
+ ],
+ "nug": [
+  {
+   "h": "Devastation named with almost unbearable physical specificity",
+   "b": "\"The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth. Their blood have they shed like water round about Jerusalem; and there was none to bury them\" (v. 2-3) refuses to describe this national catastrophe in vague or softened terms, naming the exact indignity of bodies left unburied."
+  },
+  {
+   "h": "A plea that appeals to God's reputation as much as to Israel's need",
+   "b": "\"Help us, O God of our salvation, for the glory of thy name... Wherefore should the heathen say, Where is their God?\" (v. 9-10) grounds the request for rescue not primarily in what Israel deserves, but in what watching nations will conclude about God himself if no rescue comes."
+  },
+  {
+   "h": "A request for mercy that asks God not to remember",
+   "b": "\"O remember not against us former iniquities: let thy tender mercies speedily prevent us\" (v. 8) makes an unusual, direct plea — not for a fresh reason to be forgiven, but simply that old failures would not be held up as the basis for present judgment."
+  },
+  {
+   "h": "Worship promised before rescue has actually arrived",
+   "b": "\"So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations\" (v. 13) closes a psalm entirely rooted in present devastation with a vow of ongoing worship, gratitude committed to in advance of the answer being seen."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Kings 25:8-10 · Lamentations 1:10-11 · Romans 12:19",
+   "qs": [
+    {
+     "th": "2 Kings 25:8-10 records the actual burning of the temple and the breaking down of Jerusalem's walls by the Babylonians — very likely the specific historical catastrophe this psalm mourns in such raw, physical detail, its questions and pleas rooted in genuine national ruin rather than exaggerated grief.",
+     "q": "Read 2 Kings 25:8-10 alongside Psalm 79:1-4. How does knowing this psalm most likely responds to an actual, historical destruction change how much room it gives you to bring your own specific losses honestly to God, without softening them for his sake?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Asaph's plea, \"remember not against us former iniquities\" (v. 8), asks for mercy that doesn't depend on Israel first proving itself worthy of a fresh start.",
+     "q": "Is there a former failure of your own that you've assumed still has to be settled or atoned for before you can honestly ask God for present help?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's appeal to God's own reputation among the nations (v. 9-10) trusts that God cares about his own name being rightly known, not only about Israel's private comfort.",
+     "q": "Where might the Holy Spirit be inviting you to pray for a difficult situation not only for your own relief, but because of what it would show the watching world about who God actually is?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire psalm is a corporate cry on behalf of a whole devastated people, not a private, individual complaint (v. 1-4, 13).",
+     "q": "Pray today for a specific community, church, or nation currently facing genuine devastation, bringing their loss honestly before God the way this psalm brings Jerusalem's."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 333
+{
+ "ref": "Numbers 27",
+ "tag": "Old Testament",
+ "api": "numbers+27",
+ "sum": [
+  "The five daughters of Zelophehad come before Moses, Eleazar, the princes, and the congregation, asking why their father's name should be lost simply because he died leaving no sons.",
+  "The LORD tells Moses that Zelophehad's daughters speak right, establishing a statute that a daughter shall inherit when there is no son, and further rules for inheritance when there are neither sons nor daughters.",
+  "The LORD tells Moses to view the promised land from Mount Abarim before being gathered to his people, since he too, like Aaron, was barred from entering for rebelling at the waters of Meribah.",
+  "Moses asks the LORD to set a man over the congregation so it will not be as sheep without a shepherd, and the LORD instructs him to commission Joshua, a man in whom is the spirit, before Eleazar and the whole congregation."
+ ],
+ "nug": [
+  {
+   "h": "A request brought publicly rather than left as a private grievance",
+   "b": "The daughters of Zelophehad \"stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle\" (v. 2) — an unprecedented legal claim, raised openly by five women, addressed directly to the nation's highest authority rather than quietly dropped."
+  },
+  {
+   "h": "A grievance answered by inquiry rather than by precedent",
+   "b": "Moses, with no existing law to draw on, \"brought their cause before the LORD\" (v. 5) — even Israel's own lawgiver had no ready answer for this genuinely new situation, requiring a fresh word from God rather than an appeal to what had already been settled."
+  },
+  {
+   "h": "A claim God himself calls entirely justified",
+   "b": "\"The LORD spake unto Moses, saying, The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father's brethren\" (v. 6-7) has God siding decisively with five otherwise unremarkable women against what would have been the default legal outcome."
+  },
+  {
+   "h": "A second denial met without recorded protest",
+   "b": "Told once more that he will not enter the land, this time because of Meribah (v. 12-14, echoing Numbers 20:12), Moses raises no complaint about his own exclusion at all, instead asking immediately for someone else to be appointed to lead the people after him (v. 15-17)."
+  },
+  {
+   "h": "Authority transferred visibly rather than only announced",
+   "b": "\"Thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient\" (v. 20) had Joshua's commissioning performed publicly, before Eleazar and the whole assembly (v. 22-23), succession made a matter of open record rather than private arrangement."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 36:1-9 · Deuteronomy 34:9 · John 21:15-17",
+   "qs": [
+    {
+     "th": "This chapter's ruling in favour of Zelophehad's daughters is revisited later in Numbers 36, where their marriage becomes restricted specifically to protect the very inheritance secured here — a right established in one chapter carefully safeguarded, rather than left exposed, in a later one.",
+     "q": "Read Numbers 27:1-7 alongside Numbers 36:1-9, which you'll read later this batch. What does it suggest to you that a genuinely new right, once granted, was then given equally careful thought about how to protect it going forward?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses' response to his own second exclusion from the land is not self-pity but an immediate concern for the people he was about to leave behind (v. 15-17).",
+     "q": "Where in your own disappointment has your first instinct been more toward self-focus than toward the concern Moses shows here for those who would be affected after him?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Joshua is described specifically as \"a man in whom is the spirit\" (v. 18) before any public commissioning takes place — the Spirit's presence in him recognised and named prior to the position being formally given.",
+     "q": "Where might the Holy Spirit already be equipping you for a responsibility that hasn't yet been formally recognised or given to you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses' prayer that Israel would not be \"as sheep which have no shepherd\" (v. 17) is offered entirely on behalf of others, at the very moment he has just learned he will not personally lead them any further.",
+     "q": "Pray today for a leader or a community's future, the way Moses does here, even in an area where your own personal stake in the outcome has already been settled."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 334
+{
+ "ref": "Luke 4",
+ "tag": "New Testament",
+ "api": "luke+4",
+ "sum": [
+  "Full of the Holy Ghost, Jesus is led by the Spirit into the wilderness and tempted by the devil for forty days, answering each of the three temptations directly from Scripture.",
+  "Returning to Nazareth, Jesus reads from Isaiah 61 in the synagogue and declares, \"This day is this scripture fulfilled in your ears,\" but the same crowd's admiration turns to fury when he cites Elijah and Elisha ministering to Gentiles rather than Israel, and they try to throw him from a hill.",
+  "In Capernaum, Jesus teaches with authority, casts an unclean spirit out of a man in the synagogue, and heals Simon's mother-in-law of a great fever.",
+  "At evening, he heals many who are brought to him and casts out devils that cry out he is the Christ, then departs to preach in other cities as well, saying, \"I must preach the kingdom of God to other cities also: for therefore am I sent.\""
+ ],
+ "nug": [
+  {
+   "h": "A temptation answered entirely with what was already written",
+   "b": "Each of the devil's three approaches is met not with a fresh argument but with a direct quotation of Deuteronomy — \"Man shall not live by bread alone,\" \"Thou shalt worship the Lord thy God, and him only shalt thou serve,\" \"Thou shalt not tempt the Lord thy God\" (v. 4, 8, 12) — Jesus resisting real temptation using only Scripture he already knew, offering no new revelation in the moment."
+  },
+  {
+   "h": "A sermon that consisted of a single sentence",
+   "b": "Having read Isaiah's promise of good news to the poor and liberty to the captives, \"he closed the book... and sat down. And the eyes of all them that were in the synagogue were fastened on him. And he began to say unto them, This day is this scripture fulfilled in your ears\" (v. 20-21) — the shortest, most direct messianic claim in the whole Gospel, delivered in his own hometown."
+  },
+  {
+   "h": "Admiration curdling the moment it cost something",
+   "b": "The same crowd that \"wondered at the gracious words which proceeded out of his mouth\" (v. 22) is, within a handful of verses, so \"filled with wrath\" (v. 28) at being told Gentiles had once been favoured over unbelieving Israelites that they try to throw him off a cliff — praise for Jesus lasting only as long as his message stayed comfortable."
+  },
+  {
+   "h": "A demon naming him correctly while resisting him completely",
+   "b": "\"Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God\" (v. 34) has an unclean spirit stating an entirely accurate theological confession while simultaneously opposing Jesus with everything it has — correct information about Jesus proving no substitute for actual submission to him."
+  },
+  {
+   "h": "A miracle-worker who kept moving rather than settling where he was celebrated",
+   "b": "When the people of Capernaum \"stayed him, that he should not depart from them\" (v. 42), Jesus refuses the very popularity that would have been easiest to accept, insisting instead, \"I must preach the kingdom of God to other cities also: for therefore am I sent\" (v. 43)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 61:1-2 · Deuteronomy 8:3 · 1 Kings 17:8-16",
+   "qs": [
+    {
+     "th": "Jesus reads directly from Isaiah's ancient promise of one \"anointed... to preach the gospel to the poor... to preach deliverance to the captives, and recovering of sight to the blind\" (v. 18, quoting Isaiah 61:1-2), then makes the most direct possible claim about it: this very scripture, spoken centuries earlier, is fulfilled that day, in that room, in their own hearing.",
+     "q": "Read Isaiah 61:1-2 alongside Luke 4:16-21. What does it mean to you that Jesus applied this specific, ancient prophecy directly and explicitly to himself, rather than leaving it to others to draw that conclusion?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Nazareth crowd's affection for Jesus lasted only until his words stopped flattering them and started including outsiders they didn't expect to be favoured (v. 25-28).",
+     "q": "Has your own appreciation for something Jesus says ever cooled the moment it stopped being comfortable or started including people you hadn't expected it to include?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The unclean spirit in the Capernaum synagogue knows exactly who Jesus is (v. 34) yet remains in complete opposition to him, correct knowledge doing nothing to produce actual submission.",
+     "q": "Where might the Holy Spirit be pointing out a gap in your own life between what you correctly know or believe about Jesus and how fully you're actually yielded to him?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus resisted real, specific temptation in the wilderness using only Scripture he had already stored up long before the moment of testing arrived (v. 4, 8, 12).",
+     "q": "Sit quietly today and consider what specific portion of Scripture you have genuinely stored up enough to draw on in your own next moment of real testing."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 335
+{
+ "ref": "Psalm 80",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+80",
+ "sum": [
+  "Asaph calls on the Shepherd of Israel who leads Joseph like a flock and dwells between the cherubims to shine forth and save, praying three times across the psalm, \"Turn us again, O God, and cause thy face to shine; and we shall be saved.\"",
+  "He asks how long God will be angry against his people's prayer, since he has fed them with the bread of tears and made them a strife to their neighbours.",
+  "He pictures Israel as a vine brought out of Egypt, planted and once filling the land, whose hedges have now been broken down so that the boar out of the wood wastes it.",
+  "The psalm closes asking God to look down and visit this vine, to let his hand rest on the man of his right hand, so that Israel will not go back from him but be quickened and call upon his name."
+ ],
+ "nug": [
+  {
+   "h": "A single prayer repeated as its own refrain",
+   "b": "\"Turn us again, O God, and cause thy face to shine; and we shall be saved\" appears nearly identically three times (v. 3, 7, 19), each repetition slightly intensifying the name used for God, as though the same plea is offered again and again precisely because it hasn't yet been fully answered."
+  },
+  {
+   "h": "Suffering pictured as an unwelcome diet",
+   "b": "\"Thou feedest them with the bread of tears; and givest them tears to drink in great measure\" (v. 5) makes grief itself into something like nourishment, an unwanted but inescapable daily portion rather than an occasional interruption."
+  },
+  {
+   "h": "A flourishing vine remembered in loving, specific detail",
+   "b": "\"Thou hast brought a vine out of Egypt... she sent out her boughs unto the sea, and her branches unto the river\" (v. 8, 11) recalls Israel's earlier growth with real tenderness before the psalm turns to describe its present, broken-down state."
+  },
+  {
+   "h": "Devastation pictured through an ordinary predator rather than a foreign army",
+   "b": "\"The boar out of the wood doth waste it, and the wild beast of the field doth devour it\" (v. 13) pictures Israel's ruin not through grand political language but through the plain, homely image of an unguarded vineyard being ravaged by animals."
+  },
+  {
+   "h": "A hope resting on one specific person, not only on the nation itself",
+   "b": "\"Let thy hand be upon the man of thy right hand, upon the son of man whom thou madest strong for thyself\" (v. 17) narrows the psalm's closing hope down to a single figure, later readers seeing in this phrase a hint of the one greater son who would ultimately answer this whole prayer."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 5:1-7 · John 15:1-5 · Ephesians 1:20",
+   "qs": [
+    {
+     "th": "Isaiah's own vineyard song, describing a vineyard planted with every care yet yielding only wild grapes (Isaiah 5:1-7), pictures a very similar devastation to this psalm's broken-down vine, both passages using the same ordinary image of a vineyard to describe Israel's relationship with God.",
+     "q": "Read Isaiah 5:1-7 alongside Psalm 80:8-13. Why might this same picture of a vine or vineyard recur across Scripture as such a natural way to describe both God's careful planting and Israel's own vulnerability to ruin?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's refrain admits real, ongoing distance from God — \"how long wilt thou be angry\" (v. 4) — while still repeatedly asking to be turned back rather than simply giving up on the relationship.",
+     "q": "Where in your own life is there a repeated prayer you keep bringing back to God, even though it hasn't yet been fully answered, the way this refrain returns three times across one psalm?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing plea rests its whole hope on \"the man of thy right hand, upon the son of man whom thou madest strong for thyself\" (v. 17), a single figure through whom the vine's whole restoration is expected to come.",
+     "q": "Where might the Holy Spirit be reminding you that your own restoration ultimately rests on one person's strength rather than your own effort to somehow repair the damage yourself?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire psalm admits, without excusing it, that God's own anger lies behind the nation's present devastation (v. 4-6), rather than blaming only outside enemies for what has happened.",
+     "q": "Confess to God today any place where you've been quick to blame outside circumstances for a difficulty that may, at least in part, need genuine honesty about your own distance from him."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 336
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A right established, then carefully protected",
+   "b": "The daughters of Zelophehad won a genuinely new right to inherit their father's land (Numbers 27:1-7) — a right this study will see carefully safeguarded again later in Numbers 36, Scripture treating a hard-won provision as something worth continuing to protect, not simply granting once and moving on."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 25's fall into Baalpeor and Phinehas's zeal that turned away a plague, Numbers 26's second census confirming an entire generation's judgment while a new generation stood ready for a fresh start, Psalm 79's raw lament over Jerusalem's destruction, Numbers 27's daughters of Zelophehad and Joshua's public commissioning, Luke 4's temptation, the Nazareth sermon, and a demon who knew Jesus rightly while opposing him completely, and Psalm 80's threefold prayer for God's face to shine again on a broken-down vine.",
+     "q": "Where this week did Phinehas's costly, decisive zeal in Numbers 25:7-8, or the Nazareth crowd's admiration curdling the moment Jesus' words grew uncomfortable in Luke 4:22-28, most challenge how consistently your own devotion holds up once it costs you something or stops being convenient?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"This day is this scripture fulfilled in your ears\" (Luke 4:21) — the shortest, most direct claim Jesus makes about himself in the whole chapter, spoken in his own hometown synagogue.",
+     "q": "Sit quietly for a few minutes with the plainness of that claim, letting it settle as a statement about who Jesus actually is rather than rushing past it to application."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 337
+{
+ "ref": "Numbers 28",
+ "tag": "Old Testament",
+ "api": "numbers+28",
+ "sum": [
+  "The LORD commands the daily offering, two lambs without blemish morning and evening, a continual burnt offering with flour, oil, and wine, to be observed in its due season.",
+  "Additional lambs are commanded for the sabbath, doubling the daily offering, and a fresh set of offerings is prescribed for the beginning of each month.",
+  "The feast of the Passover and unleavened bread is given its own offerings across seven days, alongside a sin offering to make atonement.",
+  "The day of firstfruits, the feast of weeks, receives a similar pattern of burnt offerings, meat offerings, and a sin offering, each in its appointed season."
+ ],
+ "nug": [
+  {
+   "h": "A rhythm so constant it needed no fresh instruction each day",
+   "b": "\"This is the offering made by fire which ye shall offer unto the LORD; two lambs of the first year without spot day by day, for a continual burnt offering\" (v. 3) established a sacrifice repeated every single morning and evening without variation, obedience measured here by sheer, undramatic consistency rather than by any one remarkable act."
+  },
+  {
+   "h": "A specific day given specifically double the honour",
+   "b": "\"On the sabbath day two lambs of the first year without spot, and two tenth deals of flour for a meat offering... beside the continual burnt offering\" (v. 9-10) had the sabbath marked out not by doing something entirely different, but simply by doing the same faithful thing twice over."
+  },
+  {
+   "h": "Every offering paired with something to season it",
+   "b": "Each burnt offering throughout this chapter is consistently accompanied by \"a meat offering mingled with oil\" and \"a drink offering of wine\" (v. 5, 7, 9, and elsewhere) — sacrifice never left bare or minimal, always given its full, intended accompaniment."
+  },
+  {
+   "h": "A sin offering included even at a feast of joyful firstfruits",
+   "b": "Even the joyful feast of weeks, celebrating a fresh harvest, still required \"one kid of the goats, to make an atonement for you\" (v. 30) alongside its celebration — gladness and the ongoing need for atonement held together rather than treated as opposites."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 29:38-42 · Hebrews 10:11-12 · Hebrews 7:27",
+   "qs": [
+    {
+     "th": "This chapter's daily, unending sacrifice — \"a continual burnt offering, which was ordained in mount Sinai\" (v. 6) — is precisely the pattern Hebrews later contrasts with Christ's own offering: \"every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins: but this man, after he had offered one sacrifice for sins for ever, sat down\" (Hebrews 10:11-12).",
+     "q": "Read Hebrews 10:11-12 alongside Numbers 28:3-8. What does it mean to you that this chapter's whole rhythm of unending, repeated sacrifice was never actually meant to be permanent, but was always pointing toward a single, sufficient one still to come?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's holiness is built almost entirely out of consistency — the same offering, morning and evening, day after day, with no variation described as more spiritually significant than another (v. 3-8).",
+     "q": "Where in your own spiritual life might faithful, undramatic consistency actually matter more than you've been giving it credit for, compared to occasional, more visible acts of devotion?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even Israel's most joyful appointed feast still included a sin offering (v. 30), refusing to let genuine celebration replace an honest, ongoing need for atonement.",
+     "q": "Where might the Holy Spirit be reminding you to hold real gratitude and real honesty about ongoing need together, rather than letting one crowd out the other?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter describes an unbroken, daily rhythm of sacrifice that never once lapsed regardless of circumstance, season, or how Israel happened to feel that particular morning.",
+     "q": "Thank God today for his own unbroken faithfulness toward you, matched not to your own shifting moods or circumstances but simply given, day by day, regardless."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 338
+{
+ "ref": "Numbers 29",
+ "tag": "Old Testament",
+ "api": "numbers+29",
+ "sum": [
+  "The feast of trumpets on the first day of the seventh month is to be a holy convocation marked by the blowing of trumpets, with its own set of burnt offerings and a sin offering.",
+  "The day of atonement on the tenth day of that month requires Israel to afflict their souls and do no work, alongside a further set of offerings for atonement.",
+  "The feast of tabernacles begins on the fifteenth day and lasts seven days, with the number of bullocks offered decreasing by one each day, from thirteen down to seven.",
+  "An eighth day is added as a solemn assembly to close the feast, with its own final set of offerings before the people are dismissed."
+ ],
+ "nug": [
+  {
+   "h": "A whole day defined by a single sound",
+   "b": "\"In the seventh month, in the first day of the month, ye shall have an holy convocation... it is a day of blowing the trumpets unto you\" (v. 1) marks this feast's entire character by one specific act — no other description given except that it is the day the trumpets are blown."
+  },
+  {
+   "h": "Affliction commanded as carefully as celebration",
+   "b": "\"Ye shall afflict your souls: ye shall not do any work therein\" (v. 7) requires the day of atonement to be marked by genuine self-denial, holiness here expressed through restraint and humbling rather than through activity or festivity."
+  },
+  {
+   "h": "A count that quietly diminished across seven days of feasting",
+   "b": "The bullocks offered each day of the feast of tabernacles step down one at a time — thirteen, then twelve, then eleven, down to seven on the final day (v. 13, 17, 20, 23, 26, 29, 32) — a deliberately shrinking pattern threaded through what was otherwise Israel's most joyful annual celebration."
+  },
+  {
+   "h": "A festival extended by one more day than seemed necessary",
+   "b": "\"On the eighth day ye shall have a solemn assembly... it is a solemn assembly; and ye shall do no servile work therein\" (v. 35) added a distinct closing day after the feast of tabernacles' full seven were already complete, as though even a joyful season needed one further, quieter day to properly close it out."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Leviticus 23:23-36 · 1 Corinthians 15:52 · John 7:37-39",
+   "qs": [
+    {
+     "th": "Leviticus 23 had already established each of these same feasts in summary form; this chapter's much more detailed offering lists show that even Israel's most joyful national celebrations were never left as spontaneous festivity alone, but were carefully, deliberately structured around specific, prescribed worship.",
+     "q": "Read Leviticus 23:23-36 alongside Numbers 29:1-6, 12-13. Why might it matter that even Israel's most celebratory feasts came with this much careful, specific structure rather than being left to develop however the people felt in the moment?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The day of atonement's call to \"afflict your souls\" (v. 7) asked Israel for genuine, deliberate self-denial rather than only outward ritual observance.",
+     "q": "Where in your own spiritual life might genuine self-denial, rather than only outward religious activity, be exactly what a particular season is currently calling for?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The steadily decreasing number of bullocks across the feast of tabernacles (v. 12-34) suggests even a joyful season was designed to taper deliberately rather than simply build without end.",
+     "q": "Where might the Holy Spirit be inviting you to let a season of celebration or intensity in your own life come to a deliberate, unhurried close, rather than trying to sustain its initial pitch indefinitely?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire chapter's rhythm — trumpets, affliction, feasting, then one further quiet day of assembly (v. 1, 7, 12, 35) — moves through very different postures of worship within a single month.",
+     "q": "Sit quietly today and consider which of this month's very different postures — alertness, humbling, celebration, or quiet closure — most matches where you actually are with God right now."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 339
+{
+ "ref": "Psalm 81",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+81",
+ "sum": [
+  "The psalmist calls Israel to sing aloud with timbrel, harp, and trumpet at the appointed feast, a statute ordained since the exodus itself, back when Israel heard a language it did not understand.",
+  "God's own voice then speaks, recalling how he removed Israel's shoulder from the burden and answered them in the secret place of thunder, proving them at the waters of Meribah.",
+  "God pleads for Israel to hearken and have no strange god among them, since he alone brought them out of Egypt and would fill their open mouth, yet his people would not hearken to his voice.",
+  "The psalm closes with God's lament that, given up to their own hearts' lust, Israel missed out on having their enemies subdued and being fed with the finest of the wheat and honey out of the rock."
+ ],
+ "nug": [
+  {
+   "h": "Worship commanded as an actual statute, not left to feeling",
+   "b": "\"Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day. For this was a statute for Israel, and a law of the God of Jacob\" (v. 3-4) roots Israel's joyful praise in fixed obligation rather than in however inspired the people happened to feel that particular month."
+  },
+  {
+   "h": "God's own voice interrupting the call to worship",
+   "b": "The psalm shifts abruptly at verse 5 from the psalmist's own call to sing into God speaking directly in the first person — \"I removed his shoulder from the burden... I answered thee in the secret place of thunder\" (v. 6-7) — the very act of worship becoming the occasion for God himself to speak."
+  },
+  {
+   "h": "An invitation pictured with startling, almost childlike generosity",
+   "b": "\"Open thy mouth wide, and I will fill it\" (v. 10) offers a strikingly simple, tender image of provision, God's readiness to give pictured as limited only by how widely Israel is willing to ask."
+  },
+  {
+   "h": "A grief expressed as \"oh that\" rather than as anger",
+   "b": "\"Oh that my people had hearkened unto me, and Israel had walked in my ways!\" (v. 13) carries real sorrow rather than pure condemnation, God's own voice mourning a missed blessing rather than only announcing a deserved punishment."
+  },
+  {
+   "h": "Judgment described simply as being handed exactly what was wanted",
+   "b": "\"So I gave them up unto their own hearts' lust: and they walked in their own counsels\" (v. 12) presents one of Scripture's most sobering pictures of judgment — not an active punishment inflicted from outside, but simply God allowing people to have precisely what they insisted on choosing for themselves."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 17:1-7 · Romans 1:24 · Revelation 3:20",
+   "qs": [
+    {
+     "th": "This psalm recalls Israel's testing of God at \"the waters of Meribah\" (v. 7), the same location where Israel's demand for water first exposed a pattern of doubting God's provision even after he had just delivered them from Egypt (Exodus 17:1-7) — an old failure recalled here specifically to make sense of a present warning against repeating it.",
+     "q": "Read Exodus 17:1-7 alongside Psalm 81:6-7. Why might God choose to recall this specific, old failure in the middle of an otherwise joyful festival song, rather than leaving it unmentioned?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God's own grief here — \"oh that my people had hearkened unto me\" (v. 13) — describes a genuine, missed blessing rather than only a rule broken.",
+     "q": "Where in your own life might there be a good thing God genuinely wanted to give you, that your own reluctance to hearken to him has kept you from actually receiving?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"So I gave them up unto their own hearts' lust: and they walked in their own counsels\" (v. 12) describes judgment as simply being allowed to have exactly what was insisted upon.",
+     "q": "Where might the Holy Spirit currently be warning you against insisting on your own way in something, before he simply allows you to have it, consequences included?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's most tender invitation — \"open thy mouth wide, and I will fill it\" (v. 10) — is offered right alongside an honest account of how often Israel refused to actually ask.",
+     "q": "Sit quietly today and consider one specific request you have been reluctant to bring fully to God, letting this verse's generosity shape how widely you're willing to actually ask."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 340
+{
+ "ref": "Numbers 30",
+ "tag": "Old Testament",
+ "api": "numbers+30",
+ "sum": [
+  "Moses tells the heads of the tribes that if a man vows a vow unto the LORD, or swears an oath to bind his soul with a bond, he shall not break his word but do according to all that proceeds out of his mouth.",
+  "A young woman's vow made in her father's house may be disallowed by her father on the day he hears it, but if he holds his peace it stands, and the same principle governs a wife's vow in relation to her husband.",
+  "A widow or divorced woman's vow stands against her exactly as she has bound her soul, since no husband remains with authority to disallow it.",
+  "If a husband disallows a vow only after the day he first heard it, he then bears his wife's iniquity rather than her being held responsible for a promise he had allowed to stand."
+ ],
+ "nug": [
+  {
+   "h": "A word treated as inseparable from the person who spoke it",
+   "b": "\"He shall not break his word, he shall do according to all that proceedeth out of his mouth\" (v. 2) sets an exceptionally high bar for ordinary speech, a spoken vow treated as something the speaker is now bound to regardless of later inconvenience."
+  },
+  {
+   "h": "A single day given real, decisive weight",
+   "b": "Both father and husband are given authority to disallow a vow specifically \"in the day that he heareth\" it (v. 5, 8), but lose that authority the moment that day passes — silence itself functioning as genuine, binding consent rather than as a neutral non-response."
+  },
+  {
+   "h": "Independence granted precisely where protection had run out",
+   "b": "\"Every vow of a widow, and of her that is divorced... shall stand against her\" (v. 9) gives full, unmediated responsibility to exactly the women who no longer had a father or husband positioned to weigh in on their behalf — vulnerability paired here with full legal standing rather than lesser status."
+  },
+  {
+   "h": "Responsibility shifted onto the one who stayed silent too long",
+   "b": "\"If he shall any ways make them void after that he hath heard them; then he shall bear her iniquity\" (v. 15) makes plain that a late attempt to disallow a vow doesn't simply cancel it — it transfers the moral weight of that vow onto the man who let the moment for objecting pass."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 23:21-23 · Ecclesiastes 5:4-5 · Matthew 5:33-37",
+   "qs": [
+    {
+     "th": "Moses had already warned elsewhere that a vow, once made, must not be delayed in the paying, \"for the LORD thy God will surely require it of thee; and it would be sin in thee\" (Deuteronomy 23:21) — the same seriousness about spoken commitments given here in far more specific, situational detail.",
+     "q": "Read Deuteronomy 23:21-23 alongside Numbers 30:2. What does this consistent seriousness about vows across two separate passages suggest to you about how carefully Scripture wants you to treat your own spoken promises?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter takes ordinary speech seriously enough to build an entire legal structure around the weight of a single spoken vow (v. 2).",
+     "q": "Where in your own life have you spoken a promise or commitment more casually than this chapter would suggest you're actually entitled to?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "A father's or husband's silence on the very day he heard a vow is treated here as genuine, active consent rather than simple passivity (v. 4, 7).",
+     "q": "Where might the Holy Spirit be showing you that your own silence about something is functioning as consent, whether or not you intended it that way?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's provision for a husband bearing his wife's iniquity if he disallows her vow too late (v. 15) names a real cost for delayed honesty rather than letting silence stay consequence-free.",
+     "q": "Confess to God today any place where your own delayed honesty about a decision or commitment has left someone else carrying a weight that, by rights, belonged to you."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 341
+{
+ "ref": "Luke 5",
+ "tag": "New Testament",
+ "api": "luke+5",
+ "sum": [
+  "Jesus teaches from Simon's boat, then tells him to launch into the deep, and the resulting catch of fish is so great that Simon falls at Jesus' knees, confessing himself a sinful man, before being called to catch men instead.",
+  "Jesus cleanses a leper with a touch and a word, then heals a paralyzed man let down through the roof, telling him first, \"Thy sins are forgiven thee,\" to prove the Son of man has authority on earth to forgive sins.",
+  "Jesus calls Levi the tax collector, who leaves everything and holds a great feast where Jesus eats with publicans and sinners, answering the Pharisees' complaint by saying he came to call sinners, not the righteous, to repentance.",
+  "Asked why his disciples do not fast like John's or the Pharisees', Jesus speaks of the bridegroom not yet being taken away, and closes with the parables of new cloth on an old garment and new wine that cannot be contained in old bottles."
+ ],
+ "nug": [
+  {
+   "h": "Obedience offered despite already knowing better",
+   "b": "\"Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net\" (v. 5) has Simon, an experienced professional fisherman, obeying a carpenter's instruction about his own trade purely on the strength of who was asking, not because the instruction made practical sense."
+  },
+  {
+   "h": "Overwhelming provision producing conviction rather than celebration",
+   "b": "Simon Peter's first response to the miraculous catch isn't joy at the profit but falling \"down at Jesus' knees, saying, Depart from me; for I am a sinful man, O Lord\" (v. 8) — abundance itself exposing his own unworthiness before it becomes anything to be glad about."
+  },
+  {
+   "h": "Compassion that touched what the law said not to touch",
+   "b": "\"There came a man full of leprosy: who seeing Jesus fell on his face, and besought him... And he put forth his hand, and touched him, saying, I will; be thou clean\" (v. 12-13) has Jesus deliberately making contact with someone every social and ceremonial convention required people to avoid."
+  },
+  {
+   "h": "Ingenuity born entirely out of desperation",
+   "b": "Unable to reach Jesus through the crowd, the paralyzed man's friends \"went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus\" (v. 19) — an improvised, disruptive solution that damaged someone's roof simply because ordinary access had already failed them."
+  },
+  {
+   "h": "A healing offered as visible proof of an invisible claim",
+   "b": "\"Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk? But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise\" (v. 23-24) has Jesus deliberately using a visible physical healing to authenticate an unseen spiritual claim no one could otherwise verify."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 6:5 · Mark 2:1-12 · 2 Corinthians 5:17",
+   "qs": [
+    {
+     "th": "Simon's confession, \"I am a sinful man, O Lord\" (v. 8), echoes Isaiah's own reaction centuries earlier on seeing the LORD's glory in the temple — \"Woe is me! for I am undone; because I am a man of unclean lips\" (Isaiah 6:5) — genuine nearness to God's holiness producing, in both men, an immediate and specific awareness of their own sin rather than pride at the privilege.",
+     "q": "Read Isaiah 6:5 alongside Luke 5:8. Why might a genuine encounter with God's power or presence tend to produce this same immediate sense of unworthiness, rather than confidence or celebration, in both these very different men?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Levi's response to being called was immediate and total — \"he left all, rose up, and followed him\" (v. 28) — with no recorded negotiation or delay.",
+     "q": "What is the equivalent, in your own life, of the tax booth Levi walked away from the moment Jesus called him — and how quickly have you actually been willing to leave it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus perceives the scribes' and Pharisees' unspoken reasoning about who has authority to forgive sins (v. 21-22) before they ever say a word aloud.",
+     "q": "Where might the Holy Spirit currently be exposing an unspoken judgment or objection in your own heart before you've even put it into words?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "A man too paralyzed to move himself was carried, lowered through a roof, and healed entirely because of other people's determined effort on his behalf (v. 18-20, 25).",
+     "q": "Thank God today for a specific time someone else's determined effort or intercession brought you somewhere you could never have gotten to on your own."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 342
+{
+ "ref": "Psalm 82",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+82",
+ "sum": [
+  "God stands in the congregation of the mighty, judging among those called gods, asking how long they will judge unjustly and accept the persons of the wicked.",
+  "He commands them to defend the poor and fatherless, to do justice to the afflicted and needy, and to deliver the poor and needy out of the hand of the wicked.",
+  "These judges neither know nor understand, walking on in darkness while all the foundations of the earth are out of course.",
+  "Though called gods and children of the most High, they are told they shall die like men and fall like one of the princes, and the psalm closes asking God to arise and judge the earth, since he alone shall inherit all nations."
+ ],
+ "nug": [
+  {
+   "h": "Human authorities addressed with a startling, borrowed title",
+   "b": "\"I have said, Ye are gods; and all of you are children of the most High\" (v. 6) applies language usually reserved for God alone to human judges and rulers, their office itself carrying a kind of derived, delegated dignity — precisely the title Jesus later cites of himself in a very different argument (John 10:34-36)."
+  },
+  {
+   "h": "A verdict that measures rulers by their treatment of the powerless",
+   "b": "\"Defend the poor and fatherless: do justice to the afflicted and needy. Deliver the poor and needy: rid them out of the hand of the wicked\" (v. 3-4) sets the entire standard for good rulership not in strength, wealth, or wisdom, but in active protection of exactly those with no leverage of their own."
+  },
+  {
+   "h": "A whole world destabilised by corrupt judgment at the top",
+   "b": "\"They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course\" (v. 5) treats unjust human rulers as something whose effects reach far beyond their own courtrooms, genuinely shaking the wider order of the world."
+  },
+  {
+   "h": "An exalted title that offers no exemption from mortality",
+   "b": "\"But ye shall die like men, and fall like one of the princes\" (v. 7) directly punctures whatever pride the earlier title \"gods\" might have encouraged — however delegated authority is described, it never removes these rulers from the same death every other man faces."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 22:8-9 · John 10:34-36 · Isaiah 1:17",
+   "qs": [
+    {
+     "th": "Jesus quotes this exact psalm — \"Is it not written in your law, I said, Ye are gods?\" (John 10:34, quoting Psalm 82:6) — in his own defence against the charge of blasphemy, arguing that if Scripture itself could apply such a title to mere human judges, his own claim to be God's Son was hardly the outrage his accusers made it out to be.",
+     "q": "Read Psalm 82:6-7 alongside John 10:34-36. What does it change in your reading of this psalm to see Jesus himself quote it centuries later in defence of his own identity?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's entire indictment of unjust judges centres on their treatment of \"the poor and fatherless\" and \"the afflicted and needy\" (v. 3-4), not on abstract legal correctness.",
+     "q": "Where in your own sphere of influence, however small, might you be tempted to accept the persons of the powerful rather than genuinely defending those with the least leverage?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm names judges who \"know not, neither will they understand\" while \"all the foundations of the earth are out of course\" (v. 5) — corrupted authority producing consequences far beyond its own immediate reach.",
+     "q": "Where might the Holy Spirit be showing you that a failure of justice or integrity in your own small sphere is having wider effects than you've assumed?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's closing prayer widens out from a specific complaint about corrupt judges into a request for God himself to judge the whole earth (v. 8).",
+     "q": "Pray today for justice in a specific situation you know of where power is currently being used against, rather than for, the poor and the powerless."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 343
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A count that quietly shrank across a joyful week",
+   "b": "The feast of tabernacles' daily bullock offerings stepped down one at a time across all seven days, from thirteen to seven (Numbers 29:12-34) — a deliberately diminishing pattern woven through what was otherwise Israel's most joyful annual celebration, worship shaped as carefully in its ending as in its beginning."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 28 and 29's carefully rehearsed daily, monthly, and feast-day offerings, Psalm 81's tender \"open thy mouth wide\" set alongside Israel's refusal to hearken, Numbers 30's serious weight given to a spoken vow, Luke 5's miraculous catch, Simon's conviction, the paralyzed man healed to prove sins forgiven, and Levi's feast, and Psalm 82's rebuke of unjust human judges later quoted by Jesus of himself.",
+     "q": "Where this week did the unbroken, day-by-day rhythm of sacrifice in Numbers 28:3-8, or Simon Peter's immediate sense of his own unworthiness the moment he saw Jesus' power at work in Luke 5:8, most challenge either your own consistency in ordinary faithfulness or your honesty about your own need before God?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Open thy mouth wide, and I will fill it\" (Psalm 81:10) — one of Scripture's most generous invitations, offered right alongside an honest account of how rarely it was actually taken up.",
+     "q": "Sit quietly for a few minutes and bring one specific, genuine need before God as widely and honestly as this verse invites, without minimising it in advance."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 344
+{
+ "ref": "Numbers 31",
+ "tag": "Old Testament",
+ "api": "numbers+31",
+ "sum": [
+  "The LORD commands Moses to avenge Israel on the Midianites before he is gathered to his people, and 12,000 armed men, a thousand from each tribe, go out with Phinehas and the holy instruments and trumpets.",
+  "Israel slays the five kings of Midian and Balaam the son of Beor with the sword, burns their cities, and takes the women, children, and goods captive.",
+  "Moses is angry that the women, who had caused Israel's trespass at Peor, were kept alive, and commands that they be killed along with the male children, while the virgins are kept alive.",
+  "The soldiers and the spoil are purified, and the plunder is divided equally between the men of war and the congregation, with a tribute set apart from each portion for the LORD and for the Levites."
+ ],
+ "nug": [
+  {
+   "h": "A hired prophet found among the very people he had failed to curse",
+   "b": "\"They slew the kings of Midian... they slew also Balaam the son of Beor with the sword\" (v. 8) has Balaam meeting his own end here, still entangled with Midian long after his oracles of blessing over Israel, his death connecting directly back to Numbers 25's disaster at Peor (v. 16)."
+  },
+  {
+   "h": "A commander angry at mercy shown to the actual cause of disaster",
+   "b": "\"Have ye saved all the women alive? Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the LORD in the matter of Peor\" (v. 15-16) has Moses directly naming Balaam's counsel as the origin of the plague that killed 24,000 Israelites, a connection this chapter alone makes explicit."
+  },
+  {
+   "h": "Warfare that still required ritual cleansing afterward",
+   "b": "\"Whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and your captives\" (v. 19) treated even a divinely commanded, victorious war as something that left genuine defilement needing to be addressed, not something that could simply be walked away from unmarked."
+  },
+  {
+   "h": "Metal purified by the very element that once destroyed it",
+   "b": "\"Every thing that may abide the fire, ye shall make it go through the fire, and it shall be clean: nevertheless it shall be purified with the water of separation\" (v. 23) had gold, silver, brass, iron, tin, and lead each cleansed by passing again through fire, the same element capable of destroying now made the means of making something usable again."
+  },
+  {
+   "h": "A tribute given specifically for a battle in which no Israelite life was lost",
+   "b": "\"There was not one man of us lacking\" (v. 49) is the officers' own report after this whole campaign, followed immediately by a voluntary offering of gold jewels \"to make an atonement for our souls before the LORD\" (v. 50) — thanksgiving and atonement offered together even after complete, costless victory."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 25:16-18 · Joshua 13:22 · 1 Corinthians 10:6-8",
+   "qs": [
+    {
+     "th": "This chapter closes the account Numbers 25 had opened, explicitly naming Balaam's own counsel as the root cause of Israel's earlier fall into Baalpeor (v. 16) — a hired prophet who had refused, chapters earlier, to curse Israel directly, apparently finding another way to damage them afterward.",
+     "q": "Read Numbers 25:1-3 alongside Numbers 31:16. What does it suggest to you that Balaam, unable to curse Israel outright, may have found an indirect way to cause the very harm his blessings had refused to speak?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even after a war fought at God's own command and resulting in complete victory with no Israelite casualties (v. 49), the soldiers still needed genuine purification before rejoining the camp (v. 19-24).",
+     "q": "Where in your own life might even a genuinely right, necessary action still have left you needing some form of cleansing or recovery afterward, rather than simply moving on unaffected?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The officers' voluntary offering \"to make an atonement for our souls before the LORD\" (v. 50) came after a battle already won without any recorded loss, gratitude expressed in a form that still explicitly named ongoing need.",
+     "q": "Where might the Holy Spirit be inviting you to bring an offering of genuine thanks that still, honestly, includes an acknowledgment of ongoing need rather than pure celebration alone?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter traces the full, delayed cost of Balaam's counsel back to its actual source (v. 16), a single act of compromised counsel producing consequences that outlasted the man who gave it.",
+     "q": "Confess to God today any place where advice or influence you've offered, even indirectly, may be quietly producing consequences you haven't yet had to reckon with."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 345
+{
+ "ref": "Numbers 32",
+ "tag": "Old Testament",
+ "api": "numbers+32",
+ "sum": [
+  "The tribes of Reuben and Gad, having very much cattle, see that the land of Jazer and Gilead is suited for livestock and ask Moses for it as their inheritance rather than crossing the Jordan.",
+  "Moses rebukes them sharply, comparing their request to the unbelief of the spies at Kadesh-barnea and fearing they will discourage the rest of Israel from entering the land.",
+  "Reuben and Gad clarify that they will build sheepfolds and cities for their families first, but will go armed before Israel into battle and not return home until every tribe possesses its own inheritance.",
+  "Moses agrees on that condition, and the land east of the Jordan is given to Reuben, Gad, and the half tribe of Manasseh."
+ ],
+ "nug": [
+  {
+   "h": "A request framed entirely around convenience before a single word about the rest of Israel",
+   "b": "Reuben and Gad's opening appeal to Moses focuses only on their own cattle and this land's suitability for it (v. 1-5) — no mention at all, in their first approach, of what this choice might mean for the other tribes still needing to cross the Jordan."
+  },
+  {
+   "h": "An old failure invoked as a direct warning",
+   "b": "\"Shall your brethren go to war, and shall ye sit here? And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?... your fathers did thus when I sent them from Kadeshbarnea to see the land\" (v. 6-8) has Moses drawing a direct, explicit line between this request and the spies' unbelief a whole generation earlier, refusing to let the two tribes treat their request as unrelated to that history."
+  },
+  {
+   "h": "An offer revised only after being confronted, not offered freely at first",
+   "b": "Only once challenged do Reuben and Gad add the crucial detail that they will go \"armed before the LORD to war\" and not return \"until the children of Israel have inherited every man his inheritance\" (v. 17-18) — the more generous, self-sacrificing version of their plan emerging only in response to Moses' rebuke."
+  },
+  {
+   "h": "A warning given about sin catching up regardless of good intentions stated now",
+   "b": "\"But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out\" (v. 23) is spoken as a conditional warning attached to an agreement just being reached, sin's consequences described as inevitable rather than merely possible if the commitment isn't kept."
+  },
+  {
+   "h": "Priorities named in a specific, telling order",
+   "b": "Reuben and Gad's plan as first stated puts \"sheepfolds for our cattle\" before \"cities for our little ones\" (v. 16) — an order Moses does not directly correct, though the tension between valuing possessions and valuing people sits plainly in the very sequence of their own words."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 13:31-33 · Joshua 22:1-9 · Galatians 6:9",
+   "qs": [
+    {
+     "th": "Moses' rebuke deliberately recalls the spies' report at Kadesh-barnea, where fear of the land's inhabitants first led an entire generation to refuse to enter (Numbers 13:31-33) — the same danger of discouraging the whole community's faith now feared again in a very different, more mundane request about cattle and land.",
+     "q": "Read Numbers 13:31-33 alongside Numbers 32:6-9. Why might Moses treat this request about pasture land as seriously connected to that earlier, far more dramatic act of unbelief?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Reuben and Gad's first proposal named their cattle's needs before their own children's (v. 16), a small but telling detail about where their priorities initially sat.",
+     "q": "Where in your own recent decisions might the order in which you list your priorities reveal something honest about what actually comes first for you, even before you've consciously noticed it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses' warning, \"be sure your sin will find you out\" (v. 23), is spoken not as a threat over some obvious wrongdoing, but as a caution attached to a commitment that still genuinely needed to be kept.",
+     "q": "Where might the Holy Spirit be reminding you of a commitment you've made that still needs to be followed through on, regardless of how reasonable the original request seemed at the time?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Reuben and Gad's fuller, more generous commitment only emerged after Moses directly confronted their first, more self-focused proposal (v. 6-19).",
+     "q": "Confess to God today any place where your own better intentions have only emerged after being confronted, rather than being your first, freely offered response."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 346
+{
+ "ref": "Psalm 83",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+83",
+ "sum": [
+  "Asaph asks God not to keep silence or be still, since God's enemies make a tumult and have taken crafty counsel against his people, plotting to cut off Israel's name from remembrance entirely.",
+  "A long list of nations is named as joined together against Israel — Edom, the Ishmaelites, Moab, the Hagarenes, Gebal, Ammon, Amalek, Philistia, Tyre, and Assur helping the children of Lot.",
+  "Asaph asks God to do to these enemies as he did to Midian, to Sisera, and to Jabin at the brook of Kison, and to make them like a wheel, like stubble before the wind, like fire that burns a forest.",
+  "The psalm closes praying that this defeat would drive the nations to seek God's name, so that they may know that he, whose name alone is JEHOVAH, is the most high over all the earth."
+ ],
+ "nug": [
+  {
+   "h": "A prayer built almost entirely on a list of proper names",
+   "b": "This psalm names ten separate peoples joined together against Israel by name — Edom, Ishmaelites, Moab, Hagarenes, Gebal, Ammon, Amalek, Philistia, Tyre, and Assur (v. 6-8) — a genuinely historical, specific coalition rather than a vague or generalised description of hostility."
+  },
+  {
+   "h": "A threat aimed not at conquest but at total erasure",
+   "b": "\"They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance\" (v. 4) names the enemies' actual goal with unusual clarity — not merely defeat, but the complete disappearance of Israel's very identity from history."
+  },
+  {
+   "h": "Old victories cited as the exact pattern hoped for again",
+   "b": "\"Do unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison: which perished at Endor: they became as dung for the earth\" (v. 9-10) recalls specific, celebrated deliverances from Israel's earlier history (Judges 4-8), the same pattern of God's past action now explicitly requested for the present crisis."
+  },
+  {
+   "h": "Destruction requested as the actual means to a missionary end",
+   "b": "\"Fill their faces with shame; that they may seek thy name, O LORD... that men may know that thou, whose name alone is JEHOVAH, art the most high over all the earth\" (v. 16-18) frames even the psalm's harshest requests for judgment as ultimately aimed at these very enemies coming to know and seek God themselves."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Judges 4:12-16 · Judges 7:19-22 · Isaiah 37:20",
+   "qs": [
+    {
+     "th": "This psalm's plea, \"do unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison\" (v. 9), draws directly on the specific, celebrated victories recorded in Judges 4 and 7, where God routed vastly larger coalitions through means Israel could never have managed alone.",
+     "q": "Read Judges 4:12-16 alongside Psalm 83:9-10. Why might remembering a specific, named past deliverance be more effective in this kind of prayer than a general appeal for help?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm names its threat with total honesty — not merely difficulty or opposition, but the actual danger of being erased entirely from remembrance (v. 4).",
+     "q": "Have you ever faced a threat, whether to a relationship, a calling, or your own sense of identity, that felt this total — not just painful, but like it threatened to erase something of who you are?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even this psalm's most severe requests for judgment are explicitly aimed at these same enemies eventually seeking God's name themselves (v. 16).",
+     "q": "Where might the Holy Spirit be shaping your own prayers against real opposition to include a genuine hope for that opposition's transformation, rather than only its defeat?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire psalm is prayed on behalf of the whole nation of Israel against a specific, named coalition of enemies (v. 1-8), corporate danger met with corporate, specific intercession.",
+     "q": "Pray today by name, as specifically as this psalm names its ten enemy nations, for a particular threat currently facing people or a cause you care about."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 347
+{
+ "ref": "Numbers 33",
+ "tag": "Old Testament",
+ "api": "numbers+33",
+ "sum": [
+  "Moses records, station by station, the whole itinerary of Israel's journeys from Rameses in Egypt to the plains of Moab, over forty distinct stages across the wilderness years.",
+  "The chapter briefly notes Aaron's death on Mount Hor in the fortieth year after the exodus, and the king of Arad's early attack on Israel as they approached Canaan.",
+  "As Israel camps by the Jordan opposite Jericho, the LORD commands them, once they pass over, to drive out all the land's inhabitants and destroy every pictured stone, molten image, and high place.",
+  "Israel is warned that if they fail to drive out the inhabitants, those left will become pricks in their eyes and thorns in their sides, and God will do to Israel what he had intended to do to them."
+ ],
+ "nug": [
+  {
+   "h": "An itinerary written down specifically at God's own instruction",
+   "b": "\"Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out\" (v. 2) makes clear this exhaustive, station-by-station list wasn't Moses' own idea of a fitting record, but something God specifically wanted preserved."
+  },
+  {
+   "h": "Forty stations recorded for what could have simply been summarised as forty years",
+   "b": "The chapter lists more than forty separate named locations (v. 5-49), most of them otherwise unknown or unremarkable, Scripture willing to preserve the specific, plodding shape of the journey rather than compressing it into a single sentence about wandering."
+  },
+  {
+   "h": "A death mentioned in passing within a list otherwise made of place-names",
+   "b": "\"And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt\" (v. 38) situates a major, already-told event (Numbers 20) inside this itinerary almost as one more waypoint among many."
+  },
+  {
+   "h": "An either-or laid out with no third option offered",
+   "b": "\"If ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides... moreover it shall come to pass, that I shall do unto you, as I thought to do unto them\" (v. 55-56) leaves incomplete obedience with no safe middle ground, partial conquest promised the very trouble full conquest was meant to avoid."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 12:37-41 · Joshua 24:11 · Deuteronomy 7:1-5",
+   "qs": [
+    {
+     "th": "Exodus 12 had recorded the departure from Rameses in a few brief verses; this chapter now closes the loop by cataloguing the entire journey those verses began, from that same starting point all the way to the plains of Moab (v. 3, 49) — the full shape of forty years finally laid out in complete detail.",
+     "q": "Read Exodus 12:37-41 alongside Numbers 33:1-3. What does it add to your sense of this whole journey to see its beginning and its full, detailed itinerary placed side by side like this?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter preserves dozens of place names that mean little to most readers today, yet each one marked an actual day, an actual camp, an actual stage of a real journey (v. 5-49).",
+     "q": "Looking back over your own life's journey, what are some of your own otherwise unremarkable 'stations' that, taken together, still tell the real, specific story of how you got where you are now?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The warning about incomplete obedience — remaining inhabitants becoming \"pricks in your eyes, and thorns in your sides\" (v. 55) — pictures compromise as an ongoing, low-level irritation rather than a single dramatic failure.",
+     "q": "Where might the Holy Spirit be naming an area of incomplete obedience in your own life that functions less like open rebellion and more like a persistent, nagging irritation you've simply learned to live with?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire chapter is, on the surface, simply a list — station after station, most of them unremarkable, yet together making up the whole shape of Israel's forty years.",
+     "q": "Sit quietly today and consider your own life's plainer, less dramatic 'stations' — the ordinary stretches between major events — with the same seriousness this chapter gives to Israel's."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 348
+{
+ "ref": "Luke 6",
+ "tag": "New Testament",
+ "api": "luke+6",
+ "sum": [
+  "Jesus defends his disciples for plucking corn on the sabbath by citing David, then heals a man's withered hand on the sabbath in a synagogue, declaring it lawful to do good on that day.",
+  "After a night of prayer on a mountain, Jesus chooses twelve apostles, then comes down to a level place and delivers the Sermon on the Plain to a great multitude, healing all who touch him.",
+  "He pronounces four blessings on the poor, hungry, weeping, and hated, paired with four woes on the rich, full, laughing, and well-spoken-of, then calls his hearers to love their enemies, do good, and lend expecting nothing back.",
+  "He warns against judging others, teaches that a tree is known by its fruit, and closes with the parable of the wise man who built his house on rock and the foolish man who built without a foundation."
+ ],
+ "nug": [
+  {
+   "h": "A precedent drawn from an unlikely source",
+   "b": "Jesus defends his hungry disciples plucking corn on the sabbath by pointing to David eating the showbread reserved for priests alone — \"have ye not read so much as this, what David did... how he went into the house of God, and did take and eat the shewbread\" (v. 3-4) — using Israel's most celebrated king's own exception as the argument for his own disciples' present need."
+  },
+  {
+   "h": "Blessing and woe arranged as exact, deliberate opposites",
+   "b": "Luke's version of the beatitudes pairs four blessings directly against four matching woes — \"blessed be ye poor... woe unto you that are rich\" (v. 20, 24), \"blessed are ye that hunger now... woe unto you that are full\" (v. 21, 25) — a structure noticeably more stark and confrontational than Matthew's longer, softer version of the same teaching."
+  },
+  {
+   "h": "An ethic that offers no way to come out ahead",
+   "b": "\"Unto him that smiteth thee on the one cheek offer also the other; and him that taketh away thy cloke forbid not to take thy coat also\" (v. 29) describes a response to mistreatment that deliberately absorbs further loss rather than seeking any kind of even exchange."
+  },
+  {
+   "h": "Generosity commanded with the reward left entirely out of the giver's control",
+   "b": "\"Lend, hoping for nothing again... and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil\" (v. 35) roots this radical generosity not in an expectation of repayment, but in simply reflecting the character of a Father who is kind even to those who never say thank you."
+  },
+  {
+   "h": "A foundation tested only once the storm actually arrives",
+   "b": "\"The stream did beat vehemently upon that house, and could not shake it: for it was founded upon a rock\" (v. 48) makes plain that the real difference between the wise and foolish builder was invisible until the flood came — both houses may well have looked identical the day they were finished."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Matthew 5:1-12 · Matthew 7:24-27 · Leviticus 19:18",
+   "qs": [
+    {
+     "th": "Luke's Sermon on the Plain covers much of the same ground as Matthew's far longer Sermon on the Mount, yet is delivered here \"in the plain\" (v. 17) to a broader, mixed crowd rather than primarily to disciples on a mountainside, and its four blessings are matched, more starkly than in Matthew, by four corresponding woes.",
+     "q": "Read Matthew 5:1-12 alongside Luke 6:20-26. What do you notice changes, and what stays exactly the same, between these two versions of Jesus' teaching on blessing, and why might Luke's version feel more confrontational?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus' call to \"love your enemies, do good to them which hate you\" (v. 27) offers no condition that the enemy first change or apologise before this love is extended.",
+     "q": "Is there someone in your own life this command genuinely, uncomfortably applies to right now — someone you have not yet loved, blessed, or done good to, regardless of what they've done?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus warns against judging \"the mote that is in thy brother's eye\" while ignoring \"the beam that is in thine own eye\" (v. 41-42), a self-awareness this teaching assumes doesn't come naturally.",
+     "q": "Where might the Holy Spirit currently be pointing to a 'beam' in your own life that has made you unusually quick to notice a much smaller fault in someone else?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The parable's two builders may well have built houses that looked identical on the surface, the real difference invisible until the flood actually came (v. 47-49).",
+     "q": "Confess to God today any place where your own spiritual life may look sound on the surface while, honestly, lacking the deeper foundation this parable describes."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 349
+{
+ "ref": "Psalm 85",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+85",
+ "sum": [
+  "The psalmist recalls that God has been favourable to his land, bringing back the captivity of Jacob, forgiving his people's iniquity and covering all their sin.",
+  "He asks God to turn his people again and cause his anger to cease, pleading, \"Wilt thou be angry with us for ever?\" and asking for revival so his people may rejoice in him.",
+  "He resolves to hear what God will speak, confident it will be peace to his people, since his salvation is near those who fear him, and mercy and truth are pictured meeting together, righteousness and peace kissing each other.",
+  "The psalm closes declaring that truth shall spring out of the earth and righteousness look down from heaven, with righteousness itself going before the LORD to prepare his way."
+ ],
+ "nug": [
+  {
+   "h": "A prayer that opens by remembering an answer already given",
+   "b": "\"LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob\" (v. 1) begins not with an unanswered plea but with gratitude for something already accomplished, the rest of the psalm's fresh request growing directly out of that remembered mercy."
+  },
+  {
+   "h": "Forgiveness described with two different, deliberate pictures",
+   "b": "\"Thou hast forgiven the iniquity of thy people, thou hast covered all their sin\" (v. 2) uses two separate images for the same act — sin lifted away entirely, and sin covered over — each picture adding something the other alone would not fully capture."
+  },
+  {
+   "h": "Attributes pictured meeting like old friends",
+   "b": "\"Mercy and truth are met together; righteousness and peace have kissed each other\" (v. 10) gives four of God's characteristics an almost physical, relational image, qualities that might seem to pull against each other instead pictured embracing warmly."
+  },
+  {
+   "h": "Truth pictured growing up from below, righteousness looking down from above",
+   "b": "\"Truth shall spring out of the earth; and righteousness shall look down from heaven\" (v. 11) has two very different directions of movement — one rising from the ground, one gazing down from the sky — meeting in the very same moment of restoration."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 32:17 · Romans 5:1 · James 3:18",
+   "qs": [
+    {
+     "th": "Isaiah later describes the direct fruit of righteousness as \"peace; and the effect of righteousness quietness and assurance for ever\" (Isaiah 32:17), the same pairing this psalm pictures as righteousness and peace embracing one another (v. 10) — two very different Old Testament passages independently linking these same two qualities together.",
+     "q": "Read Isaiah 32:17 alongside Psalm 85:10. Why might righteousness and peace be so consistently linked together across Scripture, rather than treated as separate or even competing concerns?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's fresh request grows directly out of gratitude for a mercy already remembered and received (v. 1-3), rather than approaching God as though nothing good has happened yet.",
+     "q": "What specific mercy already shown to you might, like this psalm, actually become the starting point for a fresh request you need to bring to God today?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I will hear what God the LORD will speak\" (v. 8) shows the psalmist positioning himself to listen before assuming he already knows what the answer will be.",
+     "q": "Where might the Holy Spirit be asking you to genuinely listen for what he will say about a situation, rather than assuming in advance what his answer must be?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's central image — mercy and truth meeting, righteousness and peace kissing (v. 10) — pictures restoration as something almost too tender and personal to rush past quickly.",
+     "q": "Sit quietly today with this image of mercy, truth, righteousness and peace meeting together, letting it settle rather than moving straight on to a request of your own."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 350
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A journey preserved station by station",
+   "b": "Numbers 33 records more than forty separate camping places across Israel's forty years in the wilderness (v. 5-49), most of them otherwise unremarkable — a reminder that Scripture was willing to preserve the plain, plodding shape of an ordinary journey in as much detail as its most dramatic events."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 31's war against Midian and Balaam's own death, Numbers 32's request from Reuben and Gad and Moses' warning that sin will find you out, Psalm 83's plea against a whole coalition of named enemies, Numbers 33's full itinerary of the wilderness years and the warning against incomplete obedience, Luke 6's Sermon on the Plain with its blessings and matching woes, and Psalm 85's picture of mercy and truth meeting, righteousness and peace kissing.",
+     "q": "Where this week did Reuben and Gad's more generous commitment only emerging after Moses directly confronted them in Numbers 32:6-19, or Jesus' warning about the beam in your own eye in Luke 6:41-42, most challenge how honestly you examine your own motives before assuming your first instinct is already the right one?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Be sure your sin will find you out\" (Numbers 32:23) — a warning given not over some obvious wrongdoing, but attached to a commitment still genuinely needing to be kept.",
+     "q": "Sit quietly for a few minutes and bring before God any commitment you've made that still needs following through on, letting this warning's seriousness settle rather than being explained away."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 351
+{
+ "ref": "Numbers 34",
+ "tag": "Old Testament",
+ "api": "numbers+34",
+ "sum": [
+  "The LORD gives Moses the precise boundaries of the land of Canaan the nine and a half tribes are to inherit, beginning with the southern border running from the wilderness of Zin along Edom to the salt sea.",
+  "The western border follows the great sea itself, and the northern border runs from the sea to Hazarenan by way of Mount Hor and the entrance of Hamath.",
+  "The eastern border runs from Hazarenan down to the sea of Chinnereth and along the Jordan to the salt sea, enclosing the whole land in a single, continuous line.",
+  "The LORD names Eleazar the priest and Joshua, along with one prince from each of the remaining tribes, as those responsible for dividing this land by inheritance."
+ ],
+ "nug": [
+  {
+   "h": "A promise finally given its precise, physical edges",
+   "b": "This chapter takes a land promised in broad, sweeping terms since Abraham (Genesis 15:18-21) and marks it out point by point — \"this shall be your land with the coasts thereof round about\" (v. 12) — a centuries-old promise now reduced to specific, checkable geography."
+  },
+  {
+   "h": "Borders drawn before a single foot had yet crossed them",
+   "b": "Every boundary in this chapter is fixed in careful detail while Israel still stands on the wrong side of the Jordan, the land's exact shape settled by God long before its actual possession had begun."
+  },
+  {
+   "h": "Responsibility for division named individually, tribe by tribe",
+   "b": "\"These are the names of the men which shall divide the land unto you\" (v. 17) lists a specific representative from each remaining tribe (v. 19-28), inheritance entrusted to named, accountable individuals rather than left to a single central authority alone."
+  },
+  {
+   "h": "A map that quietly excludes two and a half tribes already settled",
+   "b": "This entire careful boundary description applies only to the land west of Jordan, silently assuming what Numbers 32 had already granted to Reuben, Gad, and half of Manasseh on the eastern side — one promise fulfilled in two different, deliberately distinct locations."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 15:18-21 · Joshua 1:1-4 · Ezekiel 47:13-20",
+   "qs": [
+    {
+     "th": "God's original promise to Abraham had spoken only broadly of a land \"from the river of Egypt unto the great river, the river Euphrates\" (Genesis 15:18) — language this chapter now converts into an exact, walkable boundary line, an ancient covenant promise finally given its precise, practical shape.",
+     "q": "Read Genesis 15:18-21 alongside Numbers 34:1-12. What does it mean to you that a promise made in such sweeping terms to Abraham was eventually given this much careful, specific detail before Israel ever possessed a single acre of it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This entire chapter settles precise boundaries for a land Israel had not yet set foot in (v. 1-12), planning made with full confidence before possession had actually begun.",
+     "q": "Where in your own life might God be asking you to plan and prepare in specific detail for something you haven't yet actually received, trusting the promise before you've seen it fulfilled?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Responsibility for dividing this land was distributed to named individuals from each tribe (v. 17-29), rather than concentrated in one single leader's hands.",
+     "q": "Where might the Holy Spirit be inviting you to share a responsibility more broadly, the way this division of the land was deliberately spread across many hands rather than kept in one?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's precise, careful boundary lines were drawn entirely by God's own instruction, before Israel had contributed a single decision of its own about where the borders should fall.",
+     "q": "Sit quietly today and consider one area of your own life where the shape and limits have already been set by God, rather than something you get to draw yourself."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 352
+{
+ "ref": "Numbers 35",
+ "tag": "Old Testament",
+ "api": "numbers+35",
+ "sum": [
+  "The Levites, having received no territory of their own, are given forty-eight cities scattered throughout the other tribes' inheritance, each with surrounding suburbs for their cattle and goods.",
+  "Six of these cities are set apart as cities of refuge, three on each side of the Jordan, where a person who kills another unintentionally may flee from the avenger of blood.",
+  "A careful distinction is drawn between deliberate murder, which is punished by death on the testimony of at least two witnesses, and accidental killing, which requires the slayer to remain in the city of refuge until the death of the high priest.",
+  "The chapter closes insisting that blood defiles the land and can only be cleansed by the blood of the one who shed it, since the LORD himself dwells among the people."
+ ],
+ "nug": [
+  {
+   "h": "A tribe given cities scattered rather than a single connected territory",
+   "b": "The Levites' forty-eight cities (v. 1-8) were deliberately spread throughout every other tribe's land rather than gathered into one region of their own, ensuring priestly instruction and Levitical presence reached the whole nation rather than staying concentrated in one place."
+  },
+  {
+   "h": "A refuge established before it was ever needed",
+   "b": "\"Ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares\" (v. 11) had this entire protective system built into the law in advance, ready and waiting for a tragedy that hadn't yet happened to anyone."
+  },
+  {
+   "h": "Safety made conditional on staying inside its boundary",
+   "b": "A manslayer was protected only \"until the death of the high priest\" and only while remaining within the city of refuge itself; if he stepped outside its borders and the avenger of blood found him there, \"the slayer shall not die, because he was not seen to have hated him in time past\" no longer applied, and he could be killed without guilt (v. 25-28) — refuge genuinely safe, but only within its own defined limits."
+  },
+  {
+   "h": "A single accuser never enough to end a life",
+   "b": "\"Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die\" (v. 30) built a deliberate safeguard against any single, possibly mistaken or malicious accusation being sufficient grounds for execution."
+  },
+  {
+   "h": "A guilt too serious for any payment to settle",
+   "b": "\"Ye shall take no satisfaction for the life of a murderer, which is guilty of death: but he shall be surely put to death... for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it\" (v. 31, 33) refused to let deliberate murder be resolved through any ransom or fine, insisting the debt could be answered in only one way."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Joshua 20:1-9 · Hebrews 6:18 · Deuteronomy 19:4-6",
+   "qs": [
+    {
+     "th": "The cities of refuge offered genuine, specific safety to someone guilty of an accidental death yet in real danger from an avenger's understandable grief — a picture Hebrews later echoes of those who \"have fled for refuge to lay hold upon the hope set before us\" (Hebrews 6:18), safety made available not to the innocent alone, but to anyone who reaches the place God himself provided.",
+     "q": "Read Hebrews 6:18 alongside Numbers 35:11-15, 25. How does the specific, practical shape of these cities of refuge deepen your understanding of what it means that Christ himself is described, elsewhere in Scripture, as a refuge for the guilty?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "A manslayer's safety in this chapter depended entirely on staying within a specific, defined boundary rather than simply feeling generally safe (v. 26-28).",
+     "q": "Where in your own life might you need to stay more deliberately close to a specific, God-given place of safety, rather than assuming you can wander from it and remain protected regardless?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter's insistence that \"one witness shall not testify against any person to cause him to die\" (v. 30) shows real, deliberate care taken to protect against wrongful judgment, even in matters of life and death.",
+     "q": "Where might the Holy Spirit be inviting you toward this same kind of careful restraint before drawing a serious conclusion about someone, based on only one account of what happened?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole legal system — cities set apart in advance, careful distinctions drawn, safeguards built in against wrongful accusation — existed specifically \"for I the LORD dwell among the children of Israel\" (v. 34), holiness and mercy built into the very structure of the land itself.",
+     "q": "Praise God today for building genuine mercy and genuine justice into the very structure of his law, rather than leaving either one to be worked out later by chance."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 353
+{
+ "ref": "Psalm 87",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+87",
+ "sum": [
+  "The psalmist declares that God's foundation is in the holy mountains, and that the LORD loves the gates of Zion more than all the other dwellings of Jacob.",
+  "Glorious things are spoken of the city of God, and the psalmist declares that Rahab and Babylon, along with Philistia, Tyre, and Ethiopia, will be counted among those who know God, each one recorded as though born there.",
+  "The LORD himself is pictured writing up the peoples in a register, noting of each nation's individual, \"this man was born there,\" so that Zion's own citizens include people from every one of these foreign nations.",
+  "The psalm closes with singers and players on instruments together declaring, \"all my springs are in thee.\""
+ ],
+ "nug": [
+  {
+   "h": "A single location loved above every other dwelling in an entire nation",
+   "b": "\"The LORD loveth the gates of Zion more than all the dwellings of Jacob\" (v. 2) singles out one specific city as uniquely favoured even among all the other places belonging to God's own chosen people."
+  },
+  {
+   "h": "Israel's ancient enemies named among its own future citizens",
+   "b": "\"I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there\" (v. 4) lists nations historically hostile to Israel — Rahab being a poetic name for Egypt — as future citizens registered as native-born residents of Zion itself, not merely as distant admirers."
+  },
+  {
+   "h": "Citizenship recorded like a formal population register",
+   "b": "\"The LORD shall count, when he writeth up the people, that this man was born there\" (v. 6) pictures God himself keeping an actual written record of citizenship, foreign-born individuals entered into Zion's own registry as though they had never lived anywhere else."
+  },
+  {
+   "h": "Joy expressed as a single, sweeping claim about the source of everything",
+   "b": "\"All my springs are in thee\" (v. 7) closes the whole psalm with singers and instrumentalists together declaring that every source of their own life and refreshment is found in this one city, no other source named or needed alongside it."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 19:23-25 · Galatians 4:26 · Revelation 21:24-26",
+   "qs": [
+    {
+     "th": "Isaiah pictures an even more startling future where Egypt, Assyria, and Israel are named together as God's own people — \"blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance\" (Isaiah 19:25) — the same widening of God's own family to include Israel's historic enemies that this psalm pictures through the image of foreign nations being registered as citizens of Zion.",
+     "q": "Read Isaiah 19:23-25 alongside Psalm 87:4-6. What does it do to your understanding of God's own people to see former enemy nations pictured, in both passages, as eventually being fully included among them?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm names specific former enemies — Egypt, Babylon, Philistia — as future citizens rather than merely distant admirers of Zion (v. 4).",
+     "q": "Is there a person or group you've long thought of primarily as opposed to what you value that this psalm's picture of surprising inclusion might challenge you to see differently?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The registration pictured here — God himself writing individuals in as though native-born (v. 6) — describes belonging determined entirely by God's own record-keeping, not by someone's original birthplace or background.",
+     "q": "Where might the Holy Spirit be reminding you that your own sense of belonging rests on God's own record of you, rather than on where you originally started out?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This short psalm closes with singers and instrumentalists together declaring one simple, complete claim — \"all my springs are in thee\" (v. 7) — every source of joy and refreshment named as coming from this one place alone.",
+     "q": "Praise God today using this same claim as your own — naming him as the actual source of everything currently refreshing or sustaining you, rather than crediting those sources separately."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 354
+{
+ "ref": "Numbers 36",
+ "tag": "Old Testament",
+ "api": "numbers+36",
+ "sum": [
+  "Heads of the families of Gilead approach Moses concerned that if Zelophehad's daughters marry outside their own tribe, their inheritance will pass permanently to whatever tribe they marry into, diminishing Manasseh's allotted portion.",
+  "Moses commands, according to the word of the LORD, that Zelophehad's daughters may marry whom they think best, but only within a family of their father's own tribe, so that no inheritance shall remove from one tribe to another.",
+  "Every daughter who possesses an inheritance in any tribe of Israel is likewise commanded to marry someone from within her own father's tribe, so that every Israelite may retain the inheritance of his fathers.",
+  "Zelophehad's five daughters do exactly as the LORD commanded Moses, marrying their father's brothers' sons, so their inheritance remains within the tribe of Manasseh — the closing note recording that these are the commandments and judgments given through Moses to Israel in the plains of Moab, completing the book of Numbers."
+ ],
+ "nug": [
+  {
+   "h": "A right won, then immediately given a second layer of protection",
+   "b": "The very inheritance secured for Zelophehad's daughters back in Numbers 27 is here revisited with a fresh, practical concern — a genuinely new right, once granted, still required further, careful thought about exactly how it would actually work in practice over time."
+  },
+  {
+   "h": "A concern raised, not against the daughters' right itself, but against an unintended side effect of it",
+   "b": "The heads of Gilead's families never argue that the daughters shouldn't inherit at all (v. 2-4) — their concern is entirely about a further consequence: land passing permanently out of Manasseh's hands if these daughters married into another tribe."
+  },
+  {
+   "h": "A solution that preserved both the individual right and the wider tribal structure",
+   "b": "\"Let them marry to whom they think best; only to the family of the tribe of their father shall they marry\" (v. 6) protected the daughters' full freedom to choose their own husbands while still keeping the land itself within its originally intended tribe."
+  },
+  {
+   "h": "Obedience recorded as complete and exact",
+   "b": "\"For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father's brothers' sons: and their inheritance remained in the tribe of the family of their father\" (v. 11-12) has all five women following this instruction to the letter, the very inheritance debated across two whole chapters settled peacefully in the end."
+  },
+  {
+   "h": "A book closed with the same formula that has marked its instructions throughout",
+   "b": "\"These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho\" (v. 13) brings the entire book of Numbers to its close on the very ground Israel had reached, poised at last on the edge of the promised land."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 27:1-11 · Ruth 4:5-10 · Ephesians 5:15-17",
+   "qs": [
+    {
+     "th": "This chapter answers, in careful practical detail, the very right Numbers 27 had established for Zelophehad's daughters — Scripture treating a genuinely new provision not as finished business the moment it's granted, but as something still needing to be thought through for how it will actually work.",
+     "q": "Read Numbers 27:1-11 alongside Numbers 36:1-9. What does it teach you that this new right for Zelophehad's daughters received not one but two separate chapters of careful attention, rather than being settled once and left alone?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The five daughters' full, exact obedience to this restriction on their marriage choices (v. 10-12) came after they had already fought successfully, and very publicly, for their own inheritance rights.",
+     "q": "Where in your own life, after winning something important for yourself, have you also needed to accept a further limit on how you use it, for the sake of a wider good beyond your own situation?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole provision balanced individual freedom — the daughters could still \"marry whom they think best\" (v. 6) — with a wider concern for the land's long-term, orderly inheritance across the whole nation.",
+     "q": "Where might the Holy Spirit be inviting you to hold your own personal freedom and a wider, communal good together, rather than treating one as automatically more important than the other?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The book of Numbers, which began with a nation numbered for war in the wilderness of Sinai, closes here with that same nation's laws and judgments settled at last on the very plains overlooking the promised land (v. 13).",
+     "q": "Thank God today for however far he has brought you from where a particular season of your own life began, even if, like Israel here, you haven't yet fully arrived at what he has promised."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 355
+{
+ "ref": "Luke 7",
+ "tag": "New Testament",
+ "api": "luke+7",
+ "sum": [
+  "A Roman centurion, whom the Jewish elders describe as loving their nation, sends friends to ask Jesus to heal his dying servant, humbly declaring himself unworthy to have Jesus even enter his house, since Jesus need only speak the word.",
+  "At the city of Nain, Jesus meets a funeral procession for a widow's only son, has compassion on her, touches the bier, and raises the young man to life.",
+  "John the Baptist, in prison, sends disciples to ask if Jesus is truly the one to come, and Jesus answers by pointing to the works being done, then praises John as the greatest born of women while noting that the least in the kingdom is greater still.",
+  "At a Pharisee's house, a sinful woman washes Jesus' feet with her tears and anoints them with ointment, and Jesus tells the parable of two forgiven debtors before declaring her many sins forgiven because she loved much."
+ ],
+ "nug": [
+  {
+   "h": "Faith commended above anything found in Israel itself",
+   "b": "\"I have not found so great faith, no, not in Israel\" (v. 9) has Jesus praising a Gentile military officer's understanding of authority and trust more highly than anything he had yet encountered among his own people — an outsider's grasp of how Jesus' authority actually worked exceeding that of insiders."
+  },
+  {
+   "h": "Compassion offered before anyone had asked for it",
+   "b": "\"When the Lord saw her, he had compassion on her, and said unto her, Weep not\" (v. 13) has Jesus acting entirely on his own initiative at Nain's funeral procession — no one requests a miracle here, Jesus simply sees a widow's grief and moves toward it unasked."
+  },
+  {
+   "h": "An old prophet's question answered with evidence rather than argument",
+   "b": "Asked directly by John's own disciples whether Jesus is truly the one to come, Jesus answers not with a theological claim but with a list of what is actually happening — \"the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached\" (v. 22) — deliberately echoing Isaiah's own ancient description of the Messiah's works (Isaiah 35:5-6, 61:1)."
+  },
+  {
+   "h": "A greatness measured on two entirely different scales at once",
+   "b": "\"Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he\" (v. 28) holds John's unmatched greatness within the old order alongside an entirely new, even greater standing available to the least person now living inside the kingdom Jesus is bringing."
+  },
+  {
+   "h": "Extravagant devotion measured directly against a host's ordinary courtesy",
+   "b": "Jesus contrasts Simon's bare minimum hospitality with the woman's excess — \"thou gavest me no water for my feet: but she hath washed my feet with tears... my head with oil thou didst not anoint: but this woman hath anointed my feet with ointment\" (v. 44-46) — an uninvited, disgraced woman's devotion measured against, and exceeding, a respected religious leader's own conventional politeness."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 35:5-6 · Isaiah 61:1 · 1 Kings 17:17-24",
+   "qs": [
+    {
+     "th": "Jesus' answer to John's disciples — \"the blind see, the lame walk... to the poor the gospel is preached\" (v. 22) — deliberately echoes Isaiah's own prophecy of what the Messiah's coming would look like (Isaiah 35:5-6, 61:1), Jesus letting his actual works, rather than a direct claim, answer whether the ancient promise was truly being fulfilled.",
+     "q": "Read Isaiah 35:5-6 alongside Luke 7:20-22. Why might Jesus choose to answer John's honest, pressing question this way — through a list of works rather than a direct yes — and what does that say to you about how he still answers honest doubt today?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even John the Baptist, having already baptized Jesus and heard the Father's own voice from heaven (Luke 3:21-22), still sends disciples from prison to ask whether Jesus is truly the one to come (v. 19-20).",
+     "q": "Have you ever, like John here, had a genuine, foundational experience of God and still found yourself later needing honest reassurance about something you thought you already knew for certain?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The sinful woman's extravagant devotion is directly connected to how much she had been forgiven — \"her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little\" (v. 47).",
+     "q": "Where might the Holy Spirit be inviting you to feel the actual weight of how much you personally have been forgiven, rather than a vague, generalised sense of gratitude?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Simon the Pharisee's silent, unspoken judgment of both the woman and of Jesus himself (v. 39, 44) is fully known to Jesus before Simon ever puts it into words.",
+     "q": "Confess to God today an unspoken judgment of someone else that you suspect, on honest reflection, says as much about your own heart as it does about theirs."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 356
+{
+ "ref": "Psalm 88",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+88",
+ "sum": [
+  "Heman the Ezrahite cries day and night before the LORD, describing his soul as full of troubles and his life drawing near to the grave, counted already among those who go down into the pit.",
+  "He describes being laid in the lowest pit, in darkness and in the deeps, God's wrath lying hard upon him, his acquaintance put far from him, made an abomination to them and shut up so he cannot come forth.",
+  "He asks whether the dead can declare God's lovingkindness in the grave, or his faithfulness in destruction, whether his wonders can be known in the dark, or his righteousness in the land of forgetfulness.",
+  "The psalm closes without resolution, still describing terror, wrath, and isolation, its final words naming darkness itself as his closest companion."
+ ],
+ "nug": [
+  {
+   "h": "A lament that never turns the corner most others do",
+   "b": "Unlike Psalm 22, Psalm 69, or Psalm 77, which move through real anguish toward some form of praise or remembered hope by their close, Psalm 88 simply ends where it began — in unresolved darkness, without a single verse of turning toward confidence or trust."
+  },
+  {
+   "h": "Isolation described as total rather than partial",
+   "b": "\"Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: I am shut up, and I cannot come forth\" (v. 8) pictures a loneliness that is both social and physical, every possible source of comfort removed at once rather than merely diminished."
+  },
+  {
+   "h": "A question asked honestly, with no answer supplied",
+   "b": "\"Shall the dead arise and praise thee?... Shall thy lovingkindness be declared in the grave? or thy faithfulness in destruction?\" (v. 10-11) leaves these genuine, pressing questions entirely unanswered within the psalm itself, the writer apparently as uncertain of the answer as any reader would be."
+  },
+  {
+   "h": "The single most jarring closing line in the whole Psalter",
+   "b": "\"Lover and friend hast thou put far from me, and mine acquaintance into darkness\" (v. 18) is, remarkably, the very last verse of the psalm — no doxology, no turn to trust, the poem simply stopping exactly where its author's own darkness had left him."
+  },
+  {
+   "h": "A cry maintained daily despite receiving no visible answer",
+   "b": "\"O LORD God of my salvation, I have cried day and night before thee\" (v. 1) shows genuine, sustained prayer continuing faithfully even though, by the psalm's own admission, no relief has yet come."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 22:1-2 · Psalm 77:1-3 · Lamentations 3:1-9",
+   "qs": [
+    {
+     "th": "Where Psalm 22 and Psalm 77, both prayed from genuine distress, eventually turn toward remembered hope or praise, Psalm 88 stands almost alone in the Psalter by ending exactly as darkly as it began, without ever finding that same turn.",
+     "q": "Read Psalm 77:1-3 alongside Psalm 88:1-3, 18. Why might it matter to you that Scripture includes at least one prayer that never resolves, rather than every lament eventually finding its way to hope?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm gives permission, through its very inclusion in Scripture, to pray honestly even when no resolution, comfort, or hope feels available yet.",
+     "q": "Have you ever needed exactly this kind of prayer — one that names real darkness honestly without being required to end on a note of victory it doesn't yet feel?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Heman's prayer continues faithfully, \"day and night\" (v. 1), even while describing God's own hand as the source of his affliction (v. 7).",
+     "q": "Where might the Holy Spirit be inviting you to keep praying honestly through an unresolved season, rather than assuming prayer only counts once it produces a clear answer?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm offers no answer to its own hardest questions, letting them simply stand as the poem's actual, unresolved ending (v. 10-18).",
+     "q": "Sit quietly today with whatever unresolved darkness you may be carrying, without rushing to explain it away or force it toward a tidy conclusion it may not be ready to reach."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 357
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A book that closes exactly where it stands",
+   "b": "Numbers ends not with Israel already in the promised land but simply with its laws settled \"in the plains of Moab by Jordan near Jericho\" (Numbers 36:13) — poised at the very edge of the promise, the whole book content to close mid-journey rather than waiting for the story to be fully finished first."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Numbers 34's precise boundaries drawn for a land not yet possessed, Numbers 35's cities of refuge and the careful justice built into the law, Psalm 87's picture of former enemy nations registered as citizens of Zion, Numbers 36's careful second look at Zelophehad's daughters' inheritance that closes the whole book of Numbers, Luke 7's centurion, the widow of Nain's son, John's honest question, and the sinful woman's extravagant love, and Psalm 88, the one lament in all of Scripture that never turns toward resolution.",
+     "q": "Where this week did the deliberate safety built into the cities of refuge in Numbers 35:11-15, or the sinful woman's love measured directly against Simon's bare minimum courtesy in Luke 7:44-47, most challenge either your trust in the specific place of safety God has provided, or the depth of your own gratitude for how much you've actually been forgiven?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Lover and friend hast thou put far from me, and mine acquaintance into darkness\" (Psalm 88:18) — the last verse of the one psalm in all of Scripture that never turns toward hope.",
+     "q": "Sit quietly for a few minutes with whatever in your own life currently feels unresolved, letting this psalm's honesty give you permission not to force it toward a tidy ending it isn't ready for yet."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 358
+{
+ "ref": "Deuteronomy 1",
+ "tag": "Old Testament",
+ "api": "deuteronomy+1",
+ "sum": [
+  "Moses begins speaking to all Israel on this side Jordan, opening the book of Deuteronomy with his own farewell sermons to the generation that will actually enter the land, retelling their history rather than issuing fresh law.",
+  "He recalls appointing captains over thousands, hundreds, fifties, and tens, since he could no longer bear the people's cumbrance, burden, and strife alone.",
+  "He retells the sending of the twelve spies from Kadesh-barnea, the people's unbelief despite a genuinely good report of the land, and God's resulting oath that none of that generation, except Caleb and Joshua, would see it.",
+  "He recalls the people's later, presumptuous attempt to take the land after being told not to, resulting in defeat at Hormah, and the many days spent afterward at Kadesh before this new generation finally moved on."
+ ],
+ "nug": [
+  {
+   "h": "A whole book opening in a strikingly different voice",
+   "b": "\"These be the words which Moses spake unto all Israel\" (v. 1) begins Deuteronomy not with a fresh divine command as Leviticus and much of Numbers do, but with Moses' own voice retelling the story so far — a farewell sermon delivered by an aging leader to the children of those who had actually lived it."
+  },
+  {
+   "h": "A burden shared for practical reasons stated plainly",
+   "b": "\"How can I myself alone bear your cumbrance, and your burden, and your strife?\" (v. 12) has Moses openly naming his own limits as the reason for appointing other leaders, rather than presenting the earlier decision (recorded originally in Exodus 18) as anything more than honest necessity."
+  },
+  {
+   "h": "A generation's failure retold to the very generation that inherited its consequences",
+   "b": "Moses tells this new audience, most of whom were children or not yet born at the time, the full story of their parents' unbelief at Kadesh-barnea (v. 22-33) — a history not their own personal failure, yet still shaping every day of the life they had actually lived."
+  },
+  {
+   "h": "A spies' report remembered as genuinely good before fear took over",
+   "b": "\"They... brought us word again, and said, It is a good land which the LORD our God doth give us\" (v. 25) recalls the spies' own first words about the land itself as entirely positive — the fear that ultimately destroyed that generation's faith entered only once the report moved from the land's abundance to the size of its people."
+  },
+  {
+   "h": "A late obedience explicitly named as no better than the earlier disobedience",
+   "b": "\"Ye turned and wept before the LORD; but the LORD would not hearken to your voice... Ye rose up early in the morning, and went up into the hill... and the Amorites... discomfited you\" (v. 45-44) has this new generation reminded that trying to fix a failure of faith through sudden effort, once the appointed moment had already passed, brought only further defeat."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 18:13-26 · Numbers 13:1-14:45 · Hebrews 3:16-19",
+   "qs": [
+    {
+     "th": "Moses' account of appointing judges here closely follows what Exodus 18 had already recorded through Jethro's advice, though told now in Moses' own retrospective voice rather than as it happened — the same event remembered decades later specifically to remind a new generation how their whole system of leadership had actually come to be.",
+     "q": "Read Exodus 18:13-26 alongside Deuteronomy 1:9-15. Why might Moses choose to retell this practical, administrative decision here, at the very start of his final addresses to Israel, rather than simply assuming everyone already knew the story?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This new generation carries the full weight of their parents' failure at Kadesh-barnea (v. 34-40) without having made that specific choice themselves.",
+     "q": "Where in your own life have you inherited the consequences of a decision that wasn't originally yours to make, and how have you made peace with carrying that weight?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The spies' initial, genuinely accurate report of the land's goodness (v. 25) was true and unchanged even after fear later distorted how the people responded to it.",
+     "q": "Where might the Holy Spirit be reminding you that a good, true report you once received hasn't actually changed, even though fear has since distorted how you're currently responding to it?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening / silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole book begins not with something new but with careful, deliberate remembering, an entire generation's history retold before a single new instruction is given.",
+     "q": "Sit quietly today and consider your own story so far, the way Moses does here, before moving on to whatever comes next."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 359
+{
+ "ref": "Deuteronomy 2",
+ "tag": "Old Testament",
+ "api": "deuteronomy+2",
+ "sum": [
+  "Moses recalls Israel's long journey compassing Mount Seir, commanded not to meddle with Edom, the descendants of Esau, since God had already given them that land, and instructed instead to buy food and water from them with money.",
+  "He recalls the same restraint commanded toward Moab and Ammon, both descendants of Lot, each already given their own inheritance by God, alongside notes on the giant peoples these nations had themselves displaced.",
+  "He recalls the thirty-eight years spent until the entire generation of fighting men from Kadesh-barnea had died out, exactly as the LORD had sworn, until Israel finally crossed the brook Zered.",
+  "He recalls being commanded to cross the river Arnon and attack Sihon king of Heshbon, who refused Israel peaceable passage because the LORD hardened his spirit, resulting in his total defeat and the capture of all his cities."
+ ],
+ "nug": [
+  {
+   "h": "Restraint commanded toward relatives, not only enemies",
+   "b": "\"Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau for a possession\" (v. 5) has God specifically protecting the territorial rights of Edom, Israel's own distant relatives through Esau, refusing Israel any claim on land already given to someone else."
+  },
+  {
+   "h": "Payment insisted on even where conquest would have been easy",
+   "b": "\"Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink\" (v. 6) required Israel to pay honestly for provisions even while marching through territory as a vastly larger, more powerful nation, ordinary integrity maintained even where it would have been simple to simply take what was needed."
+  },
+  {
+   "h": "A sentence carried out to its precise, stated completion",
+   "b": "\"Until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them... the LORD's hand was against them, to destroy them from among the host, until they were consumed\" (v. 14-15) confirms, from Moses' own retrospective vantage point, that the forty-year sentence first pronounced in Numbers 14 had been carried out in full."
+  },
+  {
+   "h": "A king's own stubbornness credited directly to God's hand",
+   "b": "\"Sihon king of Heshbon would not let us pass by him: for the LORD thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand\" (v. 30) has God working through, rather than simply overriding, Sihon's own hard-hearted refusal, in order to bring about Israel's victory."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 36:6-8 · Numbers 20:14-21 · Romans 9:17-18",
+   "qs": [
+    {
+     "th": "God's careful protection here of Edom's, Moab's, and Ammon's territorial rights (v. 5, 9, 19) mirrors his own earlier gift of Seir to Esau's descendants recorded generations before (Genesis 36:6-8) — the same God who gave Israel the land of promise had also given other nations their own, and expected Israel to respect that just as they expected their own inheritance to be respected.",
+     "q": "Read Genesis 36:6-8 alongside Deuteronomy 2:4-5. What does it change in your understanding of Israel's whole conquest narrative to see God this deliberately protecting other nations' God-given territory, even while giving Israel its own?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Israel's entire thirty-eight years of further wandering (v. 14) happened not because God had abandoned them, but because an earlier generation's specific unbelief had to run its full, appointed course.",
+     "q": "Where in your own life have you had to wait out the full, natural consequences of an earlier season's failure, rather than having them shortened simply because you were now ready to move forward?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Sihon's hardened heart is credited directly to God's own hand (v. 30), even while Sihon's refusal remained entirely his own choice and responsibility.",
+     "q": "Where might the Holy Spirit be showing you that God can work his purposes even through someone else's stubborn refusal, without that refusal ceasing to be genuinely their own?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Israel's honest payment for food and water even in territory they could easily have simply taken (v. 6, 28-29) modelled a integrity that didn't depend on their own relative strength.",
+     "q": "Confess to God today any place where your own strength or advantage over someone else has tempted you to take rather than to pay honestly for what you actually need from them."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 360
+{
+ "ref": "Psalm 89",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+89",
+ "sum": [
+  "Ethan the Ezrahite sings of God's mercies forever, recalling the covenant sworn to David that his seed would be established forever and his throne built up to all generations.",
+  "He praises God's faithfulness, power over the raging sea, and righteousness and judgment as the very foundation of his throne, blessing the people who know the joyful sound and walk in the light of his countenance.",
+  "He recounts God's specific covenant with David in detail — anointed with holy oil, made God's own firstborn higher than the kings of the earth, his seed and throne established forever even if his children forsake God's law.",
+  "The psalm turns sharply into present lament, describing a covenant seemingly cast off and profaned, before closing by asking where God's former lovingkindnesses have gone, and finally with a doxology closing the whole third book of the Psalms."
+ ],
+ "nug": [
+  {
+   "h": "A covenant sworn with the strongest possible language, twice repeated",
+   "b": "\"I have made a covenant with my chosen, I have sworn unto David my servant, Thy seed will I establish for ever, and build up thy throne to all generations\" (v. 3-4) is echoed later in the same psalm — \"Once have I sworn by my holiness that I will not lie unto David\" (v. 35) — the promise's permanence stated not once but doubly, in the strongest terms available."
+  },
+  {
+   "h": "Discipline anticipated without threatening the covenant's core",
+   "b": "\"If his children forsake my law... then will I visit their transgression with the rod, and their iniquity with stripes. Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail\" (v. 30-33) builds real consequence for future unfaithfulness directly into the covenant's own terms, while still refusing to let that unfaithfulness cancel the promise altogether."
+  },
+  {
+   "h": "A jarring turn from confident promise to raw complaint",
+   "b": "After thirty-seven verses celebrating God's covenant faithfulness to David in the most exalted terms, the psalm abruptly shifts: \"But thou hast cast off and abhorred, thou hast been wroth with thine anointed. Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground\" (v. 38-39) — praise and present crisis placed directly beside each other with no transition softening the contrast."
+  },
+  {
+   "h": "A question left standing at the very edge of an answer",
+   "b": "\"Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?\" (v. 49) closes the psalm's main body with a genuine, unresolved question, holding tightly to a promise that, from where the psalmist stands, looks entirely broken."
+  },
+  {
+   "h": "A closing note that marks far more than just this one psalm's ending",
+   "b": "\"Blessed be the LORD for evermore. Amen, and Amen\" (v. 52) is not simply this psalm's own final line, but the doxology closing the entire third book of the Psalter — an editorial marker of a genuine structural boundary, much like the closing note at the end of Psalm 72."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 7:12-16 · Psalm 132:11-12 · Luke 1:32-33",
+   "qs": [
+    {
+     "th": "God's covenant with David, first given through Nathan the prophet — \"thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever\" (2 Samuel 7:16) — is the very promise this whole psalm both celebrates in its opening half and mourns as apparently failed in its closing half.",
+     "q": "Read 2 Samuel 7:12-16 alongside Psalm 89:3-4, 38-39. What does it mean to you that this psalm holds an unbreakable, divinely sworn promise and an honest, present sense of that same promise's apparent failure together in the very same poem, without resolving the tension?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's turn from confident praise to raw lament (v. 38-51) happens without any warning or transitional softening between the two.",
+     "q": "Has your own faith ever moved this abruptly between genuine confidence in God's promises and genuine grief that they don't yet seem to have come true? How did you hold both at once?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The covenant's built-in provision for discipline without cancellation (v. 30-33) shows God's faithfulness as something that can include real consequence without ever actually being withdrawn.",
+     "q": "Where might the Holy Spirit currently be disciplining you in a way that, rightly understood, is actually proof his covenant faithfulness toward you hasn't gone anywhere?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm's closing questions are prayed entirely on behalf of \"thine anointed\" (v. 38, 51) — the whole nation's fortunes tied up in one specific royal figure's apparent disgrace.",
+     "q": "Pray today for someone in a position of responsibility whose situation currently looks, like David's throne in this psalm, far from the promises that were originally spoken over them."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 361
+{
+ "ref": "Deuteronomy 3",
+ "tag": "Old Testament",
+ "api": "deuteronomy+3",
+ "sum": [
+  "Moses recalls the defeat of Og king of Bashan at Edrei, a battle the LORD told him not to fear, resulting in the capture of sixty cities and the utter destruction of the whole kingdom, just as had been done to Sihon.",
+  "He notes Og's iron bedstead, nine cubits long, kept as a lasting witness to the giant king's actual size and the reality of this victory.",
+  "The conquered land east of Jordan is given to Reuben, Gad, and half the tribe of Manasseh, on the explicit condition that their armed men cross over first to help their brethren possess the rest of the land.",
+  "Moses recalls charging Joshua to fear not, since the LORD who defeated these two kings would fight for Israel again, and recalls his own plea to cross over and see the good land, met with God's refusal and the instruction simply to view it from Pisgah's top."
+ ],
+ "nug": [
+  {
+   "h": "A victory remembered specifically because it once required courage to attempt",
+   "b": "\"The LORD said unto me, Fear him not: for I will deliver him, and all his people, and his land, into thy hand\" (v. 2) recalls a battle that clearly needed direct reassurance beforehand, Og's reputation evidently formidable enough that fear was the very first thing needing to be addressed."
+  },
+  {
+   "h": "Physical proof kept long after the battle itself was over",
+   "b": "\"Only Og king of Bashan remained of the remnant of giants; behold his bedstead was a bedstead of iron; nine cubits was the length thereof, and four cubits the breadth of it... is it not in Rabbath of the children of Ammon?\" (v. 11) preserves an actual, checkable object as evidence, Moses pointing his hearers toward something that could still, at the time of speaking, be seen and measured for themselves."
+  },
+  {
+   "h": "A privilege granted only on the condition it was not kept for oneself alone",
+   "b": "\"Your wives, and your little ones, and your cattle... shall abide in your cities which I have given you; until the LORD have given rest unto your brethren, as well as unto you... then shall ye return every man unto his possession\" (v. 19-20) had Reuben, Gad, and Manasseh's land secured in advance, but only realised in full once their brothers' inheritance was equally secure."
+  },
+  {
+   "h": "A leader's own earnest request met with a firm, final refusal",
+   "b": "\"O Lord GOD, thou hast begun to shew thy servant thy greatness... I pray thee, let me go over, and see the good land\" (v. 24-25) is met not with a softened compromise but with God's direct reply, \"Let it suffice thee; speak no more unto me of this matter\" (v. 26) — even Moses' most heartfelt personal appeal receiving a clear, unmovable no."
+  },
+  {
+   "h": "A leader's own disappointment redirected immediately into encouraging someone else",
+   "b": "Rather than dwelling on his own refusal, Moses' very next recorded act is to charge Joshua directly: \"encourage him, and strengthen him: for he shall go over before this people... and he shall cause them to inherit the land\" (v. 28) — personal loss met at once with active investment in someone else's coming success."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 21:33-35 · Numbers 32:20-22 · 2 Corinthians 12:8-9",
+   "qs": [
+    {
+     "th": "This chapter retells the same battle against Og first recorded in Numbers 21:33-35, and the same conditional land grant to Reuben, Gad, and Manasseh first agreed in Numbers 32:20-22 — Moses' whole farewell sermon consistently pausing to remind this new generation of victories and agreements their own recent history had already secured.",
+     "q": "Read Numbers 32:20-22 alongside Deuteronomy 3:18-20. Why might Moses take the time to repeat this same agreement here, so soon after it was first made, rather than simply assuming it was already settled and understood?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses' own plea to enter the land was met with a clear, final no (v. 26), yet his very next act was to pour that same energy into strengthening Joshua for the task he himself would not get to finish (v. 28).",
+     "q": "Where in your own life, after being told no to something you genuinely wanted, have you managed to redirect that same energy toward helping someone else succeed at it instead?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God's instruction to Moses, \"let it suffice thee; speak no more unto me of this matter\" (v. 26), was a genuinely final answer, not an invitation to keep asking in hope of a different outcome.",
+     "q": "Where might the Holy Spirit be asking you to accept a settled 'no' as genuinely final, rather than continuing to revisit the same request hoping for a different answer?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Og's own iron bedstead, still an actual, physical object people could go and see at the time Moses spoke (v. 11), stood as lasting, tangible proof that this fearsome victory had truly happened.",
+     "q": "Praise God today for a specific victory in your own life that, like Og's bedstead, still stands as tangible, lasting evidence of what he genuinely did."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 362
+{
+ "ref": "Luke 8",
+ "tag": "New Testament",
+ "api": "luke+8",
+ "sum": [
+  "Jesus tells the parable of the sower and explains privately why he teaches in parables, then illustrates that a lit candle is meant to be seen, not hidden, before his mother and brothers seek him and he names those who hear and do God's word as his true family.",
+  "Asleep in a ship during a storm, Jesus is woken by his terrified disciples and rebukes the wind and the raging water, calming both instantly and asking, \"Where is your faith?\"",
+  "Among the Gerasenes, Jesus casts a legion of devils out of a tormented man into a herd of swine, who rush into the lake and are drowned, leaving the man clothed, in his right mind, and sent home to tell what God has done for him.",
+  "On the way to heal Jairus's dying daughter, a woman with a twelve-year issue of blood touches Jesus' garment and is healed, and though the girl dies before he arrives, Jesus raises her, saying only, \"Maid, arise.\""
+ ],
+ "nug": [
+  {
+   "h": "Seed identified with something entirely unseen",
+   "b": "\"The seed is the word of God\" (v. 11) has Jesus explaining his own parable in the plainest possible terms once his disciples ask privately, the mystery of the story dissolving completely for those who simply come and ask him directly (v. 9-10)."
+  },
+  {
+   "h": "Family redefined around action rather than bloodline",
+   "b": "\"My mother and my brethren are these which hear the word of God, and do it\" (v. 21) has Jesus responding to his own biological family's arrival by widening, rather than dismissing, what family actually means — obedience to God's word placed above even the closest natural relationship."
+  },
+  {
+   "h": "A rebuke aimed at the storm before a word was spoken to the frightened men",
+   "b": "\"He arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm\" (v. 24) has Jesus addressing the actual storm directly and specifically, the disciples' own fear only questioned afterward, once the danger itself was already gone."
+  },
+  {
+   "h": "A name that reveals the true scale of the affliction",
+   "b": "Asked his name, the tormented man answers, \"Legion: because many devils were entered into him\" (v. 30) — a single word exposing an oppression far larger and more organised than anyone watching could have guessed from his appearance alone."
+  },
+  {
+   "h": "Healing acknowledged even when it happened without a spoken word",
+   "b": "\"Somebody hath touched me: for I perceive that virtue is gone out of me\" (v. 46) has Jesus noticing, and insisting on publicly naming, a healing that occurred through nothing more than a woman's own quiet touch of faith in the middle of a crowded, jostling street."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 6:9-10 · Mark 5:1-20 · 1 Kings 17:17-24",
+   "qs": [
+    {
+     "th": "Jesus' own explanation for teaching in parables — \"that seeing they might not see, and hearing they might not understand\" (v. 10) — draws directly on Isaiah's ancient commission, given centuries earlier in a very similar moment of confronting a spiritually dull audience (Isaiah 6:9-10).",
+     "q": "Read Isaiah 6:9-10 alongside Luke 8:9-10. What does it mean to you that Jesus applies this same old prophetic pattern to his own teaching, rather than assuming every hearer would automatically understand him equally well?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The disciples' terror in the storm came even though Jesus himself was physically present in the very same boat, simply asleep rather than absent (v. 23-24).",
+     "q": "Has fear ever overtaken you in a situation where, honestly, God's presence was every bit as near as it was to those disciples, even though it didn't feel that way in the moment?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The woman with the issue of blood received healing the moment she touched Jesus' garment in simple faith, before Jesus had said a single word to her directly (v. 44).",
+     "q": "Where might the Holy Spirit already be at work in your own life through a quiet, unspoken act of faith, even before you've had any clear, spoken confirmation that it's actually happening?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Gerasene man, once so tormented he lived naked among tombs, is found at the end of this account simply \"sitting at the feet of Jesus, clothed, and in his right mind\" (v. 35) — restoration described in the plainest, most ordinary possible terms.",
+     "q": "Thank God today for a specific way he has restored ordinary sanity, dignity, or peace to a part of your own life that once felt as chaotic as this man's did."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 363
+{
+ "ref": "Psalm 92",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+92",
+ "sum": [
+  "A psalm for the sabbath day declares it a good thing to give thanks to the LORD, to show forth his lovingkindness every morning and his faithfulness every night.",
+  "The psalmist rejoices in God's works, marvelling at how deep his thoughts are, though a brutish man does not know and a fool does not understand this.",
+  "The wicked may spring up like grass and flourish for a season, but this is only so that they may be destroyed forever, while God himself remains exalted forevermore.",
+  "The righteous, by contrast, are pictured flourishing like a palm tree and growing like a cedar in Lebanon, still bringing forth fruit even in old age, planted firmly in the house of the LORD."
+ ],
+ "nug": [
+  {
+   "h": "Praise given a fixed shape across the whole day",
+   "b": "\"To shew forth thy lovingkindness in the morning, and thy faithfulness every night\" (v. 2) structures gratitude around the entire rhythm of a day, not reserved for a single moment but stretched deliberately across both its beginning and its end."
+  },
+  {
+   "h": "Insight named as something not everyone actually has",
+   "b": "\"A brutish man knoweth not; neither doth a fool understand this\" (v. 6) states plainly that the psalm's own central observation — about the wicked's temporary flourishing — isn't obvious to everyone, real spiritual perception required to see it rightly rather than assumed as automatic."
+  },
+  {
+   "h": "Temporary flourishing named as its own kind of judgment",
+   "b": "\"When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever\" (v. 7) reframes what could look like injustice — the wicked's present success — as itself only a brief, doomed appearance rather than any genuine, lasting advantage."
+  },
+  {
+   "h": "Two very different plants chosen to picture the same enduring life",
+   "b": "\"The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon\" (v. 12) pairs a tree known for fruitfulness with one known for strength and permanence, righteousness pictured as both genuinely productive and genuinely sturdy."
+  },
+  {
+   "h": "Fruit expected even after growth has slowed",
+   "b": "\"They shall still bring forth fruit in old age; they shall be fat and flourishing\" (v. 14) refuses to treat old age as a season when usefulness has simply run out, expecting real, continued fruit long after a person's most vigorous years have passed."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Jeremiah 17:7-8 · Genesis 2:1-3 · Philippians 4:11-12",
+   "qs": [
+    {
+     "th": "Jeremiah pictures the person who trusts in the LORD in almost identical language — \"as a tree planted by the waters... her leaf shall be green; and shall not be careful in the year of drought, but... shall still yield fruit\" (Jeremiah 17:8) — the same image of deep-rooted, weather-resistant fruitfulness this psalm applies to the righteous planted in God's own house.",
+     "q": "Read Jeremiah 17:7-8 alongside Psalm 92:12-14. Why might this same image of a deeply rooted, continually fruitful tree recur across Scripture as the natural picture for a genuinely trusting life?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This psalm names the wicked's present flourishing honestly, without denying it's real, while still insisting it isn't lasting (v. 7).",
+     "q": "Where in your own life have you needed to hold these two things together — honestly acknowledging someone else's present, visible success while still trusting it isn't the whole story?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm's promise of continued fruit \"in old age\" (v. 14) assumes ongoing usefulness and growth long after a person's most active season has passed.",
+     "q": "Where might the Holy Spirit be inviting you to trust him for continued fruitfulness in a season of your own life that feels past its most productive years?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole psalm is titled for the sabbath day specifically, a day set apart to shew forth God's lovingkindness and faithfulness deliberately, rather than assuming gratitude will simply arise on its own (v. 1-2).",
+     "q": "Praise God today, on whatever day this actually is for you, using this psalm's own rhythm — naming one way you've seen his lovingkindness this morning and his faithfulness through last night."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 364
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A bedstead still there to be measured",
+   "b": "Moses points his hearers directly to Og's actual iron bedstead, nine cubits long, still sitting in Rabbath of the Ammonites at the very time he was speaking (Deuteronomy 3:11) — a real, checkable object left behind as lasting, physical proof of a victory that could easily have become just another retold story."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Deuteronomy 1's opening farewell sermon retelling Kadesh-barnea's failure to the very generation who inherited its consequences, Deuteronomy 2's careful respect shown to Edom, Moab, and Ammon's own God-given lands, Psalm 89's covenant with David held in tension with its apparent present failure, Deuteronomy 3's defeat of Og and Moses' own request to enter the land firmly refused, Luke 8's sower, the storm stilled, the Gerasene man restored, and the woman and the girl both healed through faith, and Psalm 92's picture of the righteous still bearing fruit even in old age.",
+     "q": "Where this week did Moses immediately turning to encourage Joshua after his own request was refused in Deuteronomy 3:26-28, or the woman's quiet touch of faith healing her before Jesus said a single word to her in Luke 8:44-46, most challenge how you handle your own disappointment, or how much you're currently expecting quiet, unspoken faith to actually accomplish?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Let it suffice thee; speak no more unto me of this matter\" (Deuteronomy 3:26) — a final, unmovable no given even to Moses' own most heartfelt personal request.",
+     "q": "Sit quietly for a few minutes and bring before God any request of your own that may need to be honestly released as settled, rather than continuing to be revisited."
+    }
+   ]
+  }
+ ]
+}
+,
+// Day 365
+{
+ "ref": "Deuteronomy 4",
+ "tag": "Old Testament",
+ "api": "deuteronomy+4",
+ "sum": [
+  "Moses appeals to Israel to hearken to the statutes and judgments he teaches, neither adding to nor diminishing from them, recalling how those who followed Baalpeor were destroyed while those who clave to the LORD are alive this very day.",
+  "He warns Israel to keep these things diligently, teaching them to their children and grandchildren, remembering specifically the day they stood before the LORD at Horeb and heard his voice out of the fire without seeing any form, lest they corrupt themselves by making a graven image or turning to worship sun, moon, or stars.",
+  "He warns that if they do corrupt themselves this way, they will soon perish from the land and be scattered among the nations to serve gods of wood and stone, yet promises that if they seek the LORD with all their heart and soul, even from there, they will find him, for he is a merciful God who will not forget his covenant.",
+  "He asks whether any people has ever heard God's voice out of fire and lived, or seen God take a nation for himself by such great acts as at the exodus, concluding that the LORD is God in heaven above and earth beneath, none else, and closes by setting apart three cities of refuge east of the Jordan before this whole first year of readings comes to its close."
+ ],
+ "nug": [
+  {
+   "h": "A command given a boundary on both sides",
+   "b": "\"Ye shall not add unto the word which I command you, neither shall ye diminish ought from it\" (v. 2) protects God's word from being either inflated with human additions or quietly trimmed down, a single verse guarding against two opposite temptations at once."
+  },
+  {
+   "h": "A memory anchored specifically to what was heard rather than seen",
+   "b": "\"Ye heard the voice of the words, but saw no similitude; only ye heard a voice\" (v. 12) makes this deliberate absence of any visible form the actual basis for the coming warning against idolatry — Israel is told to remember precisely what they did not see, since that very absence was the point."
+  },
+  {
+   "h": "A scattering foretold, and a return promised, in the very same breath",
+   "b": "\"The LORD shall scatter you among the nations, and ye shall be left few in number among the heathen... But if from thence thou shalt seek the LORD thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul\" (v. 27-29) holds genuine coming judgment and genuine future mercy together as two parts of one continuous promise, not as contradictory outcomes."
+  },
+  {
+   "h": "A question asked that expects only one honest answer",
+   "b": "\"Did ever people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?... hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders... according to all that the LORD your God did for you in Egypt before your eyes?\" (v. 33-34) piles up genuinely unrepeatable events specifically so that Israel's own uniqueness in receiving them becomes undeniable."
+  },
+  {
+   "h": "A whole year's reading arriving, almost quietly, at cities set aside for the guilty",
+   "b": "\"Then Moses severed three cities on this side Jordan toward the sunrising... that the slayer might flee thither\" (v. 41-43) applies, in real, practical detail on this side of the Jordan, the very refuge Numbers 35 had already promised — a fittingly unshowy, practical note on which to close out a full year that began all the way back in Genesis 1."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 20:18-21 · Numbers 35:9-15 · Deuteronomy 6:4-5",
+   "qs": [
+    {
+     "th": "Israel's own experience at Horeb, hearing a voice with no visible form, is the exact memory this whole chapter builds its entire warning against idolatry on (v. 12, 15-19) — the same event first recorded in Exodus 20, now, a full generation later, being deliberately reapplied to a new audience who needed reminding of what their parents had actually heard and seen.",
+     "q": "Read Exodus 20:18-21 alongside Deuteronomy 4:9-15. Looking back over this whole first year of daily reading, from Genesis 1 through to this very verse, what is the one thing you have most needed reminded of, the way Israel here is reminded of Horeb?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter promises that even after real scattering and real consequence, God can still be found by anyone who seeks him \"with all thy heart and with all thy soul\" (v. 29).",
+     "q": "Looking back over this whole year of Scripture, what has actually changed in how wholeheartedly you seek God, compared to where you started back on day one?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Moses roots Israel's whole future obedience in a specific, remembered encounter with God rather than in an abstract set of rules alone (v. 9-10, 36).",
+     "q": "As this first year closes, where might the Holy Spirit be inviting you to build your own continued obedience on specific, remembered encounters with him, rather than only on habits or rules you've kept?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This whole chapter's climactic claim — \"the LORD he is God in heaven above, and upon the earth beneath: there is none else\" (v. 39) — arrives at the very close of a year that began with that same God simply speaking light into being (Genesis 1:3), the whole of Genesis through Deuteronomy 4, the Psalms so far, and Matthew through Luke 8 all bearing witness to exactly this one claim.",
+     "q": "Thank God today for however he has proven himself faithful across this entire first year of daily reading, naming one specific way your own trust in him is different now than it was on day one."
+    }
+   ]
+  }
+ ]
 }
 ];
