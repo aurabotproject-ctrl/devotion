@@ -1560,4 +1560,1636 @@ const YEAR2=[
   }
  ]
 },
+// Day 386
+{
+ "ref": "Deuteronomy 13",
+ "tag": "Old Testament",
+ "api": "deuteronomy+13",
+ "sum": [
+  "Moses warns Israel about prophets or dreamers who arise with signs and wonders that come to pass, yet who use those very signs to entice the people after other gods, insisting such a person must not be heeded because the LORD is testing whether Israel truly loves him.",
+  "He warns that even the closest family members — a brother, son, daughter, or beloved wife, or a friend as dear as one's own soul — may secretly entice someone to serve other gods, and commands that such enticement be met with no pity, concealment, or mercy, but exposure and death.",
+  "He addresses the case of an entire city led astray by worthless men who draw its inhabitants into idolatry, commanding a careful inquiry and, if the report proves true, the total destruction of the city, its inhabitants, and its cattle, with all the spoil burned and the city left an everlasting heap.",
+  "The chapter closes by tying this severity to covenant loyalty — nothing of the cursed thing is to cling to Israel's hand, so that the LORD may turn from his fierce anger and show mercy, multiplying Israel as he swore to their fathers, provided they hearken to his voice and keep his commandments."
+ ],
+ "nug": [
+  {
+   "h": "A true sign paired with a false message still fails the test",
+   "b": "\"The sign or the wonder come to pass, whereof he spake unto thee... Thou shalt not hearken unto the words of that prophet\" (v. 2-3) shows that a fulfilled miracle is not itself proof of God's approval — the content of the message is what must be weighed."
+  },
+  {
+   "h": "Even the dearest relationships offer no exemption",
+   "b": "\"Thy son, or thy daughter... or thy friend, which is as thine own soul, entice thee secretly\" (v. 6) names the closest possible bonds precisely because idolatry so often spreads through trusted love rather than strangers."
+  },
+  {
+   "h": "The witness bears the first, direct weight of judgment",
+   "b": "\"Thine hand shall be first upon him to put him to death, and afterwards the hand of all the people\" (v. 9) refuses anonymous accusation, forcing the one who names the sin to also own the consequence."
+  },
+  {
+   "h": "A city's corruption traced to \"the children of Belial\"",
+   "b": "\"Certain men, the children of Belial, are gone out from among you, and have withdrawn the inhabitants of their city\" (v. 13) uses a striking idiom for utter worthlessness to describe how corporate apostasy so often begins with a few."
+  },
+  {
+   "h": "Judgment leaves a permanent, silent marker",
+   "b": "\"It shall be an heap for ever; it shall not be built again\" (v. 16) makes the ruin itself a lasting testimony, a scar on the land meant to outlast the generation that caused it."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Matthew 24:24-25 · Matthew 10:37 · 1 John 4:1",
+   "qs": [
+    {
+     "th": "Jesus warns that false christs and false prophets \"shall shew great signs and wonders\" (Matthew 24:24), echoing today's warning almost exactly, while John urges believers to \"try the spirits whether they are of God\" (1 John 4:1) rather than trusting signs alone.",
+     "q": "Read Matthew 24:24-25 and 1 John 4:1 alongside today's chapter. What does it look like, practically, to test a message rather than simply be impressed by what accompanies it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Thy friend, which is as thine own soul, entice thee secretly\" (v. 6) names how easily a trusted relationship can quietly pull someone off course.",
+     "q": "Is there a relationship in your life where love for the person has made it harder to notice, or name, a drift away from what God actually asks?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chapter insists that even a compelling sign must be weighed against whether it draws someone toward or away from the LORD (v. 2-3).",
+     "q": "Where might the Holy Spirit be prompting you to test something appealing in your life right now — not just by how convincing it feels, but by where it actually leads?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chapter calls for no pity and no concealment toward enticement to idolatry (v. 8).",
+     "q": "Confess to God any place where you have quietly tolerated or excused something pulling your heart's devotion away from him."
+    }
+   ]
+  }
+ ]
+},
+// Day 387
+{
+ "ref": "Deuteronomy 14",
+ "tag": "Old Testament",
+ "api": "deuteronomy+14",
+ "sum": [
+  "Moses forbids Israel from cutting themselves or making baldness between their eyes for the dead, grounding the command in their identity as children of the LORD and a holy people chosen out of all the nations of the earth.",
+  "He lists the animals Israel may and may not eat — those that chew the cud and part the hoof are clean, while others such as the camel, hare, coney, and swine are named unclean and forbidden, along with rules distinguishing clean and unclean fish and birds, and a prohibition on eating anything that dies of itself.",
+  "He commands, almost in passing amid these food laws, that a kid must never be seethed in its mother's milk, then turns to instruct Israel to tithe all the increase of their seed year by year, eating it before the LORD in the place he chooses so that they may learn to always fear him.",
+  "Every third year the tithe is instead to be laid up within Israel's own gates, so that the Levite, the stranger, the fatherless, and the widow may come and eat and be satisfied, with the LORD's blessing promised on all the work of Israel's hand."
+ ],
+ "nug": [
+  {
+   "h": "Grief practices forbidden as a mark of covenant identity",
+   "b": "\"Ye shall not cut yourselves, nor make any baldness between your eyes for the dead\" (v. 1) ties even the practice of mourning to Israel's distinct identity as \"the children of the LORD your God\" (v. 1)."
+  },
+  {
+   "h": "Holiness given as the reason, not just the rule",
+   "b": "\"Thou art an holy people unto the LORD thy God\" (v. 2, 21) is repeated as the basis for the entire food code, making diet a matter of identity rather than mere health regulation."
+  },
+  {
+   "h": "A brief, enigmatic prohibition repeated three times in the Torah",
+   "b": "\"Thou shalt not seethe a kid in his mother's milk\" (v. 21) closes the chapter's food laws with a single strange image, guarding even the boundary between an animal's nurture and its consumption."
+  },
+  {
+   "h": "A tithe cycle built to feed the vulnerable by name",
+   "b": "\"The Levite... and the stranger, and the fatherless, and the widow... shall come, and shall eat and be satisfied\" (v. 29) writes welfare directly into Israel's worship calendar, not as an afterthought but as its stated purpose."
+  },
+  {
+   "h": "Eating before the LORD as a training in fear of him",
+   "b": "\"That thou mayest learn to fear the LORD thy God always\" (v. 23) names the tithe's deeper aim — not merely funding worship, but shaping a lifelong posture of reverence."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Leviticus 11:1-8 · Acts 10:9-15 · James 1:27",
+   "qs": [
+    {
+     "th": "Leviticus 11 first laid out these same clean and unclean distinctions, while Peter's vision in Acts 10:9-15 later declares \"what God hath cleansed, that call not thou common,\" and James 1:27 names visiting the fatherless and widow as pure religion, echoing today's triennial tithe.",
+     "q": "Read Leviticus 11:1-8, Acts 10:9-15, and James 1:27 alongside today's chapter. How does tracing this single thread — clean and unclean, then its fulfillment, then its enduring ethical heart — shape how you read food laws that no longer bind believers the same way?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"The stranger, and the fatherless, and the widow... shall eat and be satisfied\" (v. 29) built care for the vulnerable into ordinary worship rhythms.",
+     "q": "Where in your own giving or planning could care for someone vulnerable become a built-in rhythm rather than an occasional afterthought?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Thou art an holy people unto the LORD thy God\" (v. 2) grounds even ordinary daily choices in a larger identity.",
+     "q": "Where might the Holy Spirit be inviting you to let your identity in God shape an everyday choice you don't usually think of as spiritual?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The tithe was eaten \"before the LORD... that thou mayest learn to fear the LORD thy God always\" (v. 23).",
+     "q": "Give thanks for the provision in your own life, and let gratitude for it deepen your reverence for the one who gave it."
+    }
+   ]
+  }
+ ]
+},
+// Day 388
+{
+ "ref": "Psalm 101",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+101",
+ "sum": [
+  "David opens by resolving to sing of both mercy and judgment to the LORD, and commits to behaving himself wisely in a perfect way, asking when the LORD will come to him and promising to walk within his house with a perfect heart.",
+  "He resolves to set no wicked thing before his eyes, to hate the work of those who turn aside, and to keep such a corrupted way from clinging to him, declaring that a froward heart will depart from him and that he will not know a wicked person.",
+  "He vows to cut off whoever privily slanders his neighbour, and states plainly that he will not tolerate a proud look or a high look in those around him.",
+  "He resolves instead to seek out the faithful of the land to dwell with him, refusing to let anyone who works deceit or tells lies remain in his house or stand before him, promising to destroy the wicked of the land early, cutting off all evildoers from the city of the LORD."
+ ],
+ "nug": [
+  {
+   "h": "Mercy and judgment sung together, not separately",
+   "b": "\"I will sing of mercy and judgment: unto thee, O LORD, will I sing\" (v. 1) opens the psalm by holding two seemingly opposite themes in the same breath of worship."
+  },
+  {
+   "h": "A resolve about what the eyes are allowed to rest on",
+   "b": "\"I will set no wicked thing before mine eyes\" (v. 3) names a deliberate discipline over sight itself, long before it becomes a matter of action."
+  },
+  {
+   "h": "Secret slander singled out for public consequence",
+   "b": "\"Whoso privily slandereth his neighbour, him will I cut off\" (v. 5) targets a sin committed in private, refusing to let hidden cruelty escape simply because it is unseen."
+  },
+  {
+   "h": "Companions chosen with the same deliberateness as enemies avoided",
+   "b": "\"Mine eyes shall be upon the faithful of the land, that they may dwell with me\" (v. 6) shows a king actively curating who stays close, not merely reacting to who does not."
+  },
+  {
+   "h": "The household held to the same standard as the throne",
+   "b": "\"He that worketh deceit shall not dwell within my house\" (v. 7) extends the psalm's resolve from public rule into the ordinary, domestic sphere of daily life."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 15:1-5 · Job 31:1 · Proverbs 6:16-19",
+   "qs": [
+    {
+     "th": "Psalm 15 asks the same question this psalm answers by resolve — who may dwell in the LORD's presence — while Job's covenant with his own eyes (Job 31:1) mirrors David's resolve in verse 3, and Proverbs 6:16-19 names a proud look and a lying tongue among the things the LORD hates.",
+     "q": "Read Psalm 15:1-5, Job 31:1, and Proverbs 6:16-19 alongside today's psalm. What do these passages together suggest about the connection between what we allow ourselves to look at and who we allow ourselves to become?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I will set no wicked thing before mine eyes\" (v. 3) is a resolve about ordinary daily attention.",
+     "q": "What would it look like this week to make a similar, specific resolve about what you allow before your own eyes?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David resolves to \"behave myself wisely in a perfect way\" and asks, \"when wilt thou come unto me?\" (v. 2).",
+     "q": "Where might the Holy Spirit be asking for a similar resolve from you — not perfection, but a deliberate turning toward wisdom in one area of your life?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I will sing of mercy and judgment: unto thee, O LORD, will I sing\" (v. 1) opens the psalm in worship before any resolve is made.",
+     "q": "Spend a few minutes praising God for both his mercy and his justice, letting adoration come before any resolution of your own."
+    }
+   ]
+  }
+ ]
+},
+// Day 389
+{
+ "ref": "Deuteronomy 15",
+ "tag": "Old Testament",
+ "api": "deuteronomy+15",
+ "sum": [
+  "Moses commands that at the end of every seven years Israel must make a release, cancelling debts owed by a neighbour or brother, though a foreigner may still be required to pay, since the LORD promises to bless Israel abundantly in the land if they obey.",
+  "He acknowledges that the poor will never cease out of the land, and on that very basis commands Israel to open their hand wide to their poor brother rather than harden their heart or shut their hand, warning against any wicked thought of withholding a loan simply because the release year draws near.",
+  "He turns to the case of a Hebrew servant, commanding that in the seventh year such a servant must be let go free, and not sent away empty-handed but furnished liberally out of the flock, the floor, and the winepress, in remembrance that Israel itself was once a bondman in Egypt whom the LORD redeemed.",
+  "The chapter closes by commanding that every firstling male born of the herd and flock be sanctified to the LORD, not put to work or shorn, but eaten yearly before the LORD in the chosen place, unless it has a blemish, in which case it may be eaten at home like any other meat, though never with the blood."
+ ],
+ "nug": [
+  {
+   "h": "A built-in economic reset every seven years",
+   "b": "\"At the end of every seven years thou shalt make a release\" (v. 1) writes a recurring cancellation of debt directly into Israel's calendar, long before any single crisis forces the question."
+  },
+  {
+   "h": "Realism about poverty paired with a command to generosity",
+   "b": "\"The poor shall never cease out of the land: therefore I command thee... Thou shalt open thine hand wide unto thy brother\" (v. 11) refuses to let honest acknowledgment of ongoing need become an excuse for passivity."
+  },
+  {
+   "h": "A warning aimed at the calculating heart, not just the closed fist",
+   "b": "\"Beware that there be not a thought in thy wicked heart\" (v. 9) about withholding a loan near the release year exposes stinginess at the level of private reasoning, before any refusal is even spoken."
+  },
+  {
+   "h": "Generosity extended beyond the moment of release itself",
+   "b": "\"Thou shalt not let him go away empty... thou shalt furnish him liberally out of thy flock\" (v. 13-14) turns a freed servant's departure into an occasion for deliberate provision, not bare compliance."
+  },
+  {
+   "h": "Firstborn animals set apart before any other use",
+   "b": "\"Thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep\" (v. 19) claims the very first increase for God before it can be put to any other purpose."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Leviticus 25:1-7 · Mark 14:7 · 2 Corinthians 9:6-7",
+   "qs": [
+    {
+     "th": "Leviticus 25 lays out the wider sabbath and jubilee pattern this release year belongs to, Jesus later echoes \"the poor shall never cease out of the land\" almost word for word in Mark 14:7, and Paul commends the same open-handed spirit in 2 Corinthians 9:6-7.",
+     "q": "Read Leviticus 25:1-7, Mark 14:7, and 2 Corinthians 9:6-7 alongside today's chapter. How does seeing this one command echoed across Scripture shape how you think about generosity that is planned rather than merely occasional?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Beware that there be not a thought in thy wicked heart\" (v. 9) warns against calculating stinginess before it ever becomes visible.",
+     "q": "Where might a similar calculating thought be quietly shaping your own generosity, even before you act on it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Thou shalt furnish him liberally out of thy flock\" (v. 14) goes beyond the bare minimum required.",
+     "q": "Where might the Holy Spirit be nudging you toward liberality that goes beyond what is technically required of you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"The poor shall never cease out of the land: therefore I command thee... Thou shalt open thine hand wide\" (v. 11) names an ongoing need.",
+     "q": "Bring before God someone you know who is in need right now, asking for both provision for them and an open hand from you."
+    }
+   ]
+  }
+ ]
+},
+// Day 390
+{
+ "ref": "Luke 12",
+ "tag": "New Testament",
+ "api": "luke+12",
+ "sum": [
+  "Jesus warns his disciples against the leaven of the Pharisees, which is hypocrisy, telling them not to fear those who can kill the body but rather to fear the one who has power to cast into hell, while reassuring them that not even a sparrow is forgotten before God and that the very hairs of their head are numbered.",
+  "He teaches that whoever confesses him before men will be confessed before the angels of God, warns against blasphemy against the Holy Ghost, and tells them not to worry beforehand what to say when brought before rulers, since the Holy Ghost will teach them in that very hour.",
+  "He tells the parable of the rich fool who plans to pull down his barns and build greater ones, only to be told that his soul will be required of him that very night, then teaches his disciples not to be anxious about food or clothing, pointing to the ravens that neither sow nor reap and the lilies that neither toil nor spin, and urging them to seek first the kingdom and lay up treasure in heaven, since where their treasure is, there their heart will be also.",
+  "He calls his disciples to be like servants watching for their master's return with loins girded and lamps burning, warns that he has come to send fire on the earth and that his coming will bring division rather than automatic peace, and rebukes the crowds for being able to discern the weather yet failing to discern the present time."
+ ],
+ "nug": [
+  {
+   "h": "A small, hidden influence named for what it really is",
+   "b": "\"Beware ye of the leaven of the Pharisees, which is hypocrisy\" (v. 1) identifies a quiet, spreading corruption rather than an obvious, isolated sin."
+  },
+  {
+   "h": "Careful plans undone in a single night",
+   "b": "\"Soul, thou hast much goods laid up for many years... this night thy soul shall be required of thee\" (v. 19-20) exposes the rich fool's confident planning as blind to the one variable he could not control."
+  },
+  {
+   "h": "Creation itself offered as an argument against anxiety",
+   "b": "\"Consider the ravens: for they neither sow nor reap... Consider the lilies how they grow\" (v. 24, 27) points not to human striving but to ordinary, unremarkable creatures as evidence of God's care."
+  },
+  {
+   "h": "The heart described as following investment, not the reverse",
+   "b": "\"For where your treasure is, there will your heart be also\" (v. 34) suggests that affection can be shaped by where resources are placed, not only the other way around."
+  },
+  {
+   "h": "A startling self-description of Jesus's own mission",
+   "b": "\"I am come to send fire on the earth; and what will I, if it be already kindled?\" (v. 49) presents Jesus's coming as deliberately disruptive, not merely comforting."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Matthew 6:25-34 · Matthew 10:28-31 · James 4:13-15",
+   "qs": [
+    {
+     "th": "Matthew 6:25-34 records Jesus teaching this same call not to be anxious in almost identical words, Matthew 10:28-31 matches today's warning about sparrows and numbered hairs, and James 4:13-15 later echoes the rich fool's error of planning without reference to God.",
+     "q": "Read Matthew 6:25-34, Matthew 10:28-31, and James 4:13-15 alongside today's chapter. What does the repetition of this teaching across the Gospels and epistles suggest about how central it is meant to be?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"For where your treasure is, there will your heart be also\" (v. 34) links affection to investment.",
+     "q": "If someone traced your spending and time this past month, what would it suggest about where your treasure — and therefore your heart — actually lies?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus tells his disciples not to worry beforehand, \"for the Holy Ghost shall teach you in the same hour what ye ought to say\" (v. 12).",
+     "q": "Is there a situation right now where you're trying to plan your way through anxiety instead of trusting the Spirit to meet you in the moment?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Let your loins be girded about, and your lights burning\" (v. 35) calls for watchful readiness rather than noise.",
+     "q": "Sit quietly for a few minutes in watchful readiness, simply listening for whatever God might want to say to you today."
+    }
+   ]
+  }
+ ]
+},
+// Day 391
+{
+ "ref": "Psalm 102",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+102",
+ "sum": [
+  "The psalmist, identified as an afflicted one overwhelmed and pouring out his complaint before the LORD, cries out to be heard, pleading with God not to hide his face in the day of trouble, describing his days as consumed like smoke and his heart as smitten and withered like grass.",
+  "He pictures himself as isolated and sleepless, like a pelican of the wilderness, an owl of the desert, or a sparrow alone upon the housetop, surrounded by enemies who reproach him daily and are sworn against him, his ashes eaten like bread and his drink mingled with tears because of the LORD's indignation.",
+  "He turns from this lament to declare that the LORD shall endure forever, that his remembrance is unto all generations, and that he will arise and have mercy upon Zion because the set time to favour her has come, promising that the LORD will build up Zion and appear in his glory, regarding the prayer of the destitute.",
+  "The psalm closes by contrasting the eternity of God with the perishing of creation itself — of old God laid the foundation of the earth and the heavens are the work of his hands, yet they shall perish and be changed like a garment, while God remains the same, his years having no end."
+ ],
+ "nug": [
+  {
+   "h": "An urgent plea not to be hidden from",
+   "b": "\"Hide not thy face from me in the day when I am in trouble\" (v. 2) gives voice to the fear of unanswered prayer at the very moment help is needed most."
+  },
+  {
+   "h": "Affliction described in vivid, physical images",
+   "b": "\"My days are consumed like smoke... my heart is smitten, and withered like grass\" (v. 3-4) refuses to soften suffering into abstract language, choosing instead images anyone could picture."
+  },
+  {
+   "h": "Solitary birds chosen to picture isolation",
+   "b": "\"I am like a pelican of the wilderness... a sparrow alone upon the house top\" (v. 6-7) reaches for creatures known for being alone rather than merely saying \"I am lonely.\""
+  },
+  {
+   "h": "A pivot from despair to a set, appointed time of favour",
+   "b": "\"Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come\" (v. 13) turns the psalm's whole mood on the conviction that God's timing, though delayed, is not absent."
+  },
+  {
+   "h": "Creation's decay set against God's changeless years",
+   "b": "\"They shall perish, but thou shalt endure... thou art the same, and thy years shall have no end\" (v. 26-27) closes the psalm by anchoring a suffering individual's hope in nothing less than God's own eternity."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Hebrews 1:10-12 · Psalm 90:1-2 · James 4:14",
+   "qs": [
+    {
+     "th": "Hebrews 1:10-12 quotes this psalm's closing verses directly of Christ, applying its picture of unchanging eternity to the Son, while Psalm 90:1-2 and James 4:14 both set human frailty against God's everlasting nature in similar terms.",
+     "q": "Read Hebrews 1:10-12, Psalm 90:1-2, and James 4:14 alongside today's psalm. How does knowing that the New Testament applies this psalm's eternity language to Jesus himself change how you read the psalmist's suffering?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"My days are consumed like smoke\" (v. 3) names a season of affliction honestly, without minimizing it.",
+     "q": "Is there a season of your own life this description fits right now, and have you brought it to God as directly as the psalmist does?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"The set time, is come\" (v. 13) suggests God's timing is deliberate even when it feels delayed.",
+     "q": "Where might the Holy Spirit be asking you to trust his timing in something you've been waiting on?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalmist pours out raw complaint before God rather than hiding it (v. 1-2).",
+     "q": "Bring to God, honestly and without polishing it, whatever burden or complaint you are currently carrying."
+    }
+   ]
+  }
+ ]
+},
+// Day 392
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A single verse holding smoke, grass, and eternity together",
+   "b": "\"They shall perish, but thou shalt endure... thou art the same, and thy years shall have no end\" (Psalm 102:26-27) closed a week that moved from Israel's harshest warnings to an afflicted psalmist's raw complaint, and let both rest on the one thing that does not change."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Deuteronomy 13's warning against prophets and even family members who entice toward idolatry, Deuteronomy 14's food laws and its triennial tithe for the Levite, stranger, fatherless, and widow, Psalm 101's resolve to set no wicked thing before his eyes, Deuteronomy 15's command to release debts and furnish freed servants liberally, Luke 12's parable of the rich fool and its call not to be anxious, and Psalm 102's cry of affliction turning to confidence in God's eternity.",
+     "q": "Which moment from the week most challenged you — the rich fool's plans undone in a single night (Luke 12:19-20), or the command to \"open thine hand wide unto thy brother, to thy poor\" (Deuteronomy 15:11)?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come\" (Psalm 102:13) closed this week's reading with hope after lament.",
+     "q": "Sit quietly for a few minutes and rest in the confidence that God's timing for you, too, is not absent even when it feels delayed."
+    }
+   ]
+  }
+ ]
+},
+// Day 393
+{
+ "ref": "Deuteronomy 16",
+ "tag": "Old Testament",
+ "api": "deuteronomy+16",
+ "sum": [
+  "Moses commands Israel to observe the month of Abib and keep the passover, eating unleavened bread for seven days — called the bread of affliction — in remembrance of their hasty departure from Egypt, and to bring their offerings only to the place the LORD chooses.",
+  "He commands the Feast of Weeks to be kept seven weeks after the sickle is first put to the corn, with a freewill offering given according to the blessing received, and the Feast of Tabernacles to be kept seven days after the ingathering, with rejoicing commanded for all — sons, daughters, servants, the Levite, the stranger, the fatherless, and the widow.",
+  "He commands that none appear before the LORD empty, each giving as he is able, and instructs Israel to appoint judges and officers in all their gates who will judge the people with just judgment, forbidding them to wrest judgment, respect persons, or take a bribe, since a gift blinds the eyes of the wise and perverts the words of the righteous.",
+  "The chapter closes with the command to follow that which is altogether just, that Israel may live and inherit the land, and forbids planting any grove of trees near the altar of the LORD or setting up any image, things the LORD hates."
+ ],
+ "nug": [
+  {
+   "h": "Unleavened bread deliberately named a food of affliction",
+   "b": "\"Thou shalt eat unleavened bread therewith, even the bread of affliction\" (v. 3) turns the festival meal itself into a yearly, tangible act of remembering hardship, not only deliverance."
+  },
+  {
+   "h": "Giving proportioned to blessing rather than fixed by rule",
+   "b": "\"Every man shall give as he is able, according to the blessing of the LORD thy God which he hath given thee\" (v. 17) ties the freewill offering directly to what each person has actually received."
+  },
+  {
+   "h": "Worship expected to come with something in hand",
+   "b": "\"They shall not appear before the LORD empty\" (v. 16) refuses to separate coming before God from bringing him something real."
+  },
+  {
+   "h": "A triple safeguard built around the seat of judgment",
+   "b": "\"Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift\" (v. 19) stacks three distinct protections against the ways justice most commonly gets bent."
+  },
+  {
+   "h": "Justice tied directly to the nation's continued life in the land",
+   "b": "\"That which is altogether just shalt thou follow, that thou mayest live, and inherit the land\" (v. 20) makes justice not an optional virtue but a condition of the covenant's promised future."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 12:14-20 · James 2:1-4 · Micah 6:8",
+   "qs": [
+    {
+     "th": "Exodus 12:14-20 first establishes the Passover and unleavened bread Israel is commanded here to keep, James 2:1-4 warns against the very partiality forbidden in verse 19, and Micah 6:8 later summarizes the whole law's ethical heart as doing justly.",
+     "q": "Read Exodus 12:14-20, James 2:1-4, and Micah 6:8 alongside today's chapter. What connects a festival calendar, a warning against favouritism, and a call to justice into a single, coherent picture of what it means to belong to God?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Every man shall give as he is able, according to the blessing of the LORD thy God\" (v. 17) ties giving to what has actually been received.",
+     "q": "Does your own giving reflect what you have actually been given, or has it settled into a fixed habit disconnected from gratitude?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Thou shalt not respect persons, neither take a gift\" (v. 19) warns against letting influence bend fairness.",
+     "q": "Where might the Holy Spirit be showing you a place where you've quietly favoured someone, or something, in a way that isn't just?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Feast of Tabernacles is commanded with the words \"thou shalt surely rejoice\" (v. 15).",
+     "q": "Spend a few minutes in simple, glad praise, letting the command to rejoice shape your prayer today."
+    }
+   ]
+  }
+ ]
+},
+// Day 394
+{
+ "ref": "Deuteronomy 17",
+ "tag": "Old Testament",
+ "api": "deuteronomy+17",
+ "sum": [
+  "Moses forbids sacrificing to the LORD any bullock or sheep with a blemish, calling it an abomination, then addresses the case of a man or woman found serving other gods, commanding a diligent inquiry and requiring the testimony of two or three witnesses before anyone is put to death, with the witnesses' own hands first upon the accused.",
+  "He instructs that any matter too hard for local judgment — controversies of judgment, cases of blood, or disputes within the gates — be brought to the priests and the judge at the place the LORD chooses, and that whoever acts presumptuously and refuses to hearken to their sentence must die, so that evil is put away from Israel.",
+  "He gives instructions for a future king, commanding that he be chosen from among Israel's own brethren rather than a stranger, that he not multiply horses to himself or cause the people to return to Egypt to get them, and that he not multiply wives to himself, lest his heart turn away, nor greatly multiply silver and gold.",
+  "The chapter closes with the command that the king write for himself a copy of the law in a book, reading it all the days of his life so that he may learn to fear the LORD, keep all his words, and not let his heart be lifted up above his brethren."
+ ],
+ "nug": [
+  {
+   "h": "Blemished offerings named an abomination, not a minor lapse",
+   "b": "\"Thou shalt not sacrifice unto the LORD thy God any bullock, or sheep, wherein is blemish, or any evilfavouredness: for that is an abomination\" (v. 1) insists the quality of what is offered matters, not merely that an offering was made."
+  },
+  {
+   "h": "A death sentence requiring more than one accuser",
+   "b": "\"At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death\" (v. 6) builds a safeguard against a single, unverified accusation ending a life."
+  },
+  {
+   "h": "Witnesses made to bear direct responsibility for their testimony",
+   "b": "\"The hands of the witnesses shall be first upon him to put him to death\" (v. 7) refuses to let anyone accuse from a safe distance."
+  },
+  {
+   "h": "A future king restrained from the very things that undo kings",
+   "b": "\"He shall not multiply horses to himself... neither shall he multiply wives to himself... nor greatly multiply silver and gold\" (v. 16-17) names, centuries in advance, the exact pattern later kings would fail to resist."
+  },
+  {
+   "h": "A daily discipline meant to keep a king humble",
+   "b": "\"He shall write him a copy of this law... that he may learn to fear the LORD... that his heart be not lifted up above his brethren\" (v. 18-20) ties the king's ongoing reading of the law directly to guarding against pride."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Kings 11:1-4 · Matthew 18:16 · John 8:17",
+   "qs": [
+    {
+     "th": "1 Kings 11:1-4 records Solomon breaking every one of the king's restrictions named here — multiplying horses, wives, and gold — while Matthew 18:16 and John 8:17 both carry forward the principle of two or three witnesses into New Testament practice.",
+     "q": "Read 1 Kings 11:1-4, Matthew 18:16, and John 8:17 alongside today's chapter. What does it suggest that a law meant to protect a king from himself was later broken in precisely the ways it warned against?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The king was commanded to read the law daily \"that his heart be not lifted up above his brethren\" (v. 20).",
+     "q": "What regular practice in your own life functions like this — something that keeps you humble rather than letting position or success quietly go to your head?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The king is warned against multiplying horses, wives, and silver and gold — good things pursued to excess (v. 16-17).",
+     "q": "Is there a good thing in your own life the Holy Spirit might be asking you to hold more loosely, before it becomes an excess?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chapter sets high standards for judges and kings entrusted with authority over others (v. 9, 18-20).",
+     "q": "Pray for leaders and those in authority over you, that they would be kept humble and just rather than corrupted by their position."
+    }
+   ]
+  }
+ ]
+},
+// Day 395
+{
+ "ref": "Psalm 105",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+105",
+ "sum": [
+  "The psalmist calls Israel to give thanks unto the LORD, call upon his name, make known his deeds among the people, and seek the LORD and his face evermore, remembering the marvellous works and judgments of his mouth.",
+  "He recounts the covenant made with Abraham, confirmed to Isaac and Jacob as an everlasting covenant, then tells how Joseph was sold as a servant and laid in iron fetters until the king sent and loosed him and made him lord of his house and ruler of all his substance.",
+  "He recounts how Israel came into Egypt and multiplied greatly, how the LORD sent Moses and Aaron and worked wonders and plagues against Egypt — darkness, blood, frogs, flies, hail, locusts, and the death of the firstborn — until Egypt was glad when Israel departed.",
+  "He recounts how the LORD brought Israel out with silver and gold with not one feeble person among their tribes, spread a cloud for covering and fire for light, fed them with quails and manna, and opened the rock so that waters gushed out, closing with the declaration that he remembered his holy promise and Abraham his servant."
+ ],
+ "nug": [
+  {
+   "h": "A call to continuous, not occasional, seeking",
+   "b": "\"Seek the LORD, and his strength: seek his face evermore\" (v. 4) frames devotion as an ongoing pursuit rather than a task completed once."
+  },
+  {
+   "h": "Suffering endured until an appointed word arrived",
+   "b": "\"Whose feet they hurt with fetters: he was laid in iron: Until the time that his word came\" (v. 18-19) recalls Joseph's affliction as bounded by a set moment of vindication, not open-ended."
+  },
+  {
+   "h": "A striking detail of national strength at the exodus",
+   "b": "\"There was not one feeble person among their tribes\" (v. 37) notes, almost in passing, a remarkable sign of God's provision amid a mass departure."
+  },
+  {
+   "h": "Shade and light provided at the same time",
+   "b": "\"He spread a cloud for a covering; and fire to give light in the night\" (v. 39) pictures God meeting two different needs — shelter by day, guidance by night — without Israel having to ask for either separately."
+  },
+  {
+   "h": "An entire history retold around a single motive",
+   "b": "\"For he remembered his holy promise, and Abraham his servant\" (v. 42) closes the psalm by tying every event just recounted back to one unbroken thread — God's promise-keeping."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 15:13-14 · Genesis 41:41-44 · Exodus 12:35-37",
+   "qs": [
+    {
+     "th": "Genesis 15:13-14 records God foretelling Israel's bondage and eventual departure with great substance long before it happened, Genesis 41:41-44 describes Joseph's sudden exaltation, and Exodus 12:35-37 records the actual departure with silver, gold, and the multitude this psalm celebrates.",
+     "q": "Read Genesis 15:13-14, Genesis 41:41-44, and Exodus 12:35-37 alongside today's psalm. How does seeing the original events alongside this later song of thanksgiving shape how you look back on promises fulfilled in your own life?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Until the time that his word came\" (v. 19) describes Joseph's long wait before vindication.",
+     "q": "Is there a long-standing wait in your own life you need to entrust to God's timing, the way Joseph's suffering was bounded by an appointed word?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Seek the LORD, and his strength: seek his face evermore\" (v. 4) calls for continuous seeking.",
+     "q": "Where might the Holy Spirit be inviting you into a more continuous, rather than occasional, pattern of seeking God?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The whole psalm is thanksgiving for God remembering \"his holy promise, and Abraham his servant\" (v. 42).",
+     "q": "Give thanks for a specific promise or provision of God's you can trace through your own life, as this psalm traces Israel's."
+    }
+   ]
+  }
+ ]
+},
+// Day 396
+{
+ "ref": "Deuteronomy 18",
+ "tag": "Old Testament",
+ "api": "deuteronomy+18",
+ "sum": [
+  "Moses instructs that the Levites have no inheritance of land among their brethren, since the LORD himself is their inheritance, and lists the priest's due from the people's sacrifices as well as the firstfruits they are owed.",
+  "He forbids Israel from any of the detestable practices of the nations — passing children through fire, divination, observing times, enchantment, witchcraft, charming, consulting familiar spirits, wizardry, or necromancy — declaring that the nations hearkened to such things but the LORD has not allowed Israel to do so.",
+  "He promises instead that the LORD will raise up a Prophet from among Israel's own brethren, like Moses, to whom the people must hearken, since God will put his words in that Prophet's mouth and will himself require it of whoever refuses to listen.",
+  "The chapter closes by giving Israel a test for prophets who speak presumptuously in the LORD's name — if the thing spoken does not come to pass, that is the sign the LORD did not speak it, and such a prophet is not to be feared."
+ ],
+ "nug": [
+  {
+   "h": "An inheritance defined by relationship, not land",
+   "b": "\"The LORD is their inheritance, as he hath said unto them\" (v. 2) gives the Levites an identity rooted entirely in God himself rather than in territory."
+  },
+  {
+   "h": "A comprehensive list culminating in necromancy",
+   "b": "\"A charmer, or a consulter with familiar spirits, or a wizard, or a necromancer\" (v. 11) catalogues nearly every way people sought hidden knowledge apart from God, closing on the most extreme practice of all."
+  },
+  {
+   "h": "A distinct calling explained by revelation, not superiority",
+   "b": "\"These nations... hearkened unto observers of times, and unto diviners: but as for thee, the LORD thy God hath not suffered thee so to do\" (v. 14) grounds Israel's difference in what God has spoken, not in Israel's own merit."
+  },
+  {
+   "h": "A promised Prophet who speaks only what he is given",
+   "b": "\"I will put my words in his mouth; and he shall speak unto them all that I shall command him\" (v. 18) anticipates a coming figure whose authority rests entirely on faithfully relaying God's own word."
+  },
+  {
+   "h": "A concrete, falsifiable test for false prophecy",
+   "b": "\"If the thing follow not, nor come to pass, that is the thing which the LORD hath not spoken\" (v. 22) gives Israel a plain, checkable standard rather than leaving the question to guesswork."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Acts 3:22-23 · John 5:46 · 1 Samuel 28:7-8",
+   "qs": [
+    {
+     "th": "Peter directly applies today's promise of a coming Prophet to Jesus in Acts 3:22-23, Jesus himself says Moses \"wrote of me\" in John 5:46, and 1 Samuel 28:7-8 shows Saul later breaking the very prohibition against necromancy named in verse 11 by consulting the witch of Endor.",
+     "q": "Read Acts 3:22-23, John 5:46, and 1 Samuel 28:7-8 alongside today's chapter. How does seeing both the fulfilled promise and the broken prohibition sharpen your sense of what it means to \"hearken\" to God's appointed voice?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chapter forbids seeking hidden knowledge through divination, charming, or consulting familiar spirits (v. 10-11).",
+     "q": "Where, even in subtle or modern forms, might you be tempted to seek certainty or guidance apart from God rather than through him?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Unto him ye shall hearken\" (v. 15) calls for active listening to God's appointed voice.",
+     "q": "What would it look like this week to actually hearken — not just hear, but obey — what the Holy Spirit is already saying to you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The promised Prophet would \"speak unto them all that I shall command him\" (v. 18), a picture of complete attentiveness to God's word.",
+     "q": "Sit quietly for a few minutes, simply listening, before asking God for anything at all."
+    }
+   ]
+  }
+ ]
+},
+// Day 397
+{
+ "ref": "Luke 13",
+ "tag": "New Testament",
+ "api": "luke+13",
+ "sum": [
+  "Jesus responds to news of Galileans killed by Pilate and eighteen killed when the tower of Siloam fell by insisting they were no worse sinners than anyone else, warning twice that all will likewise perish unless they repent, then tells the parable of a barren fig tree given one more year before it is cut down.",
+  "He heals a woman who had been bent over by a spirit of infirmity for eighteen years on the sabbath, defending the act against the ruler of the synagogue by asking whether this daughter of Abraham ought not to be loosed from her bond on the sabbath day, then compares the kingdom of God to a mustard seed that grows into a great tree and to leaven hidden in three measures of meal.",
+  "He teaches on the way toward Jerusalem that many will seek to enter the narrow door and not be able, warning that some who ate and drank in his presence and heard him teach will nonetheless be told, \"I know you not whence ye are,\" while others from east and west sit down in the kingdom of God.",
+  "When warned that Herod, called \"that fox,\" seeks to kill him, Jesus presses on toward Jerusalem, then laments over the city that kills the prophets, longing to have gathered its children as a hen gathers her brood under her wings, though they would not."
+ ],
+ "nug": [
+  {
+   "h": "Tragedy refused as proof of others' greater guilt",
+   "b": "\"Except ye repent, ye shall all likewise perish\" (v. 3, 5) is repeated twice, redirecting attention away from ranking sinners and toward each listener's own need."
+  },
+  {
+   "h": "Patient mercy given one specific, limited extension",
+   "b": "\"Lord, let it alone this year also, till I shall dig about it, and dung it\" (v. 8) pictures grace as real but not indefinite, marked by a set, generous window rather than an open-ended delay."
+  },
+  {
+   "h": "The sabbath reframed as fitting for release, not just rest",
+   "b": "\"Ought not this woman... be loosed from this bond on the sabbath day?\" (v. 16) argues that setting someone free is entirely consistent with, rather than opposed to, the day's purpose."
+  },
+  {
+   "h": "Entry described as requiring effort, not assumed by proximity",
+   "b": "\"Strive to enter in at the strait gate: for many... will seek to enter in, and shall not be able\" (v. 24) warns that nearness to Jesus's teaching is not the same as entry into his kingdom."
+  },
+  {
+   "h": "A longing met with refusal, pictured in maternal imagery",
+   "b": "\"How often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!\" (v. 34) gives voice to God's desire for a people who would not be gathered."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Matthew 7:13-14 · Matthew 23:37 · Romans 2:4",
+   "qs": [
+    {
+     "th": "Matthew 7:13-14 carries the same strait-gate image found in verse 24, Matthew 23:37 records this exact lament over Jerusalem almost word for word, and Romans 2:4 explains that it is the goodness of God, not merely warning, that leads people to repentance.",
+     "q": "Read Matthew 7:13-14, Matthew 23:37, and Romans 2:4 alongside today's chapter. How do these passages together shape the balance between urgency and mercy in Jesus's call to repent?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The fig tree is given one more year of patient care before judgment (v. 8-9).",
+     "q": "Where in your own life has God shown you this kind of patient extension, and how have you responded to it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Ought not this woman... be loosed from this bond\" (v. 16) reframes a rigid rule around compassion for a person in bondage.",
+     "q": "Is there a place where the Holy Spirit might be asking you to prioritize compassion for someone over strict adherence to a rule or habit?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"How often would I have gathered thy children together... and ye would not!\" (v. 34) expresses God's longing for people who resist him.",
+     "q": "Bring before God someone you know who has resisted him, asking that they would be gathered rather than continue to refuse."
+    }
+   ]
+  }
+ ]
+},
+// Day 398
+{
+ "ref": "Psalm 106",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+106",
+ "sum": [
+  "The psalmist opens in praise, declaring that the LORD is good and his mercy endures forever, before confessing that Israel — like their fathers — has sinned and committed iniquity, failing to understand God's wonders even at the Red Sea, which he nonetheless dried up to save them.",
+  "He recounts Israel's repeated rebellions — the golden calf made at Horeb, where they changed their glory into the likeness of a grass-eating ox, the refusal to believe God's word and enter the pleasant land at Kadesh-barnea, and the joining to Baal-peor, where they ate sacrifices of the dead until Phinehas stood up and executed judgment and the plague was stayed.",
+  "He recalls further failures — provoking Moses at the waters of Meribah so that he spoke unadvisedly, failing to destroy the nations as commanded and instead learning their works, intermarrying with them, serving their idols, and even sacrificing their own sons and daughters to devils, so that the land was polluted with blood.",
+  "The psalm closes by describing the LORD's anger kindled against his people and their repeated deliverance and rebellion in the land, yet declares that he regarded their affliction when he heard their cry and remembered for them his covenant, repenting according to the multitude of his mercies, and calls on Israel to gather in thanks and glory in his praise."
+ ],
+ "nug": [
+  {
+   "h": "Praise and confession opened in the very same breath",
+   "b": "\"O give thanks unto the LORD; for he is good: for his mercy endureth for ever\" (v. 1) begins a psalm that becomes an extended confession, framing honest failure within unwavering mercy."
+  },
+  {
+   "h": "Glory traded for the likeness of a grass-eating ox",
+   "b": "\"They changed their glory into the similitude of an ox that eateth grass\" (v. 20) gives a stark, almost embarrassing picture of what the golden calf actually amounted to."
+  },
+  {
+   "h": "Unbelief named as the root cause of forfeited inheritance",
+   "b": "\"They despised the pleasant land, they believed not his word\" (v. 24) traces Israel's failure at Kadesh-barnea back to a failure of trust, not merely of courage."
+  },
+  {
+   "h": "One decisive act halting a national plague",
+   "b": "\"Then stood up Phinehas, and executed judgment: and so the plague was stayed\" (v. 30) shows a single, immediate response averting widespread judgment."
+  },
+  {
+   "h": "Mercy given the final word after a long list of failures",
+   "b": "\"He regarded their affliction, when he heard their cry: And he remembered for them his covenant\" (v. 44-45) closes the psalm by letting compassion, not condemnation, have the last say."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 14:1-4 · Numbers 25:6-8 · 1 Corinthians 10:6-11",
+   "qs": [
+    {
+     "th": "Numbers 14:1-4 records the actual rebellion at Kadesh-barnea this psalm recalls, Numbers 25:6-8 records Phinehas's act firsthand, and Paul explains in 1 Corinthians 10:6-11 that these very events \"happened unto them for ensamples\" and were written for later believers' instruction.",
+     "q": "Read Numbers 14:1-4, Numbers 25:6-8, and 1 Corinthians 10:6-11 alongside today's psalm. What does Paul's use of these old failures as warnings for the church suggest about how you should read this psalm's confessions today?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"They despised the pleasant land, they believed not his word\" (v. 24) traces failure back to unbelief.",
+     "q": "Is there a promise or provision of God you find yourself despising or doubting rather than trusting right now?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The psalm recounts a pattern of forgetting God's works soon after experiencing them (v. 13).",
+     "q": "Where might the Holy Spirit be reminding you of something God has already done that you've begun to forget or take for granted?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"We have sinned with our fathers, we have committed iniquity, we have done wickedly\" (v. 6) models honest, corporate confession.",
+     "q": "Confess honestly to God any pattern of rebellion or forgetfulness this psalm has brought to mind in your own life."
+    }
+   ]
+  }
+ ]
+},
+// Day 399
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A whole psalm of failure resting on one closing mercy",
+   "b": "\"He regarded their affliction, when he heard their cry: And he remembered for them his covenant\" (Psalm 106:44-45) let a week that moved through law, prophecy, and repeated rebellion end not in condemnation but in God's own remembering."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Deuteronomy 16's three pilgrim feasts and command to pursue justice, Deuteronomy 17's laws for witnesses and for a future king, Psalm 105's thanksgiving for God's remembered promises to Abraham, Deuteronomy 18's promise of a coming Prophet like Moses, Luke 13's call to repent and its lament over Jerusalem, and Psalm 106's honest confession of Israel's repeated rebellion.",
+     "q": "Which moment from the week most challenged you — the promised Prophet to whom Israel \"shall hearken\" (Deuteronomy 18:15), or the warning \"except ye repent, ye shall all likewise perish\" (Luke 13:3)?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"He regarded their affliction, when he heard their cry: And he remembered for them his covenant\" (Psalm 106:44-45) closed this week's reading in mercy.",
+     "q": "Sit quietly for a few minutes and rest in the knowledge that God remembers his covenant with you even amid your own failures."
+    }
+   ]
+  }
+ ]
+},
+// Day 400
+{
+ "ref": "Deuteronomy 19",
+ "tag": "Old Testament",
+ "api": "deuteronomy+19",
+ "sum": [
+  "Moses commands Israel to separate three cities of refuge once they possess the land, so that a manslayer who kills his neighbour unintentionally — such as an axe head slipping from its handle and killing a companion — may flee there and live, and instructs that three more cities be added if the LORD enlarges their border, so that innocent blood is not shed.",
+  "He forbids this refuge to a premeditated murderer who hates his neighbour and lies in wait to kill him, commanding that the elders deliver such a man to the avenger of blood to die, with no pity shown, so that innocent blood is put away from Israel.",
+  "He forbids removing a neighbour's landmark set by those of old time, and requires that no single witness rise up against a man for any sin, but that every matter be established at the mouth of two or three witnesses.",
+  "The chapter closes with instructions for dealing with a false witness — judges are to make diligent inquisition, and if the witness is found false, he is to receive the very penalty he intended for his brother, so that others hear and fear, summarized as life for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
+ ],
+ "nug": [
+  {
+   "h": "A law that distinguishes accident from hatred",
+   "b": "\"Whoso killeth his neighbour ignorantly, whom he hated not in time past\" (v. 4) carefully separates unintentional killing from murder before any punishment is considered."
+  },
+  {
+   "h": "An axe head grounding the law in ordinary life",
+   "b": "The example of an axe head that \"slippeth from the helve, and lighteth upon his neighbour, that he die\" (v. 5) roots an abstract legal category in a scene anyone working with tools could picture."
+  },
+  {
+   "h": "No pity extended to premeditated murder",
+   "b": "\"Thine eye shall not pity him\" (v. 13) makes clear that refuge exists for the innocent, never as a loophole for the guilty."
+  },
+  {
+   "h": "Ancient boundaries protected as a quiet form of theft",
+   "b": "\"Thou shalt not remove thy neighbour's landmark, which they of old time have set\" (v. 14) guards against a slow, easily hidden way of stealing land."
+  },
+  {
+   "h": "A false witness sentenced to the harm he intended",
+   "b": "\"Then shall ye do unto him, as he had thought to have done unto his brother\" (v. 19) fits the punishment to the intended harm rather than to any actual outcome."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 35:9-15 · Hebrews 6:18 · Proverbs 22:28",
+   "qs": [
+    {
+     "th": "Numbers 35:9-15 first establishes the cities of refuge this chapter expands, Hebrews 6:18 pictures believers who \"fled for refuge\" to lay hold of hope in Christ, and Proverbs 22:28 repeats the exact warning against removing an ancient landmark.",
+     "q": "Read Numbers 35:9-15, Hebrews 6:18, and Proverbs 22:28 alongside today's chapter. How does the image of a physical city of refuge deepen your understanding of what it means to find refuge in Christ?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The law distinguishes carefully between unintentional harm and premeditated hatred (v. 4, 11-13).",
+     "q": "Is there a way you tend to judge yourself or others by outcome alone, without pausing to consider intent the way this law does?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The requirement of two or three witnesses (v. 15) guards against hasty or unverified judgment.",
+     "q": "Where might the Holy Spirit be asking you to slow down and verify before drawing a conclusion about someone?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The cities of refuge existed \"so that innocent blood be not shed in thy land\" (v. 10).",
+     "q": "Give thanks for the refuge God has provided for you, and for the protection his justice offers to the innocent."
+    }
+   ]
+  }
+ ]
+},
+// Day 401
+{
+ "ref": "Deuteronomy 20",
+ "tag": "Old Testament",
+ "api": "deuteronomy+20",
+ "sum": [
+  "Moses instructs Israel that when they go out to battle and see horses, chariots, and a people more numerous than themselves, they are not to be afraid, for the LORD their God who brought them out of Egypt is with them, and commands a priest to exhort the army before the battle begins.",
+  "The priest is to tell the people not to let their hearts faint or tremble, while officers announce exemptions for anyone who has built a new house not yet dedicated, planted a vineyard not yet eaten of, betrothed a wife not yet married, or who is simply fearful and fainthearted, lest his fear spread to his brethren.",
+  "Moses instructs that before besieging a city, Israel must first proclaim peace to it; if it accepts, its people become tributaries, but if it refuses and fights, every male is to be smitten while the women, children, and cattle are taken as spoil — though the cities of the nations given as an inheritance are to be left with nothing that breathes.",
+  "The chapter closes with a command that even in a long siege, Israel must not destroy the fruit trees of a city by cutting them down, since the tree of the field is man's life, though trees not used for food may be used to build siege works."
+ ],
+ "nug": [
+  {
+   "h": "Fear countered by remembering past deliverance",
+   "b": "\"Be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt\" (v. 1) grounds courage in a specific memory rather than a vague reassurance."
+  },
+  {
+   "h": "A triple-stacked charge against fear before battle",
+   "b": "\"Let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them\" (v. 3) piles up near-synonyms, as if fear needed to be addressed from every angle at once."
+  },
+  {
+   "h": "Fear treated as contagious, and mercifully managed",
+   "b": "\"What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren's heart faint as well as his heart\" (v. 8) sends the fearful home not in shame but to protect the courage of others."
+  },
+  {
+   "h": "Even the harshest law opens with an offer of peace",
+   "b": "The command to \"proclaim peace unto it\" (v. 10) before any siege begins shows that war, in this law, is never the first resort."
+  },
+  {
+   "h": "Environmental restraint built into the conduct of war",
+   "b": "\"Thou shalt not destroy the trees thereof... for the tree of the field is man's life\" (v. 19) protects a future food source even in the midst of present conflict."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Judges 7:2-3 · 2 Chronicles 20:15 · Matthew 5:9",
+   "qs": [
+    {
+     "th": "Judges 7:2-3 shows Gideon later applying this very exemption by sending the fearful home before battle, 2 Chronicles 20:15 declares that \"the battle is not yours, but God's,\" and Matthew 5:9 blesses the peacemakers, echoing this chapter's insistence on offering peace first.",
+     "q": "Read Judges 7:2-3, 2 Chronicles 20:15, and Matthew 5:9 alongside today's chapter. What connects a law about warfare to Jesus's blessing on peacemakers?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Let not your hearts faint, fear not, and do not tremble\" (v. 3) addresses fear directly and repeatedly.",
+     "q": "What situation in your own life could use this same repeated, deliberate charge against fear rather than a single quick reassurance?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The fearful soldier is sent home so his fear does not spread to others (v. 8).",
+     "q": "Is there a fear you're carrying that the Holy Spirit might want to address before it quietly affects those around you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The priest's role was to speak courage over the people before battle (v. 2-4).",
+     "q": "Pray for someone you know who is facing a fearful situation right now, asking God to steady their heart the way the priest steadied Israel's."
+    }
+   ]
+  }
+ ]
+},
+// Day 402
+{
+ "ref": "Psalm 108",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+108",
+ "sum": [
+  "David declares that his heart is fixed and resolves to sing and give praise even with his glory, calling on the psaltery and harp to awake as he himself awakes early, promising to praise the LORD among the people and sing unto him among the nations.",
+  "He declares that God's mercy is great above the heavens and his truth reaches unto the clouds, and prays that God be exalted above the heavens and his glory above all the earth, so that his beloved may be delivered.",
+  "He recounts God speaking in his holiness, dividing Shechem and measuring out the valley of Succoth, claiming Gilead, Manasseh, and Ephraim as the strength of his head and Judah as his lawgiver, while naming Moab his washpot, casting his shoe over Edom, and shouting in triumph over Philistia.",
+  "The psalm closes by asking who will bring him into the strong city and lead him into Edom, admitting that God alone can give help, since human help is vain, and declares that through God Israel will do valiantly, for he it is who will tread down their enemies."
+ ],
+ "nug": [
+  {
+   "h": "A settled resolve preceding the song itself",
+   "b": "\"O God, my heart is fixed; I will sing and give praise, even with my glory\" (v. 1) shows praise following a prior decision of the heart, not a fluctuating mood."
+  },
+  {
+   "h": "A deliberate discipline of early praise",
+   "b": "\"Awake, psaltery and harp: I myself will awake early\" (v. 2) makes rising early to praise a chosen habit rather than something that simply happens."
+  },
+  {
+   "h": "Vast imagery for the scale of God's character",
+   "b": "\"Thy mercy is great above the heavens: and thy truth reacheth unto the clouds\" (v. 4) reaches for the sky itself to measure something that ultimately exceeds it."
+  },
+  {
+   "h": "Startling, almost dismissive imagery of sovereignty over enemies",
+   "b": "\"Moab is my washpot; over Edom will I cast out my shoe\" (v. 9) pictures hostile nations reduced to the status of ordinary household objects under God's rule."
+  },
+  {
+   "h": "Human help named vain before divine help is claimed",
+   "b": "\"Give us help from trouble: for vain is the help of man. Through God we shall do valiantly\" (v. 12-13) states plainly what all the preceding praise has been building toward."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 57:7-11 · Psalm 60:6-12 · Romans 8:31",
+   "qs": [
+    {
+     "th": "This psalm is drawn almost entirely from Psalm 57:7-11 and Psalm 60:6-12, two earlier psalms David wrote in very different circumstances, now joined into one song, while Romans 8:31 asks the same question this psalm answers — if God is for us, who can be against us.",
+     "q": "Read Psalm 57:7-11, Psalm 60:6-12, and Romans 8:31 alongside today's psalm. What might it mean that David combined two older songs from different seasons of his life into this one new psalm of confidence?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"O God, my heart is fixed\" (v. 1) describes a settled resolve rather than a passing feeling.",
+     "q": "Is your own praise more often a fixed resolve or dependent on your mood in the moment — and what would it take to make it more the former?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I myself will awake early\" (v. 2) shows a deliberate choice to prioritize praise.",
+     "q": "Where might the Holy Spirit be inviting you to build a more deliberate rhythm of praise into your day?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Thy mercy is great above the heavens: and thy truth reacheth unto the clouds\" (v. 4).",
+     "q": "Spend a few minutes praising God simply for the vastness of his mercy and truth, without asking for anything yet."
+    }
+   ]
+  }
+ ]
+},
+// Day 403
+{
+ "ref": "Deuteronomy 21",
+ "tag": "Old Testament",
+ "api": "deuteronomy+21",
+ "sum": [
+  "Moses instructs that if a slain body is found in a field with the killer unknown, the elders of the nearest city must take a heifer that has never been worked, break its neck in a rough, unplowed valley, and wash their hands over it, declaring that their hands did not shed the blood and pleading with the LORD to be merciful and not lay innocent blood to Israel's charge.",
+  "He instructs that a man who takes a beautiful woman captive in war and desires her as a wife must bring her home, let her shave her head, pare her nails, and mourn her father and mother a full month before he may go in unto her, and if he no longer delights in her, he must let her go free rather than sell her for money, because he has humbled her.",
+  "He instructs that a stubborn and rebellious son who will not obey his parents and is a glutton and a drunkard is to be brought before the elders at the gate and stoned by all the men of the city, so that Israel hears and fears and puts away such evil.",
+  "The chapter closes with the instruction that if a man guilty of a capital crime is hanged on a tree, his body must not remain there overnight but must be buried the same day, since he that is hanged is accursed of God and the land must not be defiled."
+ ],
+ "nug": [
+  {
+   "h": "Communal responsibility taken seriously even without a known culprit",
+   "b": "\"Our hands have not shed this blood, neither have our eyes seen it\" (v. 7) has the elders formally declare their innocence even for a crime committed by an unknown hand, refusing to let the matter simply pass unaddressed."
+  },
+  {
+   "h": "An animal that has done no work standing in for a wasted life",
+   "b": "The heifer required is one \"which hath not been wrought with, and which hath not drawn in the yoke\" (v. 3), an unused life offered in place of one unaccounted for."
+  },
+  {
+   "h": "Grief given deliberate time even in wartime",
+   "b": "The captive woman is granted \"a full month\" to \"bewail her father and her mother\" (v. 13) before anything further happens, a striking allowance of space for mourning."
+  },
+  {
+   "h": "Dignity protected even after a relationship ends",
+   "b": "\"Thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her\" (v. 14) refuses to let a woman be treated as property even once she is no longer wanted."
+  },
+  {
+   "h": "A phrase later applied directly to the cross",
+   "b": "\"He that is hanged is accursed of God\" (v. 23) becomes, centuries later, the exact language Paul uses to describe Christ's own death."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Galatians 3:13 · Numbers 35:33 · Exodus 20:12",
+   "qs": [
+    {
+     "th": "Paul quotes verse 23 directly in Galatians 3:13, declaring that Christ \"hath redeemed us from the curse of the law, being made a curse for us,\" Numbers 35:33 explains why unresolved bloodshed defiles the land, and Exodus 20:12 underlies the honour due to parents that the rebellious son had refused.",
+     "q": "Read Galatians 3:13, Numbers 35:33, and Exodus 20:12 alongside today's chapter. How does seeing Paul apply the curse of being \"hanged on a tree\" to Jesus change how you read this difficult law?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The captive woman was given \"a full month\" to grieve before anything further was required of her (v. 13).",
+     "q": "Do you tend to give yourself, or others, real space to grieve a loss before moving forward, or do you rush past it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"He that is hanged is accursed of God\" (v. 23) points forward to Christ bearing a curse that was not his own.",
+     "q": "Take a moment to let the Holy Spirit remind you what it cost for Christ to become a curse on your behalf."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The elders' hand-washing ritual involved a formal admission and plea for mercy over unresolved guilt (v. 7-8).",
+     "q": "Bring before God anything unresolved in your own life that needs this same honest naming and plea for mercy."
+    }
+   ]
+  }
+ ]
+},
+// Day 404
+{
+ "ref": "Luke 14",
+ "tag": "New Testament",
+ "api": "luke+14",
+ "sum": [
+  "Jesus heals a man with dropsy on the sabbath in the house of a chief Pharisee, defending the act by asking which of them would not pull an ox or an ass out of a pit on the sabbath day, and no one is able to answer him.",
+  "Noticing how guests chose the chief seats, he teaches that whoever is bidden to a wedding feast should sit down in the lowest room rather than the highest, since whoever exalts himself will be abased and whoever humbles himself will be exalted, and tells his host to invite the poor, maimed, lame, and blind rather than those who can repay him.",
+  "He tells the parable of a certain man who made a great supper and invited many, only to have them excuse themselves over land, oxen, and a new marriage, so the master sends his servant to bring in the poor, maimed, halt, and blind, and finally to compel others to come in that his house may be filled.",
+  "Turning to the great crowds following him, Jesus teaches the cost of discipleship — that whoever does not, by comparison, hate father, mother, and even his own life cannot be his disciple, that one must count the cost like a builder or a king before battle, and that a disciple must forsake all, closing with the warning that salt which has lost its savour is good for nothing."
+ ],
+ "nug": [
+  {
+   "h": "A practical question left unanswered",
+   "b": "\"Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?\" (v. 5) argues from common, everyday compassion straight into the sabbath healing no one present could dispute."
+  },
+  {
+   "h": "A reversal principle drawn from ordinary table manners",
+   "b": "\"Whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted\" (v. 11) turns simple wedding-feast seating etiquette into a statement about the whole shape of God's kingdom."
+  },
+  {
+   "h": "Legitimate concerns becoming reasons for refusal",
+   "b": "The excuses of newly bought land, five yoke of oxen, and a new marriage (v. 18-20) show ordinary, even reasonable commitments quietly displacing an invitation."
+  },
+  {
+   "h": "Urgency behind an open invitation",
+   "b": "\"Compel them to come in, that my house may be filled\" (v. 23) shows the master's determination to fill the table after the first guests refuse."
+  },
+  {
+   "h": "A stark, total claim paired with a warning about uselessness",
+   "b": "\"Whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple\" (v. 33), followed immediately by the image of salt that has \"lost his savour\" (v. 34), presses the cost of following Jesus without softening it."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Matthew 22:1-14 · Luke 9:23 · Proverbs 25:6-7",
+   "qs": [
+    {
+     "th": "Matthew 22:1-14 records a parallel parable of a wedding feast met with excuses and refusal, Luke 9:23 records Jesus's earlier call to take up the cross daily, and Proverbs 25:6-7 already counselled not to take the highest room before a great man, the very wisdom Jesus builds on in verse 8-10.",
+     "q": "Read Matthew 22:1-14, Luke 9:23, and Proverbs 25:6-7 alongside today's chapter. How does seeing this teaching repeated and rooted in older wisdom shape your sense of how seriously Jesus means the cost of discipleship?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The excuses in the parable were land, oxen, and marriage — ordinary, legitimate commitments (v. 18-20).",
+     "q": "What ordinary, even legitimate commitment in your own life most often crowds out your response to God's invitation?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus calls his followers to \"count the cost\" before committing, like a builder or a king (v. 28-32).",
+     "q": "Take a moment to honestly count the cost of following Jesus in your current season — what is he actually asking of you?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple\" (v. 33) is a weighty, total claim.",
+     "q": "Sit quietly with this claim for a few minutes, simply listening for what God might want to say to you about it, without rushing to respond."
+    }
+   ]
+  }
+ ]
+},
+// Day 405
+{
+ "ref": "Psalm 109",
+ "tag": "Psalms & Wisdom",
+ "api": "psalms+109",
+ "sum": [
+  "David cries out for God not to hold his peace, describing enemies who have spoken against him with a lying tongue, compassed him about with hateful words, and fought against him without cause, rewarding his love with accusation and his good with evil.",
+  "He prays a series of imprecations against a chief accuser — that his days be few and another take his office, that his children be fatherless and his wife a widow, and that none extend mercy to him — explaining that this man never remembered to show mercy but persecuted the poor and needy and the brokenhearted.",
+  "He turns from these curses to plead with God directly, asking him to act for his name's sake because his mercy is good, describing himself as poor and needy with a heart wounded within him, passing away like a shadow and tossed about like a locust.",
+  "The psalm closes with a vow to greatly praise the LORD with his mouth among the multitude, declaring confidence that God will stand at the right hand of the poor to save him from those who condemn his soul."
+ ],
+ "nug": [
+  {
+   "h": "Prayer chosen as the response to betrayal",
+   "b": "\"For my love they are my adversaries: but I give myself unto prayer\" (v. 4) shows David turning to prayer — not silence, not retaliation — in the very act of naming his enemies' hostility."
+  },
+  {
+   "h": "A verse later applied to Judas by name",
+   "b": "\"Let his days be few; and let another take his office\" (v. 8) is the exact verse Peter quotes in Acts concerning the replacement of Judas."
+  },
+  {
+   "h": "The psalm's pivot from the enemy's fate to God's own character",
+   "b": "\"But do thou for me, O GOD the Lord, for thy name's sake: because thy mercy is good, deliver thou me\" (v. 21) shifts the entire prayer's ground from what the accuser deserves to who God is."
+  },
+  {
+   "h": "A vulnerable self-description at the psalm's centre",
+   "b": "\"I am poor and needy, and my heart is wounded within me\" (v. 22) drops the imprecatory language for a moment of plain, unguarded honesty."
+  },
+  {
+   "h": "Confidence that God takes the defendant's side",
+   "b": "\"He shall stand at the right hand of the poor, to save him from those that condemn his soul\" (v. 31) closes the psalm with assurance that God himself acts as advocate for the one being wrongly judged."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Acts 1:20 · Romans 12:19 · Psalm 35:1",
+   "qs": [
+    {
+     "th": "Peter quotes verse 8 directly in Acts 1:20 concerning the choosing of Judas's replacement, Romans 12:19 instructs believers to leave vengeance to God rather than repay evil themselves, and Psalm 35:1 offers a similar plea against unjust accusers.",
+     "q": "Read Acts 1:20, Romans 12:19, and Psalm 35:1 alongside today's psalm. How does knowing this psalm is later applied to Judas shape how you understand David's harsh words against his accuser?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"For my love they are my adversaries: but I give myself unto prayer\" (v. 4) shows David praying rather than retaliating when wronged.",
+     "q": "When someone has repaid your good with evil, is prayer usually your first response, or does it come only after other reactions have failed?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I am poor and needy, and my heart is wounded within me\" (v. 22) is a moment of raw honesty before God.",
+     "q": "Is there a wound you've been guarding rather than bringing honestly before God, the way David does here?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David ultimately leaves judgment of his accuser to God, asking instead for his own deliverance (v. 21, 31).",
+     "q": "Bring before God any situation where you're tempted to seek justice yourself, and ask him instead to act on your behalf."
+    }
+   ]
+  }
+ ]
+},
+// Day 406
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A washpot and a shoe used to picture total sovereignty",
+   "b": "\"Moab is my washpot; over Edom will I cast out my shoe\" (Psalm 108:9) closed a week that moved through refuge, warfare, and costly discipleship with a striking reminder that no hostile power lies outside God's rule."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week moved through Deuteronomy 19's cities of refuge and law of witnesses, Deuteronomy 20's instructions for warfare and its exemptions for the fearful, Psalm 108's fixed heart of praise, Deuteronomy 21's rituals for unsolved murder and the rebellious son, Luke 14's teaching on humility and the cost of discipleship, and Psalm 109's imprecatory prayer turning to trust in God's mercy.",
+     "q": "Which moment from the week most challenged you — the warning that \"whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple\" (Luke 14:33), or the elders' plea \"lay not innocent blood unto thy people Israel's charge\" (Deuteronomy 21:8)?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"He shall stand at the right hand of the poor, to save him from those that condemn his soul\" (Psalm 109:31) closed this week's reading in confidence.",
+     "q": "Sit quietly for a few minutes and rest in the assurance that God stands ready to help you, whatever this week has stirred up."
+    }
+   ]
+  }
+ ]
+},
 ];
