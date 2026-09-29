@@ -305,6 +305,15 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - Reference recognition covers all 66 books (including the numbered ones — "1 John" vs "2 John" vs "3 John" vs plain "John" — and the five single-chapter books, where a citation like "Jude 14" is correctly read as chapter 1, verse 14). Checked against every reference in the full 365-day Year 1 dataset (2,271 in total) with no misreads.
 - Purely additive — no change to the day-object schema, and nothing about the existing daily-study flow, audio, or progress-saving changed.
 
+### Year 2 begins — days 366–385 built (v21)
+- `data-year2.js` now holds its first 20 days — the opening three weeks of Year 2, immediately continuing on from Year 1's close at Deuteronomy 4.
+- **OT track:** Deuteronomy 5 → Deuteronomy 12 — the Ten Commandments restated, the Shema ("Hear, O Israel: The LORD our God is one LORD"), warnings against the nations and intermarriage, the manna and "man doth not live by bread only" recalled, the golden calf remembered from Moses' own vantage point, the second tablets and the call to "circumcise therefore the foreskin of your heart," and the command to worship at one place only.
+- **NT track:** Luke 9 → Luke 11 — the feeding of the five thousand, Peter's confession, the Transfiguration, the boy freed from a spirit, "which of them should be greatest," the cost of following Jesus, the sending of the seventy, the Good Samaritan, Mary and Martha, the Lord's Prayer, the friend at midnight, and the Beelzebub controversy.
+- **Psalms & Wisdom track:** Psalms 93, 94, 96, 97, 98, 99 — six of the "the LORD reigneth" enthronement psalms, continuing on from where Year 1 left off in the Psalter.
+- Day 366, the very first day of Year 2, carries one small, understated nod to the new year beginning (drawn from Deuteronomy 5:3, "with us, even us, who are all of us here alive this day"); every day after it returns to the ordinary rhythm.
+- Every KJV quote used in these 20 days was checked directly against the live text (bible-api.com) before deploying, and the whole app's cross-reference auto-linking was re-validated across all 385 days now built (2,418 references total) with zero misreads.
+- **Not built yet (as of v21):** the rest of Year 2 (days 386–730), calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
+
 ### Images (v5) — kept in `data-images.js`
 - `data-images.js` — `const IMAGES={hero, passage, nuggets, prayer}`. Each entry is `{src, alt, pos?}`: `src` is the image embedded as a data URI (WebP, 1400px wide, about 700 KB in total), `alt` is the screen-reader description, `pos` is an optional CSS `object-position` so the important part of the picture survives cropping. **All images used by the app live in this file; `index.html` contains none.** Loaded by a plain `<script src>` before the main script, so it still works by double-click.
 - The first four prompts from Section 7 are used, in order:
