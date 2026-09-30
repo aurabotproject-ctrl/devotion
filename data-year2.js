@@ -19392,4 +19392,5444 @@ const YEAR2=[
   }
  ]
 },
+// Day 617
+{
+ "ref": "1 Samuel 29",
+ "tag": "Old Testament",
+ "api": "1samuel+29",
+ "sum": [
+  "The Philistines gather all their armies at Aphek, and David and his men march in the rearguard with Achish, king of Gath, while Israel camps by a fountain in Jezreel.",
+  "The Philistine commanders object to the Hebrews in their ranks, asking, \"What do these Hebrews here?\", but Achish vouches for David, saying he has \"found no fault in him\".",
+  "The commanders insist that David be sent back, fearing that in the battle \"he be an adversary to us\", and recalling the song, \"Saul slew his thousands, and David his ten thousands.\"",
+  "Achish tells David with regret that \"the lords favour thee not\" and bids him \"return, and go in peace\"; David protests his innocence, then rises early with his men and goes back towards the land of the Philistines."
+ ],
+ "nug": [
+  {
+   "h": "What do these Hebrews here?",
+   "b": "The Philistine princes ask, \"What do these Hebrews here?\" (1 Samuel 29:3). David had talked himself into a corner in chapter 27, and here the corner closes: he is marching towards a battle in which he would either fight his own people or betray his host."
+  },
+  {
+   "h": "An honest testimony from an unlikely witness",
+   "b": "Achish says, \"I have found no fault in him since he fell unto me unto this day\" (1 Samuel 29:3). It is a kind word, but it rests on David's careful double life with Achish, which is not something to admire without question."
+  },
+  {
+   "h": "The old song follows him",
+   "b": "\"Is not this David, of whom they sang one to another in dances, saying, Saul slew his thousands, and David his ten thousands?\" (1 Samuel 29:5). The women's song that once made Saul jealous is now what makes the Philistines suspicious. David's reputation is a gift and a burden in both camps."
+  },
+  {
+   "h": "A door closed by other hands",
+   "b": "\"Wherefore now return, and go in peace, that thou displease not the lords of the Philistines\" (1 Samuel 29:7). David does not argue his way out; the objection of men who owe him nothing rescues him from the battle in which Saul will die. Sometimes grace looks like being refused."
+  },
+  {
+   "h": "But what have I done?",
+   "b": "\"But what have I done? and what hast thou found in thy servant so long as I have been with thee unto this day?\" (1 Samuel 29:8). David's protest sounds plausible, and yet the reader knows what he has been doing in Ziklag. It is worth asking how easily we defend ourselves with what is technically true."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 56:1-4 · Proverbs 16:7 · 1 Samuel 27:1-7",
+   "qs": [
+    {
+     "th": "1 Samuel 27 describes how David decided to hide among the Philistines, Psalm 56 is his prayer from that season (the heading places it when the Philistines seized him in Gath) and speaks of fear and trust side by side, and Proverbs 16:7 speaks of the LORD's hand over a person's ways and their enemies.",
+     "q": "Read these together with 1 Samuel 29. Where can you see David's fear driving his choices, and where can you see God protecting him even though those choices were not wise?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David was spared a battle he should never have been near, not by his own cleverness but by the suspicion of men who did not know God.",
+     "q": "Where have you drifted into a situation that compromises you, through fear or through what seemed like a practical decision? What would it take to be honest about it, rather than to defend yourself as David did?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David went home in the morning to find something far worse waiting at Ziklag, though he did not know it yet. Being sent away from where we thought we belonged can be part of a larger purpose.",
+     "q": "Ask the Spirit to show you one place where you have taken a shortcut out of fear. Ask what the first honest step out of it would be, and listen without hurrying."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David was rescued from a compromise he had built himself. Confession begins by admitting that the rescue, when it comes, is mercy and not reward.",
+     "q": "Confess to God the fears that have led you to choices you would not be proud to explain. Name them plainly, ask for forgiveness, and thank him for the closed doors that have protected you from yourself."
+    }
+   ]
+  }
+ ]
+},
+// Day 618
+{
+ "ref": "1 Samuel 30",
+ "tag": "Old Testament",
+ "api": "1samuel+30",
+ "sum": [
+  "David and his men return to Ziklag on the third day and find it burned and their wives and children taken by the Amalekites; they \"lifted up their voice and wept, until they had no more power to weep.\"",
+  "David is \"greatly distressed\" as the people speak of stoning him, \"but David encouraged himself in the LORD his God\"; he enquires by the ephod and is told, \"Pursue: for thou shalt surely overtake them, and without fail recover all.\"",
+  "Two hundred exhausted men stay at the brook Besor; an abandoned Egyptian servant is fed and guides David to the raiders, and David strikes them, so that \"David recovered all\" and nothing is lacking.",
+  "When some of the \"wicked men and men of Belial\" among his men want to keep the spoil from the two hundred, David refuses, declaring \"they shall part alike\", makes it a statute for Israel, and sends gifts to the elders of Judah."
+ ],
+ "nug": [
+  {
+   "h": "Weeping until there was no strength left",
+   "b": "\"Then David and the people that were with him lifted up their voice and wept, until they had no more power to weep\" (1 Samuel 30:4). The Bible does not hurry grief. Even the man after God's own heart is emptied out before anything else happens."
+  },
+  {
+   "h": "David encouraged himself in the LORD his God",
+   "b": "\"And David was greatly distressed; for the people spake of stoning him... but David encouraged himself in the LORD his God\" (1 Samuel 30:6). His own men were ready to turn on him, and he had no one left to lean on, so he leaned on God. That habit had been formed in years of hiding."
+  },
+  {
+   "h": "Asking rather than assuming",
+   "b": "\"Shall I pursue after this troop? shall I overtake them?\" (1 Samuel 30:8). David has every human reason to act at once, yet he asks first, and receives an answer that is both a command and a promise."
+  },
+  {
+   "h": "Kindness to a discarded man",
+   "b": "The Egyptian left behind by his master had eaten nothing for three days, and after David's men fed him \"his spirit came again to him\" (1 Samuel 30:12). The mercy shown to a sick slave became the road to the raiders' camp."
+  },
+  {
+   "h": "They shall part alike",
+   "b": "\"Ye shall not do so, my brethren, with that which the LORD hath given us\" (1 Samuel 30:23). David treats the victory as a gift, not a wage, and so the men who stayed behind with the baggage receive the same share: \"they shall part alike\" (1 Samuel 30:24)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 42:5-6 · Numbers 31:25-27 · Habakkuk 3:17-19",
+   "qs": [
+    {
+     "th": "Psalm 42 speaks to a downcast soul and tells it to hope in God, Numbers 31 records an earlier division of spoil between those who fought and those who stayed, and Habakkuk 3 shows a prophet finding strength in the LORD when everything visible has been taken away.",
+     "q": "Read these together with 1 Samuel 30. What do they show about where strength comes from when everything has been lost, and about how God's people are meant to share what he gives?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David went from weeping to enquiring of God to pursuing, in that order, and he still had to decide how to treat the men who had slowed him down.",
+     "q": "When you are in real loss or under blame, what do you tend to do first: act, argue, withdraw, or turn to God? What would it look like to encourage yourself in the LORD, as David did, this week?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit is the Comforter, and David's turning to God at the worst moment is a picture of what it means to draw on a strength that is not our own.",
+     "q": "Ask the Spirit to strengthen you where you feel emptied out, and to show you any person who has been left behind at the brook and needs to be included."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"David recovered all\" (1 Samuel 30:19), and \"nothing lacking\" is the report on the day God restored what had been taken.",
+     "q": "Thank God for a specific time when he restored something you thought was lost, and for the people who carried you when you were too tired to go on. Thank him too for gifts you have received that you did not earn."
+    }
+   ]
+  }
+ ]
+},
+// Day 619
+{
+ "ref": "Proverbs 27",
+ "tag": "Psalms & Wisdom",
+ "api": "proverbs+27",
+ "sum": [
+  "The chapter begins with humility about the future and about praise: \"Boast not thyself of to morrow; for thou knowest not what a day may bring forth\", and a warning that \"a fool's wrath is heavier than them both\".",
+  "It turns to friendship: \"Open rebuke is better than secret love\", \"Faithful are the wounds of a friend\", and \"better is a neighbour that is near than a brother far off\".",
+  "\"Iron sharpeneth iron; so a man sharpeneth the countenance of his friend\", and \"As in water face answereth to face, so the heart of man to man\"; the eyes of man, like \"Hell and destruction\", are \"never satisfied\".",
+  "The chapter closes with the call to steady, attentive work: \"Be thou diligent to know the state of thy flocks\", because \"riches are not for ever\"."
+ ],
+ "nug": [
+  {
+   "h": "Boast not thyself of to morrow",
+   "b": "\"Boast not thyself of to morrow; for thou knowest not what a day may bring forth\" (Proverbs 27:1). Planning is not forbidden, but presuming on the future is, because tomorrow belongs to God."
+  },
+  {
+   "h": "The wounds of a friend",
+   "b": "\"Faithful are the wounds of a friend; but the kisses of an enemy are deceitful\" (Proverbs 27:6). A friend who tells us the truth costs us something in the moment, and flattery costs more later."
+  },
+  {
+   "h": "Near neighbours",
+   "b": "\"Better is a neighbour that is near than a brother far off\" (Proverbs 27:10). Practical presence in a hard day counts for more than a relationship that exists only on paper."
+  },
+  {
+   "h": "Iron sharpeneth iron",
+   "b": "\"Iron sharpeneth iron; so a man sharpeneth the countenance of his friend\" (Proverbs 27:17). Sharpening involves friction, so good friendships will sometimes be uncomfortable, and are meant to make each person more useful."
+  },
+  {
+   "h": "Know the state of thy flocks",
+   "b": "\"Be thou diligent to know the state of thy flocks, and look well to thy herds\" (Proverbs 27:23). Care is a matter of knowing the actual condition of what has been entrusted to us, whether that is animals, people or work."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Ecclesiastes 4:9-12 · James 4:13-15 · Psalm 141:5",
+   "qs": [
+    {
+     "th": "Ecclesiastes 4 describes how two are better than one and how a companion lifts up a fallen friend, James 4 speaks about the folly of confident plans for tomorrow, and Psalm 141:5 welcomes the rebuke of a righteous person as a kindness.",
+     "q": "Read these together with Proverbs 27. What do they suggest about the kind of friend you are meant to be and the kind of friend you need?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Proverbs 27 has the same steady theme: humility about tomorrow, honesty in friendship, and attentiveness to what has been given us to look after.",
+     "q": "Who in your life is a faithful wounder, and how do you respond when they speak? Is there someone you have been flattering when you should have been honest, gently and with love?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit is described as a Counsellor who guides into truth, and both rebuke and encouragement from friends can be part of his work.",
+     "q": "Ask the Spirit to show you one friendship that needs either honesty or more presence from you, and to give you the courage and gentleness for it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God alone knows what a day may bring forth, and he knows the state of his flock more fully than any shepherd, since he does not forget any of them.",
+     "q": "Adore God as the one who holds tomorrow, who is faithful in his wounds and in his comfort, and who knows each of his people by name. Let the praise be about who he is, before you ask for anything."
+    }
+   ]
+  }
+ ]
+},
+// Day 620
+{
+ "ref": "1 Samuel 31",
+ "tag": "Old Testament",
+ "api": "1samuel+31",
+ "sum": [
+  "The Philistines fight Israel on mount Gilboa; the men of Israel flee and fall, the Philistines kill Saul's sons Jonathan, Abinadab and Malchi-shua, and Saul is badly wounded by the archers.",
+  "Saul asks his armourbearer to kill him \"lest these uncircumcised come and thrust me through, and abuse me\"; the armourbearer refuses \"for he was sore afraid\", and Saul falls on his own sword, and the armourbearer dies with him.",
+  "Israelites on the other side of the valley and the Jordan abandon their cities and the Philistines occupy them; the next day the Philistines find Saul and his sons, strip and mutilate the bodies, put the armour in the temple of Ashtaroth, and fasten the bodies to the wall of Beth-shan.",
+  "The valiant men of Jabesh-gilead travel all night to take the bodies down, burn them, bury the bones under a tree, and \"fasted seven days\"; the chapter closes the book of 1 Samuel."
+ ],
+ "nug": [
+  {
+   "h": "The day Saul's house fell",
+   "b": "\"So Saul died, and his three sons, and his armourbearer, and all his men, that same day together\" (1 Samuel 31:6). It is a plain and sombre sentence. The king who was chosen for his stature ends with no word to God, and no word from him."
+  },
+  {
+   "h": "Fear at the end",
+   "b": "Saul says, \"lest these uncircumcised come and thrust me through, and abuse me\" (1 Samuel 31:4). The narrator records Saul's last act without commending it. It shows a man who had spent years driven by fear and who dies still afraid of humiliation."
+  },
+  {
+   "h": "The people pay for a king's failure",
+   "b": "\"The men of Israel fled from before the Philistines\" (1 Samuel 31:1), and the cities are abandoned. The consequences of a leader's disobedience fall on ordinary people who had no part in it, and Scripture does not hide that."
+  },
+  {
+   "h": "Gratitude that travels all night",
+   "b": "\"All the valiant men arose, and went all night\" (1 Samuel 31:12). Jabesh-gilead remembered that Saul had once rescued them (1 Samuel 11), and they risked their lives to give him and his sons a burial. Loyalty to a person's better days can be a quiet form of faithfulness."
+  },
+  {
+   "h": "An ending that is not the end",
+   "b": "Hannah had sung at the beginning of this book that the LORD \"shall give strength unto his king, and exalt the horn of his anointed\" (1 Samuel 2:10). Saul's death completes 1 Samuel with the throne empty, and the promise waiting to be taken up by the man who is still in Ziklag."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Samuel 28:15-19 · 1 Chronicles 10:13-14 · 1 Samuel 11:1-11",
+   "qs": [
+    {
+     "th": "1 Samuel 28 has Samuel's word from beyond the grave foretelling this battle, 1 Chronicles 10 gives the Chronicler's summary of why Saul died, and 1 Samuel 11 shows Saul rescuing Jabesh-gilead at the beginning of his reign, which explains the gratitude in chapter 31.",
+     "q": "Read these together with 1 Samuel 31. How do the beginning and end of Saul's reign fit together, and what do you notice about how God's word is fulfilled even in grim events?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "1 Samuel closes with grief, and the book ended with a king who began with promise and did not listen to God.",
+     "q": "Where do you see fear driving decisions, in yourself or in the world around you? What would trusting God with reputation and outcomes look like in one specific situation?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit that left Saul is the same Spirit David later begs God not to take away, and his presence is a gift no one should treat lightly.",
+     "q": "Ask the Spirit to keep you humble and teachable, and to search you for any area where you are hardening against God's word."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chapter contains bereaved families, frightened soldiers, abandoned towns and a few brave men who honour the dead. Each of these has a modern counterpart.",
+     "q": "Pray for those who have lost family members in war or violence, for people who are afraid and feel they have nowhere to turn, for leaders who carry great responsibility, and for those who quietly do the hard, kind thing for the dead and the grieving."
+    }
+   ]
+  }
+ ]
+},
+// Day 621
+{
+ "ref": "John 21",
+ "tag": "New Testament",
+ "api": "john+21",
+ "sum": [
+  "Seven disciples go fishing at the sea of Tiberias and catch nothing all night; at dawn Jesus stands on the shore, unrecognised, and tells them, \"Cast the net on the right side of the ship, and ye shall find.\"",
+  "The net is so full they cannot draw it; the disciple whom Jesus loved says, \"It is the Lord\", Peter throws himself into the sea, and they find a fire of coals with fish and bread, and Jesus says, \"Come and dine.\"",
+  "After breakfast Jesus asks Peter three times whether he loves him; Peter, grieved, answers, \"Lord, thou knowest all things; thou knowest that I love thee\", and is told, \"Feed my lambs\" and \"Feed my sheep.\"",
+  "Jesus foretells the kind of death by which Peter would glorify God and says, \"Follow me\"; when Peter asks about another disciple, Jesus answers, \"what is that to thee? follow thou me\", and the Gospel closes with the testimony of the disciple who wrote these things."
+ ],
+ "nug": [
+  {
+   "h": "Cast the net on the right side",
+   "b": "\"Cast the net on the right side of the ship, and ye shall find\" (John 21:6). These are experienced fishermen who have failed all night, and they obey a stranger on the shore. Obedience to Jesus in familiar work is where the unexpected abundance begins."
+  },
+  {
+   "h": "A fire of coals",
+   "b": "\"As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread\" (John 21:9). Peter had denied Jesus at another fire of coals (John 18:18). Jesus prepares breakfast at a fire again, and gives Peter a place to stand beside it."
+  },
+  {
+   "h": "Lovest thou me?",
+   "b": "\"Simon, son of Jonas, lovest thou me more than these?\" (John 21:15). The question is asked three times, matching the three denials, and each answer is followed by a task: \"Feed my lambs\" and \"Feed my sheep\". Restoration here is not sentimental; it is honest, and it leads to work."
+  },
+  {
+   "h": "What is that to thee?",
+   "b": "When Peter asks about the other disciple, Jesus says, \"what is that to thee? follow thou me\" (John 21:22). Comparison is one of the easiest ways to be distracted from our own calling."
+  },
+  {
+   "h": "More than the world could hold",
+   "b": "\"And there are also many other things which Jesus did... I suppose that even the world itself could not contain the books that should be written\" (John 21:25). John 21 completes the Gospel of John. What has been written, he says elsewhere, is enough that we might believe."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Luke 5:1-11 · John 18:15-27 · John 10:11-16",
+   "qs": [
+    {
+     "th": "Luke 5 records an earlier miraculous catch in which Peter first followed Jesus, John 18 records Peter's denials beside another fire, and John 10 describes Jesus as the good shepherd whose sheep Peter is now asked to feed.",
+     "q": "Read these together with John 21. How does this chapter gather up Peter's calling, his failure and his restoration, and what does it say about the shepherd whose sheep Peter is asked to look after?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus does not ignore Peter's failure. He goes to it directly, gently, and then gives him a job to do.",
+     "q": "Is there a failure you carry that you assume disqualifies you? What would it mean to hear Jesus ask you, kindly, whether you love him, and to answer honestly?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "John 21 ends John's Gospel, and the risen Jesus who speaks on the shore promised the Spirit in earlier chapters to those who follow him.",
+     "q": "Ask the Spirit to speak to you in the quiet, and be still enough to notice."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The whole chapter turns on a question: \"lovest thou me?\" (John 21:17). It comes from someone who already knows everything and who is not asking in order to shame anyone.",
+     "q": "Sit in silence for a few minutes. Let the question be addressed to you, without rushing to answer. Listen for how Jesus asks it, and for what he says after your answer, whether it is \"Follow me\" or something else."
+    }
+   ]
+  }
+ ]
+},
+// Day 622
+{
+ "ref": "Proverbs 28",
+ "tag": "Psalms & Wisdom",
+ "api": "proverbs+28",
+ "sum": [
+  "The chapter opens with the contrast between fear and boldness: \"The wicked flee when no man pursueth: but the righteous are bold as a lion\", and praises integrity: \"Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.\"",
+  "It links understanding and prayer to obedience: \"they that seek the LORD understand all things\", while \"He that turneth away his ear from hearing the law, even his prayer shall be abomination.\"",
+  "At its centre stands a verse on confession: \"He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.\"",
+  "The chapter warns about greed and self-trust, \"He that hasteth to be rich hath an evil eye\" and \"He that trusteth in his own heart is a fool\", and commends generosity: \"He that giveth unto the poor shall not lack.\""
+ ],
+ "nug": [
+  {
+   "h": "Bold as a lion",
+   "b": "\"The wicked flee when no man pursueth: but the righteous are bold as a lion\" (Proverbs 28:1). A guilty conscience makes a person jumpy even when there is no danger, and a clear one gives a steadiness that others notice."
+  },
+  {
+   "h": "Prayer and listening",
+   "b": "\"He that turneth away his ear from hearing the law, even his prayer shall be abomination\" (Proverbs 28:9). Prayer that refuses to listen to God's word has lost its point, and this is a serious warning."
+  },
+  {
+   "h": "Confessing and forsaking",
+   "b": "\"He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy\" (Proverbs 28:13). Mercy is attached to both parts, saying it aloud and turning from it. Concealment does not work, and confession is not a formality."
+  },
+  {
+   "h": "Trusting one's own heart",
+   "b": "\"He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered\" (Proverbs 28:26). The heart is not a reliable guide on its own, and wisdom means submitting it to something outside ourselves."
+  },
+  {
+   "h": "Giving to the poor",
+   "b": "\"He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse\" (Proverbs 28:27). The failure here is not always cruelty, but the choice not to look."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 32:1-5 · 1 John 1:8-10 · Psalm 51:1-4",
+   "qs": [
+    {
+     "th": "Psalm 32 records David describing the heaviness of unconfessed sin and the relief of forgiveness, 1 John 1 says that if we confess our sins God is faithful to forgive, and Psalm 51 gives words for a confession that appeals only to mercy.",
+     "q": "Read these together with Proverbs 28:13. What do they add to the picture of confession that the proverb gives, and what is the difference between covering and confessing?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Proverbs 28 sets side by side the person who hides and the person who confesses, and the person who trusts himself and the person who trusts God.",
+     "q": "Is there anything you have been covering, whether a habit, a wrong, or a debt? What would it mean to name it to God, and where needed to another person, and to forsake it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit convicts of sin in order to lead to mercy, and not to condemn.",
+     "q": "Ask the Spirit to search you gently. Wait for what comes to mind, and receive it without panic."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Whoso confesseth and forsaketh them shall have mercy\" (Proverbs 28:13). The promise is attached to honesty, and it is a promise, not a threat.",
+     "q": "Confess specific things to God in your own words, and say too what you intend to turn away from. Then rest in the mercy promised to those who do not hide."
+    }
+   ]
+  }
+ ]
+},
+// Day 623
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "Encouraged in the LORD",
+   "b": "\"And David was greatly distressed... but David encouraged himself in the LORD his God\" (1 Samuel 30:6). This week ended two books: 1 Samuel closes with the death of Saul, and John closes with Peter restored on the shore. Both remind us that God works on both sides of disaster."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read David sent home from the Philistine army (1 Samuel 29), the burning of Ziklag and David's pursuit (1 Samuel 30), Proverbs 27 on friends and tomorrow, the death of Saul on Gilboa which completes 1 Samuel (1 Samuel 31), the breakfast on the shore which completes the Gospel of John (John 21), and Proverbs 28 on confession and trust.",
+     "q": "Which stayed with you more this week: David encouraging himself \"in the LORD his God\" (1 Samuel 30:6), or Peter saying, \"Lord, thou knowest all things; thou knowest that I love thee\" (John 21:17)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Come and dine\" (John 21:12).",
+     "q": "Sit quietly and imagine the fire on the shore, the bread and fish, and the risen Jesus who calls you to come and eat. There is nothing you need to do."
+    }
+   ]
+  }
+ ]
+},
+// Day 624
+{
+ "ref": "2 Samuel 1",
+ "tag": "Old Testament",
+ "api": "2samuel+1",
+ "sum": [
+  "Two days after David returns to Ziklag from defeating the Amalekites, a man arrives from Saul's camp with torn clothes and earth on his head, and reports that Israel has fled and that Saul and Jonathan are dead.",
+  "The man, an Amalekite, says that he killed Saul at Saul's own request and brings Saul's crown and bracelet to David; David and his men tear their clothes, and \"mourned, and wept, and fasted until even\" for Saul, Jonathan and the people.",
+  "David asks, \"How wast thou not afraid to stretch forth thine hand to destroy the LORD'S anointed?\", and has the man put to death, saying, \"Thy blood be upon thy head.\"",
+  "David composes a lament, \"The beauty of Israel is slain upon thy high places: how are the mighty fallen!\", honouring Saul and Jonathan, and grieving for the friend whose \"love to me was wonderful, passing the love of women.\""
+ ],
+ "nug": [
+  {
+   "h": "The messenger who hoped to be rewarded",
+   "b": "The young man brings the crown and bracelet to \"my lord\" (2 Samuel 1:10), expecting favour for finishing off David's enemy. His story does not match chapter 31, where Saul fell on his own sword, and it seems he has embellished it. He misjudges David completely."
+  },
+  {
+   "h": "Mourning for a rival",
+   "b": "David and his men \"mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel\" (2 Samuel 1:12). The man who had been hunted for years does not celebrate; he grieves the loss to God's people."
+  },
+  {
+   "h": "The LORD'S anointed",
+   "b": "\"How wast thou not afraid to stretch forth thine hand to destroy the LORD'S anointed?\" (2 Samuel 1:14). David had twice refused to harm Saul for this reason. His consistency here is costly, because the man is now the messenger of what David might have wanted."
+  },
+  {
+   "h": "Tell it not in Gath",
+   "b": "\"Tell it not in Gath, publish it not in the streets of Askelon\" (2 Samuel 1:20). David's lament is concerned for Israel's honour before the watching nations, and does not focus on his own gain. Grief and dignity can go together."
+  },
+  {
+   "h": "A friend's love",
+   "b": "\"I am distressed for thee, my brother Jonathan: very pleasant hast thou been unto me\" (2 Samuel 1:26). The lament ends in gratitude for a friendship that cost Jonathan his own claim to the throne. 2 Samuel begins here, and the new book opens with weeping and not triumph."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Samuel 24:1-10 · 1 Samuel 18:1-4 · Luke 6:27-28",
+   "qs": [
+    {
+     "th": "1 Samuel 24 records David's earlier refusal to harm the LORD's anointed in the cave, 1 Samuel 18 records the beginning of his covenant of love with Jonathan, and Luke 6 records Jesus telling his followers to love their enemies and bless those who curse them.",
+     "q": "Read these together with 2 Samuel 1. How does David's response to Saul's death show that his earlier mercy was real, and how does it compare to what Jesus asks?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David could have taken the news as the answer to years of danger. He responds first with grief.",
+     "q": "When someone who has hurt you falls or fails, what is your first reaction? What might it look like to grieve first, as David did, and to leave the judgment with God?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit produces love and gentleness, even towards those who have wronged us, and this is one of the harder places to see it.",
+     "q": "Ask the Spirit to soften any hardness you carry towards someone who has hurt you, and to give you honest grief where it is due."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's lament is full of thanks for what Saul and Jonathan had been, even in the middle of pain, and Jonathan's love is called \"wonderful\".",
+     "q": "Thank God for particular people who have loved you faithfully, whether living or dead. Thank him for the gift of grief itself, which shows how much something mattered, and for the hope that death does not have the last word."
+    }
+   ]
+  }
+ ]
+},
+// Day 625
+{
+ "ref": "2 Samuel 2",
+ "tag": "Old Testament",
+ "api": "2samuel+2",
+ "sum": [
+  "David enquires whether to go up to the cities of Judah and hears the LORD say, \"Go up\", to Hebron; the men of Judah anoint him king, and he sends a blessing to the men of Jabesh-gilead for burying Saul.",
+  "Abner, Saul's commander, takes Saul's son Ish-bosheth to Mahanaim and makes him king over the rest of Israel, while David reigns in Hebron for seven years and six months.",
+  "At the pool of Gibeon, Abner's men and Joab's men meet, and a contest of twelve against twelve ends with all twenty-four dead; a \"very sore battle\" follows in which Abner is beaten.",
+  "Asahel, swift as a wild roe, chases Abner and will not turn aside; Abner kills him, then asks Joab, \"Shall the sword devour for ever?\"; Joab blows the trumpet, and the day ends with nineteen of David's men and Asahel dead, and three hundred and sixty of Abner's."
+ ],
+ "nug": [
+  {
+   "h": "Asking before moving",
+   "b": "\"David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up\" (2 Samuel 2:1). David has been anointed for years and still asks before acting. God answers step by step, first the region, then the city."
+  },
+  {
+   "h": "Blessing across the divide",
+   "b": "\"Blessed be ye of the LORD, that ye have shewed this kindness unto your lord, even unto Saul\" (2 Samuel 2:5). David honours those who buried his old enemy, and models the generosity he will need as king."
+  },
+  {
+   "h": "A kingdom slow to come",
+   "b": "\"But the house of Judah followed David\" (2 Samuel 2:10). The promise is real, yet it takes seven and a half years for the whole nation to follow. God's promises often arrive in stages, and faithfulness in the interval matters."
+  },
+  {
+   "h": "Play before us",
+   "b": "\"Let the young men now arise, and play before us\" (2 Samuel 2:14). What is called a contest becomes a massacre of twenty-four men. The passage is honest about how quickly rivalry between people of the same nation becomes bloodshed."
+  },
+  {
+   "h": "Shall the sword devour for ever?",
+   "b": "\"Shall the sword devour for ever? knowest thou not that it will be bitterness in the latter end?\" (2 Samuel 2:26). Abner speaks wisely, though late. The death of Asahel will haunt the next chapter, and a cycle of revenge is beginning."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Samuel 16:1-13 · Proverbs 3:5-6 · Matthew 26:52",
+   "qs": [
+    {
+     "th": "1 Samuel 16 records David's first anointing, Proverbs 3 says to trust the LORD and let him direct our paths, and Matthew 26:52 records Jesus's word to Peter that those who take the sword will perish by it.",
+     "q": "Read these together with 2 Samuel 2. What does it look like to wait for God's direction, and what does the violence at Gibeon show about the alternative?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's kingdom begins in a divided country. The chapter shows both his willingness to ask God and the way that human rivalry quickly turns deadly.",
+     "q": "Is there a promise or calling in your life that seems to be taking longer than you expected? How might God be asking you to take the next step only, and to ask for it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit guides, often one step at a time, as the LORD did with David: first Judah, then Hebron.",
+     "q": "Ask the Spirit for the next step only, and be willing to wait for it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God's answer to David was brief and clear: \"Go up.\" He directs, he keeps his promises across delays, and he is not hurried by human conflict.",
+     "q": "Adore God as the faithful guide who answers those who ask him and who keeps his word in his own time, and as the peace-maker who ends the endless cycles of violence that we cannot end ourselves."
+    }
+   ]
+  }
+ ]
+},
+// Day 626
+{
+ "ref": "Proverbs 29",
+ "tag": "Psalms & Wisdom",
+ "api": "proverbs+29",
+ "sum": [
+  "The chapter opens with a warning to the stubborn: \"He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy\", and with the effect of leaders on people: \"When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.\"",
+  "It speaks of justice for the poor: \"The righteous considereth the cause of the poor\", and \"The king that faithfully judgeth the poor, his throne shall be established for ever.\"",
+  "It warns about words and tempers: flattery \"spreadeth a net for his feet\", \"A fool uttereth all his mind\", and \"there is more hope of a fool than of him\" who is hasty in his words.",
+  "It finishes with vision, pride and trust: \"Where there is no vision, the people perish\", \"A man's pride shall bring him low\", and \"The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.\""
+ ],
+ "nug": [
+  {
+   "h": "When the righteous are in authority",
+   "b": "\"When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn\" (Proverbs 29:2). Leadership is never private, and the character of those who lead shapes the everyday life of everyone under them."
+  },
+  {
+   "h": "The cause of the poor",
+   "b": "\"The righteous considereth the cause of the poor: but the wicked regardeth not to know it\" (Proverbs 29:7). Righteousness is measured partly by whether we take the trouble to understand people who are poor, and not simply to feel sorry for them."
+  },
+  {
+   "h": "Where there is no vision",
+   "b": "\"Where there is no vision, the people perish: but he that keepeth the law, happy is he\" (Proverbs 29:18). The word translated vision refers to prophetic revelation, so the verse sets the absence of God's word against the happiness of those who keep it."
+  },
+  {
+   "h": "Pride and humility",
+   "b": "\"A man's pride shall bring him low: but honour shall uphold the humble in spirit\" (Proverbs 29:23). The proverb promises that pride destroys itself and that humility is sustained."
+  },
+  {
+   "h": "The fear of man",
+   "b": "\"The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe\" (Proverbs 29:25). Living for other people's approval traps us, and trust in God is what frees us from it."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Hosea 4:6 · Galatians 1:10 · Psalm 72:1-4",
+   "qs": [
+    {
+     "th": "Hosea 4:6 laments a people destroyed for lack of knowledge of God, Galatians 1:10 asks whether Paul is seeking the approval of men or of God, and Psalm 72 is a prayer for a king who defends the poor and needy.",
+     "q": "Read these together with Proverbs 29. What picture do they build of good leadership, and of the freedom that comes from fearing God more than people?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Proverbs 29 links what happens in a nation with what happens in a heart: how leaders act, how we treat the poor, and whom we fear.",
+     "q": "Where are you shaped by the fear of what others think? What difference would it make to trust the LORD in that area this week?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit helps us to pray for those in authority and to speak up for those who cannot.",
+     "q": "Ask the Spirit to bring to mind one leader and one vulnerable person to pray for, and to show you anything you can do."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"The righteous considereth the cause of the poor\" (Proverbs 29:7). Intercession is one way of considering their cause before God.",
+     "q": "Pray for those in authority over you, at home, at work, in your town and your country, that they would rule with justice. Pray for people who are poor or overlooked, and for the courage to consider their cause."
+    }
+   ]
+  }
+ ]
+},
+// Day 627
+{
+ "ref": "2 Samuel 3",
+ "tag": "Old Testament",
+ "api": "2samuel+3",
+ "sum": [
+  "The war between the house of Saul and the house of David is long, but \"David waxed stronger and stronger, and the house of Saul waxed weaker and weaker\"; six sons are born to David in Hebron.",
+  "Ish-bosheth accuses Abner over Saul's concubine Rizpah, and Abner, furious, vows to \"translate the kingdom from the house of Saul\"; he offers David a league, and David demands the return of his wife Michal, who is taken from her husband Phaltiel.",
+  "Abner rallies the elders of Israel, meets David at Hebron, and is sent away \"in peace\"; Joab, returning, accuses Abner of deceit, calls him back without David's knowledge, and kills him at the gate \"for the blood of Asahel his brother.\"",
+  "David declares his kingdom guiltless, curses Joab's house, orders mourning, follows the bier and laments, \"Died Abner as a fool dieth?\"; he fasts, and confesses, \"I am this day weak, though anointed king\", leaving judgment with the LORD."
+ ],
+ "nug": [
+  {
+   "h": "Stronger and stronger",
+   "b": "\"Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger\" (2 Samuel 3:1). God's promise is being fulfilled, though slowly and through a lot of conflict. Growth in his time does not need shortcuts."
+  },
+  {
+   "h": "Michal and Phaltiel",
+   "b": "\"And her husband went with her along weeping behind her to Bahurim\" (2 Samuel 3:16). Michal is moved as part of the political arrangements, and Phaltiel is left weeping. The Bible records the human cost of power deals without comment, and we should notice it too."
+  },
+  {
+   "h": "Taken aside in the gate",
+   "b": "\"Joab took him aside in the gate to speak with him quietly\" (2 Samuel 3:27). Joab kills Abner under the appearance of a private word, partly to avenge Asahel, whom Abner had killed in battle after warning him, and partly perhaps to remove a rival. Vengeance disguised as justice is hard to challenge."
+  },
+  {
+   "h": "Died Abner as a fool dieth?",
+   "b": "\"Died Abner as a fool dieth? Thy hands were not bound, nor thy feet put into fetters\" (2 Samuel 3:33-34). David's lament is public and sincere, and it shows the people he does not condone the killing. He is honest about a wrong that he is not yet strong enough to punish."
+  },
+  {
+   "h": "Weak, though anointed",
+   "b": "\"I am this day weak, though anointed king; and these men the sons of Zeruiah be too hard for me: the LORD shall reward the doer of evil according to his wickedness\" (2 Samuel 3:39). David does not pretend to strength he lacks, and he leaves justice with God."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Kings 2:28-34 · Romans 12:17-21 · Proverbs 20:22",
+   "qs": [
+    {
+     "th": "1 Kings 2 records the day Joab's blood-guilt for Abner was finally answered, Romans 12 tells believers to leave vengeance to God and overcome evil with good, and Proverbs 20:22 says to wait on the LORD instead of repaying evil.",
+     "q": "Read these together with 2 Samuel 3. What does it mean to leave a wrong with God when we cannot put it right ourselves, and how does David's example help and fall short?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David is anointed and still cannot control everything in his own kingdom, and he brings that weakness honestly to God.",
+     "q": "Is there a wrong you have suffered, or seen, where you are tempted to take matters into your own hands? What would it mean to hand it to God in a way that is honest and not passive?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit gives self-control, and the ability to wait on the LORD is part of his work.",
+     "q": "Ask the Spirit to help you to leave what you cannot fix with God, and to show you whatever action is still yours to take."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David fasted until the sun was down and left the matter with the LORD. There are things that can only be handed over in silence.",
+     "q": "Sit quietly. Bring before God one injustice or hurt, without arguing the case, and listen. Wait to see whether he says anything about what is yours to do, or simply asks you to rest in his justice."
+    }
+   ]
+  }
+ ]
+},
+// Day 628
+{
+ "ref": "Acts 1",
+ "tag": "New Testament",
+ "api": "acts+1",
+ "sum": [
+  "Luke writes to Theophilus about \"all that Jesus began both to do and teach\"; the risen Jesus showed himself alive \"by many infallible proofs\" for forty days, and told the apostles to wait in Jerusalem for the promise of the Father, since \"ye shall be baptized with the Holy Ghost not many days hence.\"",
+  "The apostles ask, \"Lord, wilt thou at this time restore again the kingdom to Israel?\"; Jesus answers, \"It is not for you to know the times or the seasons\", and promises, \"ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me.\"",
+  "Jesus is taken up and a cloud receives him; two men in white ask, \"why stand ye gazing up into heaven?\", and promise that he will return in the same way; the disciples go back to Jerusalem to an upper room and \"continued with one accord in prayer and supplication.\"",
+  "Peter speaks to about a hundred and twenty believers of Judas's end and the need to replace him with a witness to the resurrection; two are put forward, they pray, \"Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen\", and the lot falls on Matthias."
+ ],
+ "nug": [
+  {
+   "h": "Many infallible proofs",
+   "b": "Jesus \"shewed himself alive after his passion by many infallible proofs, being seen of them forty days\" (Acts 1:3). Acts begins with a claim about facts: the resurrection was seen, over time, by many people. This is the ground on which the church begins."
+  },
+  {
+   "h": "Power to be witnesses",
+   "b": "\"But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth\" (Acts 1:8). The verse works as an outline of the whole book, and the power comes before the witness, not after it."
+  },
+  {
+   "h": "Why stand ye gazing?",
+   "b": "\"Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus... shall so come in like manner as ye have seen him go into heaven\" (Acts 1:11). The ascension is not an ending to stare at. The disciples are turned back towards Jerusalem, and to the work that has been given to them, with the promise of his return."
+  },
+  {
+   "h": "With one accord in prayer",
+   "b": "\"These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren\" (Acts 1:14). The church is born waiting, and praying together. Among them are his own brothers, who did not believe during his ministry."
+  },
+  {
+   "h": "The place Judas lost",
+   "b": "\"For he was numbered with us, and had obtained part of this ministry\" (Acts 1:17). Peter is honest about how sobering Judas's end was, and how a person who had a share in the work could fall \"by transgression\" (Acts 1:25). The chapter is a reminder to take our own calling seriously."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Luke 24:44-53 · Matthew 28:16-20 · Joel 2:28-29",
+   "qs": [
+    {
+     "th": "Luke 24 is Luke's own earlier account of the ascension and the promise of power from on high, Matthew 28 records the commission to make disciples of all nations, and Joel 2 records the prophecy of the Spirit poured out on all flesh which Peter will quote in Acts 2.",
+     "q": "Read these together with Acts 1. How do they prepare the ground for what happens next, and what does it mean that the mission starts with waiting?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Acts 1 begins the book of Acts. It tells us that the next chapter of God's work will happen through ordinary people who have been given the Holy Ghost.",
+     "q": "Where are you tempted to stand gazing, either at the past or at a future you cannot control, when God has given you something present to do? What is your Jerusalem, the first place you are called to witness?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jesus told his followers to wait for the Spirit before they did anything. Waiting was not passive, since they spent it in prayer together.",
+     "q": "Ask the Spirit to fill you again for the work God has placed before you, and to make you a witness where you live."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The apostles prayed, \"Thou, Lord, which knowest the hearts of all men\" (Acts 1:24), before they chose. Confession also begins there, with the God who already knows our hearts.",
+     "q": "Come to the one who knows the hearts of all men, and confess where you have stood gazing instead of following, where you have been divided, or where you have taken your calling lightly. Ask for a heart ready to receive his power and to bear his witness."
+    }
+   ]
+  }
+ ]
+},
+// Day 629
+{
+ "ref": "Proverbs 30",
+ "tag": "Psalms & Wisdom",
+ "api": "proverbs+30",
+ "sum": [
+  "The words of Agur begin with humility: \"Surely I am more brutish than any man\", and \"I neither learned wisdom, nor have the knowledge of the holy\"; he asks, \"Who hath ascended up into heaven, or descended?\"",
+  "He answers with confidence in God's word: \"Every word of God is pure: he is a shield unto them that put their trust in him\", and warns, \"Add thou not unto his words, lest he reprove thee.\"",
+  "He prays, \"Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me\", and then lists things that are never satisfied, such as the horseleach's daughters crying \"Give, give.\"",
+  "He marvels at things too wonderful, at four little creatures that are \"exceeding wise\", and at four that go well, and ends: \"If thou hast done foolishly in lifting up thyself... lay thine hand upon thy mouth.\""
+ ],
+ "nug": [
+  {
+   "h": "Who hath ascended up into heaven?",
+   "b": "\"Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment?\" (Proverbs 30:4). Agur's questions turn a wise man into a humble one. They can only be answered by God, and the New Testament will find their answer in Christ."
+  },
+  {
+   "h": "Every word of God is pure",
+   "b": "\"Every word of God is pure: he is a shield unto them that put their trust in him\" (Proverbs 30:5). Scripture is both trustworthy and protective. To add to it is to lose it, and to trust it is to be sheltered by it."
+  },
+  {
+   "h": "Neither poverty nor riches",
+   "b": "\"Lest I be full, and deny thee, and say, Who is the LORD? or lest I be poor, and steal\" (Proverbs 30:9). Agur's prayer is honest about how both wealth and want can turn a heart away from God. He asks for enough."
+  },
+  {
+   "h": "Give, give",
+   "b": "\"The horseleach hath two daughters, crying, Give, give\" (Proverbs 30:15). Some appetites never say \"It is enough\" (Proverbs 30:15). The list is a warning about what happens when desire is left unchecked."
+  },
+  {
+   "h": "Little but exceeding wise",
+   "b": "\"There be four things which are little upon the earth, but they are exceeding wise\" (Proverbs 30:24). Among them, \"The ants are a people not strong, yet they prepare their meat in the summer\" (Proverbs 30:25). Wisdom does not depend on size or strength, and small, steady preparation counts."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Job 38:4-11 · Psalm 18:30-31 · 1 Timothy 6:6-10",
+   "qs": [
+    {
+     "th": "Job 38 records God's own answer to questions like Agur's about who set the earth and the sea in place, Psalm 18 says that the word of the LORD is tried and that he is a buckler to those who trust him, and 1 Timothy 6 speaks of godliness with contentment and the danger of loving money.",
+     "q": "Read these together with Proverbs 30. How does each passage help to answer Agur's questions and his prayer for enough?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Agur asks God for two things: honesty about himself, and enough to live on. The rest of his chapter shows how much wonder and wisdom is available to those who look carefully.",
+     "q": "What would it mean to pray Agur's prayer for enough, in your own circumstances? Where do you hear \"Give, give\" in your own wants, and what would contentment look like?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit opens the word of God, which Agur calls pure, and helps us to see it as a shield.",
+     "q": "Ask the Spirit to show you what is sufficient in your life right now, and to make you thankful for it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Every word of God is pure: he is a shield unto them that put their trust in him\" (Proverbs 30:5), and \"food convenient\" for the day is one of the ways he provides.",
+     "q": "Thank God for his word and for the ways it has protected and guided you. Thank him for enough: for daily food and shelter, for small creatures and ordinary wonders, and for the gift of a day in which you can lay your hand on your mouth and simply wonder."
+    }
+   ]
+  }
+ ]
+},
+// Day 630
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "Power for witnesses",
+   "b": "\"But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me\" (Acts 1:8). This week began David's reign in 2 Samuel and Acts 1 began the book of Acts. Both start with a man or a people waiting on God, and both show the slow, imperfect way that his purposes take shape."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read David's lament for Saul and Jonathan (2 Samuel 1), which began the book of 2 Samuel, David's anointing at Hebron and the fighting at Gibeon (2 Samuel 2), Proverbs 29 on rulers, the poor and the fear of man, Abner's death and David's mourning (2 Samuel 3), the ascension and the waiting for the Spirit which began the book of Acts (Acts 1), and Proverbs 30 on Agur's humility and his prayer for enough.",
+     "q": "Which stayed with you more this week: David's lament, \"How are the mighty fallen!\" (2 Samuel 1:19), or the promise, \"ye shall receive power, after that the Holy Ghost is come upon you\" (Acts 1:8)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Every word of God is pure: he is a shield unto them that put their trust in him\" (Proverbs 30:5).",
+     "q": "Sit quietly and let this verse be spoken over you. You do not need to do anything to be sheltered by it."
+    }
+   ]
+  }
+ ]
+},
+// Day 631
+{
+ "ref": "2 Samuel 4",
+ "tag": "Old Testament",
+ "api": "2samuel+4",
+ "sum": [
+  "Abner is dead, and Saul's son Ish-bosheth loses heart: \"his hands were feeble, and all the Israelites were troubled.\" The narrator pauses to introduce Jonathan's son, who was made \"lame of his feet\" when his nurse fled with him at five years old; his name is Mephibosheth.",
+  "Two of Ish-bosheth's captains, Rechab and Baanah, slip into his house at the hottest part of the day while he lies on his bed at noon, and \"they smote him under the fifth rib.\" They carry his head to David at Hebron, expecting a reward and claiming the LORD has avenged the king.",
+  "David will not be flattered into gratitude. He reminds them that he put to death the man who brought news of Saul's death hoping for a reward, and asks, \"How much more, when wicked men have slain a righteous person in his own house upon his bed?\"",
+  "David has the two murderers executed and their bodies displayed over the pool in Hebron, and the head of Ish-bosheth is buried in Abner's tomb. The last obstacle on the road to the throne has fallen, but David has kept his hands clear of it."
+ ],
+ "nug": [
+  {
+   "h": "Hands gone feeble",
+   "b": "\"And when Saul's son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled\" (2 Samuel 4:1). A kingdom held together by one strong man collapses in spirit the moment he is gone."
+  },
+  {
+   "h": "A quiet detail about a five-year-old",
+   "b": "\"And Jonathan, Saul's son, had a son that was lame of his feet\" (2 Samuel 4:4). He was hurt in the panic of a fleeing household, through no act of his own. The verse is tucked into a chapter of violence, but it will matter a great deal in 2 Samuel 9."
+  },
+  {
+   "h": "Murder at noon",
+   "b": "Rechab and Baanah come \"as though they would have fetched wheat,\" and \"they smote him under the fifth rib\" (2 Samuel 4:6). Men who thought they were serving David's cause used deceit and blood to do it. The chapter is sober and does not dress it up."
+  },
+  {
+   "h": "Not the reward they expected",
+   "b": "\"How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of your hand\" (2 Samuel 4:11). David refuses to profit from a crime committed in his name, however convenient the outcome."
+  },
+  {
+   "h": "Redeemed out of all adversity",
+   "b": "\"As the LORD liveth, who hath redeemed my soul out of all adversity\" (2 Samuel 4:9). David looks back on years of running and hiding and credits the LORD, not his own cunning, with his rescue."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 1:13-16 · 2 Samuel 9:1-7 · Romans 12:17-19",
+   "qs": [
+    {
+     "th": "2 Samuel 1 records David's response to the man who claimed to have killed Saul, the same reaction he now repeats to Rechab and Baanah; 2 Samuel 9 shows what becomes of the lame child mentioned in verse 4; and Romans 12 urges believers to leave vengeance and justice in God's hands.",
+     "q": "Read these together with 2 Samuel 4. What does David's consistency across these episodes teach about receiving a good outcome without endorsing the wrong that produced it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David would not take a throne handed to him by treachery, even though it was exactly what he had waited years for.",
+     "q": "Is there an outcome you have wanted for a long time that might tempt you to overlook how it is being achieved? What would it look like to refuse it on God's terms rather than yours?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Ish-bosheth's kingdom faltered because \"his hands were feeble\" (2 Samuel 4:1), and David's steadiness came from a different source.",
+     "q": "Ask the Spirit where you feel your hands are feeble at the moment, and invite him to strengthen you, not through a strong person or plan, but through God himself."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"As the LORD liveth, who hath redeemed my soul out of all adversity\" (2 Samuel 4:9).",
+     "q": "Adore the LORD as the Redeemer of souls out of adversity. Tell him what you know of him from the hard seasons you have been brought through, and let those memories become praise."
+    }
+   ]
+  }
+ ]
+},
+// Day 632
+{
+ "ref": "2 Samuel 5",
+ "tag": "Old Testament",
+ "api": "2samuel+5",
+ "sum": [
+  "All the tribes come to David at Hebron: \"Behold, we are thy bone and thy flesh.\" The elders make a covenant with him before the LORD and anoint him king over all Israel. He was thirty when he began to reign and reigned forty years: seven and a half in Hebron, thirty-three in Jerusalem.",
+  "David takes the Jebusite stronghold of Zion, despite the taunt that even the blind and the lame could hold it off, and it becomes the city of David. He grows great \"and the LORD God of hosts was with him,\" and Hiram of Tyre sends cedar and craftsmen to build him a house.",
+  "David perceives that the LORD has established him as king for the sake of his people, though the chapter also notes that he took more wives in Jerusalem, a quiet sign of the troubles that will come. His sons born there include Nathan and Solomon.",
+  "The Philistines come up twice to the valley of Rephaim. Each time David enquires of the LORD, and each time he receives a different instruction: first go up, then do not go up but circle behind them until the sound in the mulberry trees. David does exactly as he is told."
+ ],
+ "nug": [
+  {
+   "h": "A king from the people",
+   "b": "\"Behold, we are thy bone and thy flesh\" (2 Samuel 5:1). The tribes remember that David was one of them, and recall the word of the LORD: \"Thou shalt feed my people Israel, and thou shalt be a captain over Israel\" (2 Samuel 5:2). Leadership is described first as shepherding."
+  },
+  {
+   "h": "The city of David",
+   "b": "\"Nevertheless David took the strong hold of Zion: the same is the city of David\" (2 Samuel 5:7). Jerusalem enters Israel's story as a city taken and then given a name that will echo for the rest of Scripture."
+  },
+  {
+   "h": "Greatness with a source",
+   "b": "\"And David went on, and grew great, and the LORD God of hosts was with him\" (2 Samuel 5:10). The narrator is careful to say why he grew great. It was not only his skill or his army."
+  },
+  {
+   "h": "For his people's sake",
+   "b": "\"And David perceived that the LORD had established him king over Israel\" (2 Samuel 5:12). David understands that his position exists for the people, not the reverse."
+  },
+  {
+   "h": "Ask again, and hear a different answer",
+   "b": "\"Shall I go up to the Philistines? wilt thou deliver them into mine hand?\" (2 Samuel 5:19). The second time the answer is \"Thou shalt not go up; but fetch a compass behind them\" (2 Samuel 5:23). \"And David did so, as the LORD had commanded him\" (2 Samuel 5:25). Yesterday's victory was not a formula for today."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Chronicles 11:1-9 · Psalm 78:70-72 · Proverbs 3:5-6",
+   "qs": [
+    {
+     "th": "1 Chronicles 11 gives a parallel account of David's anointing and the taking of Zion, Psalm 78 celebrates David as a shepherd taken from the sheepfolds to shepherd God's people, and Proverbs 3 is a short instruction to trust the LORD and let him direct one's paths.",
+     "q": "Read these with 2 Samuel 5. What do they add to the picture of a leader whose strength comes from being led?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David enquired of the LORD twice and received two different answers to the same enemy.",
+     "q": "Where are you tempted to repeat what worked last time without asking again? What would it mean to enquire afresh this week?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"David perceived that the LORD had established him king\" (2 Samuel 5:12).",
+     "q": "Ask the Spirit to give you the same clear perception of where God has actually placed you, and for whose sake, rather than what you might prefer."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David was a king, but the whole chapter is about the people he was called to shepherd, and the LORD who was to guide them.",
+     "q": "Pray by name for someone who leads: a pastor, a school leader, a parent, a manager, a politician. Ask that they would enquire of the LORD, hear what he actually says, and do it. Pray also for those they lead."
+    }
+   ]
+  }
+ ]
+},
+// Day 633
+{
+ "ref": "Proverbs 31",
+ "tag": "Psalms & Wisdom",
+ "api": "proverbs+31",
+ "sum": [
+  "The book closes with \"the words of king Lemuel, the prophecy that his mother taught him.\" She warns her son against giving his strength to women or to the wine that destroys kings, because rulers who drink forget the law and pervert justice for the afflicted.",
+  "Her positive charge to him is public: \"Open thy mouth for the dumb in the cause of all such as are appointed to destruction,\" and \"judge righteously, and plead the cause of the poor and needy.\"",
+  "The chapter then turns to an acrostic poem, beginning \"Who can find a virtuous woman? for her price is far above rubies.\" She is trusted by her husband, industrious, wise in business, generous to the poor, and unafraid of the future.",
+  "The poem ends with her household and husband calling her blessed and an important reminder: \"Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.\" Her own works praise her in the gates."
+ ],
+ "nug": [
+  {
+   "h": "A mother's teaching",
+   "b": "\"The words of king Lemuel, the prophecy that his mother taught him\" (Proverbs 31:1). The last chapter of Proverbs is a mother's instruction, echoing the many places where the book begins with a parent addressing a child. It is a fitting finish: wisdom is handed on in households."
+  },
+  {
+   "h": "A voice for the voiceless",
+   "b": "\"Open thy mouth, judge righteously, and plead the cause of the poor and needy\" (Proverbs 31:9). Before the famous poem, the chapter tells the king what power is for."
+  },
+  {
+   "h": "Worth beyond rubies",
+   "b": "\"Who can find a virtuous woman? for her price is far above rubies\" (Proverbs 31:10). The word for virtuous carries the sense of strength and capability. What follows is a portrait of work, wisdom and generosity rather than of decoration."
+  },
+  {
+   "h": "Strength, honour and kindness",
+   "b": "\"Strength and honour are her clothing; and she shall rejoice in time to come\" (Proverbs 31:25). \"She openeth her mouth with wisdom; and in her tongue is the law of kindness\" (Proverbs 31:26). Her confidence about the future rests on the character she has built."
+  },
+  {
+   "h": "The fear of the LORD, again",
+   "b": "\"Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised\" (Proverbs 31:30). This is where Proverbs began, with \"The fear of the LORD is the beginning of knowledge\" (Proverbs 1:7). Today completes the book of Proverbs, and Ecclesiastes follows."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Proverbs 1:7-9 · Ruth 3:10-11 · Isaiah 1:17",
+   "qs": [
+    {
+     "th": "Proverbs 1 opens the book with the fear of the LORD and a parent's instruction, the same two notes on which it closes; Ruth 3 shows a woman of the same kind of character, of whom the city says she is \"a virtuous woman\"; and Isaiah 1 gives the prophetic version of Lemuel's mother's charge to seek justice and plead for the widow.",
+     "q": "Read them together with Proverbs 31. How do the opening and closing of Proverbs frame everything in between?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The woman of Proverbs 31 is remembered for what she did with her hands, her mouth and her household, all quietly and over many years.",
+     "q": "Whose ordinary faithfulness has shaped you, and have you thanked them? What is one ordinary thing you could do more faithfully this week?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"She openeth her mouth with wisdom; and in her tongue is the law of kindness\" (Proverbs 31:26).",
+     "q": "Ask the Spirit to show you whether your speech has more of wisdom and kindness, or of haste and edge, and to begin a change of tone in you."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Open thy mouth for the dumb in the cause of all such as are appointed to destruction\" (Proverbs 31:8).",
+     "q": "Sit in silence for a few minutes. Ask God whose cause he might be asking you to speak up for, and then simply wait and listen. Write down anything that comes to mind, without judging it."
+    }
+   ]
+  }
+ ]
+},
+// Day 634
+{
+ "ref": "2 Samuel 6",
+ "tag": "Old Testament",
+ "api": "2samuel+6",
+ "sum": [
+  "David gathers thirty thousand chosen men to bring up the ark of God from Baale of Judah. They set it \"upon a new cart,\" and David and all Israel celebrate before the LORD with instruments of every kind.",
+  "At Nachon's threshingfloor the oxen shake the ark, and Uzzah reaches out and takes hold of it. \"The anger of the LORD was kindled against Uzzah; and God smote him there for his error.\" David is displeased, then afraid, and asks, \"How shall the ark of the LORD come to me?\"",
+  "The ark rests three months in the house of Obed-edom, whose household the LORD blesses. David then brings it up with gladness, sacrificing after six paces, dancing \"with all his might,\" and leading Israel with shouting and the sound of the trumpet.",
+  "Michal watches from her window and \"despised him in her heart.\" When David returns to bless his household she mocks him, and he answers that it was before the LORD who chose him over her father. The chapter ends with the sober note that Michal had no child to the day of her death."
+ ],
+ "nug": [
+  {
+   "h": "A new cart",
+   "b": "\"And they set the ark of God upon a new cart\" (2 Samuel 6:3). It looks like a careful choice, a new cart for a holy thing, but the law had said the Kohathites were to carry it, and \"they shall not touch any holy thing, lest they die\" (Numbers 4:15). Sincerity was not the same as obedience."
+  },
+  {
+   "h": "A hard passage",
+   "b": "\"Uzzah put forth his hand to the ark of God, and took hold of it; for the oxen shook it\" (2 Samuel 6:6). \"And God smote him there for his error\" (2 Samuel 6:7). Uzzah's instinct seems kind, and the reader is meant to feel the weight of it. The chapter does not explain it away; it shows that holiness is not to be handled casually, and David himself responds with fear."
+  },
+  {
+   "h": "Learning to do it properly",
+   "b": "\"David was afraid of the LORD that day, and said, How shall the ark of the LORD come to me?\" (2 Samuel 6:9). When the ark comes up the second time the Levites carry it, as David later explains: \"the LORD our God made a breach upon us, for that we sought him not after the due order\" (1 Chronicles 15:13)."
+  },
+  {
+   "h": "Dancing with all his might",
+   "b": "\"And David danced before the LORD with all his might\" (2 Samuel 6:14). His joy is unguarded and public, and it is entirely directed to the LORD, not to himself."
+  },
+  {
+   "h": "Contempt in the heart",
+   "b": "\"And she despised him in her heart\" (2 Samuel 6:16). David answers, \"It was before the LORD, which chose me before thy father, and before all his house\" (2 Samuel 6:21), and adds, \"I will yet be more vile than thus, and will be base in mine own sight\" (2 Samuel 6:22). Michal's problem is not decorum; it is that she cannot rejoice with him."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Numbers 4:15 · 1 Chronicles 15:11-15 · Psalm 30:11-12",
+   "qs": [
+    {
+     "th": "Numbers 4 records how the ark was to be carried and warns against touching holy things, 1 Chronicles 15 retells the same events and shows David saying what went wrong the first time, and Psalm 30 speaks of mourning turned into dancing.",
+     "q": "Read them together with 2 Samuel 6. How do reverence and joy belong together in worship, and what happens when either is missing?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Uzzah's story asks whether we treat holy things with the seriousness God asks, and Michal's asks whether we can celebrate God's goodness without contempt for those who do so more freely than we do.",
+     "q": "Which of the two are you more likely to slip into: casual handling of what is holy, or a critical spirit toward another person's worship or joy? Be specific."
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's fear was the beginning of learning to approach God rightly.",
+     "q": "Ask the Spirit to search you for a way you have approached God on your own terms, with good intentions but without asking how he wants to be approached."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"And she despised him in her heart\" (2 Samuel 6:16).",
+     "q": "Confess honestly to God any contempt, coldness or criticism you have carried in your heart toward another believer. Confess too any carelessness with what he has called holy. Receive his forgiveness, and ask for a heart that can dance, and that can tremble, rightly."
+    }
+   ]
+  }
+ ]
+},
+// Day 635
+{
+ "ref": "Acts 2",
+ "tag": "New Testament",
+ "api": "acts+2",
+ "sum": [
+  "On the day of Pentecost the believers are \"all with one accord in one place\" when a sound like a rushing mighty wind fills the house. Tongues like fire rest on each of them, and they are \"all filled with the Holy Ghost\" and speak in other languages. The crowd from every nation hears \"the wonderful works of God\" in their own tongues; some are amazed, others mock.",
+  "Peter stands with the eleven and explains that this is what Joel foretold: \"I will pour out of my Spirit upon all flesh,\" and \"whosoever shall call on the name of the Lord shall be saved.\"",
+  "Peter preaches Jesus of Nazareth, crucified by wicked hands according to God's counsel, and raised because \"it was not possible that he should be holden of it.\" He argues from Psalm 16 and Psalm 110 that David spoke of the Christ, and declares that God has made Jesus \"both Lord and Christ.\"",
+  "Cut to the heart, the crowd asks what to do. Peter calls them to repent and be baptised; about three thousand are added that day. They continue in the apostles' teaching, fellowship, the breaking of bread and prayers, share what they have, and the Lord adds to the church daily."
+ ],
+ "nug": [
+  {
+   "h": "Fulfilled promise",
+   "b": "\"And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance\" (Acts 2:4). This is the fulfilment of the promise of Acts 1: the Spirit comes not to a select few, but to the whole waiting company."
+  },
+  {
+   "h": "The wonderful works of God",
+   "b": "\"We do hear them speak in our tongues the wonderful works of God\" (Acts 2:11). The first result of the Spirit's coming is a message that people can understand, spoken in their own languages."
+  },
+  {
+   "h": "All flesh",
+   "b": "\"I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy\" (Acts 2:17). Sons and daughters, young and old, servants and handmaidens. Peter reads Joel as a promise that reaches across every category."
+  },
+  {
+   "h": "Repent, and be baptised",
+   "b": "\"Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost\" (Acts 2:38). \"For the promise is unto you, and to your children, and to all that are afar off\" (Acts 2:39). The gift is offered to the very people who had crucified him."
+  },
+  {
+   "h": "A church worth belonging to",
+   "b": "\"And they continued stedfastly in the apostles' doctrine and fellowship, and in breaking of bread, and in prayers\" (Acts 2:42). \"And the Lord added to the church daily such as should be saved\" (Acts 2:47). Growth is described as the Lord's work, following a shared life rather than a programme."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Joel 2:28-29 · Luke 24:46-49 · Psalm 16:8-11",
+   "qs": [
+    {
+     "th": "Joel 2 is the prophecy Peter quotes, Luke 24 records the risen Jesus telling the disciples to wait for power from on high, and Psalm 16 is the psalm Peter says David wrote about the resurrection of the Christ.",
+     "q": "Read them together with Acts 2. How does Peter's sermon weave prophecy, promise and Psalm into one announcement about Jesus?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The first believers were changed from frightened followers into witnesses who \"continued stedfastly\" in shared life.",
+     "q": "What does it look like in your life to continue steadfastly in teaching, fellowship, bread and prayer? Which of these is currently the weakest?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Ye shall receive the gift of the Holy Ghost\" (Acts 2:38).",
+     "q": "Ask the Spirit to fill you afresh, not for a dramatic experience but for the same purpose as at Pentecost: to speak of the wonderful works of God to those around you in ways they can hear."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"This Jesus hath God raised up, whereof we all are witnesses\" (Acts 2:32).",
+     "q": "Thank God specifically for the Spirit who has been given, for the promise that reaches even to you and your children, and for the people who have shared the good news with you. Name them if you can."
+    }
+   ]
+  }
+ ]
+},
+// Day 636
+{
+ "ref": "Ecclesiastes 1",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+1",
+ "sum": [
+  "\"The words of the Preacher, the son of David, king in Jerusalem.\" He begins with a cry: \"Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.\" He asks what profit a person has from all their labour under the sun.",
+  "Generations come and go while the earth abides. The sun rises and sets, the wind circles, the rivers run into a sea that is never full. \"All things are full of labour,\" and the eye and ear are never satisfied.",
+  "\"There is no new thing under the sun.\" What has been will be, and there is little remembrance of former things or of things yet to come.",
+  "The Preacher, king in Jerusalem, gave his heart to seek wisdom and concludes that it too is \"vanity and vexation of spirit.\" \"That which is crooked cannot be made straight,\" and \"in much wisdom is much grief.\""
+ ],
+ "nug": [
+  {
+   "h": "An honest beginning",
+   "b": "\"Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity\" (Ecclesiastes 1:2). The Hebrew word behind vanity means breath or vapour: something real but fleeting and impossible to hold. Ecclesiastes starts by naming that experience plainly."
+  },
+  {
+   "h": "Under the sun",
+   "b": "\"What profit hath a man of all his labour which he taketh under the sun?\" (Ecclesiastes 1:3). The phrase \"under the sun\" recurs through the book. It marks the Preacher's method: he is asking what life amounts to when viewed only from within the world, without looking above it."
+  },
+  {
+   "h": "The cycles",
+   "b": "\"One generation passeth away, and another generation cometh: but the earth abideth for ever\" (Ecclesiastes 1:4). The pattern of nature is steady, but that steadiness leaves the individual feeling small. \"The eye is not satisfied with seeing, nor the ear filled with hearing\" (Ecclesiastes 1:8)."
+  },
+  {
+   "h": "Nothing new?",
+   "b": "\"The thing that hath been, it is that which shall be... and there is no new thing under the sun\" (Ecclesiastes 1:9). The Preacher is not denying that history moves, but that it moves in ways that satisfy the human hunger for lasting meaning."
+  },
+  {
+   "h": "Wisdom's limits",
+   "b": "\"For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow\" (Ecclesiastes 1:18). Ecclesiastes begins today and runs for twelve chapters; it ends with \"Fear God, and keep his commandments\" (Ecclesiastes 12:13). Read the beginning in light of that ending."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 90:1-6 · Romans 8:19-21 · Psalm 39:4-6",
+   "qs": [
+    {
+     "th": "Psalm 90 sets the brevity of human life against the eternity of God, Romans 8 explains that creation itself was subjected to futility in hope, and Psalm 39 is a prayer to know how frail we are.",
+     "q": "Read them together with Ecclesiastes 1. How do these passages take the Preacher's honesty seriously while pointing to something beyond it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher describes the tiredness that comes from repetition: the same work, the same cycles, the same unfulfilled hunger.",
+     "q": "Where in your life does the repetition of work or routine feel like vanity? What are you hoping it will produce that it cannot?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"That which is crooked cannot be made straight\" (Ecclesiastes 1:15).",
+     "q": "Ask the Spirit to help you accept honestly what you cannot fix, and to show you where you can trust God with it instead."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God\" (Psalm 90:2).",
+     "q": "Where the Preacher sees a world going round and round, adore the God who stands before and beyond it. Praise him for being the one thing that is not vapour."
+    }
+   ]
+  }
+ ]
+},
+// Day 637
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "Favour is deceitful",
+   "b": "\"Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised\" (Proverbs 31:30). This week completed the book of Proverbs, whose last word returns to where the book began: the fear of the LORD. It also began Ecclesiastes, which asks what everything is worth without him."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read the murder of Ish-bosheth and David's refusal to profit from it (2 Samuel 4), David's anointing over all Israel and his two victories over the Philistines (2 Samuel 5), the final chapter of Proverbs, a mother's teaching and the portrait of a woman of strength (Proverbs 31), the bringing up of the ark and the death of Uzzah (2 Samuel 6), Pentecost and Peter's first sermon (Acts 2), and the opening of Ecclesiastes (Ecclesiastes 1).",
+     "q": "Compare \"David danced before the LORD with all his might\" (2 Samuel 6:14) with \"Vanity of vanities, saith the Preacher\" (Ecclesiastes 1:2). What do they suggest about the difference between a life lived before the LORD and one weighed only under the sun?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance\" (Acts 2:28).",
+     "q": "Sit quietly for a moment, and simply rest in the thought that the ways of life have been made known to you, and that joy is found in his presence rather than in your efforts."
+    }
+   ]
+  }
+ ]
+},
+// Day 638
+{
+ "ref": "2 Samuel 7",
+ "tag": "Old Testament",
+ "api": "2samuel+7",
+ "sum": [
+  "David, settled in his house of cedar, tells Nathan the prophet that it is wrong for the ark to dwell in curtains. Nathan's first answer is \"Go, do all that is in thine heart; for the LORD is with thee.\"",
+  "That night the LORD corrects him: he has never asked for a house of cedar, and it is not for David to build him a house. He reminds David, \"I took thee from the sheepcote, from following the sheep, to be ruler over my people,\" and promises to make David's name great.",
+  "Then comes the promise: the LORD will make David a house. David's seed will build a house for his name, and the LORD will establish his throne for ever. \"I will be his father, and he shall be my son.\" If he sins, he will be chastened, \"But my mercy shall not depart away from him.\"",
+  "David goes in and sits before the LORD: \"Who am I, O Lord GOD?\" He praises God's greatness and uniqueness, recalls the redemption of Israel, and asks the LORD to do as he has said, so that his name may be magnified for ever."
+ ],
+ "nug": [
+  {
+   "h": "A good idea, redirected",
+   "b": "\"See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains\" (2 Samuel 7:2). Nathan approves, but the LORD asks, \"Shalt thou build me an house for me to dwell in?\" (2 Samuel 7:5). A good desire is not automatically a divine assignment, and even a prophet had to hear again."
+  },
+  {
+   "h": "From the sheepfold",
+   "b": "\"I took thee from the sheepcote, from following the sheep, to be ruler over my people\" (2 Samuel 7:8). Before God makes any promise, he recalls what he has already done. David's story begins with God's initiative, not his ambition."
+  },
+  {
+   "h": "A house for David",
+   "b": "\"Also the LORD telleth thee that he will make thee an house\" (2 Samuel 7:11). David wanted to build God a house; God answers by building David a house, meaning a dynasty. It is the reverse of what David expected."
+  },
+  {
+   "h": "Father and son",
+   "b": "\"I will be his father, and he shall be my son\" (2 Samuel 7:14). The promise carries its own realism: sin will be chastened, but \"my mercy shall not depart away from him\" (2 Samuel 7:15). The New Testament reads it as pointing beyond Solomon to Christ."
+  },
+  {
+   "h": "Who am I?",
+   "b": "\"Who am I, O Lord GOD? and what is my house, that thou hast brought me hitherto?\" (2 Samuel 7:18). David's response to a promise is humility and prayer. He prays for the house God has promised: \"thy words be true\" (2 Samuel 7:28)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 89:3-4 · Luke 1:30-33 · Hebrews 1:5",
+   "qs": [
+    {
+     "th": "Psalm 89 celebrates the covenant with David and God's oath to establish his seed for ever, Luke 1 records the angel telling Mary that her son will receive the throne of his father David, and Hebrews 1 quotes the promise of a father and a son as fulfilled in Christ.",
+     "q": "Read them together with 2 Samuel 7. How does this chapter's promise grow larger as the rest of Scripture takes it up?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David wanted to give God something and was told, instead, about what God would give him.",
+     "q": "Is there something you are working hard to do for God that may first need you to receive what he has already done for you?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Nathan said yes too quickly and had to be corrected by the word of the LORD that same night.",
+     "q": "Ask the Spirit for the humility to test your good ideas, and the ideas others give you, against what God actually says."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David prayed for his house: \"let it please thee to bless the house of thy servant, that it may continue for ever before thee\" (2 Samuel 7:29).",
+     "q": "Pray, as David did, for your own household and for those God has placed in your care, whether family, class, church or team. Ask for his blessing on them and for a faithfulness that outlasts you. Add anyone who leads or teaches them."
+    }
+   ]
+  }
+ ]
+},
+// Day 639
+{
+ "ref": "2 Samuel 8",
+ "tag": "Old Testament",
+ "api": "2samuel+8",
+ "sum": [
+  "After the promise of chapter 7 comes a chapter of campaigns. David subdues the Philistines and takes Metheg-ammah. He defeats Moab and measures the captives with lines, putting two-thirds to death and keeping one-third alive; the Moabites become servants and bring gifts.",
+  "He strikes Hadadezer of Zobah, takes a thousand chariots and many horsemen, and lames all but a hundred of the chariot horses. When the Syrians of Damascus come to help, David kills twenty-two thousand of them and puts garrisons in Syria. \"And the LORD preserved David whithersoever he went.\"",
+  "Toi, king of Hamath, sends his son with gifts of silver, gold and brass. David dedicates them to the LORD along with the silver and gold from all the nations he had subdued, and puts garrisons in Edom, where the LORD again preserves him.",
+  "The chapter closes with an account of his rule: \"David reigned over all Israel; and David executed judgment and justice unto all his people,\" followed by a list of his chief officers, including Joab, Zadok and Benaiah."
+ ],
+ "nug": [
+  {
+   "h": "Fulfilment in the ordinary",
+   "b": "\"And David gat him a name when he returned from smiting of the Syrians\" (2 Samuel 8:13). In chapter 7 God promised \"a great name\" (2 Samuel 7:9). Here the promise is beginning to be seen in the borders and treasuries of a nation."
+  },
+  {
+   "h": "An uncomfortable chapter",
+   "b": "\"And he smote Moab, and measured them with a line, casting them down to the ground\" (2 Samuel 8:2). This is war in the ancient world, and the text records it plainly. Readers should not skip past it or rush to defend it, but hold it alongside the rest of Scripture's account of God, justice and human violence."
+  },
+  {
+   "h": "The horses",
+   "b": "\"David houghed all the chariot horses, but reserved of them for an hundred chariots\" (2 Samuel 8:4). The law for kings said, \"he shall not multiply horses to himself\" (Deuteronomy 17:16). David lames most of the horses, which limits military strength, though not entirely."
+  },
+  {
+   "h": "Preserved, wherever he went",
+   "b": "\"And the LORD preserved David whithersoever he went\" (2 Samuel 8:6). The sentence is repeated in verse 14. The writer keeps insisting that these victories are the LORD's doing."
+  },
+  {
+   "h": "Dedicated to the LORD",
+   "b": "\"Which also king David did dedicate unto the LORD\" (2 Samuel 8:11). The spoil is not kept for himself but set apart. Then, \"David executed judgment and justice unto all his people\" (2 Samuel 8:15): a good king's power is meant to serve justice at home."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 17:14-16 · Psalm 20:6-8 · Psalm 72:1-4",
+   "qs": [
+    {
+     "th": "Deuteronomy 17 lays down the law for Israel's future king, including the warning about horses, Psalm 20 contrasts trust in chariots and horses with trust in the name of the LORD, and Psalm 72 is a prayer for the king to judge the people with righteousness and defend the poor.",
+     "q": "Read them together with 2 Samuel 8. What do they suggest David's power was supposed to be for, and where does the chapter leave you uneasy?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's success is described as the LORD's preservation, and yet the chapter is full of the violence by which it came.",
+     "q": "How do you hold together the goodness of God and the hardness of passages like this? What do you do when you do not have a tidy answer?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Some trust in chariots, and some in horses: but we will remember the name of the LORD our God\" (Psalm 20:7).",
+     "q": "Ask the Spirit to show you where you are quietly relying on strength, resources or plans instead of the LORD."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"And the LORD preserved David whithersoever he went\" (2 Samuel 8:6).",
+     "q": "Sit quietly for a few minutes. Let the repeated words \"whithersoever he went\" settle: God has preserved you in every place you have been. Then listen. Is there a place where you are going that you need to hand over to him? Do not rush to fill the silence."
+    }
+   ]
+  }
+ ]
+},
+// Day 640
+{
+ "ref": "Ecclesiastes 2",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+2",
+ "sum": [
+  "The Preacher tests pleasure: \"I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.\" He tries laughter and wine while keeping his heart guided by wisdom, to see what is good for people to do in their few days.",
+  "He builds houses, plants vineyards, gardens and orchards, digs pools, and gathers servants, herds, silver, gold, singers and every delight. He is greater than all before him in Jerusalem, and he withholds his heart from no joy.",
+  "Looking back at all his labour, \"all was vanity and vexation of spirit, and there was no profit under the sun.\" Wisdom excels folly \"as far as light excelleth darkness,\" but one event happens to the wise and the fool alike, and neither is long remembered. He comes to hate life and his labour, since he must leave it to someone who may be a fool.",
+  "He ends with the first of several recurring observations: there is nothing better than to eat, drink and enjoy the good of one's labour, and this is \"from the hand of God.\" God gives wisdom, knowledge and joy to the one who is good in his sight."
+ ],
+ "nug": [
+  {
+   "h": "The experiment",
+   "b": "\"I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity\" (Ecclesiastes 2:1). The Preacher is not describing what he was told, but what he tried. The chapter reads as an honest report from a man who had the means to pursue everything."
+  },
+  {
+   "h": "Great works",
+   "b": "\"I made me great works; I builded me houses; I planted me vineyards\" (Ecclesiastes 2:4). The list runs on: gardens, pools, servants, silver, gold, musicians. Each is a genuine good, and each fails to satisfy on its own."
+  },
+  {
+   "h": "Nothing withheld",
+   "b": "\"And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy\" (Ecclesiastes 2:10). Then, \"behold, all was vanity and vexation of spirit, and there was no profit under the sun\" (Ecclesiastes 2:11). It is a striking confession from someone who tried everything."
+  },
+  {
+   "h": "Light and darkness",
+   "b": "\"Then I saw that wisdom excelleth folly, as far as light excelleth darkness\" (Ecclesiastes 2:13). The Preacher does not throw wisdom away. But \"one event happeneth to them all\" (Ecclesiastes 2:14), and death levels the wise and the fool."
+  },
+  {
+   "h": "From the hand of God",
+   "b": "\"There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God\" (Ecclesiastes 2:24). The way out of vanity is not more getting; it is receiving the ordinary goods of life as gifts."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Luke 12:16-21 · Matthew 6:19-21 · Philippians 3:7-8",
+   "qs": [
+    {
+     "th": "In Luke 12 Jesus tells of a man who stored up much and lost his life that night, Matthew 6 speaks of treasure on earth and treasure in heaven, and Philippians 3 records Paul counting what he had gained as loss for the sake of Christ.",
+     "q": "Read them together with Ecclesiastes 2. What do they say about where lasting treasure is found, and how does that give the Preacher's despair its answer?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher tried pleasure, projects and possessions, and each promised more than it delivered.",
+     "q": "What have you been hoping will finally satisfy you: a purchase, an achievement, a comfort? Be honest about what it has and has not given you."
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I withheld not my heart from any joy\" (Ecclesiastes 2:10).",
+     "q": "Ask the Spirit to show you where your heart has been pursuing a good thing as though it were the ultimate thing."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Then I looked on all the works that my hands had wrought... and, behold, all was vanity and vexation of spirit\" (Ecclesiastes 2:11).",
+     "q": "Confess to God the places where you have sought from things, achievements or approval what only he can give. Name them plainly, without excuse, and then receive his forgiveness and his invitation to enjoy his gifts as gifts."
+    }
+   ]
+  }
+ ]
+},
+// Day 641
+{
+ "ref": "2 Samuel 9",
+ "tag": "Old Testament",
+ "api": "2samuel+9",
+ "sum": [
+  "David asks, \"Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan's sake?\" A servant of Saul's house, Ziba, tells him that Jonathan has a son who is lame in his feet.",
+  "Mephibosheth is fetched from the house of Machir, and comes before David and falls on his face. David says, \"Fear not: for I will surely shew thee kindness for Jonathan thy father's sake.\"",
+  "David restores all Saul's land to him and promises, \"thou shalt eat bread at my table continually.\" Mephibosheth answers, \"What is thy servant, that thou shouldest look upon such a dead dog as I am?\"",
+  "Ziba and his sons and servants are to work the land for Mephibosheth, who eats at the king's table \"as one of the king's sons.\" The chapter ends by noting he dwelt in Jerusalem and \"was lame on both his feet.\""
+ ],
+ "nug": [
+  {
+   "h": "Kindness for a promise's sake",
+   "b": "\"Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan's sake?\" (2 Samuel 9:1). David is remembering a covenant made with Jonathan years earlier, in which he promised not to cut off his kindness from Jonathan's house. It is the reverse of how a new king usually treats a rival dynasty."
+  },
+  {
+   "h": "The kindness of God",
+   "b": "\"Is there not yet any of the house of Saul, that I may shew the kindness of God unto him?\" (2 Samuel 9:3). David does not want to offer ordinary kindness. He wants to show the kind that God shows: unearned, generous and lasting."
+  },
+  {
+   "h": "Fear not",
+   "b": "\"Fear not: for I will surely shew thee kindness for Jonathan thy father's sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually\" (2 Samuel 9:7). Mephibosheth had every reason to expect the opposite. The king's first word to him is a word of reassurance."
+  },
+  {
+   "h": "A dead dog",
+   "b": "\"What is thy servant, that thou shouldest look upon such a dead dog as I am?\" (2 Samuel 9:8). He sees himself as having no claim at all. The grace he receives is not deserved, and he knows it."
+  },
+  {
+   "h": "At the king's table",
+   "b": "\"He shall eat at my table, as one of the king's sons\" (2 Samuel 9:11). Yet the chapter closes without pretending the lameness has gone: he \"was lame on both his feet\" (2 Samuel 9:13). He is welcomed and belongs, and his condition is not hidden."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Samuel 20:14-17 · Ephesians 2:4-7 · Luke 14:12-14",
+   "qs": [
+    {
+     "th": "1 Samuel 20 records the covenant between David and Jonathan that lies behind David's kindness here, Ephesians 2 describes God's rich mercy seating those who were dead in sins with Christ, and Luke 14 tells of a table set for the poor, the maimed, the lame and the blind.",
+     "q": "Read them together with 2 Samuel 9. How does David's kindness to Mephibosheth show something of the way God treats us?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Mephibosheth was in hiding, far from the palace, and was brought in by the king's initiative, not his own.",
+     "q": "Where have you been shown kindness you did not earn? And who might God be asking you to seek out and welcome, without regard to what they can offer you?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David sought out someone whom others had forgotten.",
+     "q": "Ask the Spirit to bring to mind someone who has been overlooked, and to show you one concrete step of kindness toward them."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Thou shalt eat bread at my table continually\" (2 Samuel 9:7).",
+     "q": "Give thanks to God for the seat you have been given at his table by grace, and not by merit. Thank him for the people who first showed you kindness, and for the ways he has welcomed you when you felt least worthy."
+    }
+   ]
+  }
+ ]
+},
+// Day 642
+{
+ "ref": "Acts 3",
+ "tag": "New Testament",
+ "api": "acts+3",
+ "sum": [
+  "Peter and John go up to the temple at the hour of prayer, where a man lame from birth is laid daily at the Beautiful gate to beg. Peter fastens his eyes on him and says, \"Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk.\"",
+  "Peter takes him by the right hand and lifts him up; his feet and ankle bones receive strength, and he enters the temple \"walking, and leaping, and praising God.\" The people recognise the beggar and are filled with wonder, running together to the porch called Solomon's.",
+  "Peter turns the crowd's attention away from himself: \"why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk?\" He preaches that God has glorified his Son Jesus, whom they denied, and that \"his name through faith in his name hath made this man strong.\" He acknowledges that they acted in ignorance.",
+  "He calls them to \"Repent ye therefore, and be converted, that your sins may be blotted out,\" promising times of refreshing from the Lord's presence. He points to Moses and all the prophets, and reminds them they are children of the covenant: \"in thy seed shall all the kindreds of the earth be blessed.\""
+ ],
+ "nug": [
+  {
+   "h": "Not silver and gold",
+   "b": "\"Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk\" (Acts 3:6). Peter and John have no money to give. They give what they actually have, which is the name and power of Jesus."
+  },
+  {
+   "h": "Leaping and praising",
+   "b": "\"And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God\" (Acts 3:8). A man who had never walked immediately does everything at once. His first steps take him into the temple where he had always been kept at the gate."
+  },
+  {
+   "h": "Not our own power",
+   "b": "\"Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk?\" (Acts 3:12). The apostles deflect the glory at once and point to the one who deserves it."
+  },
+  {
+   "h": "The Prince of life",
+   "b": "\"And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses\" (Acts 3:15). Peter is blunt about what the crowd did, and equally clear that the one they killed lives."
+  },
+  {
+   "h": "Times of refreshing",
+   "b": "\"Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord\" (Acts 3:19). The call to repent comes with a promise. The blessing to Abraham's seed, \"in thy seed shall all the kindreds of the earth be blessed\" (Acts 3:25), is now open to all."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 35:3-6 · Genesis 22:15-18 · 2 Samuel 9:6-13",
+   "qs": [
+    {
+     "th": "Isaiah 35 promises a day when the lame will leap: \"Then shall the lame man leap as an hart\" (Isaiah 35:6), Genesis 22 is where God swears the blessing to Abraham's seed that Peter quotes, and 2 Samuel 9 tells of another lame man brought to a king's table by grace.",
+     "q": "Read them together with Acts 3. What do they show about the way God deals with the broken, and how does Jesus fulfil each of them?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The lame man was expecting a few coins and received a whole new life.",
+     "q": "What have you been asking God for that is much smaller than what he may want to give you? What would it look like to ask for more?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Peter said, \"such as I have give I thee\" (Acts 3:6).",
+     "q": "Ask the Spirit to show you what you actually have to give, not money or talent perhaps, but what Jesus has given you, and who needs it today."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"His name through faith in his name hath made this man strong\" (Acts 3:16).",
+     "q": "Adore Jesus, the Holy One and the Just, the Prince of life, whose name still gives strength. Tell him what you love about who he is, and let the man's leaping and praising be an example for your own."
+    }
+   ]
+  }
+ ]
+},
+// Day 643
+{
+ "ref": "Ecclesiastes 3",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+3",
+ "sum": [
+  "\"To every thing there is a season, and a time to every purpose under the heaven.\" The Preacher lists fourteen pairs of opposites, from birth and death to weeping and laughing, mourning and dancing, silence and speech, love and hate, war and peace.",
+  "He asks what profit there is for the worker, and sees the burden God has given people to be exercised in. \"He hath made every thing beautiful in his time,\" and God has set eternity in their hearts, yet no one can find out the whole of his work.",
+  "The best a person can do is rejoice and do good in life, and enjoy their food, drink and labour: \"it is the gift of God.\" What God does is for ever, and nothing can be added to it or taken from it; he does it so that people will fear before him.",
+  "The Preacher sees injustice in the very place of judgment, yet says \"God shall judge the righteous and the wicked.\" He observes that people and animals share the same breath and the same dust, asks who knows where the spirit goes, and ends again with rejoicing in one's work."
+ ],
+ "nug": [
+  {
+   "h": "A time for everything",
+   "b": "\"To every thing there is a season, and a time to every purpose under the heaven\" (Ecclesiastes 3:1). The poem does not say all times are good, only that all have their place. Life is not one long season."
+  },
+  {
+   "h": "Weeping and dancing",
+   "b": "\"A time to weep, and a time to laugh; a time to mourn, and a time to dance\" (Ecclesiastes 3:4). \"A time to keep silence, and a time to speak\" (Ecclesiastes 3:7). Wisdom is knowing which season one is in and responding to it truthfully."
+  },
+  {
+   "h": "Beautiful in his time",
+   "b": "\"He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end\" (Ecclesiastes 3:11). The Hebrew word behind \"world\" is often rendered as eternity. We are made to long for more than we can see or understand."
+  },
+  {
+   "h": "The gift of God",
+   "b": "\"And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God\" (Ecclesiastes 3:13). \"I know that, whatsoever God doeth, it shall be for ever\" (Ecclesiastes 3:14). The steadiness of God is set against the shifting of seasons."
+  },
+  {
+   "h": "Judgment, and dust",
+   "b": "\"God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work\" (Ecclesiastes 3:17). The Preacher sees wrong in the courts, yet holds to a final judgment. He also remembers that \"all are of the dust, and all turn to dust again\" (Ecclesiastes 3:20)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Galatians 4:4-5 · Psalm 31:14-15 · Romans 12:15",
+   "qs": [
+    {
+     "th": "Galatians 4 speaks of the fulness of time when God sent his Son, Psalm 31 declares \"My times are in thy hand\" (Psalm 31:15), and Romans 12 tells believers to weep with those who weep and rejoice with those who rejoice.",
+     "q": "Read them together with Ecclesiastes 3. How do they turn the poem from resignation into trust, and into care for those in a different season from your own?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher's poem names seasons we would prefer to avoid alongside the ones we welcome.",
+     "q": "Which season are you in now? Which season is someone close to you in, and how might you meet them there rather than where you would prefer them to be?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"He hath set the world in their heart\" (Ecclesiastes 3:11).",
+     "q": "Ask the Spirit to help you notice the longing for more that God has placed in you, and in the people around you, and not to fill it too quickly with lesser things."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"A time to weep, and a time to laugh; a time to mourn, and a time to dance\" (Ecclesiastes 3:4).",
+     "q": "Pray by name for people in different seasons: someone grieving, someone celebrating, someone starting something new, someone nearing the end of life. Ask God to be present to each of them in their particular season, and for you to be a faithful friend."
+    }
+   ]
+  }
+ ]
+},
+// Day 644
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "The gift of God",
+   "b": "\"He hath made every thing beautiful in his time\" (Ecclesiastes 3:11). This week David received a promise he did not ask for, showed kindness he did not owe, and the apostles gave a beggar something better than silver and gold. Ecclesiastes reminds us that all of it comes in its season, from God's hand."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read God's covenant with David and his prayer of wonder (2 Samuel 7), David's campaigns and the hard questions they raise (2 Samuel 8), the Preacher's experiment with pleasure and possessions (Ecclesiastes 2), David's kindness to Mephibosheth (2 Samuel 9), the healing of the lame man at the Beautiful gate (Acts 3), and the poem of seasons (Ecclesiastes 3).",
+     "q": "Which stayed with you more this week: Mephibosheth's words, \"What is thy servant, that thou shouldest look upon such a dead dog as I am?\" (2 Samuel 9:8), or Peter's, \"such as I have give I thee\" (Acts 3:6)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"He hath made every thing beautiful in his time\" (Ecclesiastes 3:11).",
+     "q": "Sit quietly for a moment, and simply rest in the thought that your present season, whatever it is, is held in his hand and will be made beautiful in his time."
+    }
+   ]
+  }
+ ]
+},
+// Day 645
+{
+ "ref": "2 Samuel 10",
+ "tag": "Old Testament",
+ "api": "2samuel+10",
+ "sum": [
+  "David sends servants to comfort Hanun, the new king of Ammon, saying, \"I will shew kindness unto Hanun the son of Nahash, as his father shewed kindness unto me,\" but the Ammonite princes persuade Hanun that they are spies, and he shames them by shaving half their beards and cutting their garments short.",
+  "David tells the humiliated men, \"Tarry at Jericho until your beards be grown, and then return,\" while Ammon hires Syrian armies; Joab finds the battle set against him before and behind and divides the army with his brother Abishai.",
+  "Joab says, \"Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good,\" and both the Syrians and the Ammonites flee before Israel.",
+  "The Syrians regather under Hadarezer beyond the river; David crosses the Jordan, defeats them at Helam and Shobach their captain dies, and the kings who served Hadarezer make peace with Israel."
+ ],
+ "nug": [
+  {
+   "h": "Kindness that was misread",
+   "b": "\"I will shew kindness unto Hanun the son of Nahash, as his father shewed kindness unto me\" (2 Samuel 10:2). David's intention is generous and loyal, yet it is received as an insult. Good intentions do not guarantee a good reception."
+  },
+  {
+   "h": "The counsel of suspicion",
+   "b": "\"Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee?\" (2 Samuel 10:3). The princes read every gesture as a plot, and Hanun listens to the loudest voice rather than testing it. A great deal of harm begins when suspicion is treated as insight."
+  },
+  {
+   "h": "Shame met with tenderness",
+   "b": "When David hears what was done to his men, he thinks first of their dignity: \"Tarry at Jericho until your beards be grown, and then return\" (2 Samuel 10:5). Before any campaign, he protects the humiliated."
+  },
+  {
+   "h": "Courage that leaves the outcome open",
+   "b": "Joab organises carefully and then says, \"Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good\" (2 Samuel 10:12). He does his part, and gives the result back to God."
+  },
+  {
+   "h": "David at the front",
+   "b": "In this chapter \"he gathered all Israel together, and passed over Jordan\" (2 Samuel 10:17), and David leads in person. Keep that in mind as you turn to chapter 11, which opens with the king at home while the army is in the field."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Chronicles 19:1-5 · Psalm 46:10 · Proverbs 21:31",
+   "qs": [
+    {
+     "th": "1 Chronicles 19 tells the same story from another angle, Psalm 46 invites God's people to stop striving and know that he is God, and Proverbs 21 reminds us that preparation matters but victory belongs to the LORD.",
+     "q": "Read these with 2 Samuel 10. Where do you see careful effort held together with quiet trust in God, and how does that shape the way you handle a conflict you cannot control?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David meant kindness and it was taken as aggression. Joab prepared well and then trusted God with the result.",
+     "q": "Is there a situation where your good intentions have been misread, or where you have been quick to read bad intentions into someone else? What would it look like to slow down and test the suspicion first?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Joab's words show a soldier's courage and a believer's surrender in the same breath: \"and the LORD do that which seemeth him good\" (2 Samuel 10:12).",
+     "q": "Ask the Spirit to show you one area where you have been doing your part but gripping the outcome too tightly, and to help you loosen your hold."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is silence. Joab's last word before the battle was to leave the outcome with God, and Psalm 46:10 says, \"Be still, and know that I am God\" (Psalm 46:10).",
+     "q": "Sit quietly for a few minutes with no requests. Let one phrase, \"the LORD do that which seemeth him good,\" be your only words, and listen for anything God brings to mind. Write it down if it comes."
+    }
+   ]
+  }
+ ]
+},
+// Day 646
+{
+ "ref": "2 Samuel 11",
+ "tag": "Old Testament",
+ "api": "2samuel+11",
+ "sum": [
+  "While Joab and all Israel besiege Rabbah, \"David tarried still at Jerusalem.\" From the roof he sees a woman bathing, learns that she is Bath-sheba, wife of Uriah the Hittite, sends messengers and takes her, and she conceives.",
+  "David summons Uriah from the battle and urges him to go home, but Uriah refuses: \"as thou livest, and as thy soul liveth, I will not do this thing.\" David makes him drunk, and still Uriah does not go down to his house.",
+  "David writes to Joab, \"Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die,\" and sends the letter by Uriah's own hand. Uriah dies with other soldiers of Israel.",
+  "David answers Joab's report with, \"Let not this thing displease thee, for the sword devoureth one as well as another.\" When Bath-sheba's mourning is over he brings her to his house, \"But the thing that David had done displeased the LORD.\""
+ ],
+ "nug": [
+  {
+   "h": "Where he should have been",
+   "b": "The chapter opens \"at the time when kings go forth to battle\" and then says, \"But David tarried still at Jerusalem\" (2 Samuel 11:1). The fall begins with a small absence: the king is at home while his army is at war."
+  },
+  {
+   "h": "Saw, sent, took",
+   "b": "\"From the roof he saw a woman washing herself\" (2 Samuel 11:2), and then \"David sent messengers, and took her\" (2 Samuel 11:4). Every verb belongs to the king. Bath-sheba is given no words in the scene, and a king's summons was not easily refused. The text does not soften what David did."
+  },
+  {
+   "h": "An honest soldier",
+   "b": "Uriah says, \"The ark, and Israel, and Judah, abide in tents... shall I then go into mine house, to eat and to drink, and to lie with my wife?\" (2 Samuel 11:11). A foreign-born soldier keeps faith with the army and the ark while the king does not. Uriah's integrity is a rebuke that David will not hear."
+  },
+  {
+   "h": "One sin managing another",
+   "b": "David tries to hide what he has done: he calls Uriah home, then \"he made him drunk\" (2 Samuel 11:13), then writes the order and sends it \"by the hand of Uriah\" (2 Samuel 11:14). Each step of concealment costs more than the one before, and finally costs a life."
+  },
+  {
+   "h": "The verdict of the narrator",
+   "b": "David tells Joab, \"the sword devoureth one as well as another\" (2 Samuel 11:25), as if a death he arranged were only the ordinary way of war. Then the narrator gives God's view: \"But the thing that David had done displeased the LORD\" (2 Samuel 11:27)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 51:1-4 · James 1:14-15 · Numbers 32:23",
+   "qs": [
+    {
+     "th": "Psalm 51 is David's prayer of confession after this very chapter, James traces how desire, when it has conceived, brings forth sin and then death, and Numbers 32:23 warns that sin finds a person out.",
+     "q": "Read these together with 2 Samuel 11. Which of the steps in the chapter (the look, the taking, the cover-up, the excuse) is easiest to recognise in your own patterns of temptation?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The whole descent begins with the king staying where he should not have been and doing what he should not have done, while calling the death of a good man \"one as well as another.\"",
+     "q": "Where might you be tarrying somewhere you should not be, or calling something ordinary that you would be ashamed to have exposed? What is one honest step you could take today?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"But the thing that David had done displeased the LORD\" (2 Samuel 11:27). David's conscience seems quiet through all of this chapter, but the LORD is not.",
+     "q": "Ask the Spirit to search you gently and show you anything you have been hiding or explaining away. Then stay in that quiet long enough to hear something specific, rather than a general feeling."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Psalm 51 gives the prayer David eventually learned to say: \"For I acknowledge my transgressions: and my sin is ever before me\" (Psalm 51:3).",
+     "q": "Say plainly to God what you need to confess, without excuse or comparison, and receive the mercy Psalm 51 goes on to ask for. If a wrong needs putting right with someone, ask God for the courage to do it."
+    }
+   ]
+  }
+ ]
+},
+// Day 647
+{
+ "ref": "Ecclesiastes 4",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+4",
+ "sum": [
+  "The Preacher considers the oppressions done under the sun: the tears of the oppressed, and \"they had no comforter,\" with all the power on the side of their oppressors; in bleak mood he praises the dead more than the living.",
+  "He observes that rivalry drives much labour, \"This is also vanity and vexation of spirit,\" sees the fool who folds his hands and destroys himself, and concludes, \"Better is an handful with quietness, than both the hands full with travail and vexation of spirit.\"",
+  "He pictures a man alone, with neither child nor brother, whose labour never ends, and then turns to the remedy: \"Two are better than one,\" because they help, warm and defend each other, and \"a threefold cord is not quickly broken.\"",
+  "He ends with the vanity of political fame: \"Better is a poor and a wise child than an old and foolish king,\" yet the crowd that follows the new ruler will not rejoice in him either."
+ ],
+ "nug": [
+  {
+   "h": "No comforter",
+   "b": "\"So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter\" (Ecclesiastes 4:1). The Preacher says it twice, as if the absence of a comforter is the harshest part."
+  },
+  {
+   "h": "Quietness over striving",
+   "b": "\"Better is an handful with quietness, than both the hands full with travail and vexation of spirit\" (Ecclesiastes 4:6). One handful held in peace is worth more than two full hands held in anxiety."
+  },
+  {
+   "h": "The loneliness of endless work",
+   "b": "\"There is one alone, and there is not a second... neither saith he, For whom do I labour, and bereave my soul of good?\" (Ecclesiastes 4:8). The work has no purpose beyond itself, and the man never stops to ask why."
+  },
+  {
+   "h": "Two are better than one",
+   "b": "\"Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up\" (Ecclesiastes 4:9-10). The answer to vanity is not more effort, but companionship."
+  },
+  {
+   "h": "A threefold cord",
+   "b": "\"And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken\" (Ecclesiastes 4:12). Many read the third strand as God himself, woven into a friendship or marriage."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 2:18 · Galatians 6:1-2 · Proverbs 27:17",
+   "qs": [
+    {
+     "th": "Genesis 2 shows God saying it is not good for the man to be alone, Galatians 6 describes bearing one another's burdens, and Proverbs 27 says that one person sharpens another.",
+     "q": "Read these with Ecclesiastes 4. Where has God already answered the Preacher's loneliness through other people, and where are you being invited to be that person for someone?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher notes the tears of the oppressed who had \"no comforter,\" and then commends the strength of having someone to lift you up when you fall (Ecclesiastes 4:1, 10).",
+     "q": "Who has been a comforter or a helping hand for you when you fell? Is there someone you could quietly be that for this week, and what would the first small step be?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Comfort is one of the Spirit's own names in the New Testament, and he often uses people to give it.",
+     "q": "Ask the Spirit whether there is someone who is alone or overlooked right now, and whether you are being nudged to go to them. Notice the name or face that comes to mind."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is thanksgiving. Ecclesiastes 4:10 says, \"woe to him that is alone when he falleth; for he hath not another to help him up.\"",
+     "q": "Thank God by name for the people who have lifted you up, for those who have stood with you in a struggle, and for the fellowship of believers. Thank him too for his own presence as the third strand in your cord."
+    }
+   ]
+  }
+ ]
+},
+// Day 648
+{
+ "ref": "2 Samuel 12",
+ "tag": "Old Testament",
+ "api": "2samuel+12",
+ "sum": [
+  "\"And the LORD sent Nathan unto David,\" who tells the story of a rich man who took a poor man's one little ewe lamb; David's anger burns, and Nathan answers, \"Thou art the man,\" reminding him of all God gave him and announcing that the sword will never depart from his house.",
+  "David says, \"I have sinned against the LORD,\" and Nathan replies, \"The LORD also hath put away thy sin; thou shalt not die,\" but the child born of the union will die, because David gave the LORD's enemies great occasion to blaspheme.",
+  "David fasts and lies on the earth for seven days while the child is sick; when the child dies he rises, washes, and worships in the house of the LORD, saying, \"I shall go to him, but he shall not return to me.\"",
+  "David comforts Bath-sheba, and Solomon is born, and \"the LORD loved him\"; meanwhile Joab takes Rabbah and David wears the crown of its king. The harsh treatment of the Ammonites at the chapter's end is reported without comment."
+ ],
+ "nug": [
+  {
+   "h": "God goes first",
+   "b": "\"And the LORD sent Nathan unto David\" (2 Samuel 12:1). After months of silence, it is God who pursues the sinner. David did not come to him; he was sent for."
+  },
+  {
+   "h": "A story that catches the conscience",
+   "b": "David's judgement on the rich man is severe: \"because he did this thing, and because he had no pity\" (2 Samuel 12:6). Nathan answers with four words: \"Thou art the man\" (2 Samuel 12:7). The truth David could not see in himself, he could see in someone else."
+  },
+  {
+   "h": "What he had already been given",
+   "b": "\"I anointed thee king over Israel, and I delivered thee out of the hand of Saul\" (2 Samuel 12:7), and \"if that had been too little, I would moreover have given unto thee such and such things\" (2 Samuel 12:8). Sin is often a refusal to trust the generosity of the giver."
+  },
+  {
+   "h": "Forgiven, and still bearing the cost",
+   "b": "\"I have sinned against the LORD,\" says David, and Nathan replies, \"The LORD also hath put away thy sin; thou shalt not die\" (2 Samuel 12:13). Pardon is immediate and real, yet the consequences that follow are grievous and remain."
+  },
+  {
+   "h": "Worship in the wreckage",
+   "b": "When the child dies, David \"came into the house of the LORD, and worshipped\" (2 Samuel 12:20). Earlier he had pleaded, \"Who can tell whether GOD will be gracious to me, that the child may live?\" (2 Samuel 12:22). He can pray boldly and also accept the answer, and his response is worship, not bitterness."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 32:1-5 · Micah 7:18-19 · 1 John 1:9",
+   "qs": [
+    {
+     "th": "Psalm 32 is David's testimony to the relief of confessed sin, Micah 7 marvels that God pardons iniquity and delights in mercy, and 1 John 1:9 promises that God is faithful and just to forgive those who confess.",
+     "q": "Read these together with 2 Samuel 12. What do they show about the character of the God who sent Nathan, and who forgave David without ceasing to be holy?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David hid his sin for a long time, and when Nathan named it he did not argue: \"I have sinned against the LORD\" (2 Samuel 12:13).",
+     "q": "Is there something you have avoided naming, even to yourself? Who might be a trustworthy \"Nathan\" in your life, and how do you respond when someone tells you a hard truth?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit's work is to convict gently and truthfully, so that we can be restored and not condemned.",
+     "q": "Ask the Spirit to help you tell the difference between his conviction, which leads you towards God, and shame, which leads you away. Wait for whatever he brings to mind without rushing to fix it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is adoration. Consider the God of this chapter: the one who sends Nathan, who pronounces the truth, who forgives, \"The LORD also hath put away thy sin\" (2 Samuel 12:13), and who loves the child Solomon (2 Samuel 12:24).",
+     "q": "Praise God for being holy enough to name sin and merciful enough to remove it. Speak to him simply about what you love in his character, without asking for anything."
+    }
+   ]
+  }
+ ]
+},
+// Day 649
+{
+ "ref": "Acts 4",
+ "tag": "New Testament",
+ "api": "acts+4",
+ "sum": [
+  "Peter and John, still speaking after the healing of the lame man, are seized by the priests, the captain of the temple and the Sadducees and held overnight, but \"many of them which heard the word believed; and the number of the men was about five thousand.\"",
+  "Brought before the rulers, Peter, \"filled with the Holy Ghost,\" says the man was healed by the name of Jesus Christ of Nazareth, the stone the builders rejected, and declares, \"Neither is there salvation in any other.\"",
+  "The council sees their boldness and realises \"that they had been with Jesus,\" can find nothing to say against the healed man, and commands them to stop speaking in his name; Peter and John answer, \"we cannot but speak the things which we have seen and heard.\"",
+  "Released, the believers pray together, \"Lord, thou art God,\" ask for boldness, and the place is shaken as they are filled with the Holy Ghost; they share their possessions, and Barnabas sells a field and lays the money at the apostles' feet."
+ ],
+ "nug": [
+  {
+   "h": "One name",
+   "b": "\"Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved\" (Acts 4:12). Peter says this to the very rulers who condemned Jesus, and he says it as good news, since the same name that heals a man also saves."
+  },
+  {
+   "h": "They had been with Jesus",
+   "b": "When the council saw the boldness of the two men and \"perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus\" (Acts 4:13). It was not their training that impressed the council, but their time with him."
+  },
+  {
+   "h": "Obeying God",
+   "b": "Peter and John answer, \"Whether it be right in the sight of God to hearken unto you more than unto God, judge ye. For we cannot but speak the things which we have seen and heard\" (Acts 4:19-20). They do not incite rebellion; they simply cannot be silent about what they have witnessed."
+  },
+  {
+   "h": "A prayer for boldness, not safety",
+   "b": "Faced with threats, the church prays, \"And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word\" (Acts 4:29). They ask for courage rather than protection, and the answer is that \"the place was shaken where they were assembled together\" (Acts 4:31)."
+  },
+  {
+   "h": "Of one heart and soul",
+   "b": "\"And the multitude of them that believed were of one heart and of one soul\" (Acts 4:32). Their unity shows up in the sharing of goods, and Barnabas, whose name means \"The son of consolation\" (Acts 4:36), is named as an example of it."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 2:1-3 · Psalm 118:22-23 · Ephesians 6:18-20",
+   "qs": [
+    {
+     "th": "The believers' prayer quotes Psalm 2 to explain the rage of the rulers, Peter's words about the stone are drawn from Psalm 118, and Paul in Ephesians 6 asks the church to pray for him that he may speak boldly.",
+     "q": "Read these with Acts 4. How does the church's prayer place the threats they face inside a larger story, and what does that suggest for how we pray about opposition today?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The apostles were ordinary men whose visible quality was that they had been with Jesus (Acts 4:13).",
+     "q": "Would someone who spent time with you say that you have been with Jesus? What one habit of time with him could you keep or restart this week?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The place shook, the believers were filled with the Holy Ghost, and they \"spake the word of God with boldness\" (Acts 4:31).",
+     "q": "Ask the Spirit for the same boldness in a specific situation where you tend to stay silent about your faith, and ask what one honest word you might say."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is intercession. The church prayed for boldness under pressure: \"grant unto thy servants, that with all boldness they may speak thy word\" (Acts 4:29).",
+     "q": "Bring to God believers who face opposition or restrictions for their faith, by name or by region if you can. Pray Acts 4:29 for them, and for those who lead them, and for yourself."
+    }
+   ]
+  }
+ ]
+},
+// Day 650
+{
+ "ref": "Ecclesiastes 5",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+5",
+ "sum": [
+  "The Preacher warns about worship: \"Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools,\" and advises few words before God, since he is in heaven and we are on earth.",
+  "He speaks on vows: \"Better is it that thou shouldest not vow, than that thou shouldest vow and not pay,\" and notes that dreams and many words are vanities, but \"fear thou God.\"",
+  "He sees the oppression of the poor and reminds the reader that a higher one is watching, then turns to money: the lover of silver is never satisfied, goods increase and so do those who eat them, and \"the sleep of a labouring man is sweet.\"",
+  "He describes a man who leaves his riches behind, naked as he came, yet concludes that to enjoy the fruit of one's labour is \"the gift of God,\" for God answers such a person \"in the joy of his heart.\""
+ ],
+ "nug": [
+  {
+   "h": "Ready to hear",
+   "b": "\"Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools\" (Ecclesiastes 5:1). Worship begins with listening, not with performance."
+  },
+  {
+   "h": "Few words",
+   "b": "\"Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few\" (Ecclesiastes 5:2). It is not that God dislikes prayer; it is that we tend to fill silence with speed."
+  },
+  {
+   "h": "Someone is watching over injustice",
+   "b": "\"If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they\" (Ecclesiastes 5:8). Injustice may not be immediately resolved, but it is not unseen."
+  },
+  {
+   "h": "The love of more",
+   "b": "\"He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity\" (Ecclesiastes 5:10). The appetite for more never reaches an end."
+  },
+  {
+   "h": "Wealth received as a gift",
+   "b": "\"Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God\" (Ecclesiastes 5:19). The Preacher's solution to vanity is to receive daily enjoyment with open hands."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Samuel 15:22 · Matthew 6:7-8 · 1 Timothy 6:6-8",
+   "qs": [
+    {
+     "th": "1 Samuel 15 says that to hearken is better than sacrifice, Jesus in Matthew 6 warns against many words in prayer because the Father already knows what we need, and 1 Timothy 6 says godliness with contentment is great gain.",
+     "q": "Read these with Ecclesiastes 5. How do listening, few words, and contentment fit together as a way of living before God?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Be more ready to hear\" and \"let thy words be few\" (Ecclesiastes 5:1-2) are simple, but they cut against a busy and talkative life.",
+     "q": "In your own prayer and church life, are you quicker to speak or to listen? What would a deliberate season of listening look like this week?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher's counsel about God in heaven and us on earth is not meant to make God distant, but to make us humble enough to listen.",
+     "q": "Ask the Spirit to quiet the noise and let you hear whatever God wants to say, even if it is only a sense of his nearness."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is listening-silence. \"God is in heaven, and thou upon earth: therefore let thy words be few\" (Ecclesiastes 5:2).",
+     "q": "Sit still for several minutes without speaking. When your mind wanders, return gently to one phrase: \"be more ready to hear.\" Afterwards, note down anything you sensed."
+    }
+   ]
+  }
+ ]
+},
+// Day 651
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "The LORD also hath put away thy sin",
+   "b": "\"And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die\" (2 Samuel 12:13). This week traced David's kindness misread, his fall, and Nathan's word, and set beside them the Preacher's plain reckoning with loneliness, striving and few words."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read David's kindness to Hanun and Joab's battle (2 Samuel 10), David's sin with Bath-sheba and against Uriah (2 Samuel 11), Nathan's rebuke and David's confession (2 Samuel 12), Ecclesiastes on oppression, companionship and the fear of God (Ecclesiastes 4-5), and the apostles' boldness before the council (Acts 4).",
+     "q": "Which spoke to you more this week: Nathan's word, \"Thou art the man\" (2 Samuel 12:7), or Peter and John's, \"we cannot but speak the things which we have seen and heard\" (Acts 4:20)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Better is an handful with quietness\" (Ecclesiastes 4:6).",
+     "q": "Sit quietly for a moment and let go of whatever you have been gripping this week. Receive one handful of quiet as a gift."
+    }
+   ]
+  }
+ ]
+},
+// Day 652
+{
+ "ref": "2 Samuel 13",
+ "tag": "Old Testament",
+ "api": "2samuel+13",
+ "sum": [
+  "Amnon, David's son, desires his half-sister Tamar; on the advice of his friend Jonadab he feigns illness, and David sends Tamar to prepare food in his house.",
+  "Tamar pleads, \"Nay, my brother, do not force me; for no such thing ought to be done in Israel,\" but Amnon \"being stronger than she, forced her.\" He then hates her exceedingly and has her put out, and Tamar tears her robe, puts ashes on her head, and goes away crying.",
+  "Absalom tells her to be quiet, and Tamar \"remained desolate\" in his house; David is \"very wroth\" but the text records no action; Absalom says nothing to Amnon, neither good nor bad, for two years.",
+  "At a sheepshearing feast Absalom has Amnon killed; a rumour reaches David that all the king's sons are dead, until Jonadab corrects it; Absalom flees to Geshur, and David mourns."
+ ],
+ "nug": [
+  {
+   "h": "A woman who spoke clearly",
+   "b": "Tamar says, \"Nay, my brother, do not force me; for no such thing ought to be done in Israel: do not thou this folly\" (2 Samuel 13:12). She names what is wrong, offers a lawful alternative, and is not heard. Her clarity is part of the record."
+  },
+  {
+   "h": "Stronger, and unheeded",
+   "b": "\"Howbeit he would not hearken unto her voice: but, being stronger than she, forced her\" (2 Samuel 13:14). The narrator says it briefly and without excuse. The chapter should be read soberly, with attention to what it says about abuse of power within a family."
+  },
+  {
+   "h": "What was not love",
+   "b": "\"Then Amnon hated her exceedingly; so that the hatred wherewith he hated her was greater than the love wherewith he had loved her\" (2 Samuel 13:15). What Amnon called love was appetite. Tamar's own protest is brave: \"this evil in sending me away is greater than the other that thou didst unto me\" (2 Samuel 13:16)."
+  },
+  {
+   "h": "The silence around her",
+   "b": "Absalom says, \"hold now thy peace, my sister: he is thy brother; regard not this thing,\" and the narrator adds, \"So Tamar remained desolate in her brother Absalom's house\" (2 Samuel 13:20). David \"was very wroth\" (2 Samuel 13:21), but nothing more is recorded. Silence in a family can become a second wound."
+  },
+  {
+   "h": "Hatred nursed in silence",
+   "b": "\"And Absalom spake unto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar\" (2 Samuel 13:22). After two years the hatred becomes murder. This is the outworking of Nathan's word that \"the sword shall never depart from thine house\" (2 Samuel 12:10)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 12:10-11 · Ephesians 4:26-27 · Psalm 10:17-18",
+   "qs": [
+    {
+     "th": "2 Samuel 12 is the warning Nathan gave David that evil would rise from within his own house, Ephesians 4 says not to let the sun go down on wrath and not to give place to the devil, and Psalm 10 says that the LORD hears the desire of the humble and judges for the fatherless and the oppressed.",
+     "q": "Read these together with 2 Samuel 13. Where do you see God's concern for the wronged and the silenced, and what does it look like to bring that concern into a family or church?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Amnon's desire, Jonadab's scheming, David's inaction, Absalom's long resentment: no one in this chapter acts rightly except Tamar herself.",
+     "q": "Where might you be silent when you should speak, or be nursing a resentment that has not yet come out? What would honest action look like, whether that is protecting someone, reporting something, or reconciling?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Hold now thy peace... regard not this thing\" (2 Samuel 13:20) is advice many hurting people hear, and the Spirit does not speak this way.",
+     "q": "Ask the Spirit to make you a safe person for someone who has been hurt, and to give you the courage to listen and act on what you hear. Pause to see whether someone comes to mind."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is confession, and this chapter offers several honest things to confess: passion mistaken for love, silence when action was called for, resentment kept in the dark.",
+     "q": "Tell God which of these, if any, is true of you. Ask him to heal those who have been harmed by others' sin, and to make you part of that healing."
+    }
+   ]
+  }
+ ]
+},
+// Day 653
+{
+ "ref": "2 Samuel 14",
+ "tag": "Old Testament",
+ "api": "2samuel+14",
+ "sum": [
+  "Joab perceives that the king's heart is toward Absalom and brings a wise woman from Tekoah, whom he coaches: she is to pose as a widow whose one surviving son is threatened by her family because he killed his brother.",
+  "David promises her protection, and she turns his ruling on himself: \"For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person: yet doth he devise means, that his banished be not expelled from him.\"",
+  "David sees Joab's hand in it and tells him to bring Absalom back, but says, \"Let him turn to his own house, and let him not see my face,\" and Absalom lives two full years in Jerusalem without seeing the king.",
+  "Absalom, celebrated for his beauty, sets Joab's field on fire to force a meeting, demands to see the king's face, and is brought before David, who kisses him."
+ ],
+ "nug": [
+  {
+   "h": "Words put in her mouth",
+   "b": "\"So Joab put the words in her mouth\" (2 Samuel 14:3). The wise woman's speech is skilful and moving, but it is scripted, and the king recognises the hand behind it. Wisdom can be used for reconciliation or for manipulation, and sometimes it is both."
+  },
+  {
+   "h": "God devises means",
+   "b": "\"For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person: yet doth he devise means, that his banished be not expelled from him\" (2 Samuel 14:14). Whatever Joab's motive, this is a true statement about the heart of God: he plans how to bring the banished home."
+  },
+  {
+   "h": "Halfway home",
+   "b": "\"Let him turn to his own house, and let him not see my face\" (2 Samuel 14:24), and \"So Absalom dwelt two full years in Jerusalem, and saw not the king's face\" (2 Samuel 14:28). David brings Absalom back into the city, but not into the relationship. Return without restoration leaves the wound in place."
+  },
+  {
+   "h": "Beauty and grievance",
+   "b": "\"In all Israel there was none to be so much praised as Absalom for his beauty\" (2 Samuel 14:25). Behind the praise is a man who sets his neighbour's field on fire to get attention (2 Samuel 14:30). Outward attractiveness can sit alongside a hurt that goes unaddressed."
+  },
+  {
+   "h": "A kiss without a word of repentance",
+   "b": "When Absalom finally comes before David, \"the king kissed Absalom\" (2 Samuel 14:33). The chapter closes on a gesture of peace that neither man's words support. It prepares for the conspiracy of chapter 15."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Luke 15:20-24 · Colossians 1:21-22 · Ephesians 2:13",
+   "qs": [
+    {
+     "th": "In Luke 15 a father runs to meet the returning son and kisses him, and that reconciliation is complete; Colossians 1 says that we who were alienated have been reconciled through Christ's death, and Ephesians 2 says that those far off have been brought near by his blood.",
+     "q": "Read these with 2 Samuel 14. How does God's way of bringing the banished home differ from David's, and what does it cost him?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's reconciliation with Absalom is partial and political, and it leaves a young man near the throne with a grievance.",
+     "q": "Is there a relationship where you have offered a partial peace, present in the same room but not restored? What would it take to move a step closer, and what part of it is yours to do?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Yet doth he devise means, that his banished be not expelled from him\" (2 Samuel 14:14). God is always planning how to bring us back.",
+     "q": "Ask the Spirit to remind you of the ways God has sought you when you wandered, and to show you someone he might want you to seek."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is thanksgiving. The wise woman speaks a truth about God: he does not leave the banished in exile, and in Christ he has devised the means.",
+     "q": "Thank God specifically for having brought you near, for the cost he bore, and for the people who have been messengers of his welcome in your life."
+    }
+   ]
+  }
+ ]
+},
+// Day 654
+{
+ "ref": "Ecclesiastes 6",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+6",
+ "sum": [
+  "The Preacher describes a common evil: a man to whom God has given riches, wealth and honour, so that he lacks nothing, yet God gives him no power to enjoy it and a stranger eats it; this is vanity and \"an evil disease.\"",
+  "Even a man with a hundred children and many years, whose soul is not filled with good and who has no burial, is worse off than an untimely birth; he comes in with vanity and departs in darkness, and all go to one place.",
+  "\"All the labour of man is for his mouth, and yet the appetite is not filled,\" so what advantage has the wise over the fool or the poor over the rich? \"Better is the sight of the eyes than the wandering of the desire.\"",
+  "Whatever is has already been named, no one can contend with one mightier, many things increase vanity, and \"who knoweth what is good for man in this life?\""
+ ],
+ "nug": [
+  {
+   "h": "Having, but not enjoying",
+   "b": "\"A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof\" (Ecclesiastes 6:2). Enjoyment is itself a gift. It cannot be secured by having more."
+  },
+  {
+   "h": "A full life that is not full",
+   "b": "The Preacher's example is severe: a man may live many years but \"his soul be not filled with good\" (Ecclesiastes 6:3). It is not length or numbers that matter, but whether the soul is filled."
+  },
+  {
+   "h": "The appetite that never fills",
+   "b": "\"All the labour of man is for his mouth, and yet the appetite is not filled\" (Ecclesiastes 6:7). We work to eat, and then want again. If our deepest hunger is for something that only God can give, no amount of earning will satisfy it."
+  },
+  {
+   "h": "Seeing what is in front of you",
+   "b": "\"Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit\" (Ecclesiastes 6:9). To enjoy what is here and now is better than restless longing for something else."
+  },
+  {
+   "h": "One mightier, and the limits of our knowing",
+   "b": "\"neither may he contend with him that is mightier than he\" (Ecclesiastes 6:10) and \"who knoweth what is good for man in this life\" (Ecclesiastes 6:12). The Preacher leaves the question unanswered on purpose, so that the reader will look beyond themselves. Only God knows what is good for us."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 63:1-5 · Isaiah 55:1-2 · John 6:35",
+   "qs": [
+    {
+     "th": "Psalm 63 speaks of a thirsty soul that is satisfied in God, Isaiah 55 asks why we spend money on what is not bread, and in John 6 Jesus says that he is the bread of life and that whoever comes to him will never hunger.",
+     "q": "Read these with Ecclesiastes 6. What does each say the soul is really hungry for, and how do they answer the Preacher's \"the appetite is not filled\"?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher says that the appetite is not filled, and that it is vain to chase what we do not have.",
+     "q": "What are you chasing that you suspect will not satisfy? What would it look like to pay attention today to what is already in front of you, and to thank God for it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit does not add more to a restless heart, but turns it to the one who can satisfy it.",
+     "q": "Ask the Spirit to show you what your deepest hunger really is, and to draw you back to Jesus as the one who fills it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is adoration. The Preacher asks, \"who knoweth what is good for man in this life?\" (Ecclesiastes 6:12). God knows, and he is mightier than any of us.",
+     "q": "Praise God for being the one who knows what is good, who satisfies the hungry soul, and who is mightier than every power that troubles you. Let Psalm 63 prompt you: \"My soul shall be satisfied as with marrow and fatness\" (Psalm 63:5)."
+    }
+   ]
+  }
+ ]
+},
+// Day 655
+{
+ "ref": "2 Samuel 15",
+ "tag": "Old Testament",
+ "api": "2samuel+15",
+ "sum": [
+  "Absalom acquires chariots, horses and fifty runners, and each morning stands by the gate, telling people whose cases have no hearing, \"Oh that I were made judge in the land,\" and greeting them with a kiss, so that \"Absalom stole the hearts of the men of Israel.\"",
+  "Under pretence of a vow to be paid at Hebron, Absalom sends spies through the tribes to proclaim that he is king, takes two hundred unsuspecting men, and sends for Ahithophel; the conspiracy grows strong, and David is told, \"The hearts of the men of Israel are after Absalom,\" and flees Jerusalem.",
+  "Ittai the Gittite, a foreigner, refuses to leave the king, and David sends the ark back with Zadok, saying, \"if I shall find favour in the eyes of the LORD, he will bring me again.\"",
+  "David goes up the Mount of Olives weeping, barefoot and with his head covered, hears that Ahithophel is with the conspirators, and prays, \"O LORD, I pray thee, turn the counsel of Ahithophel into foolishness\"; he sends Hushai back to Jerusalem to counter Ahithophel's counsel."
+ ],
+ "nug": [
+  {
+   "h": "Stealing hearts",
+   "b": "\"So Absalom stole the hearts of the men of Israel\" (2 Samuel 15:6). He does it with charm and flattery, telling each person that their case is good and no one will hear it. It is a kind of theft that looks like kindness."
+  },
+  {
+   "h": "Those who knew nothing",
+   "b": "The two hundred men who went with Absalom \"went in their simplicity, and they knew not any thing\" (2 Samuel 15:11). Many people in a rebellion have no idea what they have joined. Innocence is easily used."
+  },
+  {
+   "h": "Loyalty from an outsider",
+   "b": "Ittai, who arrived only the day before, says, \"surely in what place my lord the king shall be, whether in death or life, even there also will thy servant be\" (2 Samuel 15:21). The foreigner shows more loyalty to David than the king's own son."
+  },
+  {
+   "h": "Leaving the outcome to God",
+   "b": "David sends the ark back to Jerusalem: \"if I shall find favour in the eyes of the LORD, he will bring me again... But if he thus say, I have no delight in thee; behold, here am I, let him do to me as seemeth good unto him\" (2 Samuel 15:25-26). He does not use the ark as a lucky charm, but submits to God's decision."
+  },
+  {
+   "h": "A short prayer and a practical plan",
+   "b": "\"O LORD, I pray thee, turn the counsel of Ahithophel into foolishness\" (2 Samuel 15:31). David prays a one-line prayer and then sends Hushai as the answer to it. Prayer and action work together."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 3:1-5 · Luke 22:39-42 · 1 Timothy 2:1-2",
+   "qs": [
+    {
+     "th": "Psalm 3 is David's own song of this flight from Absalom, in which he lies down and sleeps because the LORD sustains him; Luke 22 shows Jesus going to the Mount of Olives to pray, \"not my will, but thine, be done\" (Luke 22:42); and 1 Timothy 2 asks for prayer for kings and all in authority.",
+     "q": "Read these with 2 Samuel 15. How does David's surrender, \"let him do to me as seemeth good unto him,\" prefigure the prayer of Jesus, and how can we pray for leaders and for the betrayed?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David walks out of his city with people weeping around him, having lost his throne, his son, and his counsellor at once.",
+     "q": "Have you had a season where trust was broken by someone close to you? How did you pray, and how would you like to pray now that you have read David's short prayer?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's prayer was one line, and his action followed. The Spirit often works through the wise action that follows honest prayer.",
+     "q": "Ask the Spirit to show you one person or situation that needs your prayer today, and whether there is a step you could take alongside it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is intercession. Pray for those who lead, for those who have been betrayed by someone they trusted, and for those who have been led astray like Absalom's two hundred, who \"knew not any thing\" (2 Samuel 15:11).",
+     "q": "Bring these before God by name: leaders in your church and community, people hurt by betrayal, and people who have been drawn into something they did not understand. Pray David's short prayer over a situation where you need God to overturn foolish counsel."
+    }
+   ]
+  }
+ ]
+},
+// Day 656
+{
+ "ref": "Acts 5",
+ "tag": "New Testament",
+ "api": "acts+5",
+ "sum": [
+  "Ananias and Sapphira sell a possession and keep back part of the price while pretending to give it all; Peter says, \"thou hast not lied unto men, but unto God,\" and both fall dead, and \"great fear came upon all the church.\"",
+  "Signs and wonders multiply and the sick are brought into the streets; the high priest and the Sadducees, filled with indignation, put the apostles in prison, but an angel opens the doors by night and says, \"Go, stand and speak in the temple to the people all the words of this life.\"",
+  "Brought before the council, Peter and the apostles answer, \"We ought to obey God rather than men,\" and declare that God has exalted Jesus as Prince and Saviour; the council is cut to the heart and takes counsel to kill them.",
+  "Gamaliel advises, \"if it be of God, ye cannot overthrow it,\" and the apostles are beaten and released, \"rejoicing that they were counted worthy to suffer shame for his name\"; daily they cease not to teach and preach Jesus Christ."
+ ],
+ "nug": [
+  {
+   "h": "Pretending to be generous",
+   "b": "Peter says, \"Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power?... thou hast not lied unto men, but unto God\" (Acts 5:4). The sin was not keeping some of the money, since that was their right; it was the lie, which sought the reputation for a generosity they had not shown."
+  },
+  {
+   "h": "A sober fear",
+   "b": "\"And great fear came upon all the church\" (Acts 5:11). This is a hard passage and it should be read as one. The new community has just been given a strong picture of God's holiness, of the seriousness of deceit, and of how carefully the Spirit's presence is to be honoured."
+  },
+  {
+   "h": "Freed to speak",
+   "b": "The angel does not tell the apostles to hide but \"Go, stand and speak in the temple to the people all the words of this life\" (Acts 5:20). Having been freed from prison, they go straight back to the place where they were arrested."
+  },
+  {
+   "h": "Obeying God",
+   "b": "\"We ought to obey God rather than men\" (Acts 5:29). This is the apostles' consistent answer to authority: respect where possible, but final allegiance to God."
+  },
+  {
+   "h": "Rejoicing in dishonour",
+   "b": "After being beaten, the apostles depart \"rejoicing that they were counted worthy to suffer shame for his name\" (Acts 5:41). Gamaliel's counsel is wise: \"if it be of God, ye cannot overthrow it\" (Acts 5:39). The church's endurance is part of the evidence."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Acts 4:34-37 · Joshua 7:20-21 · Matthew 5:11-12",
+   "qs": [
+    {
+     "th": "Acts 4 closes with Barnabas's real gift immediately before Ananias's false one, Joshua 7 tells of Achan, who kept back what was devoted at the beginning of another new era for God's people, and in Matthew 5 Jesus tells his followers to rejoice when persecuted for his sake.",
+     "q": "Read these with Acts 5. What do the true gift, the false gift, and the joy in suffering say about what God is looking for in his people?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Ananias and Sapphira wanted the credit of a full gift without the cost, while the apostles later count the cost of a beating as an honour.",
+     "q": "Where are you tempted to look more generous, more devoted, or more spiritual than you are? What would it be like to be honest about it before God today?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The angel's word to the apostles was clear and specific: \"Go, stand and speak\" (Acts 5:20). God can give clear direction.",
+     "q": "Ask the Spirit whether there is a direct instruction you have sensed, and not yet followed. Wait to see whether anything is made clear."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is listening-silence. The apostles obeyed God rather than men because they had listened to him, and heard, \"Go, stand and speak\" (Acts 5:20).",
+     "q": "Sit in silence for a few minutes and ask what God is asking of you. Do not try to answer for God. If something comes, hold it up against Scripture and the counsel of others before acting on it."
+    }
+   ]
+  }
+ ]
+},
+// Day 657
+{
+ "ref": "Ecclesiastes 7",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+7",
+ "sum": [
+  "The Preacher sets out a series of paradoxes: a good name is better than precious ointment, the house of mourning better than the house of feasting, sorrow better than laughter, and the rebuke of the wise better than the song of fools, for the laughter of fools is like crackling thorns under a pot.",
+  "The patient in spirit are better than the proud, so \"Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools\"; wisdom is a defence, and God's work cannot be made straight by us; in prosperity be joyful, and in adversity consider.",
+  "He has seen the just perish and the wicked live long, warns against being over-righteous or over-wicked, says that \"he that feareth God shall come forth of them all,\" and admits \"there is not a just man upon earth, that doeth good, and sinneth not\"; he also says not to heed every word spoken about you, for your own heart knows you have cursed others.",
+  "He sought wisdom and found it far off, and reports a bitter finding about a snaring woman and that among a thousand he has found one man but not one woman; his one certain conclusion is that \"God hath made man upright; but they have sought out many inventions.\""
+ ],
+ "nug": [
+  {
+   "h": "Learning from mourning",
+   "b": "\"It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart\" (Ecclesiastes 7:2). Times of loss teach what parties cannot."
+  },
+  {
+   "h": "Anger in the bosom",
+   "b": "\"Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools\" (Ecclesiastes 7:9). Anger can be quick to arrive and slow to leave, and the wise person does not let it settle."
+  },
+  {
+   "h": "No one is righteous enough",
+   "b": "\"For there is not a just man upon earth, that doeth good, and sinneth not\" (Ecclesiastes 7:20). This is the plain truth that shuts every mouth, and it is the basis for the confession that follows."
+  },
+  {
+   "h": "Your own heart knows",
+   "b": "\"Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee: for oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others\" (Ecclesiastes 7:21-22). The Preacher takes the sting out of others' criticism by reminding us of our own words."
+  },
+  {
+   "h": "Made upright, and gone astray",
+   "b": "\"Lo, this only have I found, that God hath made man upright; but they have sought out many inventions\" (Ecclesiastes 7:29). Verses 26-28 are the Preacher's own admittedly unfinished search, and he says that his soul \"seeketh, but I find not.\" His last word puts the blame where Genesis does: not on God's making, but on human inventions."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Romans 3:23 · 1 John 1:8-10 · James 1:19-20",
+   "qs": [
+    {
+     "th": "Romans 3 says that all have sinned and come short of the glory of God, 1 John 1 says that if we say that we have no sin we deceive ourselves but if we confess he forgives, and James 1 says that the wrath of man does not work the righteousness of God.",
+     "q": "Read these with Ecclesiastes 7. How does the Preacher's plain reckoning that no one is righteous lead naturally into confession and forgiveness?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher notes that your own heart knows you have spoken harshly of others (Ecclesiastes 7:22).",
+     "q": "What words, said in anger or in private, do you know your own heart would confess? Is there someone you need to speak to, or a thing you need to say to God?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit does not expose us to shame us, but to bring us to the God who forgives.",
+     "q": "Ask the Spirit to bring to mind one thing to confess, and to leave you with assurance of forgiveness afterwards. Stay for a moment in that assurance."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Today's prayer is confession. \"For there is not a just man upon earth, that doeth good, and sinneth not\" (Ecclesiastes 7:20).",
+     "q": "Confess to God your hastiness in anger, your careless words, and your self-righteousness, and rest in 1 John 1:9, that he is faithful and just to forgive."
+    }
+   ]
+  }
+ ]
+},
+// Day 658
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "Yet doth he devise means",
+   "b": "\"For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person: yet doth he devise means, that his banished be not expelled from him\" (2 Samuel 14:14). This week moved through Tamar's silencing, Absalom's stolen hearts and David's flight, and ended with the Preacher's plain confession that no one is righteous, and the wisdom of a God who plans how to bring the banished home."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read the violation of Tamar and Absalom's revenge (2 Samuel 13), the woman of Tekoah and Absalom's recall (2 Samuel 14), the Preacher on appetite and the limits of knowing (Ecclesiastes 6), Absalom's conspiracy and David's flight (2 Samuel 15), Ananias, Sapphira and the apostles before the council (Acts 5), and the Preacher's paradoxes of wisdom (Ecclesiastes 7).",
+     "q": "Which stayed with you more this week: David's prayer, \"O LORD, I pray thee, turn the counsel of Ahithophel into foolishness\" (2 Samuel 15:31), or the apostles' answer, \"We ought to obey God rather than men\" (Acts 5:29)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"the patient in spirit is better than the proud in spirit\" (Ecclesiastes 7:8).",
+     "q": "Sit quietly for a moment and let go of hurry. Let patience, and not proof, be what you bring to this Sabbath."
+    }
+   ]
+  }
+ ]
+},
+// Day 659
+{
+ "ref": "2 Samuel 16",
+ "tag": "Old Testament",
+ "api": "2samuel+16",
+ "sum": [
+  "David, fleeing Jerusalem, is met by Ziba, Mephibosheth's servant, who brings supplies and accuses his master of hoping to regain Saul's kingdom, and David rashly hands over all that belonged to Mephibosheth.",
+  "At Bahurim Shimei of Saul's family curses David and throws stones and dust; when Abishai wants to silence him, David refuses, saying \"let him alone, and let him curse; for the LORD hath bidden him\" and hoping that the LORD will look on his affliction.",
+  "Hushai the Archite, David's friend, arrives in Jerusalem and professes loyalty to Absalom, positioning himself to undermine Ahithophel's counsel from within.",
+  "Following Ahithophel's advice, Absalom publicly takes his father's concubines, fulfilling the judgement spoken over David's house, while the narrator notes that Ahithophel's counsel was \"as if a man had enquired at the oracle of God\"."
+ ],
+ "nug": [
+  {
+   "h": "A king who will not silence his accuser",
+   "b": "David's men want Shimei's head, but David answers, \"let him alone, and let him curse; for the LORD hath bidden him\" (2 Samuel 16:11). Whether or not Shimei's words were fair in every detail, David hears in them a possible summons to humility rather than an insult to be avenged."
+  },
+  {
+   "h": "Hope in the middle of affliction",
+   "b": "\"It may be that the LORD will look on mine affliction, and that the LORD will requite me good for his cursing this day\" (2 Samuel 16:12). David holds his hope loosely, with a genuine \"It may be\", yet he places it entirely in God's hands rather than in his own defence."
+  },
+  {
+   "h": "Provision on the road",
+   "b": "Ziba brings wine \"that such as be faint in the wilderness may drink\" (2 Samuel 16:2), and later the king and his people \"came weary, and refreshed themselves there\" (2 Samuel 16:14). Even in a dark chapter, small mercies keep them going."
+  },
+  {
+   "h": "Ziba's convenient story",
+   "b": "David is worn out and grieving, and he accepts Ziba's account of Mephibosheth at once, giving away a man's whole estate on one word (2 Samuel 16:3-4). Exhaustion and hurt are exactly the moments when we are most tempted to decide quickly and badly."
+  },
+  {
+   "h": "Wise counsel that was still wicked",
+   "b": "Ahithophel's advice was \"as if a man had enquired at the oracle of God\" (2 Samuel 16:23), yet the counsel he gives here is cruel and shameful. Great wisdom in the head is no guarantee of a good heart."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 3:1-6 · 1 Peter 2:21-23 · 2 Samuel 12:11-12",
+   "qs": [
+    {
+     "th": "Psalm 3 is David's own prayer from this very flight from Absalom, Peter holds up Christ as the one who did not answer reviling with reviling, and Nathan's earlier word to David (2 Samuel 12) explains why David's house is now being torn apart from within.",
+     "q": "Read these together. How does David's restraint with Shimei look different when you know that his family's suffering had been foretold, and that the Lord Jesus later walked a road of insult with perfect patience?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David chose not to retaliate when he was cursed and stoned, and instead wondered whether God might be at work even through an unfair accuser.",
+     "q": "When someone criticises or attacks you unfairly, what is your first instinct? What would it look like to pause, as David did, and ask whether there is anything God wants you to hear, even through a harsh messenger?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David waited for the LORD to look on his affliction, and he did not take the outcome into his own hands.",
+     "q": "Ask the Holy Spirit to show you a situation where you are trying to force an outcome or defend yourself. Invite him to give you patience to wait and to trust that God sees."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The king and his people \"came weary, and refreshed themselves there\" (2 Samuel 16:14), and Ziba had brought wine for those who were faint.",
+     "q": "Give thanks for the specific ways God has refreshed you when you were worn out, through people, food, rest or a timely word, and for the assurance that he is the one who looks on affliction and does not overlook it."
+    }
+   ]
+  }
+ ]
+},
+// Day 660
+{
+ "ref": "2 Samuel 17",
+ "tag": "Old Testament",
+ "api": "2samuel+17",
+ "sum": [
+  "Ahithophel urges Absalom to let him pursue David that very night while he is weary and weak handed, and strike only the king; but Absalom also consults Hushai, who argues that the counsel \"is not good at this time\" and advises gathering all Israel first.",
+  "Absalom and the men of Israel prefer Hushai's counsel, \"For the LORD had appointed to defeat the good counsel of Ahithophel\", and Hushai sends word through Zadok and Abiathar's sons to warn David to cross the Jordan without delay.",
+  "Jonathan and Ahimaaz are nearly caught at Bahurim, but a woman hides them in a well and misleads Absalom's servants; David and all his people cross the Jordan by morning, and Ahithophel, seeing his counsel rejected, puts his house in order and takes his own life.",
+  "David reaches Mahanaim while Absalom camps in Gilead with Amasa as his captain, and Shobi, Machir and Barzillai bring beds, food and supplies for a people \"hungry, and weary, and thirsty, in the wilderness\"."
+ ],
+ "nug": [
+  {
+   "h": "The counsel that was not good",
+   "b": "Hushai's careful answer begins, \"The counsel that Ahithophel hath given is not good at this time\" (2 Samuel 17:7). Ahithophel's plan was in fact sound, so Hushai's persuasion was a costly act of loyalty to David, working quietly in the enemy camp."
+  },
+  {
+   "h": "The LORD behind the scenes",
+   "b": "\"For the LORD had appointed to defeat the good counsel of Ahithophel, to the intent that the LORD might bring evil upon Absalom\" (2 Samuel 17:14). The chapter is full of human scheming, yet the narrator lifts the curtain to show whose purposes actually stand."
+  },
+  {
+   "h": "Speed and secrecy",
+   "b": "The message to David is urgent: \"Lodge not this night in the plains of the wilderness, but speedily pass over\" (2 Samuel 17:16). A nameless woman with a well, a covering and some ground corn plays a small but decisive part (2 Samuel 17:19), and God is glad to use such ordinary hands."
+  },
+  {
+   "h": "A wise man's tragic end",
+   "b": "When his counsel is refused, Ahithophel \"put his household in order, and hanged himself, and died\" (2 Samuel 17:23). It is a sober reminder that wisdom without trust in God, and pride that cannot bear being overruled, can end in despair."
+  },
+  {
+   "h": "Hospitality in the wilderness",
+   "b": "Three men bring beds, food and supplies \"for they said, The people is hungry, and weary, and thirsty, in the wilderness\" (2 Samuel 17:29). Where David was hunted, God raised up unexpected friends, including a foreigner, to carry him."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Proverbs 21:30-31 · Psalm 41:9 · Isaiah 55:8-9",
+   "qs": [
+    {
+     "th": "Proverbs says that no counsel can stand against the LORD, Psalm 41 gives voice to the pain of a trusted friend turning traitor (which many see echoed in Ahithophel), and Isaiah reminds us that God's thoughts and ways are higher than ours.",
+     "q": "Read these together. What do they add to your sense of who is really in charge in 2 Samuel 17, and how does that shape the way you look at plans, plots and setbacks today?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The most brilliant human plan of the chapter was overturned, and the outcome turned on who God had determined to protect.",
+     "q": "Where are you tempted to trust cleverness, planning or your own read of a situation over God's sovereign purposes? What might it look like to hold your plans more loosely?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Hushai, the unnamed woman at the well and the men at Mahanaim were all quietly available to be used by God.",
+     "q": "Ask the Holy Spirit whether there is a small, hidden act of service, protection or hospitality he is inviting you to offer to someone who is weary."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"For the LORD had appointed to defeat the good counsel of Ahithophel\" (2 Samuel 17:14).",
+     "q": "Spend these minutes simply adoring God as the one whose purposes cannot be defeated, who directs the counsel of kings and the hiding of two young men in a well. Praise him for his wisdom, his sovereignty and his faithfulness to those he has chosen."
+    }
+   ]
+  }
+ ]
+},
+// Day 661
+{
+ "ref": "Ecclesiastes 8",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+8",
+ "sum": [
+  "The Preacher asks who is like the wise man, whose wisdom makes his face shine, and counsels respect for a king's authority, since \"Where the word of a king is, there is power\".",
+  "Every purpose has its time and judgement, yet the future is hidden, no one has power over the day of death, and wickedness cannot deliver those who are given to it.",
+  "He observes that sentence against evil is not executed speedily, so hearts are set to do evil, yet holds that \"it shall be well with them that fear God\" while the wicked will not prolong their days.",
+  "He wrestles with the vanity of a world where the just receive what the wicked deserve, commends simple joy in eating and drinking, and admits that no one can find out all the work of God under the sun."
+ ],
+ "nug": [
+  {
+   "h": "Wisdom that shines",
+   "b": "\"A man's wisdom maketh his face to shine\" (Ecclesiastes 8:1). True wisdom is not cold cleverness but something that softens, warms and lights up a person's whole bearing."
+  },
+  {
+   "h": "Power and its limits",
+   "b": "\"Where the word of a king is, there is power: and who may say unto him, What doest thou?\" (Ecclesiastes 8:4). The Preacher sees how easily authority slips beyond accountability, and elsewhere in this chapter he notes that \"there is a time wherein one man ruleth over another to his own hurt\" (Ecclesiastes 8:9)."
+  },
+  {
+   "h": "Why evil feels unchecked",
+   "b": "\"Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil\" (Ecclesiastes 8:11). Delay in justice is not the same as absence of justice, but it can be a powerful temptation."
+  },
+  {
+   "h": "Fear God, and it shall be well",
+   "b": "\"Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God\" (Ecclesiastes 8:12). In the middle of his puzzlement the Preacher lays hold of one settled conviction."
+  },
+  {
+   "h": "The riddle that remains",
+   "b": "\"There be just men, unto whom it happeneth according to the work of the wicked\" (Ecclesiastes 8:14). He does not pretend to have solved the problem of unjust suffering, and he admits that \"a man cannot find out the work that is done under the sun\" (Ecclesiastes 8:17)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Timothy 2:1-4 · Psalm 73:12-17 · Habakkuk 1:2-4",
+   "qs": [
+    {
+     "th": "Paul urges prayer for kings and all in authority, Asaph nearly stumbled at the prosperity of the wicked until he entered the sanctuary of God, and Habakkuk cries out about the same unpunished injustice the Preacher describes here.",
+     "q": "Read these together. How do they help you hold together honest frustration at the way the world works with a settled trust that God will finally put things right?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher looks at rulers who abuse power, at delayed justice and at good people who suffer, and he does not look away.",
+     "q": "Which situation of injustice or unfairness, near to you or far away, weighs on you most at the moment? How do you tend to respond to it: with anger, numbness, cynicism or prayer?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Holy Spirit is described as the Comforter and the one who intercedes with groanings that cannot be uttered, when we do not know what to pray for.",
+     "q": "Ask the Holy Spirit to bring to mind the people or places he wants you to carry in prayer today, and to help you pray for them when you do not have the words."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men; for kings, and for all that are in authority\" (1 Timothy 2:1-2).",
+     "q": "Pray by name for those who hold power over others, for leaders in your community, nation and church, that they would rule justly. Then pray for people who are suffering under unjust decisions, and ask God to bring justice and mercy."
+    }
+   ]
+  }
+ ]
+},
+// Day 662
+{
+ "ref": "2 Samuel 18",
+ "tag": "Old Testament",
+ "api": "2samuel+18",
+ "sum": [
+  "David organises his army in three companies under Joab, Abishai and Ittai, but the people will not let him go out with them, and he charges the captains, \"Deal gently for my sake with the young man, even with Absalom\".",
+  "The battle in the wood of Ephraim goes against Israel, and Absalom's head is caught in the boughs of a great oak; Joab, ignoring the king's command, thrusts darts through his heart, and Absalom is buried under a heap of stones in a pit.",
+  "Ahimaaz and Cushi race to bring the news to David as he waits between the two gates, and both are met with the same anxious question, \"Is the young man Absalom safe?\"",
+  "When Cushi tells him that the king's enemies are as that young man is, David goes up to the chamber over the gate and weeps: \"O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!\""
+ ],
+ "nug": [
+  {
+   "h": "The people's love for their king",
+   "b": "The army will not let David go out to battle: \"thou art worth ten thousand of us\" (2 Samuel 18:3). David accepts their counsel and simply says, \"What seemeth you best I will do\" (2 Samuel 18:4), though he stands at the gate as they go."
+  },
+  {
+   "h": "A father's charge",
+   "b": "\"Deal gently for my sake with the young man, even with Absalom\" (2 Samuel 18:5). All the people heard it, and the soldier who refused to touch Absalom said, \"Beware that none touch the young man Absalom\" (2 Samuel 18:12). The king's instruction was plain, and Joab knew it."
+  },
+  {
+   "h": "Rebellion's grim end",
+   "b": "\"The wood devoured more people that day than the sword devoured\" (2 Samuel 18:8). Absalom, who had built a pillar because he said, \"I have no son to keep my name in remembrance\" (2 Samuel 18:18), is instead buried in a pit under stones."
+  },
+  {
+   "h": "The question that mattered most",
+   "b": "Both messengers arrive with news of victory, yet David asks only, \"Is the young man Absalom safe?\" (2 Samuel 18:29). The king's heart is not set on winning the war but on the son who rose against him."
+  },
+  {
+   "h": "A cry that echoes",
+   "b": "\"O my son Absalom, my son, my son Absalom! would God I had died for thee\" (2 Samuel 18:33). David longs to die in his son's place, and the cry points forward to another King who actually did give his life for rebellious sons."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Luke 15:20-24 · Romans 5:6-8 · Luke 19:41-44",
+   "qs": [
+    {
+     "th": "In Luke 15 a father runs to meet a wayward son, Paul says that Christ died for us while we were still sinners, and Jesus weeps over Jerusalem as David weeps over Absalom.",
+     "q": "Read these together. How does David's anguished cry, \"would God I had died for thee\", help you hear more clearly what God has actually done for his rebellious children?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David grieved for a son who had turned against him and sought his life, and no one in the story could comfort him.",
+     "q": "Is there someone you love who has walked away from you, from God or from what is good for them? What would it mean to carry that grief honestly before God rather than pushing it down?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Silence is not easy in this chapter, because David's grief is loud, and yet the whole account invites us to sit with it.",
+     "q": "Be still for a few minutes and ask the Holy Spirit to make you attentive to the heart of the Father, who longs for his lost children. Simply listen for anything he wants to say to you."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David asked, \"Is the young man Absalom safe?\" (2 Samuel 18:29), and, \"O my son Absalom, my son, my son Absalom!\" (2 Samuel 18:33).",
+     "q": "Sit in silence with those two cries. Do not rush to fix or explain them. Ask God what he feels for the people you love who are far from him, and then be still and let whatever he gives you rise, without forcing it."
+    }
+   ]
+  }
+ ]
+},
+// Day 663
+{
+ "ref": "Acts 6",
+ "tag": "New Testament",
+ "api": "acts+6",
+ "sum": [
+  "As the number of disciples multiplies, the Grecian widows are neglected in the daily ministration, and there arises \"a murmuring of the Grecians against the Hebrews\".",
+  "The twelve gather the disciples and propose that seven men of honest report, full of the Holy Ghost and wisdom, be appointed to serve tables, so that the apostles can give themselves \"continually to prayer, and to the ministry of the word\".",
+  "The whole multitude approves and chooses seven, including Stephen and Philip, who are set before the apostles and prayed over with laying on of hands; the word of God increases and even a great company of priests become obedient to the faith.",
+  "Stephen, full of faith and power, does great wonders, but men from several synagogues who cannot resist his wisdom stir up false witnesses against him, and as he stands before the council his face looks \"as it had been the face of an angel\"."
+ ],
+ "nug": [
+  {
+   "h": "A problem born of growth",
+   "b": "\"There arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration\" (Acts 6:1). The first significant crisis in the early church came from good growth, and it was about ordinary, practical care."
+  },
+  {
+   "h": "Prayer and the word, and tables",
+   "b": "\"It is not reason that we should leave the word of God, and serve tables\" (Acts 6:2). The apostles do not despise serving tables, they simply recognise that different people carry different callings, and the church needs both."
+  },
+  {
+   "h": "The kind of people chosen",
+   "b": "The seven are to be \"men of honest report, full of the Holy Ghost and wisdom\" (Acts 6:3). Even the work of distributing food required spiritual maturity, and Stephen is singled out as \"a man full of faith and of the Holy Ghost\" (Acts 6:5)."
+  },
+  {
+   "h": "The word increased",
+   "b": "\"And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly\" (Acts 6:7). When a complaint was heard and answered with humility and wisdom, growth followed rather than division."
+  },
+  {
+   "h": "Wisdom they could not resist",
+   "b": "\"They were not able to resist the wisdom and the spirit by which he spake\" (Acts 6:10). Unable to win the argument, his opponents turn to lies, and the chapter closes with Stephen's face shining \"as it had been the face of an angel\" (Acts 6:15)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 18:17-23 · 1 Timothy 3:8-13 · Exodus 34:29-30",
+   "qs": [
+    {
+     "th": "Jethro's advice to Moses to share the load with capable men anticipates the appointment of the seven, Paul later describes the qualities of those who serve as deacons, and the shining of Moses' face after meeting with God helps us see why Stephen's face was so striking.",
+     "q": "Read these together. What do they show about how God cares for his people through shared, humble, Spirit-filled service, and about what it looks like to have been in his presence?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The neglect of the widows was real, and it happened in a church full of the Spirit, which shows how easily people can be overlooked even among believers.",
+     "q": "Is there someone you have overlooked, or a need you have noticed but avoided because it was inconvenient? What have you been quietly murmuring about instead of addressing?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Grecian widows' complaint was heard and acted on, and the Holy Spirit was at work in the humility of those who listened.",
+     "q": "Ask the Holy Spirit to show you where you have been a source of grumbling rather than solutions, or where you have been slow to listen when someone else has raised a hard concern."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"There arose a murmuring... because their widows were neglected in the daily ministration\" (Acts 6:1).",
+     "q": "Confess honestly where you have grumbled instead of helped, overlooked someone in need, or resisted wise correction. Receive God's forgiveness, and ask him to make you attentive to those who are easily forgotten."
+    }
+   ]
+  }
+ ]
+},
+// Day 664
+{
+ "ref": "Ecclesiastes 9",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+9",
+ "sum": [
+  "The Preacher reflects that \"the righteous, and the wise, and their works, are in the hand of God\", yet the same event comes to all, the good and the sinner alike, which he counts an evil under the sun.",
+  "While there is life there is hope, \"for a living dog is better than a dead lion\", but the dead know nothing more and their portion in what is done under the sun is over.",
+  "He therefore urges the reader to eat bread with joy, to live joyfully with the wife whom he loves and to do whatever the hand finds to do with all one's might, for there is no work in the grave.",
+  "Time and chance happen to all, so the race is not to the swift, and a poor wise man who delivered a little city is forgotten; even so, \"Wisdom is better than weapons of war: but one sinner destroyeth much good\"."
+ ],
+ "nug": [
+  {
+   "h": "In the hand of God",
+   "b": "\"The righteous, and the wise, and their works, are in the hand of God\" (Ecclesiastes 9:1). Though he cannot read love or hatred from outward events, the Preacher rests in the truth that God holds those who belong to him."
+  },
+  {
+   "h": "Hope belongs to the living",
+   "b": "\"For to him that is joined to all the living there is hope: for a living dog is better than a dead lion\" (Ecclesiastes 9:4). Every breath is a gift, and every day of life is an opportunity that the grave will end."
+  },
+  {
+   "h": "Go thy way, eat thy bread with joy",
+   "b": "\"Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works\" (Ecclesiastes 9:7). Ordinary pleasures are received as gifts from God's hand, not treated as idols or as things to feel guilty about."
+  },
+  {
+   "h": "With all your might",
+   "b": "\"Whatsoever thy hand findeth to do, do it with thy might\" (Ecclesiastes 9:10). Because life is short and the day of opportunity ends, the Preacher urges wholehearted, present effort."
+  },
+  {
+   "h": "Time and chance",
+   "b": "\"The race is not to the swift, nor the battle to the strong\" (Ecclesiastes 9:11). Success is not guaranteed by talent, and the poor wise man whose wisdom saved a city was still forgotten, so God's approval matters more than human memory (Ecclesiastes 9:15)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Colossians 3:23-24 · 1 Timothy 6:17 · Psalm 90:10-12",
+   "qs": [
+    {
+     "th": "Paul tells us to work heartily as for the Lord, not for men, Timothy is reminded that God \"giveth us richly all things to enjoy\", and Moses prays that we would be taught to number our days so as to gain a heart of wisdom.",
+     "q": "Read these together. How do they help you hold gratitude for everyday gifts, energetic work and an honest awareness of your mortality in the same hand?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher tells us that God has already accepted our work and given us daily bread, wine, love and labour as our portion.",
+     "q": "Which ordinary gifts of this week have you barely noticed: a meal, a relationship, a task well done? What would it look like to receive them with joy, as from God?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher says \"Whatsoever thy hand findeth to do, do it with thy might\" (Ecclesiastes 9:10).",
+     "q": "Ask the Holy Spirit which task, conversation or act of service in front of you today he wants you to do wholeheartedly, and to show you anything you have been putting off or doing half-heartedly."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works\" (Ecclesiastes 9:7).",
+     "q": "Thank God by name for the gifts of the day: for bread, for the people you love, for work to do, and for the breath of life. Thank him too that he accepts your work, imperfect as it is."
+    }
+   ]
+  }
+ ]
+},
+// Day 665
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "Whatsoever thy hand findeth to do",
+   "b": "\"Whatsoever thy hand findeth to do, do it with thy might\" (Ecclesiastes 9:10). This week moved from a king fleeing his own son to the first ordinary service in the early church, and the Preacher's call to wholeheartedness sits well beside them both."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read David's flight and Shimei's curse (2 Samuel 16), Ahithophel's defeated counsel and the crossing of the Jordan (2 Samuel 17), the Preacher's puzzle over justice and the fear of God (Ecclesiastes 8), Absalom's death and David's grief (2 Samuel 18), the appointment of the seven and Stephen's arrest (Acts 6), and the call to live joyfully and work with all your might (Ecclesiastes 9).",
+     "q": "Which moment stayed with you more this week: David's cry, \"O my son Absalom, my son, my son Absalom!\" (2 Samuel 18:33), or the Preacher's word, \"Wisdom is better than strength\" (Ecclesiastes 9:16)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"For to him that is joined to all the living there is hope\" (Ecclesiastes 9:4).",
+     "q": "Sit quietly for a moment, and simply rest in the gift of being alive today, held in the hand of God, before you move on."
+    }
+   ]
+  }
+ ]
+},
+// Day 666
+{
+ "ref": "2 Samuel 19",
+ "tag": "Old Testament",
+ "api": "2samuel+19",
+ "sum": [
+  "Joab tells David that his public grief has turned the victory into mourning and shamed the servants who saved his life; David goes out and sits in the gate, and the people come before him.",
+  "David sends to the elders of Judah, and to Amasa, and he \"bowed the heart of all the men of Judah, even as the heart of one man\"; the king returns to the Jordan, where Shimei confesses his sin and David swears, \"Thou shalt not die\".",
+  "Mephibosheth meets the king unwashed and grieving, explains that Ziba deceived him, and receives only a division of the land, while aged Barzillai declines the king's invitation to Jerusalem and sends Chimham in his place.",
+  "As the king crosses over, the men of Israel and the men of Judah quarrel over who has the greater claim on him, and \"the words of the men of Judah were fiercer than the words of the men of Israel\"."
+ ],
+ "nug": [
+  {
+   "h": "A hard word from Joab",
+   "b": "\"Thou hast shamed this day the faces of all thy servants, which this day have saved thy life\" (2 Samuel 19:5). Joab's tone is harsh, but his warning is true: a leader who mourns without regard for those who fought for him risks losing them."
+  },
+  {
+   "h": "Bringing back the king",
+   "b": "David appeals to Judah, \"Ye are my brethren, ye are my bones and my flesh\" (2 Samuel 19:12). The result is that he \"bowed the heart of all the men of Judah, even as the heart of one man\" (2 Samuel 19:14), a picture of a people restored to their king."
+  },
+  {
+   "h": "Mercy for Shimei",
+   "b": "Abishai asks, \"Shall not Shimei be put to death for this, because he cursed the LORD'S anointed?\" (2 Samuel 19:21). David answers, \"for do not I know that I am this day king over Israel?\" (2 Samuel 19:22), and promises, \"Thou shalt not die\" (2 Samuel 19:23). The king's day of return is a day of pardon."
+  },
+  {
+   "h": "Mephibosheth's gratitude",
+   "b": "\"For all of my father's house were but dead men before my lord the king: yet didst thou set thy servant among them that did eat at thine own table\" (2 Samuel 19:28). Mephibosheth has never forgotten that David's kindness was undeserved."
+  },
+  {
+   "h": "A restored kingdom still fractured",
+   "b": "Even in the joy of the king's return, Israel and Judah quarrel over who has more right to him (2 Samuel 19:41-43). The chapter is honest that reconciliation with the king does not automatically bring reconciliation among his people."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 9:6-11 · Psalm 103:8-12 · Ephesians 2:4-7",
+   "qs": [
+    {
+     "th": "David's first kindness to Mephibosheth in 2 Samuel 9 stands behind his gratitude here, Psalm 103 (a psalm of David) celebrates the God who does not deal with us after our sins, and Paul speaks of God's mercy to those who were dead in trespasses.",
+     "q": "Read these together. How does seeing David's mercy to Shimei and Mephibosheth deepen your wonder at the greater King, who receives rebels and seats them at his own table?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The men of Israel were quick to welcome David back but slow to make peace with each other, and the quarrel over who had the greater claim on the king was fierce.",
+     "q": "Are you closer to the king than to his people? Is there a fellow believer with whom you have a quarrel, or a sense of competition, that you need to lay down?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David chose mercy over vengeance at a moment when he had every right to demand justice.",
+     "q": "Ask the Holy Spirit to grow in you the same wonder at God's mercy, and to show you someone to whom you can offer the kind of undeserved grace that David gave Shimei."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David said, \"Thou shalt not die\" (2 Samuel 19:23), and he honoured Mephibosheth with a place at his table.",
+     "q": "Adore the King who welcomes those who deserve judgement. Praise him for his mercy, his patience and his generosity, and worship him in your own words for the pardon he has given you and the place he has prepared for you at his table."
+    }
+   ]
+  }
+ ]
+},
+// Day 667
+{
+ "ref": "2 Samuel 20",
+ "tag": "Old Testament",
+ "api": "2samuel+20",
+ "sum": [
+  "Sheba, a man of Belial from Benjamin, blows a trumpet and declares, \"We have no part in David\", and the men of Israel leave David while Judah clings to their king; David shuts up the ten concubines Absalom had defiled.",
+  "David orders Amasa to gather Judah, but when he is late Joab's men pursue Sheba, and at Gibeon Joab greets Amasa, \"Art thou in health, my brother?\" and strikes him dead with a sword he did not notice.",
+  "Joab besieges Abel of Beth-maachah, where a wise woman cries out from the wall, describing herself and her city as \"peaceable and faithful in Israel\", and persuades the people to hand over Sheba to end the siege.",
+  "Joab returns to Jerusalem, and the chapter closes with a list of David's officials, noting that Joab is over all the host of Israel."
+ ],
+ "nug": [
+  {
+   "h": "A trumpet of division",
+   "b": "\"We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel\" (2 Samuel 20:1). The wounds from Absalom's rebellion and the quarrel at the end of chapter 19 are opened again by one loud voice."
+  },
+  {
+   "h": "Consequences that linger",
+   "b": "David shut up the ten women Absalom had defiled, and \"they were shut up unto the day of their death, living in widowhood\" (2 Samuel 20:3). It is a sober glimpse of how the sins of powerful men leave long shadows over the powerless."
+  },
+  {
+   "h": "A kiss and a sword",
+   "b": "\"Art thou in health, my brother?\" said Joab, as he took Amasa \"by the beard with the right hand to kiss him\" (2 Samuel 20:9). Joab's violence, echoing his killing of Abner, is presented plainly and without excuse."
+  },
+  {
+   "h": "The wise woman of Abel",
+   "b": "\"I am one of them that are peaceable and faithful in Israel: thou seekest to destroy a city and a mother in Israel\" (2 Samuel 20:19). She speaks with courage and clarity to the most feared commander in Israel."
+  },
+  {
+   "h": "Wisdom that saves a city",
+   "b": "\"Then the woman went unto all the people in her wisdom\" (2 Samuel 20:22). Her wise word ends the siege, and it recalls the Preacher's poor wise man who delivered a little city (Ecclesiastes 9:14-15), which you read only days ago."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Ecclesiastes 9:14-15 · 2 Samuel 3:26-27 · Psalm 122:6-8",
+   "qs": [
+    {
+     "th": "Ecclesiastes 9 tells of a poor wise man who delivered a little city, which the wise woman of Abel echoes, Joab's treacherous killing of Abner in 2 Samuel 3 foreshadows his killing of Amasa, and Psalm 122 teaches us to pray for the peace of Jerusalem.",
+     "q": "Read these together. How do they help you see both the cost of violence and division, and the power of one wise, brave voice speaking for peace?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The kingdom was again torn apart by a single voice, and a single wise voice saved a city.",
+     "q": "Where do you see division, in your family, church, workplace or nation, and what might one wise, peaceable word from you look like in that situation?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The wise woman spoke up when she could easily have stayed silent, and her courage came at some risk.",
+     "q": "Ask the Holy Spirit to show you whose voice needs to be heard in your world, and whether he is asking you to speak up, or to stand beside someone who is."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The wise woman described her city as \"peaceable and faithful in Israel\" (2 Samuel 20:19), and the ten women were left \"living in widowhood\" (2 Samuel 20:3).",
+     "q": "Pray for peacemakers and for the divided: for communities and churches split by bitterness, for those who have been harmed by the sins of powerful people, and for wise, brave voices to be raised. Ask God to bring healing and peace where you know it is needed."
+    }
+   ]
+  }
+ ]
+},
+// Day 668
+{
+ "ref": "Ecclesiastes 10",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+10",
+ "sum": [
+  "The Preacher warns that \"Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour\", and contrasts the wise man's heart with the fool's.",
+  "He observes a world turned upside down, where folly sits in high places, and warns that ordinary work carries hazards, since he that diggeth a pit shall fall into it, while \"wisdom is profitable to direct\".",
+  "He contrasts \"The words of a wise man's mouth are gracious\" with the babbling of a fool, whose talk begins in foolishness and ends in mischievous madness.",
+  "He pronounces woe on a land whose king is a child and blessing on one led well, warns that \"By much slothfulness the building decayeth\", and counsels caution even in speaking privately of rulers and the rich."
+ ],
+ "nug": [
+  {
+   "h": "A little folly, a lot of damage",
+   "b": "\"Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour\" (Ecclesiastes 10:1). One careless act can spoil a lifetime of good reputation."
+  },
+  {
+   "h": "Yielding pacifies",
+   "b": "\"If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences\" (Ecclesiastes 10:4). A calm response to an angry authority can turn away trouble that a defensive one would inflame."
+  },
+  {
+   "h": "Wisdom directs",
+   "b": "\"If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct\" (Ecclesiastes 10:10). Skill and preparation do more than effort alone."
+  },
+  {
+   "h": "Words of the wise and the fool",
+   "b": "\"The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself\" (Ecclesiastes 10:12). What we say reveals what we are, and can undo us."
+  },
+  {
+   "h": "Watch your tongue, even in private",
+   "b": "\"Curse not the king, no not in thy thought\" (Ecclesiastes 10:20). The Preacher's picture of a bird carrying the matter is memorable, and it is a reminder that our hidden words and attitudes matter more than we assume."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Proverbs 10:19 · James 1:19-20 · Psalm 141:3",
+   "qs": [
+    {
+     "th": "Proverbs says that in the multitude of words there wanteth not sin, James tells us to be swift to hear and slow to speak, and David prays for a guard on his lips.",
+     "q": "Read these together. What do they teach you about the connection between listening, restraint and wisdom, and how might that reshape the way you speak this week?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chapter is full of small things, like dead flies, a blunt axe or a careless word, that have outsized effects.",
+     "q": "What small habit, word or shortcut in your life may be doing quiet damage to something good? What would it look like to deal with it before it grows?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher says that \"wisdom is profitable to direct\" (Ecclesiastes 10:10), and wisdom begins with listening.",
+     "q": "Ask the Holy Spirit to direct your speech and your work today, and to make you quicker to listen than to speak."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"The words of a wise man's mouth are gracious\" (Ecclesiastes 10:12).",
+     "q": "Sit in silence, offering God your tongue and your thoughts, including the ones no one else hears. Do not fill the quiet with words, and listen for anything he wants to say to you about how you speak of and to others."
+    }
+   ]
+  }
+ ]
+},
+// Day 669
+{
+ "ref": "2 Samuel 21",
+ "tag": "Old Testament",
+ "api": "2samuel+21",
+ "sum": [
+  "A famine lasts three years, and when David enquires of the LORD he is told, \"It is for Saul, and for his bloody house, because he slew the Gibeonites\", breaking an oath Israel had sworn to them long before.",
+  "David asks the Gibeonites what would make atonement, and at their request hands over seven of Saul's descendants, sparing Mephibosheth \"because of the LORD'S oath\" between David and Jonathan; the seven are put to death at the beginning of barley harvest.",
+  "Rizpah takes sackcloth and keeps watch over the bodies of her sons from the beginning of harvest until the rain comes, and when David hears of it he gathers the bones of Saul and Jonathan and buries them with the bodies in the tomb of Kish; \"after that God was intreated for the land\".",
+  "The chapter closes with four battles against the descendants of the giants of Gath, in which David grows faint and is rescued by Abishai, and his men swear he shall no more go out to battle, \"that thou quench not the light of Israel\"."
+ ],
+ "nug": [
+  {
+   "h": "The cause of the famine",
+   "b": "\"There was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites\" (2 Samuel 21:1). A sin of a previous generation, against a people Israel had sworn to protect, still carried consequences."
+  },
+  {
+   "h": "An oath that mattered",
+   "b": "The Gibeonites were not of Israel, and yet \"the children of Israel had sworn unto them\" (2 Samuel 21:2). God takes covenant promises seriously, even those made to outsiders and made centuries ago (Joshua 9)."
+  },
+  {
+   "h": "A hard passage",
+   "b": "David hands over seven of Saul's descendants to be put to death, and the passage does not explain everything. It is honest to say that this is a troubling scene, in which the guilt of one man's violence falls on his family, and to read it alongside Ezekiel's statement that the son shall not bear the iniquity of the father."
+  },
+  {
+   "h": "Rizpah's vigil",
+   "b": "\"Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock\" (2 Samuel 21:10). Her refusal to let her sons be dishonoured, kept from the beginning of harvest until the rain, moved even the king to act, and afterwards \"God was intreated for the land\" (2 Samuel 21:14)."
+  },
+  {
+   "h": "The light of Israel",
+   "b": "\"Thou shalt go no more out with us to battle, that thou quench not the light of Israel\" (2 Samuel 21:17). David's men see that the king's life is precious, and they learn to protect him from his own courage."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Joshua 9:15-20 · Ezekiel 18:19-20 · Daniel 9:4-9",
+   "qs": [
+    {
+     "th": "Joshua 9 records the oath Israel swore to the Gibeonites, Ezekiel 18 insists on personal responsibility before God, and Daniel 9 is a model of confessing the sins of one's own people as though they were one's own.",
+     "q": "Read these together. How do they help you hold both personal responsibility and the reality that the sins of one generation affect the next, and how do they shape the way you confess?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Unrepented sin from the past, and a broken promise, brought consequences for years, and God asked to be sought about it.",
+     "q": "Is there a broken promise, an unresolved wrong or a hidden failure, personal or shared, that you have avoided facing? What would it look like to enquire of the LORD about it and to make it right?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David asked God what lay behind the famine, and he listened to the answer even though it exposed a wrong.",
+     "q": "Ask the Holy Spirit to search you and show you what he wants to expose or heal, and give you the courage to face it without excuses."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"What shall I do for you? and wherewith shall I make the atonement?\" (2 Samuel 21:3).",
+     "q": "Confess plainly whatever the Spirit has shown you, including wrongs you have been part of, the promises you have not kept and the harm that has followed you into others' lives. Receive forgiveness through Christ, our atonement, and ask for grace to make things right where you can."
+    }
+   ]
+  }
+ ]
+},
+// Day 670
+{
+ "ref": "Acts 7",
+ "tag": "New Testament",
+ "api": "acts+7",
+ "sum": [
+  "Asked by the high priest whether the charges are true, Stephen retells Israel's story, beginning with \"The God of glory\" appearing to Abraham, the promise of the land when he had no child, and God's faithfulness to Joseph, \"but God was with him\".",
+  "He recounts the birth of Moses, his rejection by his own people, the burning bush, and God's word, \"I have seen, I have seen the affliction of my people which is in Egypt\", showing that the deliverer Israel refused was the one God sent.",
+  "He reminds them of the golden calf and their long history of idolatry, and of the tabernacle and Solomon's temple, and declares that \"the most High dwelleth not in temples made with hands\".",
+  "Stephen accuses the council of always resisting the Holy Ghost; enraged, they drag him out and stone him as he sees \"the Son of man standing on the right hand of God\", and dies praying, \"Lord, lay not this sin to their charge\", with a young man named Saul looking on."
+ ],
+ "nug": [
+  {
+   "h": "The God of glory takes the first step",
+   "b": "\"The God of glory appeared unto our father Abraham, when he was in Mesopotamia\" (Acts 7:2). Stephen begins with God's initiative: Abraham did not find God, God appeared to him."
+  },
+  {
+   "h": "God was with him",
+   "b": "When the patriarchs sold Joseph out of envy, Stephen says, \"but God was with him\" (Acts 7:9). In the pit, in Egypt's prison and in Pharaoh's court, God's presence is the constant thread of the story."
+  },
+  {
+   "h": "The deliverer they refused",
+   "b": "Moses is described as the one \"whom they refused, saying, Who made thee a ruler and a judge?\" (Acts 7:35), and God sent him nonetheless. Stephen is quietly pointing to Jesus, another deliverer whom Israel's leaders had rejected."
+  },
+  {
+   "h": "No house can hold him",
+   "b": "\"Howbeit the most High dwelleth not in temples made with hands\" (Acts 7:48). The temple was a gift, but God was never confined to it, and now Stephen is charged with speaking against it."
+  },
+  {
+   "h": "A death that echoes the cross",
+   "b": "Stephen, \"full of the Holy Ghost\", sees \"the Son of man standing on the right hand of God\" (Acts 7:55-56), and dies praying, \"Lord Jesus, receive my spirit\" and \"Lord, lay not this sin to their charge\" (Acts 7:59-60). The account also notes that the witnesses laid down their clothes at the feet of a young man \"whose name was Saul\" (Acts 7:58)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 3:7-10 · Luke 23:34 · Luke 23:46",
+   "qs": [
+    {
+     "th": "God's promise to Moses at the bush, \"I have seen the affliction of my people\", stands behind Stephen's retelling, and Stephen's two last prayers echo Jesus' own words from the cross, forgiveness for his killers and the commitment of his spirit into the Father's hands.",
+     "q": "Read these together. How does seeing Stephen die in the pattern of Jesus deepen your understanding of how the gospel forms people, and of what God's faithfulness across the whole story looks like?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Stephen's long speech traces God's faithfulness through Abraham, Joseph and Moses, even through Israel's repeated failures.",
+     "q": "Take a moment to trace God's faithfulness in your own story, through seasons when he was clearly with you and seasons when you had failed. What patterns do you see?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Stephen was full of the Holy Ghost, saw the glory of God and could forgive those who were killing him.",
+     "q": "Ask the Holy Spirit to fill you with the same clarity about Jesus and the same freedom to forgive, in whatever circumstances you face this week."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Behold, I see the heavens opened, and the Son of man standing on the right hand of God\" (Acts 7:56).",
+     "q": "Give thanks for God's faithfulness across the generations, for his presence in your own hardest seasons, for Stephen's example, and above all for Jesus, who stands at God's right hand and who prayed for those who killed him."
+    }
+   ]
+  }
+ ]
+},
+// Day 671
+{
+ "ref": "Ecclesiastes 11",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+11",
+ "sum": [
+  "The Preacher urges generosity in uncertainty: \"Cast thy bread upon the waters: for thou shalt find it after many days\", and give a portion to seven, and also to eight, since no one knows what evil may come.",
+  "Nature runs its course, and the tree lies where it falls; and \"He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap\", so waiting for perfect conditions leads to nothing.",
+  "Just as we cannot know how a child grows in the womb, \"even so thou knowest not the works of God who maketh all\", so the Preacher advises sowing in the morning and in the evening, not knowing which will prosper.",
+  "He commends the sweetness of light and life, tells the young to rejoice in their youth while remembering that God will bring them into judgement, and closes by contrasting sorrow and vanity with the days of darkness to come."
+ ],
+ "nug": [
+  {
+   "h": "Generosity with open hands",
+   "b": "\"Cast thy bread upon the waters: for thou shalt find it after many days\" (Ecclesiastes 11:1). Generous giving may feel like throwing something away, but the Preacher trusts that it will return in ways we cannot control."
+  },
+  {
+   "h": "Waiting for perfect conditions",
+   "b": "\"He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap\" (Ecclesiastes 11:4). Someone who waits until every risk is removed will never begin, so the wise act in faith."
+  },
+  {
+   "h": "God who maketh all",
+   "b": "\"Thou knowest not the works of God who maketh all\" (Ecclesiastes 11:5). Just as we cannot explain how life grows in the womb, we cannot fully map what God is doing, and that mystery is a reason for worship rather than despair."
+  },
+  {
+   "h": "Sow in the morning and the evening",
+   "b": "\"In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper\" (Ecclesiastes 11:6). Faithful work is our part, and the outcome belongs to God."
+  },
+  {
+   "h": "Rejoice, and remember",
+   "b": "\"Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun\" (Ecclesiastes 11:7). The Preacher invites the young to \"Rejoice, O young man, in thy youth\" while remembering that \"for all these things God will bring thee into judgment\" (Ecclesiastes 11:9)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Galatians 6:7-9 · Psalm 104:24-28 · Isaiah 40:28",
+   "qs": [
+    {
+     "th": "Paul tells us not to grow weary of doing good because we shall reap in due season, Psalm 104 marvels at the wisdom by which God made all things and feeds every creature, and Isaiah declares that the Creator of the ends of the earth neither faints nor is weary.",
+     "q": "Read these together. How do they turn the Preacher's uncertainty about outcomes into confidence in the God who maketh all?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher tells us to keep sowing and giving, even though we cannot know which efforts will bear fruit.",
+     "q": "Where have you held back from giving, serving or trying something because you could not be sure of the result? What would it look like to sow anyway, and leave the harvest with God?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher says we cannot know the way of the spirit, nor how bones grow in the womb, and yet God is at work in both.",
+     "q": "Ask the Holy Spirit to increase your trust in what you cannot see or understand, and to give you a sense of the wonder of what God is doing in and around you."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Thou knowest not the works of God who maketh all\" (Ecclesiastes 11:5).",
+     "q": "Spend these minutes adoring the God who makes all things, who gives the light that is sweet and the sun that is pleasant to behold, and whose works we cannot fully trace. Praise him for his wisdom, his generosity and his mystery."
+    }
+   ]
+  }
+ ]
+},
+// Day 672
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "Lord, lay not this sin to their charge",
+   "b": "\"Lord, lay not this sin to their charge. And when he had said this, he fell asleep\" (Acts 7:60). This week moved from David's mercy to Shimei to Stephen's mercy to the men who stoned him, and both look forward to the King who prayed, Father, forgive them."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read David's grief and the king's return across the Jordan (2 Samuel 19), Sheba's revolt and the wise woman of Abel (2 Samuel 20), the Preacher's counsel on folly and wisdom (Ecclesiastes 10), the famine, Rizpah's vigil and the battles with the giants (2 Samuel 21), Stephen's long speech and death (Acts 7), and the call to sow generously and rejoice (Ecclesiastes 11).",
+     "q": "Which moment challenged you more this week: David's word to Shimei, \"Thou shalt not die\" (2 Samuel 19:23), or Stephen's prayer, \"Lord, lay not this sin to their charge\" (Acts 7:60)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"In the morning sow thy seed, and in the evening withhold not thine hand\" (Ecclesiastes 11:6).",
+     "q": "Sit quietly for a moment, and simply rest in the thought that the outcome belongs to God, so you can put down the weight of what you cannot control before you move on."
+    }
+   ]
+  }
+ ]
+},
+// Day 673
+{
+ "ref": "2 Samuel 22",
+ "tag": "Old Testament",
+ "api": "2samuel+22",
+ "sum": [
+  "David sings a song on the day the LORD delivered him from all his enemies and from the hand of Saul, opening with a pile of images: \"The LORD is my rock, and my fortress, and my deliverer.\"",
+  "He remembers crying out in distress, when \"the waves of death compassed me,\" and hearing the LORD answer in earthquake, fire, thunder and storm, until \"he drew me out of many waters.\"",
+  "David speaks of God dealing faithfully with the merciful and the upright, and declares, \"As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him.\"",
+  "God arms him for battle and lifts him above his enemies, and the song ends in praise: \"The LORD liveth; and blessed be my rock,\" with mercy promised to his anointed, \"unto David, and to his seed for evermore.\""
+ ],
+ "nug": [
+  {
+   "h": "The LORD my rock and deliverer",
+   "b": "\"The LORD is my rock, and my fortress, and my deliverer\" (2 Samuel 22:2). David does not offer a definition of God but a list of what God has been to him: something solid to stand on, a stronghold, and a rescuer."
+  },
+  {
+   "h": "Distress becomes a prayer",
+   "b": "\"In my distress I called upon the LORD, and cried to my God: and he did hear my voice out of his temple\" (2 Samuel 22:7). The song's whole story turns on this: a desperate cry, and a God who hears it."
+  },
+  {
+   "h": "Drawn out of many waters",
+   "b": "\"He sent from above, he took me; he drew me out of many waters\" (2 Samuel 22:17). Rescue is pictured as God reaching down and taking hold of the one who was going under."
+  },
+  {
+   "h": "A lamp in the dark",
+   "b": "\"For thou art my lamp, O LORD: and the LORD will lighten my darkness\" (2 Samuel 22:29). David does not claim that the dark never comes, only that God is the light he carries through it."
+  },
+  {
+   "h": "A hard boast, read carefully",
+   "b": "\"The LORD rewarded me according to my righteousness\" (2 Samuel 22:21). Set beside Bathsheba and Uriah, this is a sobering claim. It is best read as loyalty to God's covenant and a life that returned to him in repentance, not a boast of sinlessness. Even here the song's confidence rests on God's faithfulness, not David's record."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 18:1-6 · 1 Samuel 2:1-10 · Luke 1:68-71",
+   "qs": [
+    {
+     "th": "Almost the whole of this chapter appears again as Psalm 18, Hannah's song at the start of 1 Samuel praises the same God who lifts the needy and brings down the proud, and Zechariah's song in Luke echoes David's image of God as the horn of salvation as he blesses God for the coming Saviour.",
+     "q": "Read these together and notice how a song that begins and ends the story of David's kingship keeps pointing beyond David. What does each passage add to how you picture the God who rescues?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David piles up names for God: rock, fortress, deliverer, shield, high tower, refuge. Each one answers a different kind of need.",
+     "q": "Which of these images do you most need God to be for you right now, and what is making you need it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David says of God, \"thy gentleness hath made me great\" (2 Samuel 22:36).",
+     "q": "Ask the Holy Spirit to show you a place where God's gentleness, rather than your own strength, has been shaping you, and to help you receive it rather than resist it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David sang this in the day God delivered him, but he remembers a time when \"the floods of ungodly men made me afraid\" (2 Samuel 22:5).",
+     "q": "Bring to God by name someone who is in the waves right now. Ask that he would be their rock and refuge, and that they would know that he hears their cry."
+    }
+   ]
+  }
+ ]
+},
+// Day 674
+{
+ "ref": "2 Samuel 23",
+ "tag": "Old Testament",
+ "api": "2samuel+23",
+ "sum": [
+  "David's last words: the son of Jesse, the anointed of the God of Jacob and \"the sweet psalmist of Israel,\" says, \"The Spirit of the LORD spake by me, and his word was in my tongue.\"",
+  "He describes the just ruler who rules \"in the fear of God\" like a morning without clouds, admits \"my house be not so with God,\" yet holds to \"an everlasting covenant, ordered in all things, and sure.\"",
+  "The chapter lists David's mighty men and their feats, where \"the LORD wrought a great victory,\" including the three who broke through the Philistine lines for water from the well at Bethlehem, which David would not drink but poured out to the LORD.",
+  "The list of the thirty continues through Abishai, Benaiah and many others, and closes with a quiet and painful name: \"Uriah the Hittite: thirty and seven in all.\""
+ ],
+ "nug": [
+  {
+   "h": "The Spirit spoke through him",
+   "b": "\"The Spirit of the LORD spake by me, and his word was in my tongue\" (2 Samuel 23:2). David closes his life by crediting his psalms to God's Spirit, not his own skill."
+  },
+  {
+   "h": "A ruler who fears God",
+   "b": "\"He that ruleth over men must be just, ruling in the fear of God\" (2 Samuel 23:3). David states the standard for every ruler, and it is one he knew he had not always met."
+  },
+  {
+   "h": "An honest confession of a broken house",
+   "b": "\"Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure\" (2 Samuel 23:5). David has watched Amnon, Absalom and Adonijah's shadow fall over his family. His hope is not that his house was good but that God's covenant is."
+  },
+  {
+   "h": "Water poured out",
+   "b": "\"Be it far from me, O LORD, that I should do this: is not this the blood of the men that went in jeopardy of their lives?\" (2 Samuel 23:17). David treats the gift as too costly to consume, and gives it to God."
+  },
+  {
+   "h": "Uriah in the list",
+   "b": "\"Uriah the Hittite: thirty and seven in all\" (2 Samuel 23:39). The record ends with the man David wronged, a faithful soldier standing among the honoured. Scripture does not let us forget him."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 7:12-16 · 1 Chronicles 11:15-19 · 2 Samuel 11:14-17",
+   "qs": [
+    {
+     "th": "God's promise to David in 2 Samuel 7 is the \"everlasting covenant\" he clings to here, the Chronicles version of the water from the well shows how the story was remembered, and the death of Uriah in 2 Samuel 11 stands behind the last name on the list.",
+     "q": "Read these together and ask how David can speak of a sure covenant while the list ends with Uriah. What does that say about where his hope truly rests?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's greatest men were remembered for courage, but David himself is remembered here for what he would not take: water bought at the risk of men's lives.",
+     "q": "Is there something you have been given, or could easily take, that you should instead hold before God and pour out?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David says, \"the Rock of Israel spake to me\" (2 Samuel 23:3).",
+     "q": "Ask the Spirit who spoke through David to make you attentive to what God is saying, and to quieten the other voices that compete for your ear."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's last words begin with the claim that God spoke to him: \"the Rock of Israel spake to me\" (2 Samuel 23:3).",
+     "q": "Sit in silence for a few minutes without asking for anything. Let that one line be your only words, and simply listen. When your mind wanders, gently return to it."
+    }
+   ]
+  }
+ ]
+},
+// Day 675
+{
+ "ref": "Ecclesiastes 12",
+ "tag": "Psalms & Wisdom",
+ "api": "ecclesiastes+12",
+ "sum": [
+  "The Preacher urges, \"Remember now thy Creator in the days of thy youth, while the evil days come not,\" before age brings the years in which a person will say, \"I have no pleasure in them.\"",
+  "He paints old age and death in poetic images, the house that trembles and the lights that darken, until \"the silver cord be loosed, or the golden bowl be broken,\" and \"the spirit shall return unto God who gave it.\"",
+  "He repeats \"Vanity of vanities,\" then reflects on his own work of teaching, noting that \"the words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.\"",
+  "The book ends: \"Fear God, and keep his commandments: for this is the whole duty of man,\" because \"God shall bring every work into judgment, with every secret thing.\""
+ ],
+ "nug": [
+  {
+   "h": "Remember now",
+   "b": "\"Remember now thy Creator in the days of thy youth\" (Ecclesiastes 12:1). The word \"now\" carries the weight: remembering God is not something to leave for a quieter season."
+  },
+  {
+   "h": "Dust and spirit",
+   "b": "\"Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it\" (Ecclesiastes 12:7). Ecclesiastes has been honest about death throughout. Here it says where the spirit goes."
+  },
+  {
+   "h": "Words that goad and nails that hold",
+   "b": "\"The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd\" (Ecclesiastes 12:11). Good teaching prods us forward and also fastens us in place, and it all comes from one Shepherd."
+  },
+  {
+   "h": "Books without end",
+   "b": "\"Of making many books there is no end; and much study is a weariness of the flesh\" (Ecclesiastes 12:12). After a whole book of searching, the Preacher gently warns that more information will not answer what only God can."
+  },
+  {
+   "h": "The whole duty of man",
+   "b": "\"Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man\" (Ecclesiastes 12:13). This closes Ecclesiastes, which has been with us across many weeks. All the questions of the book resolve into reverent trust and obedience, weighed against the fact that \"God shall bring every work into judgment\" (Ecclesiastes 12:14)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 90:10-12 · Proverbs 1:7 · 2 Corinthians 5:9-10",
+   "qs": [
+    {
+     "th": "Psalm 90 asks God to teach us to number our days, Proverbs opens with the same fear of the LORD that Ecclesiastes ends on, and Paul says that all of us must appear before the judgment seat of Christ.",
+     "q": "Read these together and ask what the fear of God does with our short lives and our hidden things. Why do the Preacher and the apostle treat judgment as a reason to live carefully rather than fearfully?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher's last pages are about time: youth, ageing, and a life that will be weighed. He is not trying to frighten but to wake up.",
+     "q": "Is there something you have been putting off until a more convenient season, such as prayer, forgiveness, a conversation or a change of habit? What would it mean to act on it now?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Preacher says wise words are \"as goads\" (Ecclesiastes 12:11).",
+     "q": "Ask the Spirit to prod you, kindly but plainly, about the one thing he most wants you to attend to, and to give you the willingness to be goaded."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil\" (Ecclesiastes 12:14).",
+     "q": "Bring your hidden things to God, the things no one else sees, and confess them honestly and without excuse. Then remember that \"If we confess our sins, he is faithful and just to forgive us our sins\" (1 John 1:9)."
+    }
+   ]
+  }
+ ]
+},
+// Day 676
+{
+ "ref": "2 Samuel 24",
+ "tag": "Old Testament",
+ "api": "2samuel+24",
+ "sum": [
+  "The anger of the LORD is kindled again against Israel and David is moved to have the people counted; Joab objects, is overruled, and after nine months and twenty days brings in the numbers.",
+  "David's heart smites him: \"I have sinned greatly in that I have done.\" Through the prophet Gad the LORD offers three punishments and David chooses, \"let us fall now into the hand of the LORD; for his mercies are great.\"",
+  "A pestilence kills seventy thousand, but as the angel reaches Jerusalem \"the LORD repented him of the evil\" and says, \"It is enough: stay now thine hand.\" David pleads, \"these sheep, what have they done?\"",
+  "Gad tells David to build an altar on the threshingfloor of Araunah, and David insists on paying full price, \"neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing,\" and the plague is stayed."
+ ],
+ "nug": [
+  {
+   "h": "A hard first verse",
+   "b": "\"And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah\" (2 Samuel 24:1). This is one of the difficult verses in Samuel, and 1 Chronicles 21:1 names Satan as the one who stood up against Israel. However we hold the two together, the chapter never lets David off: the decision, and the guilt, are his."
+  },
+  {
+   "h": "A heart that smites",
+   "b": "\"I have sinned greatly in that I have done: and now, I beseech thee, O LORD, take away the iniquity of thy servant\" (2 Samuel 24:10). No one had to confront David this time. His own conscience did, and he went straight to God."
+  },
+  {
+   "h": "Into the hand of the LORD",
+   "b": "\"Let us fall now into the hand of the LORD; for his mercies are great: and let me not fall into the hand of man\" (2 Samuel 24:14). Faced with three terrible options, David trusts God's mercy over any human alternative."
+  },
+  {
+   "h": "It is enough",
+   "b": "\"The LORD repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now thine hand\" (2 Samuel 24:16). In the middle of judgment, mercy breaks in, and God himself calls a halt."
+  },
+  {
+   "h": "The cost of worship",
+   "b": "\"Neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing\" (2 Samuel 24:24). David will not give God a free gift. This chapter, which ends 2 Samuel, also marks the ground that later became the site of the temple."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Chronicles 21:1-8 · 2 Chronicles 3:1 · Psalm 103:8-14",
+   "qs": [
+    {
+     "th": "Chronicles tells the same census story and names the one who stirred David up, the temple is later built on this very threshingfloor, and Psalm 103 describes the God of compassion who does not deal with us after our sins.",
+     "q": "Read these together and ask what they show about how judgment, mercy and worship meet in one place. What do you notice about the God who says \"It is enough\"?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's census seems to have been about numbers and strength. His confession shows he saw it as trusting his own resources instead of God.",
+     "q": "Where do you find yourself counting your resources, such as money, skills, connections or plans, more than you rely on God?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David's heart \"smote him\" after the census (2 Samuel 24:10).",
+     "q": "Ask the Holy Spirit to make your conscience as tender as David's, quick to notice when you have drifted, and just as quick to run to God with it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "David prays, \"let thine hand, I pray thee, be against me, and against my father's house\" (2 Samuel 24:17), asking to bear what his people should not have to.",
+     "q": "Give thanks that God says \"It is enough\" to judgment, and that there is a greater Shepherd who really did take the blow for the sheep. Thank him for mercy that cost him everything."
+    }
+   ]
+  }
+ ]
+},
+// Day 677
+{
+ "ref": "Acts 8",
+ "tag": "New Testament",
+ "api": "acts+8",
+ "sum": [
+  "After Stephen's death \"there was a great persecution against the church which was at Jerusalem,\" and Saul makes havoc of it, but those scattered \"went every where preaching the word.\"",
+  "Philip preaches Christ in Samaria with signs and \"great joy in that city\"; Simon the sorcerer believes and is baptised, and Peter and John come down, pray, and the Samaritans receive the Holy Ghost.",
+  "Simon offers money for the same power and Peter rebukes him, \"Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money,\" and calls him to repent.",
+  "An angel and the Spirit send Philip to the Gaza road, where he meets an Ethiopian official reading Isaiah, \"began at the same scripture, and preached unto him Jesus,\" and baptises him, and the man \"went on his way rejoicing.\""
+ ],
+ "nug": [
+  {
+   "h": "Scattered, and still preaching",
+   "b": "\"Therefore they that were scattered abroad went every where preaching the word\" (Acts 8:4). Persecution meant to stop the gospel ends up spreading it. It is the first movement of the pattern promised in Acts 1:8."
+  },
+  {
+   "h": "Great joy in the city",
+   "b": "\"And there was great joy in that city\" (Acts 8:8). Samaria, long despised by many Jews, is now the scene of joy, as the gospel crosses an old and painful boundary."
+  },
+  {
+   "h": "A gift that cannot be bought",
+   "b": "\"Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money\" (Acts 8:20). Simon had been baptised, yet he still thought of God's power as something to acquire. Peter's answer is severe, but it ends with an open door: \"Repent therefore.\""
+  },
+  {
+   "h": "A man who needed a guide",
+   "b": "\"Understandest thou what thou readest?\" asks Philip (Acts 8:30), and the answer is honest: \"How can I, except some man should guide me?\" (Acts 8:31). The eunuch was reading the right book and needed someone to open it."
+  },
+  {
+   "h": "Beginning at the same scripture",
+   "b": "\"Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus\" (Acts 8:35). Isaiah's suffering lamb points to Jesus, and the man who met him \"went on his way rejoicing\" (Acts 8:39)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 53:7-8 · Acts 1:8 · Psalm 68:31",
+   "qs": [
+    {
+     "th": "Isaiah 53 is the passage the Ethiopian was reading, Acts 1:8 gives Jesus' promise that the witness would reach Samaria and beyond, and Psalm 68 looks ahead to Ethiopia stretching out its hands to God.",
+     "q": "Read these together and notice how a prophecy, a promise and a psalm all meet in one man on a desert road. What does that show about how God's word reaches its people?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Acts 8 opens with Saul \"consenting unto his death\" and making havoc of the church, the man who will soon be met on another road.",
+     "q": "Where have you seen God use hard or painful circumstances to spread good news further than you expected?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Then the Spirit said unto Philip, Go near, and join thyself to this chariot\" (Acts 8:29).",
+     "q": "Ask the Spirit to prompt you toward one person he wants you to draw alongside, and give you the willingness to go near, even when it seems inconvenient."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The eunuch read: \"He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth\" (Acts 8:32).",
+     "q": "Adore Jesus as the Lamb who went silently to the slaughter for us, and who is the good news Philip began with. Praise him for who he is."
+    }
+   ]
+  }
+ ]
+},
+// Day 678
+{
+ "ref": "Song of Solomon 1",
+ "tag": "Psalms & Wisdom",
+ "api": "songofsolomon+1",
+ "sum": [
+  "The Song opens, \"The song of songs, which is Solomon's,\" with the bride longing for her beloved: \"thy love is better than wine,\" and his name is like ointment poured forth.",
+  "She speaks candidly about how she looks and what she has carried: \"I am black, but comely, O ye daughters of Jerusalem,\" tanned by the sun while her brothers made her keeper of the vineyards, so that \"mine own vineyard have I not kept.\"",
+  "She asks her beloved where he feeds his flock, is told to follow the flock's footsteps, and he praises her, comparing her to horses in Pharaoh's chariots and promising borders of gold.",
+  "The lovers delight in each other in turn: \"Behold, thou art fair, my love; behold, thou art fair,\" she answers, \"Behold, thou art fair, my beloved, yea, pleasant,\" and the chapter closes with their green bed and cedar beams."
+ ],
+ "nug": [
+  {
+   "h": "The best of songs",
+   "b": "\"The song of songs, which is Solomon's\" (Song of Solomon 1:1). The phrase means the greatest of songs. Scripture has room for love poetry, and this Song begins a new book in our reading. It is usually read first as a celebration of married love, and through the ages has also been heard as a picture of God's love for his people."
+  },
+  {
+   "h": "Better than wine",
+   "b": "\"Let him kiss me with the kisses of his mouth: for thy love is better than wine\" (Song of Solomon 1:2). Love is spoken of openly and with delight, and God does not treat human affection as embarrassing."
+  },
+  {
+   "h": "Black, but comely",
+   "b": "\"I am black, but comely, O ye daughters of Jerusalem\" (Song of Solomon 1:5). She is honest about how others see her, weathered by hard work, and refuses to let it be the last word. Her worth is settled by her beloved's eyes, not the opinion of the crowd."
+  },
+  {
+   "h": "Her own vineyard",
+   "b": "\"Mine own vineyard have I not kept\" (Song of Solomon 1:6). Caring for other people's vineyards cost her the care of her own. It is a small and true picture of how easily we neglect our own hearts."
+  },
+  {
+   "h": "Each other's delight",
+   "b": "\"Behold, thou art fair, my love; behold, thou art fair\" (Song of Solomon 1:15). She answers, \"Behold, thou art fair, my beloved, yea, pleasant\" (Song of Solomon 1:16). Love here is spoken in both directions, and each praises the other."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 2:22-25 · Proverbs 5:18-19 · Ephesians 5:31-32",
+   "qs": [
+    {
+     "th": "Genesis shows the first marriage, where the two are naked and not ashamed, Proverbs invites the reader to rejoice in the wife of his youth, and Paul takes marriage as a picture of Christ and the church.",
+     "q": "Read these together and ask what they add to your sense of why God made us for delight and intimacy. What does the Song say about love that a list of rules would not?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "She admits that in serving others she has not kept her own vineyard.",
+     "q": "What in your own life, such as your health, rest, prayer, relationships or work, have you neglected while caring for others?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The bride longs, \"Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon\" (Song of Solomon 1:7).",
+     "q": "Ask the Holy Spirit to stir a real longing for Christ in you, a desire to know where he feeds and rests his flock, and to lead you there today."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The bride says, \"I am black, but comely\" (Song of Solomon 1:5), speaking honestly of the shame others have put on her.",
+     "q": "Pray for those who feel unlovely or unseen, for marriages that are strained, for engaged couples, and for those who are single or widowed. Ask that each would know they are loved, and that love would be kept faithful."
+    }
+   ]
+  }
+ ]
+},
+// Day 679
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "The whole duty of man",
+   "b": "\"Fear God, and keep his commandments: for this is the whole duty of man\" (Ecclesiastes 12:13). This week carried three milestones: the end of Ecclesiastes and the close of 2 Samuel, and the opening of the Song of Solomon. Each ended in trust and worship."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read David's great song of deliverance (2 Samuel 22), his last words and the roll of his mighty men (2 Samuel 23), the Preacher's closing counsel in Ecclesiastes 12, which completes that book, David's census and the altar on Araunah's threshingfloor (2 Samuel 24), which completes 2 Samuel, Philip in Samaria and on the Gaza road (Acts 8), and the opening of the Song of Solomon (Song of Solomon 1).",
+     "q": "Which stayed with you more this week: David's confidence that \"the LORD will lighten my darkness\" (2 Samuel 22:29), or his refusal to offer God \"that which doth cost me nothing\" (2 Samuel 24:24)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"For thou art my lamp, O LORD: and the LORD will lighten my darkness\" (2 Samuel 22:29).",
+     "q": "Sit quietly for a moment and rest in the thought that God is the light you carry, and that you do not have to see the whole way."
+    }
+   ]
+  }
+ ]
+},
+// Day 680
+{
+ "ref": "1 Kings 1",
+ "tag": "Old Testament",
+ "api": "1kings+1",
+ "sum": [
+  "David is old and cannot keep warm; Abishag the Shunammite is brought to care for him, while his son Adonijah exalts himself, \"I will be king,\" and gathers Joab and Abiathar to his side.",
+  "Nathan the prophet urges Bathsheba to remind David of his oath that Solomon would reign, and Nathan arrives to confirm her words, asking whether David has really made Adonijah king.",
+  "David swears again, \"Assuredly Solomon thy son shall reign after me,\" and has Solomon anointed at Gihon by Zadok and Nathan, and all the people rejoice, \"God save king Solomon.\"",
+  "Adonijah's feast breaks up in fear; he clings to the horns of the altar, and Solomon says, \"If he will shew himself a worthy man, there shall not an hair of him fall to the earth,\" and sends him home."
+ ],
+ "nug": [
+  {
+   "h": "A son who exalts himself",
+   "b": "\"Then Adonijah the son of Haggith exalted himself, saying, I will be king\" (1 Kings 1:5). This opens 1 Kings with a familiar pattern, an ambitious prince, another Absalom, making himself king before God's choice is known."
+  },
+  {
+   "h": "An untested son",
+   "b": "\"And his father had not displeased him at any time in saying, Why hast thou done so?\" (1 Kings 1:6). A father's silence and softness helped shape a man who could not take a no."
+  },
+  {
+   "h": "Counsel that saves lives",
+   "b": "\"Come, let me, I pray thee, give thee counsel, that thou mayest save thine own life, and the life of thy son Solomon\" (1 Kings 1:12). Nathan sees the danger clearly and acts quickly, using words carefully and wisely."
+  },
+  {
+   "h": "Blessing on the new king",
+   "b": "\"As the LORD hath been with my lord the king, even so be he with Solomon\" (1 Kings 1:37). Benaiah's prayer is what any new leader needs: not more power, but the presence of God."
+  },
+  {
+   "h": "Mercy with a condition",
+   "b": "\"If he will shew himself a worthy man, there shall not an hair of him fall to the earth: but if wickedness shall be found in him, he shall die\" (1 Kings 1:52). Solomon spares Adonijah at first, but sets a condition that will matter in the next chapter."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 12:24-25 · 2 Samuel 15:1-6 · 1 Chronicles 29:22-25",
+   "qs": [
+    {
+     "th": "Solomon's birth was marked by God's love, Absalom's earlier bid for the throne is the pattern Adonijah repeats, and Chronicles records Solomon's anointing and the people's joy.",
+     "q": "Read these together and notice how the throne is won: by self-promotion in one case and by God's choice in the other. What does 1 Kings 1 say about how God places leaders?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This chapter begins 1 Kings and the story of Solomon's reign, which will contain both great wisdom and serious failure.",
+     "q": "Where do you see a temptation to promote or exalt yourself, or to keep from someone the correction they need? What would it look like to wait on God's timing instead?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Nathan speaks up just when the moment demands it (1 Kings 1:11-14).",
+     "q": "Ask the Spirit for the courage and timing of Nathan, and to show you whether there is a word you should say or hold, and to whom."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Nathan's counsel to Bathsheba begins, \"Now therefore come, let me, I pray thee, give thee counsel\" (1 Kings 1:12).",
+     "q": "Be still for several minutes and simply listen for God's counsel. You do not need to produce words. Notice what rises in you, whether a name, a fear or a quiet prompting, and bring it back to him."
+    }
+   ]
+  }
+ ]
+},
+// Day 681
+{
+ "ref": "1 Kings 2",
+ "tag": "Old Testament",
+ "api": "1kings+2",
+ "sum": [
+  "On the edge of death David charges Solomon, \"I go the way of all the earth: be thou strong therefore, and shew thyself a man,\" to keep the LORD's ways so that his throne will stand.",
+  "David also gives Solomon instructions about Joab, the sons of Barzillai and Shimei, and then \"slept with his fathers\" after forty years as king, and \"his kingdom was established greatly\" under Solomon.",
+  "Adonijah asks, through Bathsheba, for Abishag as his wife, and Solomon takes it as a claim on the throne and has him put to death; Abiathar is sent away to his fields, fulfilling the word spoken against Eli's house.",
+  "Joab flees to the altar and is killed there, and Shimei, confined to Jerusalem, breaks his oath by going to Gath and is executed, so that \"the kingdom was established in the hand of Solomon.\""
+ ],
+ "nug": [
+  {
+   "h": "Be strong",
+   "b": "\"I go the way of all the earth: be thou strong therefore, and shew thyself a man\" (1 Kings 2:2). David's last word to his son echoes God's charge to Joshua."
+  },
+  {
+   "h": "Walk in his ways",
+   "b": "\"Keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments\" (1 Kings 2:3). Before any advice about enemies, David puts obedience to God first, the condition on which the promise of the throne rests."
+  },
+  {
+   "h": "A hard deathbed",
+   "b": "\"Do therefore according to thy wisdom, and let not his hoar head go down to the grave in peace\" (1 Kings 2:6). David's last instructions about Joab and Shimei are troubling. The narrator records them without applauding them, and shows a kingdom secured by blood, a sober contrast with the wisdom Solomon will ask for in the next chapter."
+  },
+  {
+   "h": "Wickedness comes home",
+   "b": "\"Thou knowest all the wickedness which thine heart is privy to, that thou didst to David my father\" (1 Kings 2:44). Shimei's failure was not only the trip to Gath. He carried a guilt he already knew, and it came back on him."
+  },
+  {
+   "h": "Established, but by what?",
+   "b": "\"And the kingdom was established in the hand of Solomon\" (1 Kings 2:46). The chapter ends with stability, though God's promise in verse 4 asked for hearts that walk before him \"in truth with all their heart and with all their soul.\" The real question is left open for the chapters ahead."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Joshua 1:6-9 · 2 Samuel 16:5-13 · 1 Samuel 2:27-36",
+   "qs": [
+    {
+     "th": "God's charge to Joshua is the pattern for David's charge to be strong, Shimei's cursing on David's flight is the offence recalled here, and the word against Eli's house explains why Abiathar is set aside.",
+     "q": "Read these together and notice how old promises, old wrongs and old warnings all come due in this chapter. What do they suggest about the weight of what is left unresolved?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This is one of the hardest chapters in Kings: deaths carried out in a new king's name, with the deathbed of a man of prayer at its start. It does not tidy things up.",
+     "q": "Is there something unresolved in your life that you have been carrying quietly, such as a grudge, a hidden fault or an unmended relationship?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Shimei was told to stay put and did not. His guilt was his own.",
+     "q": "Ask the Holy Spirit to search you gently, and to show what your heart is privy to, so that you can bring it into the light."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Thou knowest all the wickedness which thine heart is privy to\" (1 Kings 2:44).",
+     "q": "Confess honestly what your own heart is privy to, the things you would rather not name. Do not explain or excuse, but bring them to God and ask for cleansing."
+    }
+   ]
+  }
+ ]
+},
+// Day 682
+{
+ "ref": "Song of Solomon 2",
+ "tag": "Psalms & Wisdom",
+ "api": "songofsolomon+2",
+ "sum": [
+  "She calls herself \"the rose of Sharon, and the lily of the valleys,\" and he answers, \"As the lily among thorns, so is my love among the daughters\"; she says he is like an apple tree among the trees of the wood, in whose shadow she sat down \"with great delight.\"",
+  "He brings her to the banqueting house, where \"his banner over me was love\"; she is faint with love, and she charges the daughters of Jerusalem not to stir love up \"till he please.\"",
+  "She hears her beloved leaping over the hills, and he calls, \"Rise up, my love, my fair one, and come away. For, lo, the winter is past, the rain is over and gone.\"",
+  "He calls her his dove in the clefts of the rock, they ask to catch the little foxes that spoil the vines, and she says, \"My beloved is mine, and I am his,\" until the day breaks."
+ ],
+ "nug": [
+  {
+   "h": "Under his shadow",
+   "b": "\"I sat down under his shadow with great delight, and his fruit was sweet to my taste\" (Song of Solomon 2:3). Love is pictured as shelter and sweetness together, both safe and delightful."
+  },
+  {
+   "h": "His banner is love",
+   "b": "\"He brought me to the banqueting house, and his banner over me was love\" (Song of Solomon 2:4). A banner marks who a company belongs to, and here the claim over her is love, not force."
+  },
+  {
+   "h": "Winter past",
+   "b": "\"For, lo, the winter is past, the rain is over and gone\" (Song of Solomon 2:11). The invitation is lovely: the hard season is over, flowers are out, and it is time to come away."
+  },
+  {
+   "h": "The little foxes",
+   "b": "\"Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes\" (Song of Solomon 2:15). Love is easily damaged by small neglects, and needs guarding when it is young and tender."
+  },
+  {
+   "h": "Mine and his",
+   "b": "\"My beloved is mine, and I am his\" (Song of Solomon 2:16). Belonging goes both ways, a mutual gift of two people, and echoed in God's covenant word to his people."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 36:7-9 · Isaiah 62:4-5 · Hosea 2:19-20",
+   "qs": [
+    {
+     "th": "Psalm 36 speaks of trusting under the shadow of God's wings and drinking from his delights, Isaiah pictures God rejoicing over his people as a bridegroom over a bride, and Hosea promises betrothal in righteousness, mercy and faithfulness.",
+     "q": "Read these together and notice how Scripture uses the language of tender love to describe God's care. What does it add to how you think of God's closeness to you?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chapter moves through the year: winter past, spring arriving, vines in bloom. Love is described in a season of new life.",
+     "q": "What are the little foxes in your own closest relationships, small habits or neglects that could spoil something tender if left unchecked?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"O my dove, that art in the clefts of the rock... let me hear thy voice\" (Song of Solomon 2:14).",
+     "q": "Ask the Spirit to help you hear your name spoken in love, and to help you draw near, as the beloved is invited to come away."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The bride says, \"his fruit was sweet to my taste\" (Song of Solomon 2:3).",
+     "q": "Give thanks for the people who have loved you well, for the gift of human love in all its forms, and for the God whose banner over you is love. Name specific things and thank him for each."
+    }
+   ]
+  }
+ ]
+},
+// Day 683
+{
+ "ref": "1 Kings 3",
+ "tag": "Old Testament",
+ "api": "1kings+3",
+ "sum": [
+  "Solomon allies himself with Pharaoh by marrying his daughter; he \"loved the LORD, walking in the statutes of David his father: only he sacrificed and burnt incense in high places,\" and he offers a thousand burnt offerings at Gibeon.",
+  "There God appears in a dream, \"Ask what I shall give thee,\" and Solomon remembers God's mercy to David and confesses, \"I am but a little child: I know not how to go out or come in.\"",
+  "He asks for \"an understanding heart to judge thy people, that I may discern between good and bad\"; God is pleased, grants wisdom and adds riches and honour, and promises long life if he walks in God's ways.",
+  "Two women come before him with one living child between them; Solomon calls for a sword, and the true mother's \"bowels yearned upon her son,\" so all Israel sees \"that the wisdom of God was in him, to do judgment.\""
+ ],
+ "nug": [
+  {
+   "h": "An offering and an asterisk",
+   "b": "\"Solomon loved the LORD, walking in the statutes of David his father: only he sacrificed and burnt incense in high places\" (1 Kings 3:3). Kings often uses the word \"only\" to note where a good king falls short. The chapter also opens with a foreign marriage alliance, a sign of compromise to watch."
+  },
+  {
+   "h": "An open invitation",
+   "b": "\"In Gibeon the LORD appeared to Solomon in a dream by night: and God said, Ask what I shall give thee\" (1 Kings 3:5). God begins with a question that gives Solomon room to say what is truly in his heart."
+  },
+  {
+   "h": "A little child",
+   "b": "\"I am but a little child: I know not how to go out or come in\" (1 Kings 3:7). The most powerful man in Israel begins by naming how small he is, and that honest start is the beginning of wisdom."
+  },
+  {
+   "h": "An understanding heart",
+   "b": "\"Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad\" (1 Kings 3:9). Literally a listening heart. He asks for what he needs in order to serve others, not for himself."
+  },
+  {
+   "h": "The wisdom of God",
+   "b": "\"They saw that the wisdom of God was in him, to do judgment\" (1 Kings 3:28). Solomon's judgement of the two women reads the human heart and moves the true mother to reveal herself. It shows what wisdom looks like when it meets real people and real pain."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "James 1:5-6 · Proverbs 2:1-6 · Matthew 6:31-33",
+   "qs": [
+    {
+     "th": "James invites anyone who lacks wisdom to ask God, who gives to all men liberally, Proverbs describes wisdom as a gift the LORD gives to those who seek it, and Jesus tells his hearers to seek first the kingdom and the rest will be added.",
+     "q": "Read these together and notice how each says that wisdom is asked for, sought and received. What does Solomon's prayer show about what to seek first?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Solomon's prayer is answered above and beyond what he asked. God says, \"I have also given thee that which thou hast not asked, both riches, and honour\" (1 Kings 3:13).",
+     "q": "If God said to you, \"Ask what I shall give thee,\" what would you actually ask for, and what does your answer reveal about what you value?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God gave Solomon \"a wise and an understanding heart\" (1 Kings 3:12).",
+     "q": "Ask the Spirit for real understanding in one decision or relationship you are facing today, and for a listening heart that will hear what he says."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God said, \"Behold, I have done according to thy words: lo, I have given thee a wise and an understanding heart\" (1 Kings 3:12).",
+     "q": "Adore the God who gives more than we ask and who is the source of all wisdom. Praise him for his generosity and for his understanding of every heart."
+    }
+   ]
+  }
+ ]
+},
+// Day 684
+{
+ "ref": "Acts 9",
+ "tag": "New Testament",
+ "api": "acts+9",
+ "sum": [
+  "Saul, \"yet breathing out threatenings and slaughter against the disciples of the Lord,\" sets out for Damascus, is struck by a light from heaven, and hears, \"Saul, Saul, why persecutest thou me?\"; he answers, \"Who art thou, Lord?\" and is told, \"I am Jesus whom thou persecutest.\"",
+  "Blind for three days, Saul is visited by Ananias, who fears him, but the Lord says, \"he is a chosen vessel unto me, to bear my name before the Gentiles\"; Ananias lays his hands on him, calls him \"Brother Saul,\" and Saul sees again and is baptised.",
+  "Saul preaches that Jesus is the Son of God, the Jews plot to kill him, and he escapes over the wall in a basket; in Jerusalem the disciples are afraid of him until Barnabas brings him to the apostles.",
+  "The churches have rest and multiply, Peter heals Aeneas at Lydda, and at Joppa he kneels and prays over the dead Tabitha, saying, \"Tabitha, arise,\" and \"presented her alive.\""
+ ],
+ "nug": [
+  {
+   "h": "Why persecutest thou me?",
+   "b": "\"Saul, Saul, why persecutest thou me?\" (Acts 9:4). Jesus does not say his people but \"me\". He is so joined to his church that to strike them is to strike him."
+  },
+  {
+   "h": "What wilt thou have me to do?",
+   "b": "\"Lord, what wilt thou have me to do?\" (Acts 9:6). The man who had been so certain is now asking for instructions. This is the first act of a changed life, and it is a question, not a speech."
+  },
+  {
+   "h": "A chosen vessel",
+   "b": "\"He is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel\" (Acts 9:15). Ananias saw a persecutor, and the Lord saw a messenger. Verse 16 adds that Saul will suffer too."
+  },
+  {
+   "h": "Barnabas takes him",
+   "b": "\"But Barnabas took him, and brought him to the apostles\" (Acts 9:27). Saul's conversion was real, but it was Barnabas who risked his reputation to help the church believe it."
+  },
+  {
+   "h": "Full of good works",
+   "b": "\"This woman was full of good works and almsdeeds which she did\" (Acts 9:36). Tabitha's quiet kindness is remembered next to the great change in Saul, and the widows' grief shows how much she had given."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Acts 22:6-16 · Galatians 1:13-16 · 1 Timothy 1:12-16",
+   "qs": [
+    {
+     "th": "Paul retells this story in Acts 22, tells the Galatians how God called him, and in 1 Timothy calls himself the chief of sinners who received mercy so that others could see patience in Christ.",
+     "q": "Read these together and notice how Paul himself tells the story. What do you see in his own account that Luke's version here does not stress?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Saul's conversion is one of the most dramatic in Scripture. It is also a story of ordinary people, Ananias and Barnabas, who took a risk on someone others feared.",
+     "q": "Who in your life feels beyond reach, and who might God be asking you to approach, forgive or make room for?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Lord tells Ananias to go to Saul, \"for, behold, he prayeth\" (Acts 9:11).",
+     "q": "Ask the Holy Spirit to make you as willing as Ananias to go where you are sent, even when you are afraid, and to trust that God is already at work."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Lord said of the man everyone feared, \"for, behold, he prayeth\" (Acts 9:11).",
+     "q": "Pray by name for someone who opposes the faith or seems far from God. Ask God to meet them where they are, and to send someone to them, and offer yourself for that role if he wishes."
+    }
+   ]
+  }
+ ]
+},
+// Day 685
+{
+ "ref": "Song of Solomon 3",
+ "tag": "Psalms & Wisdom",
+ "api": "songofsolomon+3",
+ "sum": [
+  "By night on her bed she seeks him \"whom my soul loveth,\" and does not find him, so she rises to search the city's streets.",
+  "The watchmen find her and she asks, \"Saw ye him whom my soul loveth?\"; a little way past them she finds him: \"I held him, and would not let him go,\" and brings him to her mother's house.",
+  "She repeats her charge to the daughters of Jerusalem not to stir up love until it pleases, and then a procession appears, \"Who is this that cometh out of the wilderness like pillars of smoke?\"",
+  "It is Solomon's carriage, guarded by sixty valiant men, made of Lebanon wood, silver and gold, and the daughters of Zion are invited to see the king \"in the day of his espousals, and in the day of the gladness of his heart.\""
+ ],
+ "nug": [
+  {
+   "h": "The night search",
+   "b": "\"By night on my bed I sought him whom my soul loveth: I sought him, but I found him not\" (Song of Solomon 3:1). Not every night is spent in the arms of the beloved. The Song is honest about absence and longing."
+  },
+  {
+   "h": "Rising to seek",
+   "b": "\"I will rise now, and go about the city in the streets\" (Song of Solomon 3:2). She does not lie there in her longing but gets up and goes looking, and the search itself is a form of love."
+  },
+  {
+   "h": "Found and held",
+   "b": "\"It was but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go\" (Song of Solomon 3:4). The seeking ends in joy, and she holds on tightly to what she has found."
+  },
+  {
+   "h": "Fear in the night",
+   "b": "\"Every man hath his sword upon his thigh because of fear in the night\" (Song of Solomon 3:8). Even a royal procession needs guards. The grandeur is real, and so is the vulnerability."
+  },
+  {
+   "h": "The day of his gladness",
+   "b": "\"Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart\" (Song of Solomon 3:11). The chapter ends with a wedding, and the bridegroom's heart is glad."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 63:1-8 · Jeremiah 29:12-14 · John 20:11-16",
+   "qs": [
+    {
+     "th": "Psalm 63 is the cry of one who seeks God early and clings to him, Jeremiah promises that those who seek God with all their heart will find him, and Mary Magdalene searches for Jesus in the garden until he speaks her name.",
+     "q": "Read these together and notice the pattern of seeking, silence and finding. What do they suggest about what to do when God feels absent?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Song gives voice to a night when the beloved cannot be found. Many believers know a season like this, and Scripture does not hurry past it.",
+     "q": "Have you known a time when God felt absent? What did you do, and what did you learn about seeking him?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I held him, and would not let him go\" (Song of Solomon 3:4).",
+     "q": "Ask the Spirit to draw your heart toward Christ as the bride's is drawn to her beloved, and to help you hold on to him when he feels far."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I sought him, but I found him not\" (Song of Solomon 3:1).",
+     "q": "Sit in silence for several minutes. Do not fill the quiet with requests. Let the words \"whom my soul loveth\" be your whole prayer, and simply wait in his presence, trusting that seeking is itself a kind of finding."
+    }
+   ]
+  }
+ ]
+},
+// Day 686
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "An understanding heart",
+   "b": "\"Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad\" (1 Kings 3:9). This week opened 1 Kings, with Solomon's accession and his prayer for wisdom, and included the conversion of Saul on the Damascus road."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read the start of 1 Kings: Solomon anointed as David's successor (1 Kings 1) and the hard events that secure his throne (1 Kings 2), then his prayer for wisdom and the judgement of the two women (1 Kings 3), Saul's meeting with Christ on the Damascus road and the raising of Tabitha (Acts 9), and the second and third chapters of the Song of Solomon (Song of Solomon 2-3).",
+     "q": "Which stayed with you more this week: Solomon's prayer, \"I am but a little child: I know not how to go out or come in\" (1 Kings 3:7), or Saul's question on the road, \"Lord, what wilt thou have me to do?\" (Acts 9:6)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"My beloved is mine, and I am his\" (Song of Solomon 2:16).",
+     "q": "Sit quietly for a moment and rest in the thought that you belong to the one who seeks you and holds you, and that he does not let go."
+    }
+   ]
+  }
+ ]
+},
 ];
