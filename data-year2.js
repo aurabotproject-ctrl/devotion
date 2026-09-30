@@ -26460,4 +26460,1804 @@ const YEAR2=[
   }
  ]
 },
+// Day 708
+{
+ "ref": "1 Kings 13",
+ "tag": "Old Testament",
+ "api": "1kings+13",
+ "sum": [
+  "A man of God from Judah cries out against Jeroboam's altar at Bethel, the altar is torn apart as a sign, the king's outstretched hand withers and is healed at his plea, and the prophet refuses the king's hospitality because \"so was it charged me by the word of the LORD.\"",
+  "An old prophet in Bethel hears what happened, rides after the man of God, and persuades him to come home and eat by claiming, \"an angel spake unto me by the word of the LORD,\" a lie that the man of God believes.",
+  "At the table the word of the LORD comes through the very man who deceived him, pronouncing judgment for the disobedience, and on the road home a lion kills the man of God yet does not touch his body or the ass.",
+  "The old prophet retrieves the body, buries it in his own grave with the cry \"Alas, my brother!\", and asks to be laid beside him, while Jeroboam \"returned not from his evil way\" and keeps appointing priests for the high places."
+ ],
+ "nug": [
+  {
+   "h": "A word that would not be bought",
+   "b": "\"If thou wilt give me half thine house, I will not go in with thee, neither will I eat bread nor drink water in this place\" (1 Kings 13:8). The man of God cannot be flattered or paid, and his refusal shows the king that this word does not belong to the messenger."
+  },
+  {
+   "h": "A clear command",
+   "b": "\"Eat no bread, nor drink water, nor turn again by the same way that thou camest\" (1 Kings 13:9). The instruction is plain and was received directly, which is exactly why what follows is so sobering."
+  },
+  {
+   "h": "A lie dressed as a word from God",
+   "b": "\"I am a prophet also as thou art; and an angel spake unto me by the word of the LORD... But he lied unto him\" (1 Kings 13:18). The narrator tells us at once what the man of God could not know: a second-hand claim, however religious it sounds, does not override what God has already said to you."
+  },
+  {
+   "h": "The same mouth, a different message",
+   "b": "\"Thou hast disobeyed the mouth of the LORD\" (1 Kings 13:21). It is a hard and unsettling passage. The deceiver is not judged in the story, yet the one deceived pays with his life, and we are left to feel how seriously a word from God is to be taken, without being given every answer."
+  },
+  {
+   "h": "Grief, and a king who would not turn",
+   "b": "\"Alas, my brother!\" (1 Kings 13:30). The old prophet mourns the man he misled, while Jeroboam, who had seen the altar torn and his own hand healed, \"returned not from his evil way\" (1 Kings 13:33). Signs alone do not change a heart that has decided not to listen."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Kings 23:15-18 · Galatians 1:8-9 · 1 John 4:1",
+   "qs": [
+    {
+     "th": "Centuries later King Josiah, named in this chapter's prophecy, destroys the Bethel altar and spares the man of God's tomb; Paul warns that even an angel preaching a different gospel is not to be believed; and John urges believers to test the spirits rather than trust every claim to speak for God.",
+     "q": "Read these together. How do they help you see both that God's word stands through the generations and that the voice claiming to speak for him must be weighed against what he has already said?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The man of God had heard God clearly, then set that word aside because someone older, and apparently more experienced, told him otherwise. It is a very human moment: we are often most vulnerable to a persuasive voice when we are tired, hungry and would love an excuse.",
+     "q": "Where are you tempted to trade a clear word from God for a more comfortable one because it comes from someone you respect? What would it look like to test that advice against Scripture and prayer before acting on it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The passage does not leave the reader with tidy answers, and that is part of its honesty. Ask the Holy Spirit for the humility to hold both God's severity and his mercy without explaining either away, and for a settled willingness to listen for his voice before other voices.",
+     "q": "Ask the Spirit to give you discernment. Where do you need to slow down and check what you are hearing before you follow it?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Confession is not only for open rebellion. It can be for the quieter ways we let a convenient voice outrank a clear word, and for the times we have been the persuasive voice ourselves.",
+     "q": "Tell God honestly where you have taken the easier route, or nudged someone else toward it, and receive his forgiveness before you go on."
+    }
+   ]
+  }
+ ]
+},
+// Day 709
+{
+ "ref": "1 Kings 14",
+ "tag": "Old Testament",
+ "api": "1kings+14",
+ "sum": [
+  "Jeroboam's son Abijah falls sick, and the king sends his wife in disguise to the blind prophet Ahijah at Shiloh, but the LORD warns Ahijah beforehand, and he greets her with \"why feignest thou thyself to be another? for I am sent to thee with heavy tidings.\"",
+  "Ahijah announces that Jeroboam, exalted by God yet a man who \"hast done evil above all that were before thee,\" will see his house cut off, and that the child will die as she steps back through the door, the only one of the family to be mourned and buried because \"in him there is found some good thing.\"",
+  "The prophecy widens to the whole nation, which will be uprooted from the good land because of \"the sins of Jeroboam, who did sin, and who made Israel to sin,\" and the child dies exactly as foretold.",
+  "The chapter turns to Judah under Rehoboam, where idolatry spreads and Shishak of Egypt plunders Jerusalem, carrying off Solomon's gold shields, which Rehoboam replaces with brass ones, while war with Jeroboam continues all their days."
+ ],
+ "nug": [
+  {
+   "h": "A disguise that cannot work",
+   "b": "\"Why feignest thou thyself to be another? for I am sent to thee with heavy tidings\" (1 Kings 14:6). Jeroboam wanted a favourable word from a prophet without facing the God who sent him, and the LORD sees straight through the disguise."
+  },
+  {
+   "h": "Not as my servant David",
+   "b": "\"Thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart\" (1 Kings 14:8). David, for all his failures, is the measure of a heart that returns to the LORD, and Jeroboam is measured against him and found wanting."
+  },
+  {
+   "h": "Evil above all",
+   "b": "\"But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images\" (1 Kings 14:9). The charge is not only personal sin but leading others astray, which is why the verdict falls on the whole nation."
+  },
+  {
+   "h": "Some good thing",
+   "b": "\"In him there is found some good thing toward the LORD God of Israel in the house of Jeroboam\" (1 Kings 14:13). In a sad and grim chapter, God notices a single good thing in a single child. He sees and values what is good even in a household under judgment."
+  },
+  {
+   "h": "Gold replaced by brass",
+   "b": "\"He took away all the shields of gold which Solomon had made\" (1 Kings 14:26). What Solomon's splendour built, Rehoboam's unfaithfulness lost, and his answer is to make \"brasen shields\" (1 Kings 14:27) and carry on with appearances."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Kings 11:29-39 · 2 Chronicles 12:1-12 · Hebrews 4:13",
+   "qs": [
+    {
+     "th": "Ahijah's earlier word in chapter 11 first promised Jeroboam the kingdom, so this chapter shows the same prophet delivering the sequel; 2 Chronicles 12 tells the Shishak episode from Judah's side, with a note of repentance; and Hebrews says that nothing is hidden from the eyes of the one with whom we have to do.",
+     "q": "Read these together. How does the gift, the warning and the judgment show a God who is both patient and completely unfooled by disguises?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The queen's disguise looks foolish from a distance, but it is a very familiar move: approaching God for a helpful outcome while keeping our real lives out of view. The blind prophet can see her better than the sighted can.",
+     "q": "Where do you approach God dressed as someone else, presenting the version of yourself you would like to be, and what might it feel like to come to him undisguised?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "It is easy to read this chapter as pure judgment, but the Spirit also draws attention to the child, in whom the LORD finds \"some good thing.\" Ask him to help you see what he sees, both the warnings and the tenderness.",
+     "q": "Ask the Spirit to show you where God is quietly at work for good in a hard situation you know, and how you might notice and name it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Thanksgiving can grow even in a dark chapter: for a God who sees clearly, who tells the truth, who remembers a faithful David, and who notices a single good thing.",
+     "q": "Give thanks that you do not need to disguise yourself before God, and name one good thing in your life or another's that you believe he has noticed."
+    }
+   ]
+  }
+ ]
+},
+// Day 710
+{
+ "ref": "Job 2",
+ "tag": "Psalms & Wisdom",
+ "api": "job+2",
+ "sum": [
+  "Satan again presents himself before the LORD, who points out that Job \"still... holdeth fast his integrity,\" and Satan answers, \"Skin for skin, yea, all that a man hath will he give for his life,\" asking permission to touch his bone and flesh.",
+  "The LORD allows it with a boundary, \"Behold, he is in thine hand; but save his life,\" and Job is struck with sore boils from his foot to his crown, sitting among the ashes and scraping himself with a potsherd.",
+  "His wife asks, \"Dost thou still retain thine integrity? curse God, and die,\" and Job answers, \"What? shall we receive good at the hand of God, and shall we not receive evil?\" while the narrator says he did not sin with his lips.",
+  "Three friends, Eliphaz, Bildad and Zophar, travel to comfort him, weep and tear their robes when they see him, and sit with him on the ground seven days and nights, and \"none spake a word unto him: for they saw that his grief was very great.\""
+ ],
+ "nug": [
+  {
+   "h": "Held fast, though pressed",
+   "b": "\"Still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause\" (Job 2:3). The LORD's own words say that Job's suffering is not a punishment for a hidden sin, a truth the friends will spend the book failing to grasp."
+  },
+  {
+   "h": "The accusation deepens",
+   "b": "\"Skin for skin, yea, all that a man hath will he give for his life\" (Job 2:4). Satan's second charge is that Job is loyal only while his own body is safe, so the question at stake is whether God is worthy of love for his own sake."
+  },
+  {
+   "h": "A boundary set",
+   "b": "\"Behold, he is in thine hand; but save his life\" (Job 2:6). Even here Satan cannot go one step further than God permits, and that limit is a comfort to read in the middle of the darkness."
+  },
+  {
+   "h": "A wife's despair, a husband's answer",
+   "b": "\"Dost thou still retain thine integrity? curse God, and die\" (Job 2:9). She is grieving too, having lost her children and her security, and Job's reply is gentle but firm: \"What? shall we receive good at the hand of God, and shall we not receive evil?\" (Job 2:10)."
+  },
+  {
+   "h": "The best of the friends' work",
+   "b": "\"None spake a word unto him: for they saw that his grief was very great\" (Job 2:13). For seven days the friends do the most helpful thing they will do in the book: they sit with him. The trouble starts when they begin to talk."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Job 1:20-22 · James 5:10-11 · 2 Corinthians 12:7-10",
+   "qs": [
+    {
+     "th": "Job 1 records his first response of worship in loss; James holds up Job's endurance and the Lord's final purpose as an example for suffering believers; and Paul, given a thorn in the flesh, hears that God's grace is sufficient and that power is made perfect in weakness.",
+     "q": "Read these together. What do they show you about faithfulness when the reasons are hidden, and about the God who is present in it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Job's wife and Job both suffer, and they respond very differently. Neither is a villain. The chapter invites us to notice how differently the same pain can be carried, and how much company, silence and honesty can matter.",
+     "q": "When did you last sit with someone in their pain without trying to explain it? And when you are hurting yourself, who do you allow to sit with you?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit is called the Comforter, and the best comfort in Job 2 is presence, not explanation. Ask him to teach you to be present, to bear with others, and to trust that his presence with you is real even when answers are not.",
+     "q": "Ask the Spirit to be near to someone you know who is suffering, and to make you a quiet, faithful presence for them."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Adoration looks at God rather than at the problem. In this chapter he is the One who sets limits on evil, who sees Job as \"a perfect and an upright man\" (Job 2:3), and who is worthy of loyalty for his own sake.",
+     "q": "Worship him for who he is, the Sovereign who holds every limit and the Father who does not waste sorrow, even where you cannot understand what he is doing."
+    }
+   ]
+  }
+ ]
+},
+// Day 711
+{
+ "ref": "1 Kings 15",
+ "tag": "Old Testament",
+ "api": "1kings+15",
+ "sum": [
+  "Abijam reigns three years over Judah and walks in his father's sins, yet \"for David's sake\" the LORD gives him a lamp in Jerusalem, and war with Jeroboam continues.",
+  "Asa, his son, reigns forty-one years and does right in the LORD's eyes, removing idols and even deposing his mother Maachah for her idol, though the high places remain and his heart is nonetheless \"perfect with the LORD all his days.\"",
+  "When Baasha of Israel fortifies Ramah against him, Asa strips the treasuries of the LORD's house and buys the help of Ben-hadad of Syria, who breaks his league with Baasha, and Asa uses Baasha's stones to build Geba and Mizpah.",
+  "Asa dies diseased in his feet and Jehoshaphat succeeds him, while in Israel Nadab does evil, is killed by Baasha, and Baasha wipes out the house of Jeroboam, fulfilling Ahijah's word, and continues in the sin of Jeroboam."
+ ],
+ "nug": [
+  {
+   "h": "A lamp for David's sake",
+   "b": "\"Nevertheless for David's sake did the LORD his God give him a lamp in Jerusalem\" (1 Kings 15:4). Abijam did not deserve it. The lamp is kept burning because of a promise made to David, a sign that God's faithfulness rests on his own word."
+  },
+  {
+   "h": "A heart like David's",
+   "b": "\"Asa did that which was right in the eyes of the LORD, as did David his father\" (1 Kings 15:11). After Rehoboam and Abijam, Asa is a real reformer: he clears out the idols and is willing to dethrone his own mother's idol."
+  },
+  {
+   "h": "Perfect, yet unfinished",
+   "b": "\"But the high places were not removed: nevertheless Asa's heart was perfect with the LORD all his days\" (1 Kings 15:14). Scripture holds both truths together, a wholehearted king and an unfinished reform, and does not pretend Asa was flawless."
+  },
+  {
+   "h": "Help bought from the wrong place",
+   "b": "\"Then Asa took all the silver and the gold that were left in the treasures of the house of the LORD\" (1 Kings 15:18). Under pressure, he empties God's house to pay a pagan king, rather than trusting the LORD who had helped Judah before."
+  },
+  {
+   "h": "The way of Jeroboam",
+   "b": "Baasha \"did evil in the sight of the LORD, and walked in the way of Jeroboam, and in his sin wherewith he made Israel to sin\" (1 Kings 15:34). One king's sin becomes a pattern that a whole line of kings follows, and the book keeps returning to it as a warning."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 7:12-16 · 2 Chronicles 16:7-9 · Psalm 132:17-18",
+   "qs": [
+    {
+     "th": "God's promise to David in 2 Samuel 7 is the reason the lamp keeps burning in Jerusalem; 2 Chronicles 16 gives the prophet's rebuke of Asa for relying on Syria rather than the LORD, and the reminder that God looks for hearts fully his; and Psalm 132 celebrates the lamp ordained for the anointed one.",
+     "q": "Read these together. How do they help you see why God keeps faith with a flawed line, and what he asks from those who lead his people?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Asa is a good king who nonetheless leans on a foreign alliance when the pressure rises. Most of us can recognise the pattern: we trust God in the big moments and reach for human safeguards in the smaller ones.",
+     "q": "Where, under pressure, have you quietly reached for a human safeguard rather than asking God? What would it mean to bring that fear to him first?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The lamp in Jerusalem is a picture of God's faithfulness across generations. Ask the Spirit to help you trust that same faithfulness in your own family line and church, including where you cannot see how the story continues.",
+     "q": "Ask the Spirit to give you confidence in God's long faithfulness, and to make you faithful in what you have been handed."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Intercession is a way of joining the lamp-keeping work of God. This chapter is full of leaders who were partly faithful and partly not, and they need prayer.",
+     "q": "Pray by name for someone in leadership in your church, school, workplace or country, that they may have a heart \"perfect with the LORD\" and be kept from choices made only out of fear."
+    }
+   ]
+  }
+ ]
+},
+// Day 712
+{
+ "ref": "Acts 13",
+ "tag": "New Testament",
+ "api": "acts+13",
+ "sum": [
+  "In the church at Antioch, while the prophets and teachers minister to the Lord and fast, the Holy Ghost says, \"Separate me Barnabas and Saul for the work whereunto I have called them,\" and after fasting and prayer they are sent out and sail to Cyprus.",
+  "At Paphos the proconsul Sergius Paulus asks to hear the word of God, the sorcerer Elymas opposes them and is struck blind for a season, and the proconsul believes; then John Mark leaves for Jerusalem and Paul and Barnabas continue on to Pisidian Antioch.",
+  "In the synagogue Paul traces Israel's story from Egypt to David and proclaims that God has fulfilled his promise in Jesus, \"But God raised him from the dead,\" and that \"through this man is preached unto you the forgiveness of sins.\"",
+  "The next sabbath almost the whole city comes, the envious opposition stirs up, and Paul and Barnabas turn to the Gentiles, quoting \"I have set thee to be a light of the Gentiles,\" before being expelled and going to Iconium, while \"the disciples were filled with joy, and with the Holy Ghost.\""
+ ],
+ "nug": [
+  {
+   "h": "Set apart while worshipping",
+   "b": "\"As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them\" (Acts 13:2). The church's first great missionary sending begins not with a strategy meeting but with a listening people."
+  },
+  {
+   "h": "Prayer, then laying on of hands",
+   "b": "\"And when they had fasted and prayed, and laid their hands on them, they sent them away\" (Acts 13:3). Even after the Spirit has spoken, the church prays again and blesses those sent, confirming the call together."
+  },
+  {
+   "h": "A setback along the way",
+   "b": "\"John departing from them returned to Jerusalem\" (Acts 13:13). Luke says no more here, but the departure of the young helper, John Mark, will matter in Acts 15."
+  },
+  {
+   "h": "A message about Jesus",
+   "b": "\"But God raised him from the dead\" (Acts 13:30). Paul's sermon retells Israel's story to show that it has been heading toward Jesus, and offers \"the forgiveness of sins\" (Acts 13:38) to all who believe."
+  },
+  {
+   "h": "Joy in the middle of opposition",
+   "b": "\"And the disciples were filled with joy, and with the Holy Ghost\" (Acts 13:52). Expelled from the city, the new believers are not defeated: their joy does not depend on the missionaries staying."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Isaiah 49:5-6 · Psalm 16:8-11 · 1 Samuel 13:13-14",
+   "qs": [
+    {
+     "th": "Paul applies Isaiah's words about the servant as a light to the nations to his own mission; Psalm 16 is the text he uses to argue that the Holy One would not see corruption; and 1 Samuel 13 gives the background to \"a man after mine own heart\" that Paul mentions when he speaks of David.",
+     "q": "Read these together. How does Paul draw on the Old Testament to explain what God has done in Jesus and why the good news is for the nations?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Antioch church was busy with worship and fasting when the Spirit spoke, and its leaders listened and acted. Guidance came in the middle of ordinary faithfulness rather than in a crisis.",
+     "q": "When did you last make space, in the middle of ordinary days, to listen for what God might be asking of you? What might help you create that space this week?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This is a day for silence more than speech. Sit still for a few minutes and let the Spirit's quiet voice come, as it did to those at Antioch, without needing to fill the space yourself.",
+     "q": "Sit in silence for a few minutes and simply ask, Lord, is there anything you want to say to me? Notice what rises, and hold it loosely."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "This form of prayer is receptive: resting in God, listening, and waiting. The text gives a model of it in a few words: worshipping, fasting, and hearing the Holy Ghost say what he wants.",
+     "q": "Be still before God for a few minutes with no request. If words come, receive them; if they do not, be at peace in his presence."
+    }
+   ]
+  }
+ ]
+},
+// Day 713
+{
+ "ref": "Job 3",
+ "tag": "Psalms & Wisdom",
+ "api": "job+3",
+ "sum": [
+  "After seven days of silence Job opens his mouth and curses the day of his birth, wishing that it might perish, that darkness might seize it and that no joyful voice might come into its night.",
+  "He asks why he was not stillborn, \"Why died I not from the womb?\", imagining the grave as a place where \"the wicked cease from troubling; and there the weary be at rest.\"",
+  "He then asks the deeper question of why light is given to those in misery and life \"unto the bitter in soul,\" who long for death as others dig for treasure.",
+  "He ends by describing the life he now lives, \"whose way is hid, and whom God hath hedged in,\" confessing that \"the thing which I greatly feared is come upon me,\" and that though he has no rest, \"yet trouble came.\""
+ ],
+ "nug": [
+  {
+   "h": "The silence breaks",
+   "b": "\"Let the day perish wherein I was born\" (Job 3:3). The man who worshipped in chapter 1 now cries out in raw agony. The Bible leaves this in, showing that such grief is not outside the boundary of faith."
+  },
+  {
+   "h": "A question with no answer yet",
+   "b": "\"Why died I not from the womb?\" (Job 3:11). Job does not curse God here, but curses the day of his birth, and he asks questions that go unanswered for many chapters."
+  },
+  {
+   "h": "Rest as a longing",
+   "b": "\"There the wicked cease from troubling; and there the weary be at rest\" (Job 3:17). Job's wish for the grave is really a wish for relief, and it reveals how exhausted he is."
+  },
+  {
+   "h": "Life for the bitter in soul",
+   "b": "\"Wherefore is light given to him that is in misery, and life unto the bitter in soul\" (Job 3:20). His question is aimed at God's purposes, and it belongs to the long biblical tradition of lament."
+  },
+  {
+   "h": "The fear that came true",
+   "b": "\"For the thing which I greatly feared is come upon me... yet trouble came\" (Job 3:25-26). Job gives voice to something many people know: that the fear held quietly for years can arrive all at once, leaving no time to prepare."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Jeremiah 20:14-18 · Psalm 88:1-9 · Romans 8:26-27",
+   "qs": [
+    {
+     "th": "Jeremiah curses the day of his birth in language very close to Job's; Psalm 88 is a prayer that ends in darkness with no comfort, a reminder that Scripture makes room for such prayers; and Romans 8 says that the Spirit helps our weakness and intercedes with groanings which cannot be uttered.",
+     "q": "Read these together. What do they teach you about how honestly you can bring despair to God, and how he hears it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Job's words are not tidy, but he is speaking them to God and about God, not walking away. The chapter invites us to consider how we handle our own darkest thoughts, and what we do with them.",
+     "q": "When you are in real distress, do you bring it to God honestly, or do you tidy it up first? What might change if you let it be as raw as Job's?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit himself intercedes for us when we do not know what to pray for, and that is a real comfort in a chapter with no answers yet. Ask him to pray in and through you where you have run out of words.",
+     "q": "Ask the Spirit to hold you where you cannot find words, and to make you gentle with others whose speech is broken by pain."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Confession here need not mean condemning Job, who is honest, but examining ourselves in his light: our bitterness, our impatience with God's timing, and our easy answers to other people's grief.",
+     "q": "Confess honestly where despair has turned to bitterness, or where you have judged another's pain too quickly, and receive his mercy and his peace."
+    }
+   ]
+  }
+ ]
+},
+// Day 714
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A lamp for David's sake",
+   "b": "\"Nevertheless for David's sake did the LORD his God give him a lamp in Jerusalem\" (1 Kings 15:4). This week has followed the sad decline of the two kingdoms, the sending out of Paul and Barnabas from Antioch, and Job's darkest hours, and through all of it God's faithfulness keeps a lamp alight."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read the man of God from Judah and the old prophet of Bethel (1 Kings 13), Ahijah's word to Jeroboam's wife and the plundering of Jerusalem (1 Kings 14), Satan's second test and Job's wife (Job 2), the reigns of Abijam and Asa (1 Kings 15), the sending out of Paul and Barnabas from Antioch through Cyprus to Pisidian Antioch (Acts 13), and Job's lament (Job 3).",
+     "q": "Which moment stays with you: Job's answer, \"shall we receive good at the hand of God, and shall we not receive evil?\" (Job 2:10), the church at Antioch hearing the Holy Ghost say, \"Separate me Barnabas and Saul for the work whereunto I have called them\" (Acts 13:2), or the lamp given \"for David's sake\" (1 Kings 15:4)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"And the disciples were filled with joy, and with the Holy Ghost\" (Acts 13:52).",
+     "q": "Sit quietly for a moment and let that joy be given rather than made, resting in the Spirit who was with them and is with you."
+    }
+   ]
+  }
+ ]
+},
+// Day 715
+{
+ "ref": "1 Kings 16",
+ "tag": "Old Testament",
+ "api": "1kings+16",
+ "sum": [
+  "The prophet Jehu son of Hanani announces judgement on Baasha for walking in the way of Jeroboam; Baasha dies and is buried in Tirzah, and his son Elah reigns only two years before his servant Zimri murders him while he is drinking himself drunk, then destroys Baasha's whole house, fulfilling the word of the LORD.",
+  "Zimri reigns just seven days: when the army in the camp makes Omri king and besieges Tirzah, Zimri burns the palace over himself and dies, and Israel is then divided between Tibni and Omri until Omri prevails.",
+  "Omri reigns twelve years, buys the hill of Samaria and builds his new capital there, yet he \"did worse than all that were before him\" and walks in all the way of Jeroboam.",
+  "His son Ahab reigns twenty-two years in Samaria and does more evil than any before him: he marries Jezebel of the Zidonians, serves Baal, raises an altar to him in Samaria, and in his days Hiel rebuilds Jericho at the cost of his sons, according to the word spoken by Joshua."
+ ],
+ "nug": [
+  {
+   "h": "Exalted out of the dust",
+   "b": "\"Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel\" (1 Kings 16:2). Baasha owed everything to God's gift, yet he copied the sin of the king he had replaced; forgetting where we came from is often where drifting begins."
+  },
+  {
+   "h": "Seven days on a stolen throne",
+   "b": "Zimri reigns \"seven days in Tirzah\" (1 Kings 16:15) after taking the throne by murder, and dies by his own hand in a burning palace. The chapter is a rapid succession of coups, and the verdict on each is the same: \"in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin\" (1 Kings 16:19)."
+  },
+  {
+   "h": "A capital bought and built",
+   "b": "Omri \"bought the hill Samaria of Shemer for two talents of silver\" (1 Kings 16:24), and Samaria became the northern kingdom's capital for generations. He is a capable politician by any human measure, yet the verdict is that he \"wrought evil in the eyes of the LORD, and did worse than all that were before him\" (1 Kings 16:25)."
+  },
+  {
+   "h": "As if it had been a light thing",
+   "b": "\"And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel\" (1 Kings 16:31). Sin rarely stands still; what was once shocking becomes a starting point, and Ahab's marriage and his altar to Baal set the stage for the clash with Elijah."
+  },
+  {
+   "h": "According to the word of the LORD",
+   "b": "Hiel builds Jericho, and it costs him his eldest and youngest sons, \"according to the word of the LORD, which he spake by Joshua the son of Nun\" (1 Kings 16:34). It is a sober note: a word spoken centuries earlier, and easily ignored, still stands. Here, as with Baasha (1 Kings 16:12), God's word proves true whether it is heeded or not."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Kings 12:25-33 · 1 Kings 14:7-11 · Joshua 6:26",
+   "qs": [
+    {
+     "th": "1 Kings 12 records how Jeroboam set up his rival worship at Bethel and Dan, 1 Kings 14 gives Ahijah's warning that his house would be swept away, and Joshua 6:26 is the curse on anyone who rebuilds Jericho. Together they show a pattern in this chapter: sins that are copied from one generation to the next, and words of God that come true long after they were spoken.",
+     "q": "Read these together. What do they show you about how a single act of compromise can shape everything that follows it, and about whether God's word can be safely ignored?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Ahab's slide began with treating sin as \"a light thing\", and each king in this chapter simply followed the one before him.",
+     "q": "What pattern or habit have you inherited or copied without much thought, and what would it look like to stop treating it as a small matter?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Baasha was lifted from the dust and forgot it. Gratitude is one of the Spirit's quiet safeguards against drifting.",
+     "q": "Ask the Holy Spirit to bring to mind where God has lifted you, and to show you anywhere you have begun to take his gifts for granted."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Forasmuch as I exalted thee out of the dust\" (1 Kings 16:2) is a reminder of how much any of us has been given.",
+     "q": "Thank God specifically for the things he has given you that you did not earn, for his word that stands true, and for the mercy that meets us far better than any of these kings deserved."
+    }
+   ]
+  }
+ ]
+},
+// Day 716
+{
+ "ref": "1 Kings 17",
+ "tag": "Old Testament",
+ "api": "1kings+17",
+ "sum": [
+  "Elijah the Tishbite tells Ahab that there will be no dew nor rain except by his word; God sends him to hide by the brook Cherith, where the ravens bring him bread and flesh morning and evening and he drinks from the brook.",
+  "When the brook dries up because there is no rain, God sends Elijah to Zarephath near Zidon, Baal's own territory, where a widow gathering sticks tells him she has only a handful of meal and a little oil and expects to eat one last meal with her son and die.",
+  "Elijah tells her not to fear but to make him a little cake first, promising that the barrel of meal shall not waste nor the cruse of oil fail; she obeys, and they eat for many days according to the word of the LORD.",
+  "Her son falls sick and dies; she blames Elijah, who carries the boy upstairs, cries to the LORD, stretches himself on the child three times, and the LORD hears and the child revives, so that the woman confesses that Elijah is a man of God and the LORD's word in his mouth is truth."
+ ],
+ "nug": [
+  {
+   "h": "Before whom I stand",
+   "b": "\"As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word\" (1 Kings 17:1). Elijah appears suddenly, and his whole ministry rests on one phrase: he stands before the living God, not before Ahab."
+  },
+  {
+   "h": "Fed by ravens",
+   "b": "\"I have commanded the ravens to feed thee there\" (1 Kings 17:4). \"And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening\" (1 Kings 17:6). God's provision comes in an unexpected form, one day at a time."
+  },
+  {
+   "h": "When the brook dries up",
+   "b": "\"And it came to pass after a while, that the brook dried up, because there had been no rain in the land\" (1 Kings 17:7). Elijah's obedience did not spare him from the effects of the drought, but the next verse begins, \"And the word of the LORD came unto him\" (1 Kings 17:8), and the story moves on."
+  },
+  {
+   "h": "A handful of meal",
+   "b": "The widow says she has \"an handful of meal in a barrel, and a little oil in a cruse\" (1 Kings 17:12), and Elijah promises, \"The barrel of meal shall not waste, neither shall the cruse of oil fail\" (1 Kings 17:14). God sends his prophet to a foreigner in Baal's heartland, and she believes; Jesus later points to her as proof that God's mercy reaches beyond Israel."
+  },
+  {
+   "h": "The word of the LORD is truth",
+   "b": "After her son dies she asks, \"art thou come unto me to call my sin to remembrance, and to slay my son?\" (1 Kings 17:18). Elijah's honest prayer is heard: \"the LORD heard the voice of Elijah; and the soul of the child came into him again, and he revived\" (1 Kings 17:22), and she says, \"the word of the LORD in thy mouth is truth\" (1 Kings 17:24)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Luke 4:25-26 · Matthew 6:25-26 · Luke 7:11-15",
+   "qs": [
+    {
+     "th": "In Luke 4 Jesus himself points to the widow of Zarephath as proof that God's mercy goes beyond expected borders, Matthew 6 speaks of the same Father who feeds the birds and cares for his people's daily needs, and Luke 7 shows Jesus raising a widow's only son at Nain, a scene that echoes Elijah and the widow's son here.",
+     "q": "Read these together. How does seeing Jesus stand in this same tradition, feeding, welcoming outsiders, and raising the dead, deepen what you notice about who the God of Elijah is?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Elijah's supply came by ravens, then by a poor widow's last handful, and both times it was enough for the day but no more.",
+     "q": "Where are you being asked to trust God for daily provision rather than for a store of it, and what would it mean to obey today without yet seeing tomorrow?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The widow was told, \"Fear not\" (1 Kings 17:13), and then asked to give first before she saw any supply. Faith here is a step of obedience.",
+     "q": "Ask the Holy Spirit whether there is a small act of trust he is inviting you to take, and to give you courage for it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "In this chapter the LORD rules the weather, feeds his servant, provides for a widow, and gives life back to a child.",
+     "q": "Spend these minutes simply admiring God for who he is: sovereign over rain and drought, faithful in small daily things, and near to the grieving. Speak your praise in your own words."
+    }
+   ]
+  }
+ ]
+},
+// Day 717
+{
+ "ref": "Job 4",
+ "tag": "Psalms & Wisdom",
+ "api": "job+4",
+ "sum": [
+  "Eliphaz the Temanite speaks first, gently asking whether Job will mind him speaking, and reminds Job that he has instructed many and strengthened weak hands, but now that trouble has touched him he faints.",
+  "He argues from what he has seen: the innocent do not perish and the upright are not cut off, while those who plow iniquity and sow wickedness reap the same, and even the fierce lion is broken.",
+  "He describes a night vision that came to him in deep sleep, with fear and trembling that made all his bones shake, a spirit passing before his face, and then silence and a voice.",
+  "The voice asks whether mortal man can be more just than God or more pure than his maker; if God does not trust even his servants and angels, how much less those of clay who are crushed like a moth and die without wisdom."
+ ],
+ "nug": [
+  {
+   "h": "Thou hast strengthened the weak hands",
+   "b": "\"Behold, thou hast instructed many, and thou hast strengthened the weak hands. Thy words have upholden him that was falling, and thou hast strengthened the feeble knees\" (Job 4:3-4). Eliphaz begins with real honour for Job's past, and it is true. The trouble is what he does with it next."
+  },
+  {
+   "h": "Now it is come upon thee",
+   "b": "\"But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled\" (Job 4:5). Giving comfort is easier than needing it, and Eliphaz turns Job's past strength into a reproach. Comfort that becomes a cross-examination stops being comfort."
+  },
+  {
+   "h": "Who ever perished, being innocent?",
+   "b": "\"Remember, I pray thee, who ever perished, being innocent?\" (Job 4:7). Eliphaz's theology is that suffering follows sin: \"they that plow iniquity, and sow wickedness, reap the same\" (Job 4:8). That is true as a general principle, but the reader knows from Job 1 and 2 that it does not explain Job, and the book itself will later show that Eliphaz had not spoken rightly."
+  },
+  {
+   "h": "A voice in the night",
+   "b": "\"Fear came upon me, and trembling, which made all my bones to shake\" (Job 4:14). \"There was silence, and I heard a voice, saying\" (Job 4:16). Eliphaz rests his case on a spiritual experience, a reminder that a vivid sense of having heard something is not the same as having heard rightly, and that we test what we hear against the whole of God's word."
+  },
+  {
+   "h": "More just than God?",
+   "b": "\"Shall mortal man be more just than God? shall a man be more pure than his maker?\" (Job 4:17). The question is not false, since no one can claim to be righteous before God. But Eliphaz uses it as a weapon against a man in pain rather than as an invitation to mercy."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Job 42:7-8 · John 9:1-3 · Galatians 6:1-2",
+   "qs": [
+    {
+     "th": "Job 42 shows how the book ends, with God telling Eliphaz that he and his friends had not spoken of him rightly, and with Job praying for them; John 9 records Jesus refusing to link a man's suffering to someone's sin; Galatians 6 describes how to help someone who is struggling, with gentleness and by bearing their burden.",
+     "q": "Read these together. How do they reshape the way you hear Eliphaz's confident explanation of Job's pain, and what kind of friend do they call you to be?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Eliphaz had every intention of helping Job, yet his words added to Job's pain because he explained suffering instead of sitting with the sufferer.",
+     "q": "Think of someone who is hurting now. What would it look like to offer presence, listening, and prayer before any explanation?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Eliphaz was sure of what he had heard in the night. The Spirit leads us into truth and also gives humility about our own certainty.",
+     "q": "Ask the Holy Spirit to guard your words when others are suffering, and to show you where you have been too quick to explain."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Thy words have upholden him that was falling\" (Job 4:4). Many of the people who once held others up are now the ones who are falling.",
+     "q": "Bring to God by name someone who has carried others and is now weak or hurting, and someone who is trying to comfort them. Ask for strength for the first and wisdom and gentleness for the second."
+    }
+   ]
+  }
+ ]
+},
+// Day 718
+{
+ "ref": "1 Kings 18",
+ "tag": "Old Testament",
+ "api": "1kings+18",
+ "sum": [
+  "In the third year of the drought God tells Elijah to show himself to Ahab and promises rain; in famine-stricken Samaria, Obadiah, who feared the LORD greatly and had hidden a hundred prophets from Jezebel, is afraid but carries Elijah's message to Ahab, who greets Elijah as the troubler of Israel and is told that he himself has forsaken the commandments and followed Baalim.",
+  "Elijah gathers Israel and the 450 prophets of Baal on Mount Carmel and asks the people, \"How long halt ye between two opinions?\" but they answer not a word; he proposes that the God who answers by fire be God, and the people agree.",
+  "The prophets of Baal call from morning until noon and beyond, leaping and cutting themselves, while Elijah mocks them, but there is neither voice, nor any to answer, nor any that regarded.",
+  "Elijah repairs the LORD's altar with twelve stones, soaks it three times with water, and prays; the fire of the LORD falls and consumes everything, the people fall on their faces, and the prophets of Baal are taken to the brook Kishon and slain; Elijah then prays for rain, sends his servant seven times to look, sees a little cloud like a man's hand, and runs before Ahab's chariot to Jezreel as the great rain comes."
+ ],
+ "nug": [
+  {
+   "h": "Obadiah, quietly faithful",
+   "b": "\"Now Obadiah feared the LORD greatly\" (1 Kings 18:3). He served in Ahab's own house, and he had hidden a hundred prophets in caves and fed them. Faithfulness is not always public, and God had more people in hidden places than Elijah could see."
+  },
+  {
+   "h": "The troubler of Israel",
+   "b": "Ahab asks, \"Art thou he that troubleth Israel?\" (1 Kings 18:17), and Elijah answers, \"I have not troubled Israel; but thou, and thy father's house, in that ye have forsaken the commandments of the LORD\" (1 Kings 18:18). It is a familiar pattern for those in power to blame the messenger for the trouble they caused."
+  },
+  {
+   "h": "Halting between two opinions",
+   "b": "\"How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word\" (1 Kings 18:21). The silence of the crowd is the real drama: Israel wanted the LORD and Baal both, and could not bring itself to choose."
+  },
+  {
+   "h": "Noise and silence",
+   "b": "Baal's prophets shouted all day and there was \"neither voice, nor any to answer, nor any that regarded\" (1 Kings 18:29). Elijah's prayer is short: \"Hear me, O LORD, hear me, that this people may know that thou art the LORD God\" (1 Kings 18:37). Then \"the fire of the LORD fell\" (1 Kings 18:38), and the people said, \"The LORD, he is the God; the LORD, he is the God\" (1 Kings 18:39)."
+  },
+  {
+   "h": "A little cloud",
+   "b": "Elijah told his servant, \"Go again seven times\" (1 Kings 18:43). At the seventh time came the report, \"there ariseth a little cloud out of the sea, like a man's hand\" (1 Kings 18:44). Persistent, expectant prayer looks for small signs and does not despise them."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Joshua 24:14-15 · Deuteronomy 13:1-5 · James 5:17-18",
+   "qs": [
+    {
+     "th": "Joshua 24 records a similar call to choose whom to serve, Deuteronomy 13 is the law's stern teaching on what Israel must do about those who lead people after other gods, which is the background for the sober end of the Carmel scene (1 Kings 18:40), and James 5 points to Elijah as an ordinary man whose prayer had great effect.",
+     "q": "Read these together. How do they help you understand both the seriousness of the choice Israel faced and the plain humanity of the man who prayed?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Israel's problem was not that they had no faith, but that they were trying to hold two loyalties together.",
+     "q": "Is there any place in your life where you are halting between two opinions? What would it look like to follow the LORD there?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Elijah spent little time on words and a lot on obedience and expectation. The Spirit often speaks quietly in the middle of a noisy day.",
+     "q": "Ask the Holy Spirit to quieten your inner noise, so you can notice whatever small sign of his presence he is giving you today."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Baal's prophets had no answer to their cries: \"there was no voice, nor any that answered\" (1 Kings 18:26). The LORD is the God who hears and speaks.",
+     "q": "Set aside your usual words for a few minutes. Sit in silence before the living God and listen, without needing anything to happen, and if a thought or a verse comes, hold it gently and test it against Scripture."
+    }
+   ]
+  }
+ ]
+},
+// Day 719
+{
+ "ref": "Acts 14",
+ "tag": "New Testament",
+ "api": "acts+14",
+ "sum": [
+  "At Iconium Paul and Barnabas speak in the synagogue so that a great multitude of Jews and Greeks believe; the unbelieving Jews stir up the Gentiles against them, yet they stay a long time speaking boldly while the Lord grants signs and wonders, until the city is divided and an assault is planned, and they flee to Lystra and Derbe.",
+  "At Lystra Paul sees that a man who had been lame from birth has faith to be healed, tells him to stand upright, and the man leaps up and walks.",
+  "The crowd cries that the gods have come down, calls Barnabas Jupiter and Paul Mercurius, and the priest of Jupiter brings oxen and garlands; the apostles tear their clothes and run in, saying that they are men of like passions, that the living God made heaven and earth, and that he has not left himself without witness.",
+  "Jews from Antioch and Iconium win over the crowd and stone Paul and drag him out of the city as dead, but he rises and goes on to Derbe; they return through Lystra, Iconium and Antioch strengthening the disciples, saying that we must through much tribulation enter the kingdom of God, appoint elders with prayer and fasting, and back in Antioch report how God had opened the door of faith to the Gentiles."
+ ],
+ "nug": [
+  {
+   "h": "Speaking boldly, and staying",
+   "b": "\"Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace\" (Acts 14:3). Opposition at Iconium does not make them leave straight away; they stay and keep speaking, and only flee when the threat becomes a plan to stone them."
+  },
+  {
+   "h": "Stand upright",
+   "b": "Paul, \"perceiving that he had faith to be healed, said with a loud voice, Stand upright on thy feet. And he leaped and walked\" (Acts 14:9-10). A man who had never walked is healed, and the reaction of the crowd is the danger: they want to worship the messengers."
+  },
+  {
+   "h": "Men of like passions",
+   "b": "The apostles \"rent their clothes, and ran in among the people\" (Acts 14:14) and cried, \"We also are men of like passions with you\" (Acts 14:15). Unlike Herod in Acts 12, who accepted the crowd's praise, Paul and Barnabas turn people \"from these vanities unto the living God\"."
+  },
+  {
+   "h": "Not without witness",
+   "b": "\"He left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness\" (Acts 14:17). Paul, speaking to people with no Scripture, starts from the goodness of the ordinary gifts of creation."
+  },
+  {
+   "h": "Through much tribulation",
+   "b": "Paul is stoned and left for dead, yet he \"rose up, and came into the city\" (Acts 14:20), and goes back to strengthen the disciples, telling them \"that we must through much tribulation enter into the kingdom of God\" (Acts 14:22). At the end they gather the church and report \"how he had opened the door of faith unto the Gentiles\" (Acts 14:27)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Acts 3:11-16 · Psalm 19:1-4 · 2 Timothy 3:10-11",
+   "qs": [
+    {
+     "th": "In Acts 3 Peter turns the crowd's amazement at a healed lame man away from himself and toward God, Psalm 19 describes creation's wordless witness to the glory of God, which is where Paul starts in Lystra, and 2 Timothy 3 has Paul recalling the persecutions he endured at Antioch, Iconium and Lystra, the very cities in this chapter.",
+     "q": "Read these together. What do they add to your sense of how the apostles handled praise, opposition, and the witness of creation?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Paul and Barnabas tore their clothes at the thought of being worshipped, and Paul was stoned after the same crowd was turned against him. Praise and opposition both test us.",
+     "q": "How do you respond to praise, and how do you respond to opposition? Where do you find yourself quietly wanting the first or avoiding the second?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Paul spoke boldly, and God gave testimony to the word of his grace (Acts 14:3). Boldness here is the Lord's work rather than personality.",
+     "q": "Ask the Holy Spirit to show you where you have been silent when you could have spoken, and to give you gentle courage."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The crowd at Lystra wanted to worship the apostles, but Paul insisted that he was one of \"men of like passions\" (Acts 14:15).",
+     "q": "Confess honestly before God the places where you have wanted credit that belongs to him, where you have avoided hardship for comfort's sake, or where you have overlooked the daily gifts through which he was witnessing to you."
+    }
+   ]
+  }
+ ]
+},
+// Day 720
+{
+ "ref": "Job 5",
+ "tag": "Psalms & Wisdom",
+ "api": "job+5",
+ "sum": [
+  "Eliphaz tells Job to call and see if anyone will answer him, says that wrath kills the foolish man, and that he has seen the foolish taking root but suddenly cursed his home, with his children crushed in the gate with none to deliver them.",
+  "Affliction does not spring from the dust, he says, but man is born unto trouble as the sparks fly upward.",
+  "If he were Job, he would seek unto God and commit his cause to him, who does great and unsearchable things, sends rain, lifts the lowly and the mourning, frustrates the crafty, and saves the poor from the sword.",
+  "Happy is the man whom God correcteth, for he makes sore and binds up; Eliphaz promises deliverance in six troubles, and in seven, peace in his tent, great offspring and a full age, and closes, \"Lo this, we have searched it, so it is; hear it, and know thou it for thy good.\""
+ ],
+ "nug": [
+  {
+   "h": "Born unto trouble",
+   "b": "\"Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground; yet man is born unto trouble, as the sparks fly upward\" (Job 5:6-7). It is one of the book's most honest lines about the human condition. Trouble is part of life in a fallen world, and it is no proof that God has abandoned us."
+  },
+  {
+   "h": "I would seek unto God",
+   "b": "\"I would seek unto God, and unto God would I commit my cause\" (Job 5:8). This is good counsel, and Job is already doing exactly that in his lament. Eliphaz's words sound like faith, but he speaks them from the outside to a man who is already crying out to God."
+  },
+  {
+   "h": "He lifts the low",
+   "b": "God is the one \"to set up on high those that be low; that those which mourn may be exalted to safety\" (Job 5:11). \"So the poor hath hope\" (Job 5:16). These are true and lovely descriptions of God's character, and worth holding onto whatever the speaker's mistakes."
+  },
+  {
+   "h": "The wise taken in their craftiness",
+   "b": "\"He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong\" (Job 5:13). Paul quotes this line in 1 Corinthians 3:19. A verse can be true even when the speech around it is misapplied, which is why we read all of Job."
+  },
+  {
+   "h": "He maketh sore, and bindeth up",
+   "b": "\"Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty: for he maketh sore, and bindeth up: he woundeth, and his hands make whole\" (Job 5:17-18). Discipline that heals is a real biblical theme, but the book has already shown that this is not why Job is suffering."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Corinthians 3:18-20 · Hebrews 12:5-11 · Psalm 147:3-6",
+   "qs": [
+    {
+     "th": "1 Corinthians 3 is where Paul quotes Eliphaz's line about God catching the wise in their own craftiness, Hebrews 12 develops the theme of God's loving discipline that Eliphaz touches on, and Psalm 147 gives the same picture of the God who heals the broken in heart and lifts the meek that Job 5 describes.",
+     "q": "Read these together. What do you notice about which parts of Eliphaz's speech the rest of Scripture takes up and builds on, and how does that help you listen to it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Eliphaz said some things that are deeply true about God and applied them to the wrong man. We may do the same, or be on the receiving end.",
+     "q": "Is there a truth about God that you have used too quickly on your own or someone else's pain? How might you hold it more gently?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Man is born unto trouble\" (Job 5:7). The Spirit is described in the New Testament as our Comforter, present in trouble and not only after it.",
+     "q": "Ask the Holy Spirit to be near you in whatever trouble you carry today, and to help you receive his comfort."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God is the one \"which doeth great things and unsearchable; marvellous things without number\" (Job 5:9), who gives rain, lifts the lowly, and binds up.",
+     "q": "Thank God by name for the ways he has bound you up, lifted you, or supplied you when things were hard. Thank him also for the friends who stayed close."
+    }
+   ]
+  }
+ ]
+},
+// Day 721
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "The barrel of meal wasted not",
+   "b": "\"And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the LORD, which he spake by Elijah\" (1 Kings 17:16). This week moved from Ahab's dark slide into Baal worship to Elijah at Cherith, Zarephath and Carmel, and through Iconium and Lystra with Paul, and it kept coming back to the God who supplies and speaks."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read the rapid succession of Israel's kings and the rise of Ahab and Jezebel (1 Kings 16), Elijah at Cherith and Zarephath (1 Kings 17), Eliphaz's first speech to Job (Job 4), the showdown on Mount Carmel (1 Kings 18), Paul and Barnabas at Iconium and Lystra (Acts 14), and the rest of Eliphaz's speech, with its mix of true and misapplied wisdom (Job 5).",
+     "q": "Which moment stays with you most: Elijah's question, \"How long halt ye between two opinions?\" (1 Kings 18:21), Eliphaz's line, \"Yet man is born unto trouble, as the sparks fly upward\" (Job 5:7), or Paul and Barnabas saying, \"We also are men of like passions with you\" (Acts 14:15)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"I have commanded the ravens to feed thee there\" (1 Kings 17:4).",
+     "q": "Sit quietly for a moment and rest in the God who feeds his people one day at a time, asking for nothing and needing to do nothing."
+    }
+   ]
+  }
+ ]
+},
+// Day 722
+{
+ "ref": "1 Kings 19",
+ "tag": "Old Testament",
+ "api": "1kings+19",
+ "sum": [
+  "Threatened by Jezebel after Carmel, Elijah runs for his life, leaves his servant at Beer-sheba and sits down under a juniper tree in the wilderness, praying, \"It is enough; now, O LORD, take away my life; for I am not better than my fathers.\"",
+  "An angel twice wakes him with bread baked on the coals and a cruse of water, saying, \"Arise and eat\", and in the strength of that food he travels forty days and forty nights to Horeb, the mount of God.",
+  "In a cave the word of the LORD asks him, \"What doest thou here, Elijah?\" and he answers that he alone is left; then wind, earthquake and fire pass by, but \"the LORD was not in the fire: and after the fire a still small voice.\"",
+  "The LORD gives him new commissions (Hazael, Jehu and Elisha), tells him \"Yet I have left me seven thousand in Israel\" who have not bowed to Baal, and Elijah finds Elisha ploughing and casts his mantle upon him; Elisha slaughters his oxen, feeds the people and follows."
+ ],
+ "nug": [
+  {
+   "h": "It is enough",
+   "b": "\"It is enough; now, O LORD, take away my life\" (1 Kings 19:4). Straight after the triumph of Carmel, Elijah is exhausted, afraid and alone, and he says so to God. Scripture records this prayer without rebuking it."
+  },
+  {
+   "h": "Arise and eat",
+   "b": "\"Arise and eat; because the journey is too great for thee\" (1 Kings 19:7). Before any sermon or commission, God sends sleep, bread and water. He knows the frame of the people he calls."
+  },
+  {
+   "h": "The LORD was not in the wind",
+   "b": "\"...the LORD was not in the fire: and after the fire a still small voice\" (1 Kings 19:12). Wind, earthquake and fire had marked God's power before, but here he comes in quietness, and Elijah has to be still enough to hear."
+  },
+  {
+   "h": "I only, and seven thousand",
+   "b": "\"I, even I only, am left\" (1 Kings 19:10) is Elijah's lonely verdict, repeated word for word in verse 14. God's answer corrects the count: \"Yet I have left me seven thousand in Israel\" (1 Kings 19:18). Loneliness in faith is often less complete than it feels."
+  },
+  {
+   "h": "A mantle cast",
+   "b": "\"...and Elijah passed by him, and cast his mantle upon him\" (1 Kings 19:19). Elijah is given a successor and a companion, so the burden he felt he carried alone is to be shared."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 33:18-23 · Romans 11:2-5 · Luke 9:59-62",
+   "qs": [
+    {
+     "th": "At Sinai the LORD lets Moses see his goodness as he passes by, hidden in the rock; Paul quotes this very episode in Romans 11 to show that God always keeps a remnant for himself; and Luke 9 records Jesus's own call to follow him, with an echo of Elisha's request to say farewell to his family first.",
+     "q": "Read these together. How do they help you see that God meets his weary servants personally, and that he is never without a people, however alone you feel?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Elijah is at his lowest just after his greatest victory: tired, frightened and convinced that nothing has worked. God answers with sleep, food and a gentle question, not a lecture.",
+     "q": "Where are you running on empty right now? What would \"arise and eat\" look like for you this week, perhaps a real rest, a proper meal or an honest conversation, before you try anything harder?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God asks Elijah the same question twice: \"What doest thou here, Elijah?\" (1 Kings 19:9, 13). The second time it comes after the quiet, and Elijah answers exactly as before.",
+     "q": "Sit still and ask the Spirit to speak in his still small voice. What is he asking you, and can you answer as honestly as Elijah did, without dressing it up?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"...behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD\" (1 Kings 19:11). The God who can shatter rock is the same God who comes in a whisper.",
+     "q": "Adore him for both: for the power that breaks mountains and the tenderness that will not break a discouraged prophet. Let your praise be as quiet or as loud as the moment invites."
+    }
+   ]
+  }
+ ]
+},
+// Day 723
+{
+ "ref": "1 Kings 20",
+ "tag": "Old Testament",
+ "api": "1kings+20",
+ "sum": [
+  "Ben-hadad of Syria, with thirty and two kings, besieges Samaria and demands Ahab's silver, gold, wives and children; Ahab first yields, but when the demand widens to a search of every house, the elders and people say, \"Hearken not unto him, nor consent.\"",
+  "Ahab answers, \"Let not him that girdeth on his harness boast himself as he that putteth it off\"; a prophet promises the LORD will deliver the multitude \"and thou shalt know that I am the LORD\", and while Ben-hadad drinks at noon the young men of the provincial princes go out and Syria flees.",
+  "When Syria returns the next year, convinced that \"The LORD is God of the hills, but he is not God of the valleys\", a man of God promises another victory; Israel, like two little flocks of kids, defeats the Syrians in a great slaughter, and at Aphek a wall falls on those who fled.",
+  "Ahab spares the defeated Ben-hadad, calls him \"my brother\" and makes a covenant with him; a prophet disguised with ashes on his face traps him with a parable and announces, \"thy life shall go for his life, and thy people for his people\", so Ahab goes home \"heavy and displeased\"."
+ ],
+ "nug": [
+  {
+   "h": "Do not boast at the buckling on",
+   "b": "\"Let not him that girdeth on his harness boast himself as he that putteth it off\" (1 Kings 20:11). It is the wisest line Ahab speaks in the chapter: do not celebrate before the battle is done. Ben-hadad, drinking in his pavilion by noon, shows how right it is."
+  },
+  {
+   "h": "Grace aimed at making God known",
+   "b": "\"Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I am the LORD\" (1 Kings 20:13). The victory goes to a king who does not deserve it, because the purpose is that Ahab will know who the LORD is."
+  },
+  {
+   "h": "A God too small",
+   "b": "\"The LORD is God of the hills, but he is not God of the valleys\" (1 Kings 20:28). The Syrians shrink God to a region and a season. He answers so that they, and Israel, may know him as he is."
+  },
+  {
+   "h": "A brother, and a bargain",
+   "b": "\"Is he yet alive? he is my brother\" (1 Kings 20:32). Ahab spares an enemy the LORD had appointed for destruction, and treats it as diplomacy. Like Saul with Agag, mercy that overrides God's word is not really mercy."
+  },
+  {
+   "h": "Thyself hast decided it",
+   "b": "\"So shall thy judgment be; thyself hast decided it\" (1 Kings 20:40). As Nathan did with David, the prophet lets the king pass sentence on himself. Ahab hears the verdict and goes home sulking rather than repenting."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "1 Samuel 15:7-9 · 2 Samuel 12:1-7 · Proverbs 21:30-31",
+   "qs": [
+    {
+     "th": "In 1 Samuel 15 Saul spares Agag against the LORD's word, in 2 Samuel 12 Nathan traps David with a parable exactly as the disguised prophet traps Ahab, and Proverbs 21 says that no wisdom or counsel can stand against the LORD, and that the horse is prepared for battle but safety is of the LORD.",
+     "q": "Read these together. What do they show about who really decides the outcome of the battle, and what happens when a king trusts his own politics instead?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Ahab treats an enemy as a brother when it suits him, and then hears a parable that turns his own judgment against him. It is easy to be generous with what is not ours to give, and harsh with what is.",
+     "q": "Where are you quick to pass judgment on others but slow to apply the same standard to yourself? Is there a compromise you have made because it was convenient rather than because God said so?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Twice in this chapter God gives victory so that Israel will \"know that I am the LORD\" (1 Kings 20:13, 28). He wants to be known, even by a king who has not asked.",
+     "q": "Ask the Spirit to show you where God has been acting lately to make himself known to you. Are you noticing, or has it been passing you by like Ahab's victory?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The people of Samaria stood together when a tyrant demanded everything: the elders and all the people said, \"Hearken not unto him, nor consent\" (1 Kings 20:8). Intercession is another way of standing together against what threatens people.",
+     "q": "Pray for people living under siege or threat today, for leaders who must make hard decisions, and for those who speak unwelcome truth to the powerful. Ask that mercy and obedience to God would not be pulled apart in their choices, as they were for Ahab."
+    }
+   ]
+  }
+ ]
+},
+// Day 724
+{
+ "ref": "Job 6",
+ "tag": "Psalms & Wisdom",
+ "api": "job+6",
+ "sum": [
+  "Job answers Eliphaz by saying that his grief, if weighed, would be \"heavier than the sand of the sea\", and that \"the arrows of the Almighty are within me\", which is why his words have been so wild.",
+  "He longs for God to let loose his hand and cut him off, which would still be a comfort because he has not \"concealed the words of the Holy One\", and asks what strength he has left to hope or to go on living.",
+  "He accuses his friends of failing him: \"To him that is afflicted pity should be shewed from his friend\", but they are like seasonal streams that vanish in the heat and leave the caravans of Tema and Sheba ashamed of their hope.",
+  "Job asks for honest teaching rather than pious argument: \"Teach me, and I will hold my tongue: and cause me to understand wherein I have erred\", and he pleads with them to look at him and see whether he is lying."
+ ],
+ "nug": [
+  {
+   "h": "Grief on the scales",
+   "b": "\"For now it would be heavier than the sand of the sea: therefore my words are swallowed up\" (Job 6:3). Job does not apologise for his wild words. He explains them by the weight of what he carries."
+  },
+  {
+   "h": "Complaints have causes",
+   "b": "\"Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?\" (Job 6:5). Animals cry out when something is wrong, and so does Job. It is a caution to anyone tempted to hear another person's pain as mere complaining."
+  },
+  {
+   "h": "What a friend owes",
+   "b": "\"To him that is afflicted pity should be shewed from his friend\" (Job 6:14). Job names what friendship owes the suffering: not an explanation but kindness."
+  },
+  {
+   "h": "Streams that disappear",
+   "b": "\"My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away\" (Job 6:15). Comforters who are full of words in winter dry up in the heat, and travellers who looked for water \"were confounded because they had hoped\" (Job 6:20)."
+  },
+  {
+   "h": "Teach me, and I will hold my tongue",
+   "b": "\"Teach me, and I will hold my tongue: and cause me to understand wherein I have erred\" (Job 6:24). Job is not closed to correction; he asks for it. What he cannot bear is \"arguing\" that does not really listen to him."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Job 2:11-13 · Proverbs 17:17 · Romans 12:15",
+   "qs": [
+    {
+     "th": "In Job 2 the friends' finest hour was sitting with him seven days and nights in silence, Proverbs 17 says a friend loves at all times and a brother is born for adversity, and Romans 12 tells us to \"weep with them that weep\".",
+     "q": "Read these together. What is the difference between being present with someone in pain and having answers for them, and which does Job long for here?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Job does not ask his friends to solve his suffering, only to show him pity. Many of us hurry to explain or fix because sitting with pain feels unbearable.",
+     "q": "Think of someone who is hurting now. Do they need answers from you, or your presence? Have you ever been a dry brook to someone, and what would it cost you to stay?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Job says, \"Teach me, and I will hold my tongue\" (Job 6:24), willing to be silent if only someone would speak truly. Jesus called the Spirit the Comforter, the one who stays beside us.",
+     "q": "Ask the Spirit whether there is someone whose pain you have rushed to fix, and whether you have been rushing to fix your own instead of letting God sit with you in it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Job says, \"...therefore my words are swallowed up\" (Job 6:3). Pain sometimes runs beyond words, and prayer can too.",
+     "q": "Spend a few minutes in complete silence before God. You do not need to find words. If a thought, a name or a verse rises, simply receive it, and if nothing comes, let that be enough."
+    }
+   ]
+  }
+ ]
+},
+// Day 725
+{
+ "ref": "1 Kings 21",
+ "tag": "Old Testament",
+ "api": "1kings+21",
+ "sum": [
+  "Ahab wants Naboth's vineyard next to his palace for a garden of herbs, but Naboth refuses: \"The LORD forbid it me, that I should give the inheritance of my fathers unto thee.\" Ahab goes home sulking, lies on his bed with his face turned away and will eat no bread.",
+  "Jezebel takes charge: she writes letters in Ahab's name under his seal, has a fast proclaimed and two men of Belial set to swear that Naboth blasphemed God and the king; Naboth is stoned, and Jezebel tells Ahab to take the vineyard.",
+  "The LORD sends Elijah to meet Ahab in the vineyard with the question, \"Hast thou killed, and also taken possession?\" Ahab replies, \"Hast thou found me, O mine enemy?\" and Elijah announces judgment on Ahab's house and on Jezebel.",
+  "Ahab tears his clothes, puts on sackcloth, fasts and goes softly, and the LORD says to Elijah, \"Seest thou how Ahab humbleth himself before me?\" and holds back the disaster until the days of Ahab's son."
+ ],
+ "nug": [
+  {
+   "h": "The inheritance of my fathers",
+   "b": "\"The LORD forbid it me, that I should give the inheritance of my fathers unto thee\" (1 Kings 21:3). Naboth's refusal is not stubbornness. Under the law, family land was a trust from the LORD that could not be sold away for good."
+  },
+  {
+   "h": "Sulking that hands power to another",
+   "b": "\"Dost thou now govern the kingdom of Israel? arise, and eat bread, and let thine heart be merry\" (1 Kings 21:7). Ahab does not order the crime; he lets Jezebel commit it in his name and asks no questions. Passivity can be its own complicity."
+  },
+  {
+   "h": "A fast as a cover",
+   "b": "\"They proclaimed a fast, and set Naboth on high among the people\" (1 Kings 21:12). Religious form, elders, witnesses and a trial are used to dress up a murder. The chapter is honest about how respectable evil can look."
+  },
+  {
+   "h": "The question that names both",
+   "b": "\"Hast thou killed, and also taken possession?\" (1 Kings 21:19). The LORD refers to the act and the profit, and he holds Ahab accountable for both. Nothing has been hidden from him."
+  },
+  {
+   "h": "Humbling before the LORD",
+   "b": "\"Seest thou how Ahab humbleth himself before me?\" (1 Kings 21:29). Even for Ahab, whom the chapter has described as one who did \"sell himself to work wickedness\" (1 Kings 21:25), the LORD responds to a humbled heart. That should sober us and encourage us in equal measure."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Leviticus 25:23-28 · Micah 2:1-2 · 2 Chronicles 33:12-13",
+   "qs": [
+    {
+     "th": "Leviticus 25 says the land is the LORD's and cannot be sold for ever, so Naboth is obeying the law; Micah 2 condemns those who lie awake planning evil and \"covet fields, and take them by violence\"; and 2 Chronicles 33 shows another wicked king, Manasseh, humbling himself and being heard.",
+     "q": "Read these together. How do they help you understand both what Ahab and Jezebel did and the surprising mercy that meets even a king like Ahab when he humbles himself?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Ahab's sin begins with wanting, and then becomes staying silent while another does the dirty work. Most of us are tempted less by open cruelty than by benefiting from what we would rather not look at closely.",
+     "q": "What \"vineyard\" do you want that belongs to someone else, such as time, credit, position or peace? Is there something you benefit from now that you have chosen not to ask about?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Ahab \"went softly\" (1 Kings 21:27) after Elijah's words. Conviction from God is meant to lead us to humility and mercy, not to despair.",
+     "q": "Ask the Spirit to show you, gently and specifically, anything you need to face. Notice whether the conviction you feel draws you towards God or away from him."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Hast thou killed, and also taken possession?\" (1 Kings 21:19). True confession, like the prophet's question, names both the act and what we gained by it.",
+     "q": "Confess plainly, without excuse, one thing you have taken, wanted or gone along with that was not right. Then receive the mercy that God showed even to Ahab when he humbled himself."
+    }
+   ]
+  }
+ ]
+},
+// Day 726
+{
+ "ref": "Acts 15",
+ "tag": "New Testament",
+ "api": "acts+15",
+ "sum": [
+  "Men from Judea teach that \"Except ye be circumcised after the manner of Moses, ye cannot be saved\", and after \"no small dissension and disputation\" Paul and Barnabas are sent to Jerusalem, telling of the conversion of the Gentiles on the way, to great joy.",
+  "At the council Peter recalls that God gave the Gentiles the Holy Ghost, \"put no difference between us and them, purifying their hearts by faith\", and says \"we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.\"",
+  "After Barnabas and Paul tell of the wonders among the Gentiles, James cites the prophets and gives his judgment \"that we trouble not them, which from among the Gentiles are turned to God\"; a letter is sent saying \"it seemed good to the Holy Ghost, and to us\", and Antioch rejoices.",
+  "Later, over whether to take John Mark, \"the contention was so sharp between them, that they departed asunder\": Barnabas sails to Cyprus with Mark, and Paul goes through Syria and Cilicia with Silas, \"confirming the churches\"."
+ ],
+ "nug": [
+  {
+   "h": "Jesus plus something",
+   "b": "\"Except ye be circumcised after the manner of Moses, ye cannot be saved\" (Acts 15:1). The question is whether salvation needs anything added to Jesus. The council will say it does not."
+  },
+  {
+   "h": "Saved by grace, even as they",
+   "b": "\"But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they\" (Acts 15:11). Notice the direction of Peter's sentence: it is the Jew who is saved in the same way as the Gentile, not the other way round."
+  },
+  {
+   "h": "A people for his name",
+   "b": "\"Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name\" (Acts 15:14). James reads what is happening through the prophets, so the decision rests on Scripture as well as on experience. Notice too that \"all the multitude kept silence\" (Acts 15:12) while Barnabas and Paul spoke: the church listened before it decided."
+  },
+  {
+   "h": "Good to the Holy Ghost, and to us",
+   "b": "\"For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things\" (Acts 15:28). The church discerns together and sends the answer in a letter that lifts a burden rather than adding one."
+  },
+  {
+   "h": "A sharp contention",
+   "b": "\"And the contention was so sharp between them, that they departed asunder one from the other\" (Acts 15:39). Luke records the split without excuse or comment. God still works through both teams, and Mark is later spoken of by Paul as useful to him."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Amos 9:11-12 · Galatians 2:1-10 · 2 Timothy 4:11",
+   "qs": [
+    {
+     "th": "James quotes Amos 9 about the tabernacle of David being rebuilt so that the Gentiles seek the LORD; Galatians 2 is Paul's own account of taking the Gentile question to Jerusalem; and 2 Timothy 4 has Paul asking for Mark: \"Take Mark, and bring him with thee: for he is profitable to me for the ministry.\"",
+     "q": "Read these together. How do they show God both settling the great question of grace and healing the personal breach that followed it?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Acts 15 shows two kinds of disagreement: a doctrinal one settled by listening, Scripture and the Spirit, and a personal one that ends in separation. Both are honestly recorded.",
+     "q": "Which is nearer to your situation: a question that needs the gathered wisdom of others, or a relationship where sharp words have divided people? What would one gracious next step look like?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The letter says, \"For it seemed good to the Holy Ghost, and to us\" (Acts 15:28). The Spirit guided the church through shared listening, not just private impressions.",
+     "q": "Ask the Spirit how you can hold your convictions with both firmness and openness to others, and whether there is someone you need to listen to more carefully before deciding."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they\" (Acts 15:11).",
+     "q": "Thank God that salvation is by grace and not by anything we add. Thank him for the people who fought for the good news to reach outsiders, for the ones who went on confirming the churches, and for anyone who has quietly lifted burdens off you."
+    }
+   ]
+  }
+ ]
+},
+// Day 727
+{
+ "ref": "Job 7",
+ "tag": "Psalms & Wisdom",
+ "api": "job+7",
+ "sum": [
+  "Job compares human life to a hired labourer's service, with \"months of vanity\" and wearisome nights, restless tossing until the dawn and a body clothed with worms and clods of dust.",
+  "His days are \"swifter than a weaver's shuttle, and are spent without hope\"; he begs God, \"O remember that my life is wind\", and expects to vanish like a cloud.",
+  "Refusing to hold back, he says \"I will speak in the anguish of my spirit; I will complain in the bitterness of my soul\", and asks whether he is a sea or a sea monster that God should set a watch over him, since even his dreams terrify him.",
+  "He asks bitterly, \"What is man, that thou shouldest magnify him?\", wonders why God will not look away or pardon, calls him \"O thou preserver of men\", and ends, \"thou shalt seek me in the morning, but I shall not be.\""
+ ],
+ "nug": [
+  {
+   "h": "An hireling's days",
+   "b": "\"Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?\" (Job 7:1). Job sees life as hard, hired service with no rest in sight."
+  },
+  {
+   "h": "The long night",
+   "b": "\"When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day\" (Job 7:4). Anyone who has lain awake in pain will recognise it, and Scripture does not sanitise the experience."
+  },
+  {
+   "h": "Complaint spoken to God",
+   "b": "\"Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul\" (Job 7:11). In chapter 6 Job spoke to his friends; from here he turns more and more to speak straight to God."
+  },
+  {
+   "h": "Psalm 8 turned inside out",
+   "b": "\"What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?\" (Job 7:17). In Psalm 8 the same question is asked in wonder; here Job asks it in pain, as God seems to visit him \"every morning\" only to try him."
+  },
+  {
+   "h": "Still a preserver",
+   "b": "\"I have sinned; what shall I do unto thee, O thou preserver of men?\" (Job 7:20). In the middle of his accusation Job still calls God a preserver. Faith survives in his complaint, in a small and battered form."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Psalm 8:3-4 · Lamentations 3:22-23 · Hebrews 4:14-16",
+   "qs": [
+    {
+     "th": "Psalm 8 asks Job's question in wonder that God cares for us, Lamentations 3 says his mercies are new every morning, the very time Job dreads a visit, and Hebrews 4 says we have a high priest who is touched with the feeling of our infirmities.",
+     "q": "Read these together. How can the same attentive God feel like scrutiny in pain and like tender care in wonder, and how do these passages help you hold both?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Job's honesty about sleepless nights and weary days gives us permission to be honest too. If you are carrying darker thoughts than tiredness, please tell a trusted person or a doctor today rather than carrying them alone.",
+     "q": "What would it look like to bring your real feelings about this season to God this week, in the same plain words Job uses, rather than a tidier version?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Job says, \"O remember that my life is wind\" (Job 7:7), asking God to notice how fragile he is. The Spirit intercedes for us with groanings that words cannot say.",
+     "q": "Ask the Spirit to pray in you where you have no words, and to help you trust that God sees your frailty and is not against you."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Even in Job's darkest speech he calls God \"O thou preserver of men\" (Job 7:20).",
+     "q": "Adore God as the one who preserves you through the long night and the weary day. You do not need to feel joyful. Let your honest words be the first breath of praise, and rest in who he is rather than how things feel."
+    }
+   ]
+  }
+ ]
+},
+// Day 728
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "A still small voice",
+   "b": "\"...and after the fire a still small voice\" (1 Kings 19:12). This week began with a prophet worn out under a juniper tree, and it was in quietness rather than storm that God met him."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read Elijah's flight and the still small voice at Horeb (1 Kings 19), Ahab's victories over Ben-hadad and the mistake of sparing him (1 Kings 20), Job's answer to Eliphaz about friends like dry streams (Job 6), Naboth's vineyard (1 Kings 21), the Jerusalem council and the sharp parting of Paul and Barnabas (Acts 15), and Job's cry that his life is wind (Job 7). You have now read Acts 13-15, from Paul and Barnabas being sent out from Antioch to the council in Jerusalem. Next come 1 Kings 22 and 2 Kings 1.",
+     "q": "Which scene stays with you most this week: Elijah being told \"Arise and eat\" (1 Kings 19:5), Naboth saying \"The LORD forbid it me\" (1 Kings 21:3), Job asking \"Teach me, and I will hold my tongue\" (Job 6:24), or the council saying \"it seemed good to the Holy Ghost, and to us\" (Acts 15:28)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Arise and eat; because the journey is too great for thee\" (1 Kings 19:7).",
+     "q": "Sit quietly for a moment and let yourself be fed and rested as Elijah was, with nothing to prove and nowhere yet to go."
+    }
+   ]
+  }
+ ]
+},
+// Day 729
+{
+ "ref": "1 Kings 22",
+ "tag": "Old Testament",
+ "api": "1kings+22",
+ "sum": [
+  "After three years of peace, Ahab asks Jehoshaphat of Judah to join him in retaking Ramoth-gilead; Jehoshaphat agrees, \"I am as thou art, my people as thy people\", but asks, \"Enquire, I pray thee, at the word of the LORD to day.\"",
+  "About four hundred prophets say \"Go up\", and Zedekiah makes horns of iron; Jehoshaphat asks for another prophet, and Ahab names Micaiah: \"I hate him; for he doth not prophesy good concerning me, but evil.\"",
+  "Micaiah first echoes the crowd, then speaks of Israel \"scattered upon the hills, as sheep that have not a shepherd\" and of a vision of the LORD on his throne in which a spirit will be \"a lying spirit in the mouth of all his prophets\"; Zedekiah strikes him, and Ahab sends him to prison on \"bread of affliction and ... water of affliction\".",
+  "Ahab disguises himself, but \"a certain man drew a bow at a venture\" and he dies in his chariot, with the dogs licking up his blood \"according unto the word of the LORD\"; the chapter and the book of 1 Kings close with Jehoshaphat's reign and Ahaziah, who \"did evil in the sight of the LORD\"."
+ ],
+ "nug": [
+  {
+   "h": "Enquire at the word of the LORD",
+   "b": "\"Enquire, I pray thee, at the word of the LORD to day\" (1 Kings 22:5). Jehoshaphat has the right instinct, but he has already committed himself to Ahab's war before he asks. Seeking God after the decision is made is a risky order."
+  },
+  {
+   "h": "With one mouth",
+   "b": "\"Behold now, the words of the prophets declare good unto the king with one mouth\" (1 Kings 22:13). Four hundred voices in agreement are not a sign of truth, especially when every one of them profits from the king's favour."
+  },
+  {
+   "h": "What the LORD saith",
+   "b": "\"As the LORD liveth, what the LORD saith unto me, that will I speak\" (1 Kings 22:14). Micaiah then describes the LORD on his throne and Ahab's chance to hear the truth. The passage does not explain everything about the lying spirit, but it shows that Ahab had been told plainly, and chose the words he preferred."
+  },
+  {
+   "h": "An arrow at a venture",
+   "b": "\"And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness\" (1 Kings 22:34). The disguise fails, and what looks like chance is not outside God's word. The dogs at the pool match Elijah's word about Naboth's vineyard (1 Kings 22:38)."
+  },
+  {
+   "h": "The end of 1 Kings",
+   "b": "This chapter completes the book of 1 Kings, which began with David's old age and ends with two kings, one good in the main and one who \"did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother\" (1 Kings 22:52). The story does not stop here; 2 Kings takes it straight on, and the next reading begins there."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Chronicles 18:12-22 · Jeremiah 23:16-18 · 2 Timothy 4:3-4",
+   "qs": [
+    {
+     "th": "2 Chronicles 18 gives a parallel account of Micaiah's vision, Jeremiah 23 warns against prophets who speak visions of their own heart and say peace where there is none, and 2 Timothy 4 says a time will come when people will heap up teachers to suit their itching ears.",
+     "q": "Read these together. What do they say about the danger of surrounding ourselves with voices that only tell us what we want to hear, and about the cost of being the one who speaks the truth?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Ahab has four hundred voices that agree with him and one that does not, and he hates the one. Most of us collect agreeable voices without really meaning to.",
+     "q": "Who around you tells you what you want to hear, and who tells you the truth? Do you welcome the second, or do you find yourself, like Ahab, wanting to send them away?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jehoshaphat asks, \"Is there not here a prophet of the LORD besides, that we might enquire of him?\" (1 Kings 22:7). Something in him was not satisfied by the agreement of the crowd.",
+     "q": "Ask the Spirit for that same sense of \"besides\", the quiet discernment that says a thing is too smooth. Where might he be asking you to test what you have been told, or what you have been telling yourself?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Micaiah was fed \"bread of affliction and ... water of affliction\" (1 Kings 22:27) for speaking the truth to a king. Some people still pay a price for saying what others do not want to hear.",
+     "q": "Pray for those who speak truth at cost today, such as pastors, journalists, whistleblowers and friends who risk your displeasure. Pray for leaders surrounded by flatterers, that they would find one honest voice and listen, and for Jehoshaphat-like leaders who ally themselves unwisely, that they would find their way back."
+    }
+   ]
+  }
+ ]
+},
+// Day 730
+{
+ "ref": "2 Kings 1",
+ "tag": "Old Testament",
+ "api": "2kings+1",
+ "sum": [
+  "After Ahab's death Moab rebels, and Ahaziah falls through a lattice in his upper chamber in Samaria and, sick, sends messengers to enquire of Baal-zebub, the god of Ekron, whether he will recover.",
+  "The angel of the LORD sends Elijah to meet them with the question, \"Is it not because there is not a God in Israel\" that the king goes elsewhere, and the verdict that he will not come down from his bed; the king recognises the description of \"an hairy man, and girt with a girdle of leather\" as Elijah the Tishbite.",
+  "Two captains of fifty, each with fifty men, command Elijah to come down, and fire from heaven consumes them; the third captain falls on his knees and pleads that his life and his men's lives be \"precious in thy sight\", and the angel tells Elijah, \"Go down with him: be not afraid of him.\"",
+  "Elijah delivers the message to Ahaziah's face, and \"he died according to the word of the LORD which Elijah had spoken\", with Jehoram reigning in his place. The chapter is the last day of this two-year reading, closing on a word spoken and a word fulfilled, and the story runs on beyond it."
+ ],
+ "nug": [
+  {
+   "h": "Where do you go to enquire?",
+   "b": "\"Is it not because there is not a God in Israel\" (2 Kings 1:3). Ahaziah, hurt and afraid, reaches for a foreign god rather than the LORD. After two years of turning each day to the Scriptures, the question is a fitting one on which to finish: where do you go first when you need help?"
+  },
+  {
+   "h": "Fire from heaven, and a sober reading",
+   "b": "\"If I be a man of God, then let fire come down from heaven, and consume thee and thy fifty\" (2 Kings 1:10). This is a hard passage, and it does not need sanitising. Armed men come to summon a prophet with \"the king hath said, Come down\", putting the king's word above God's, and the LORD's answer is severe. Jesus later refused to call down such fire (Luke 9:54-56)."
+  },
+  {
+   "h": "The captain who knelt",
+   "b": "\"O man of God, I pray thee, let my life, and the life of these fifty thy servants, be precious in thy sight\" (2 Kings 1:13). The third captain arrives with humility instead of demands, and it makes all the difference. The Bible's long story keeps showing how much depends on how a person comes."
+  },
+  {
+   "h": "Be not afraid of him",
+   "b": "\"Go down with him: be not afraid of him\" (2 Kings 1:15). The same God who once told a frightened prophet to arise and eat now sends him with a word of courage. Across two years of reading, that voice has said something like this again and again."
+  },
+  {
+   "h": "A word fulfilled",
+   "b": "\"So he died according to the word of the LORD which Elijah had spoken\" (2 Kings 1:17). From Genesis 1 to here, what has proved steadiest is that the word of the LORD is true and does what it says. This is a finish line for this plan and also a doorway: the story goes on, and the Word is deeper than any two years of reading can reach."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Luke 9:51-56 · Malachi 4:5-6 · Matthew 3:1-4",
+   "qs": [
+    {
+     "th": "In Luke 9 James and John want to call down fire as Elijah did, and Jesus turns and rebukes them; Malachi 4 promises that the LORD will send Elijah the prophet before the great day; and Matthew 3 describes John the Baptist, who in his \"leathern girdle\" looks very much like the hairy man of 2 Kings 1.",
+     "q": "Read these together. Looking back over two years of reading, from Genesis to the Gospels to here, what threads have you noticed tying the old to the new, as Elijah's leather girdle reappears in John's?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Ahaziah on his sickbed reached for the nearest source of help rather than the LORD. Two years of daily reading have been, in their way, a long practice of turning first to God.",
+     "q": "What habit or rhythm has quietly formed in you across these two years? What would it look like to keep turning to God first once the daily schedule no longer prompts you?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The angel of the LORD directs Elijah at each turn of this chapter. Jesus said the Spirit \"shall teach you all things\" (John 14:26), and two years of reading are only as good as what the Spirit does with them.",
+     "q": "Ask the Spirit which passage from these two years he is bringing back to you now, and what he is inviting you to do with it. Then ask him to keep the Word alive in you long after this plan closes."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"So he died according to the word of the LORD which Elijah had spoken\" (2 Kings 1:17). In the last verses of the last day, a word from God proves true. Over two years you have read through the Pentateuch, Joshua, Judges, Ruth, 1 and 2 Samuel and 1 Kings, the four Gospels and Acts 1-15, the whole book of Psalms, Proverbs, Ecclesiastes, the Song of Solomon and the opening of Job, and there is far more of the Bible still ahead.",
+     "q": "Thank God for what he has shown you across these two years. Name one or two specific passages or moments, thank him for the daily bread of his Word, and thank him for the Scripture still to come, because the end of this plan is not the bottom of the well."
+    }
+   ]
+  }
+ ]
+},
 ];
