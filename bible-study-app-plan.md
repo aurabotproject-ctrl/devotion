@@ -363,6 +363,14 @@ Once you confirm these, I'll generate the full 730-day reading schedule and buil
 - Every KJV quote was checked against a local KJV text and against the live text the app itself uses (bible-api.com), including exact casing of "LORD"/"GOD" (one correction — "GOD" in 2 Samuel 12:22) and the app's spelling of "Judaea" (Acts 1:8). All cross-references in the new days resolve.
 - **Not built yet (as of v27):** the rest of Year 2 (days 687–730), calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
 
+### Three more weeks of Year 2 built — 1 Kings 4–12, Acts 10–12, Song of Solomon completed, Job begun (v28)
+- `data-year2.js` now holds days 366–707 — Year 2's first fifty weeks.
+- **OT track:** 1 Kings 4 → 12 — Solomon's wisdom and administration, the alliance with Hiram, the building of the temple and Jachin and Boaz, the ark brought in and Solomon's dedication prayer, the LORD's second appearance, the Queen of Sheba, Solomon's foreign wives and decline, and the kingdom torn in two under Rehoboam and Jeroboam. 1 Kings 13 onwards comes next.
+- **NT track:** Acts 10 → 12 — Cornelius and Peter's vision, the gospel to the Gentiles and the church at Antioch, and Peter's escape from prison. Acts 13 onwards comes next.
+- **Wisdom track:** Song of Solomon 4 → 8 — **completing the Song of Solomon** (day 703) — then Job 1, the opening of the book of Job.
+- Every KJV quote was checked against a local KJV text and against the live text the app itself uses (bible-api.com), including exact casing of "LORD"/"GOD" (one casing fix) and one wording fix to match the app's text in 1 Kings 7:21. All cross-references resolve.
+- **Not built yet (as of v28):** the last stretch of Year 2 (days 708–730), calendar/progress view, "My Notes" search/filter, export/import JSON, weekly Breaking of Bread prompt, offline Bible text bundling, header images beyond the four already wired up (Section 8's open questions are still open).
+
 ### Images (v5) — kept in `data-images.js`
 - `data-images.js` — `const IMAGES={hero, passage, nuggets, prayer}`. Each entry is `{src, alt, pos?}`: `src` is the image embedded as a data URI (WebP, 1400px wide, about 700 KB in total), `alt` is the screen-reader description, `pos` is an optional CSS `object-position` so the important part of the picture survives cropping. **All images used by the app live in this file; `index.html` contains none.** Loaded by a plain `<script src>` before the main script, so it still works by double-click.
 - The first four prompts from Section 7 are used, in order:

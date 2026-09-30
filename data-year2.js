@@ -24832,4 +24832,1632 @@ const YEAR2=[
   }
  ]
 },
+// Day 687
+{
+ "ref": "1 Kings 4",
+ "tag": "Old Testament",
+ "api": "1kings+4",
+ "sum": [
+  "Solomon is king over all Israel, and the chapter lists his princes and the twelve officers who each provided food for the king's household for one month of the year.",
+  "Judah and Israel are as many as the sand by the sea, and Solomon's rule stretches from the river to the border of Egypt, so that \"he had peace on all sides round about him\" and every man sat under his own vine and fig tree.",
+  "The daily provision for Solomon's table is counted out, along with forty thousand stalls of horses for his chariots and twelve thousand horsemen.",
+  "God gives Solomon wisdom and largeness of heart, greater than that of all the east country and Egypt; he speaks three thousand proverbs and a thousand and five songs, and people come from all the kings of the earth to hear him."
+ ],
+ "nug": [
+  {
+   "h": "Peace on all sides",
+   "b": "\"And he had peace on all sides round about him\" (1 Kings 4:24). This is the fruit of David's wars and of God's promise, and Solomon inherits a kingdom at rest, ready for the great building work to come. 1 Kings 4 opens the long account of his reign, which runs through chapter 11."
+  },
+  {
+   "h": "Under his vine and fig tree",
+   "b": "\"And Judah and Israel dwelt safely, every man under his vine and under his fig tree\" (1 Kings 4:25). Ordinary security, a home, a vine and a fig tree, is the picture of what a well-ruled land looks like."
+  },
+  {
+   "h": "Wisdom as a gift",
+   "b": "\"And God gave Solomon wisdom and understanding exceeding much, and largeness of heart\" (1 Kings 4:29). The text is careful to say that the wisdom was given. Solomon's greatness is presented as God's gift before it is Solomon's achievement."
+  },
+  {
+   "h": "Proverbs and songs",
+   "b": "\"And he spake three thousand proverbs: and his songs were a thousand and five\" (1 Kings 4:32). Some of that output is preserved for us in the books of Proverbs and Song of Solomon, both of which sit in our reading this year."
+  },
+  {
+   "h": "A note of warning in the abundance",
+   "b": "\"And Solomon had forty thousand stalls of horses for his chariots\" (1 Kings 4:26). Read beside the king's law in Deuteronomy 17:16, \"he shall not multiply horses to himself,\" the number is quietly troubling. The text records the splendour and lets the reader keep watching."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 17:16-17 · Proverbs 2:1-6 · James 1:5",
+   "qs": [
+    {
+     "th": "Deuteronomy sets limits for a king, including on horses and wives, Proverbs describes wisdom as something sought and received from the LORD, and James invites anyone who lacks wisdom to ask God for it.",
+     "q": "Read these together and ask how a gift as large as Solomon's wisdom can still leave a person exposed. What does it mean to receive wisdom and also to stay under the word of God?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Solomon's kingdom lacked nothing: peace, food, fame and wisdom. Abundance is a gift, and it can also slowly loosen our dependence on the Giver.",
+     "q": "Where has comfort or competence in your own life made it easier to rely on yourself, and less on God, than you used to?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"And God gave Solomon wisdom and understanding exceeding much\" (1 Kings 4:29).",
+     "q": "Ask the Holy Spirit for the kind of wisdom that begins with receiving. Ask him to show you one decision in front of you this week where you need it, and wait on him rather than hurrying past it."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Solomon's stalls of horses, counted so proudly in 1 Kings 4:26, remind us how easily we trust what we can count and store up.",
+     "q": "Confess to God where you have trusted your resources, your plans or your own cleverness in place of him, and where you have treated his gifts as if they were your own achievements. Receive his forgiveness, and ask for a heart that stays dependent."
+    }
+   ]
+  }
+ ]
+},
+// Day 688
+{
+ "ref": "1 Kings 5",
+ "tag": "Old Testament",
+ "api": "1kings+5",
+ "sum": [
+  "Hiram king of Tyre, who had always loved David, sends servants to Solomon on hearing that he is king, and Solomon replies that David could not build a house for the LORD because of his wars, but that now the LORD has given rest on every side.",
+  "Solomon announces his purpose to build the house the LORD promised David's son would build, and asks Hiram for cedar out of Lebanon, for Hiram's servants are skilled at hewing timber.",
+  "Hiram rejoices, saying \"Blessed be the LORD this day,\" and agrees to provide cedar and fir, floated down to the sea, while Solomon sends wheat and oil year by year, and \"there was peace between Hiram and Solomon.\"",
+  "Solomon raises a levy of thirty thousand men, sent to Lebanon in shifts of ten thousand a month, with seventy thousand burden bearers and eighty thousand hewers, and great costly stones are quarried for the foundation of the house."
+ ],
+ "nug": [
+  {
+   "h": "Rest given by the LORD",
+   "b": "\"But now the LORD my God hath given me rest on every side\" (1 Kings 5:4). Solomon reads his peace as God's doing, and as an opening: the rest is given so that the house can be built."
+  },
+  {
+   "h": "A promise being kept",
+   "b": "Solomon says he will build \"as the LORD spake unto David my father\" (1 Kings 5:5). The temple is not a whim of a wealthy king. It is the fulfilment of a word that God gave through Nathan to David."
+  },
+  {
+   "h": "Blessing from an unexpected voice",
+   "b": "\"Blessed be the LORD this day, which hath given unto David a wise son over this great people\" (1 Kings 5:7). It is Hiram, a Gentile king, who praises the LORD here, an early hint that God's house will matter for the nations."
+  },
+  {
+   "h": "Wisdom and peace together",
+   "b": "\"And the LORD gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon\" (1 Kings 5:12). Wisdom is shown practically, in a treaty that benefits two nations."
+  },
+  {
+   "h": "The cost carried by others",
+   "b": "\"And king Solomon raised a levy out of all Israel\" (1 Kings 5:13). The temple rises on the labour of tens of thousands, and the honest reader notes that the burden will come back to trouble the nation when the kingdom divides in chapter 12."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Samuel 7:12-13 · 1 Chronicles 22:7-10 · Psalm 127:1",
+   "qs": [
+    {
+     "th": "Nathan's promise in 2 Samuel says David's son will build a house for God's name, David explains in Chronicles why the task passed to Solomon, and Psalm 127, headed as Solomon's, warns that unless the LORD builds the house those who build labour in vain.",
+     "q": "Read these together and ask what they teach about who is really the builder in this chapter. How do human planning and effort fit with God's promise?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Solomon took what God had promised and set about the practical work of timber, workers and payment.",
+     "q": "Where is God asking you to move from waiting to organising and doing? Is there a promise or calling you have been holding without taking any practical step?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Hiram loved David and blessed God, though he was outside Israel. God brings help from unexpected people.",
+     "q": "Ask the Spirit to open your eyes to the people God has placed around you as help, including some you might not have expected. Who has he sent, and have you noticed?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"But now the LORD my God hath given me rest on every side\" (1 Kings 5:4).",
+     "q": "Give thanks for the seasons of rest God has given you, for the skilled and generous people who have made your work possible, and for the promises he has kept through the years. Name them one by one."
+    }
+   ]
+  }
+ ]
+},
+// Day 689
+{
+ "ref": "Song of Solomon 4",
+ "tag": "Psalms & Wisdom",
+ "api": "songofsolomon+4",
+ "sum": [
+  "The bridegroom praises his bride at length, beginning \"Behold, thou art fair, my love; behold, thou art fair,\" using pictures of doves, flocks and towers, and says \"Thou art all fair, my love; there is no spot in thee.\"",
+  "He invites her to come away from the lions' dens and the mountains of the leopards, and says she has \"ravished\" his heart with one glance of her eyes.",
+  "He says her love is better than wine, and calls her \"a garden inclosed,\" \"a spring shut up, a fountain sealed,\" full of pleasant fruits and spices.",
+  "She answers with an invitation: \"Awake, O north wind; and come, thou south; blow upon my garden,\" and asks that her beloved come into his garden and eat his pleasant fruits."
+ ],
+ "nug": [
+  {
+   "h": "Praise spoken aloud",
+   "b": "\"Behold, thou art fair, my love; behold, thou art fair\" (Song of Solomon 4:1). The Song delights in speaking love out loud, and the poetry is lavish because the love is. God has made us to be affirmed as well as to be told what to do."
+  },
+  {
+   "h": "No spot in thee",
+   "b": "\"Thou art all fair, my love; there is no spot in thee\" (Song of Solomon 4:7). Paul uses the same picture of the church in Ephesians 5:27, presented to Christ \"not having spot, or wrinkle,\" so the verse is often heard as a picture of what Christ's love makes of his people."
+  },
+  {
+   "h": "The garden and the sealed fountain",
+   "b": "\"A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed\" (Song of Solomon 4:12). A garden set apart is precious and kept for the one she loves. It speaks of faithfulness and of the giving of oneself freely and not carelessly."
+  },
+  {
+   "h": "A well of living waters",
+   "b": "\"A fountain of gardens, a well of living waters\" (Song of Solomon 4:15). Life-giving water is a striking picture of what love brings, and Jesus later uses the same words for what he gives."
+  },
+  {
+   "h": "Her own invitation",
+   "b": "\"Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out\" (Song of Solomon 4:16). The garden is opened by her own gift and welcome, so that love is offered freely and never taken."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Ephesians 5:25-27 · John 4:10-14 · Isaiah 58:11",
+   "qs": [
+    {
+     "th": "Paul says Christ loved the church and gave himself for it so that he might present it to himself without spot, Jesus offers living water to the woman at the well, and Isaiah promises a watered garden to those who pour themselves out for others.",
+     "q": "Read these together and ask how the garden, the spring and the spotless bride in the Song shed light on Christ's love for his people. What does it mean to be loved this thoroughly?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Song shows a love that sees clearly and speaks warmly, and a beloved who is free to give herself.",
+     "q": "Whom in your life do you need to encourage aloud today, and who has spoken love to you that you have failed to receive?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The bride says, \"blow upon my garden, that the spices thereof may flow out\" (Song of Solomon 4:16).",
+     "q": "Ask the Holy Spirit to blow on the garden of your life, and to bring out fragrance that is Christ's and not your own. What in you needs to be opened to him?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"How fair is thy love, my sister, my spouse! how much better is thy love than wine!\" (Song of Solomon 4:10).",
+     "q": "Take the language of delight in this chapter and turn it toward Christ, who loved the church and gave himself for it. Adore him for the beauty of his love, his faithfulness, and the way he makes his people clean. Say it in your own words, and stay with it."
+    }
+   ]
+  }
+ ]
+},
+// Day 690
+{
+ "ref": "1 Kings 6",
+ "tag": "Old Testament",
+ "api": "1kings+6",
+ "sum": [
+  "The building of the temple begins in the four hundred and eightieth year after the exodus, in the fourth year of Solomon's reign, and the chapter gives the size of the house, its porch, windows and side chambers.",
+  "The stone was prepared before it was brought, so that \"there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building,\" and the LORD speaks to Solomon: if he walks in his statutes, God will perform his word and dwell among Israel.",
+  "The inside is lined with cedar carved with knops and open flowers, and the oracle, the most holy place, is prepared for the ark of the covenant and overlaid with pure gold, with two great cherubim of olive tree ten cubits high.",
+  "Doors of olive and fir are carved with cherubim, palm trees and open flowers and covered with gold; the inner court is built, the foundation is laid in the fourth year, and the house is finished in the eleventh year, after seven years in building."
+ ],
+ "nug": [
+  {
+   "h": "Counting from the exodus",
+   "b": "The chapter begins with the four hundred and eightieth year after Israel came out of Egypt (1 Kings 6:1). The temple is dated from God's great act of redemption, and worship in the house is presented as the answer to that rescue."
+  },
+  {
+   "h": "A quiet building",
+   "b": "\"There was neither hammer nor axe nor any tool of iron heard in the house, while it was in building\" (1 Kings 6:7). The noise was left at the quarry, so that the house itself rose in stillness. The text quietly invites reverence."
+  },
+  {
+   "h": "A promise with a condition",
+   "b": "\"If thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee\" (1 Kings 6:12). The most impressive building will not keep God's presence if the king and the people do not obey him. This condition matters for the rest of the book."
+  },
+  {
+   "h": "God dwelling with his people",
+   "b": "\"And I will dwell among the children of Israel, and will not forsake my people Israel\" (1 Kings 6:13). This is the heart of the temple. It is a house so that God can live among his people, as he promised at Sinai."
+  },
+  {
+   "h": "Seven years",
+   "b": "\"So was he seven years in building it\" (1 Kings 6:38). Beautiful things take time and careful work, and the chapter's long description is a way of honouring the patience and skill of those who built."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 25:8-9 · 1 Corinthians 3:16-17 · Revelation 21:3",
+   "qs": [
+    {
+     "th": "At Sinai God asks for a sanctuary so that he may dwell among his people, Paul tells the church that they are God's temple and that God's Spirit dwells in them, and John hears that the dwelling of God is finally with men.",
+     "q": "Read these together and ask how the temple in 1 Kings 6 fits in the larger story of God dwelling with his people. What has changed, and what has stayed the same?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God's promise to dwell among his people came with a call to walk in his ways.",
+     "q": "What does it look like for you to take seriously both God's nearness and his call to obedience? Where do you tend to lean on one and neglect the other?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Paul says \"ye are the temple of God, and that the Spirit of God dwelleth in you\" (1 Corinthians 3:16).",
+     "q": "Ask the Holy Spirit to make you more aware today that he dwells in you and in his people, and to show you anything that does not belong in his house."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God's promise in 1 Kings 6:13 is to dwell among his people and not forsake them.",
+     "q": "Pray for your church, that God's presence would be known among you and that you would walk in his ways. Pray for those who build quietly and without applause in your congregation, for the leaders who carry responsibility, and for other churches near you, naming any you know."
+    }
+   ]
+  }
+ ]
+},
+// Day 691
+{
+ "ref": "Acts 10",
+ "tag": "New Testament",
+ "api": "acts+10",
+ "sum": [
+  "Cornelius, a Roman centurion at Caesarea who feared God and prayed to him always, is told by an angel that \"Thy prayers and thine alms are come up for a memorial before God,\" and is told to send for Peter at Joppa.",
+  "Peter, praying on a housetop, sees a great sheet let down with all kinds of animals and hears \"Rise, Peter; kill, and eat\"; he refuses, and the voice answers, \"What God hath cleansed, that call not thou common,\" three times.",
+  "The Spirit tells Peter that three men are seeking him and to go with them, doubting nothing; at Cornelius's house Peter says \"God hath shewed me that I should not call any man common or unclean,\" and Cornelius describes his vision.",
+  "Peter preaches Jesus, who \"went about doing good\" and was raised the third day, declaring that \"whosoever believeth in him shall receive remission of sins,\" and while he is speaking the Holy Ghost falls on all who hear, and the Gentiles are baptized."
+ ],
+ "nug": [
+  {
+   "h": "A prayer heard",
+   "b": "\"Thy prayers and thine alms are come up for a memorial before God\" (Acts 10:4). Cornelius was not yet a follower of Jesus, and God had already noticed his devotion. God is never far from those who are honestly seeking him. This chapter is a great turning point, the first Gentile household to receive the gospel."
+  },
+  {
+   "h": "What God has cleansed",
+   "b": "\"What God hath cleansed, that call not thou common\" (Acts 10:15). The vision is about food on the surface and about people underneath. Peter later understands that the barrier between Jew and Gentile has been removed."
+  },
+  {
+   "h": "Led by the Spirit",
+   "b": "\"While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee\" (Acts 10:19). Peter was still puzzling over what he had seen when God's timing arrived at the door. The Spirit joins the vision to the visitors."
+  },
+  {
+   "h": "No respecter of persons",
+   "b": "\"Of a truth I perceive that God is no respecter of persons\" (Acts 10:34). Peter's words come from a man whose assumptions have just been changed, and he is honest about it."
+  },
+  {
+   "h": "The Spirit falls",
+   "b": "\"While Peter yet spake these words, the Holy Ghost fell on all them which heard the word\" (Acts 10:44). The Spirit is poured out before baptism and before any ceremony, so that even the astonished Jewish believers cannot deny that God has accepted these Gentiles."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 12:1-3 · Isaiah 56:6-8 · Ephesians 2:11-14",
+   "qs": [
+    {
+     "th": "God promised Abraham that all families of the earth would be blessed, Isaiah foretold that foreigners who joined themselves to the LORD would be brought to his holy mountain, and Paul says Christ has broken down the wall between Jew and Gentile.",
+     "q": "Read these together and ask how the events at Cornelius's house fulfil a promise as old as Abraham. What does it show you about God's heart for people who are outside?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Peter had to give up a long-held certainty about who was clean and who was not.",
+     "q": "Who do you tend to think of as outside, too different or too unlikely for God's grace? What would it mean to treat as common what God has cleansed?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit said, \"Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them\" (Acts 10:20).",
+     "q": "Ask the Spirit whether there is someone he is sending to you, or someone he is sending you to. Listen for his direction, and be ready to obey even if it goes against your habits."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"While Peter thought on the vision, the Spirit said unto him\" (Acts 10:19).",
+     "q": "Be still for several minutes with no requests. Let the Spirit bring to mind anything he wants to say to you, whether it is a person, a prejudice you need to set down, or a next step. Write down anything that comes, and test it against Scripture later."
+    }
+   ]
+  }
+ ]
+},
+// Day 692
+{
+ "ref": "Song of Solomon 5",
+ "tag": "Psalms & Wisdom",
+ "api": "songofsolomon+5",
+ "sum": [
+  "The bridegroom says \"I am come into my garden, my sister, my spouse,\" and invites his friends to eat and drink; then the bride, \"I sleep, but my heart waketh,\" hears him knocking and asking her to open to him.",
+  "She hesitates, saying \"I have put off my coat; how shall I put it on?\" but when she rises to open, \"my beloved had withdrawn himself, and was gone.\"",
+  "She seeks him and cannot find him, calls and he gives no answer; the watchmen strike and wound her, and she charges the daughters of Jerusalem that if they find him they tell him she is sick of love.",
+  "The daughters ask \"What is thy beloved more than another beloved?\" and she answers with a long praise of him, ending \"he is altogether lovely. This is my beloved, and this is my friend.\""
+ ],
+ "nug": [
+  {
+   "h": "Heart awake",
+   "b": "\"I sleep, but my heart waketh\" (Song of Solomon 5:2). She is half asleep and still tuned to his voice. Love keeps some part of us alert even in weariness, and a Christian may know the same tension between tiredness and longing."
+  },
+  {
+   "h": "Excuses at the door",
+   "b": "\"I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?\" (Song of Solomon 5:3). Her reasons are small ones, comfort and convenience, and they arrive at exactly the moment he knocks."
+  },
+  {
+   "h": "Too late at the door",
+   "b": "\"I opened to my beloved; but my beloved had withdrawn himself, and was gone\" (Song of Solomon 5:6). The delay costs her, and the chapter is honest about the hurt of missing him. It does not explain the silence. It records it."
+  },
+  {
+   "h": "Seeking in the dark",
+   "b": "\"I sought him, but I could not find him; I called him, but he gave me no answer\" (Song of Solomon 5:6). Scripture makes room for seasons of searching and silence, and she does not stop loving him."
+  },
+  {
+   "h": "Altogether lovely",
+   "b": "\"His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend\" (Song of Solomon 5:16). Asked what makes her beloved special, she does not hesitate, and her praise turns her longing into witness."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Revelation 3:19-20 · Jeremiah 29:12-14 · Psalm 63:1-3",
+   "qs": [
+    {
+     "th": "In Revelation Christ stands at the door and knocks, promising to come in to anyone who opens, Jeremiah promises that those who search for the LORD with all their heart will find him, and David thirsts for God in a dry land and finds his lovingkindness better than life.",
+     "q": "Read these together and ask how the knock at the door, the searching and the thirst in the Song connect with the way Scripture describes our relationship with God. What do you notice about who takes the first step?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "She knew his voice, yet answered too slowly, and then had to search.",
+     "q": "When has a small excuse kept you from responding to God? What is he knocking on the door of in your life today?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The bride says, \"it is the voice of my beloved that knocketh\" (Song of Solomon 5:2).",
+     "q": "Ask the Spirit to make you quick to recognise the voice of Christ and quick to open. Is there a nudge you have put off?"
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"I opened to my beloved; but my beloved had withdrawn himself, and was gone\" (Song of Solomon 5:6).",
+     "q": "Confess the times you have put comfort before responding to God, and the excuses you have made when he called. Be specific and honest, and remember that he is gracious and that he receives those who turn back to him."
+    }
+   ]
+  }
+ ]
+},
+// Day 693
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "I will dwell among them",
+   "b": "\"And I will dwell among the children of Israel, and will not forsake my people Israel\" (1 Kings 6:13). This week began Solomon's story with his wisdom, the treaty with Hiram and the first great building work on the temple, and carried a milestone in Acts, where the gospel reaches its first Gentile household. Chapters 7 to 12 of 1 Kings and Acts 11 come next."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read Solomon's wisdom, peace and administration (1 Kings 4), his agreement with Hiram to gather timber for the temple (1 Kings 5), the bridegroom's praise of his bride in the garden (Song of Solomon 4), the building of the temple itself (1 Kings 6), Peter and Cornelius, and the outpouring of the Spirit on the Gentiles (Acts 10), and the searching bride and her praise of her beloved (Song of Solomon 5).",
+     "q": "Which stayed with you more: the promise \"I will dwell among the children of Israel\" (1 Kings 6:13), or Peter's discovery that \"God is no respecter of persons\" (Acts 10:34)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"And I will dwell among the children of Israel, and will not forsake my people Israel\" (1 Kings 6:13).",
+     "q": "Sit quietly for a moment and rest in the truth that God draws near to his people and does not leave them."
+    }
+   ]
+  }
+ ]
+},
+// Day 694
+{
+ "ref": "1 Kings 7",
+ "tag": "Old Testament",
+ "api": "1kings+7",
+ "sum": [
+  "Solomon spends thirteen years on his own house, and builds the house of the forest of Lebanon, a porch of judgment for the throne, and a house for Pharaoh's daughter, all of costly stones and cedar.",
+  "He sends for Hiram of Tyre, a widow's son \"filled with wisdom, and understanding, and cunning to work all works in brass,\" who casts the two great pillars, Jachin and Boaz, with their chapiters and pomegranates.",
+  "Hiram also casts the molten sea standing on twelve oxen, ten bases with their wheels and ten lavers, all in the clay ground of the Jordan plain, so many that \"Solomon left all the vessels unweighed.\"",
+  "Solomon then makes the golden altar, table, candlesticks and utensils for the house of the LORD, and puts in the treasuries the silver, gold and vessels \"which David his father had dedicated.\""
+ ],
+ "nug": [
+  {
+   "h": "Thirteen years for himself",
+   "b": "\"But Solomon was building his own house thirteen years, and he finished all his house\" (1 Kings 7:1). The temple took seven years; the king's own house took almost twice as long. The text simply reports it, and leaves the reader to notice the proportion."
+  },
+  {
+   "h": "A widow's son, filled with wisdom",
+   "b": "\"And king Solomon sent and fetched Hiram out of Tyre\" (1 Kings 7:13). Hiram is \"filled with wisdom, and understanding, and cunning to work all works in brass\" (1 Kings 7:14). The finest skill in the temple comes from a half-Israelite craftsman of humble background, and it is described in the same words used of wisdom itself."
+  },
+  {
+   "h": "Jachin and Boaz",
+   "b": "\"And he set up the right pillar, and called the name thereof Jachin: and he set up the left pillar, and he called the name thereof Boaz\" (1 Kings 7:21). The names mean roughly 'he establishes' and 'in him is strength', so everyone entering the temple walked between two statements about where stability comes from."
+  },
+  {
+   "h": "Beyond measuring",
+   "b": "\"And Solomon left all the vessels unweighed, because they were exceeding many\" (1 Kings 7:47). The abundance is almost embarrassing, and the chapter lets the reader feel both the generosity and the weight of it."
+  },
+  {
+   "h": "Given by David first",
+   "b": "\"And Solomon brought in the things which David his father had dedicated\" (1 Kings 7:51). Even at the finish, the work stands on what someone else had already given and set apart years before."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 31:1-5 · 2 Chronicles 3:15-17 · 1 Corinthians 3:16-17",
+   "qs": [
+    {
+     "th": "In Exodus, Bezaleel is filled with the spirit of God in wisdom and understanding to make the tabernacle's furnishings, so Hiram's craft stands in that same line, 2 Chronicles gives a second account of the two pillars and their names, and Paul tells the church that it is now God's temple, with the Spirit dwelling among them.",
+     "q": "Read these together. What do they suggest about skill and craftsmanship being gifts from God, and about the difference between a building made for God and a people in whom God lives?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chapter sets thirteen years on the king's house beside seven on the LORD's, and yet it also celebrates the real skill of a craftsman doing careful work.",
+     "q": "Where do you spend your best time, money and attention? Is there a proportion in your life that you would want to look at honestly, without either guilt or excuse?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Hiram was \"filled with wisdom, and understanding, and cunning\" for his work (1 Kings 7:14).",
+     "q": "Ask the Holy Spirit to show you a skill or ordinary ability you have not thought of as a gift from him, and how you might use it for the good of others this week."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Solomon's craftsmen worked with what had been given, including things \"which David his father had dedicated\" (1 Kings 7:51).",
+     "q": "Thank God for specific people who gave, worked or prayed before you, and whose faithfulness you are now building on. Name them, and thank him for the skills and provision you have today."
+    }
+   ]
+  }
+ ]
+},
+// Day 695
+{
+ "ref": "1 Kings 8",
+ "tag": "Old Testament",
+ "api": "1kings+8",
+ "sum": [
+  "Solomon brings the ark of the covenant into the most holy place beneath the cherubim, and when the priests come out \"the cloud filled the house of the LORD,\" so that they cannot stand to minister because the glory of the LORD has filled it.",
+  "Solomon blesses the people and praises God for keeping his promise to David, then kneels before the altar and prays: \"behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?\"",
+  "His prayer asks God to hear from heaven and forgive in a series of situations, including wrongs between neighbours, defeat in battle, drought, famine, the prayer of a foreigner, and exile, in which \"there is no man that sinneth not.\"",
+  "Solomon blesses the assembly, saying \"there hath not failed one word of all his good promise,\" urges them to keep their hearts perfect with the LORD, and after fourteen days of sacrifice and feasting sends them home joyful."
+ ],
+ "nug": [
+  {
+   "h": "The glory fills the house",
+   "b": "\"And it came to pass, when the priests were come out of the holy place, that the cloud filled the house of the LORD... for the glory of the LORD had filled the house of the LORD\" (1 Kings 8:10-11). The building is finished, but only God's arrival makes it a temple. The priests can do nothing but stand aside."
+  },
+  {
+   "h": "Too great for any house",
+   "b": "\"But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?\" (1 Kings 8:27). At the very moment of dedication, Solomon says what the building cannot do. The temple is a place for prayer, not a container for God."
+  },
+  {
+   "h": "The prayer toward this place",
+   "b": "\"And hearken thou to the supplication of thy servant, and of thy people Israel, when they shall pray toward this place: and hear thou in heaven thy dwelling place: and when thou hearest, forgive\" (1 Kings 8:30). Nearly every request in the prayer ends in the same way, with God hearing from heaven and forgiving."
+  },
+  {
+   "h": "No man that sinneth not",
+   "b": "\"If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them... Yet if they shall bethink themselves in the land whither they were carried captives, and repent\" (1 Kings 8:46-47). Solomon expects Israel to fail, and prays in advance for the way back, which makes this one of the most honest prayers in the Old Testament."
+  },
+  {
+   "h": "Not one word failed",
+   "b": "\"Blessed be the LORD, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise\" (1 Kings 8:56). The chapter ends where it began, with a God who keeps his word."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Exodus 40:34-35 · Isaiah 66:1-2 · John 1:14",
+   "qs": [
+    {
+     "th": "In Exodus the cloud fills the tabernacle in the same way and Moses cannot enter, Isaiah records God asking what house could be built for him when heaven is his throne, and John says the Word became flesh and dwelt among us, so that the glory Solomon's priests could not stand before has now been seen in a person.",
+     "q": "Read these together. How do they change the way you picture where God dwells, and what it means that his glory has been made known in Jesus?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Solomon calls for God to hear and forgive again and again, and he knows that Israel's problem is not location but the heart.",
+     "q": "Which of the situations Solomon lists (defeat, drought, exile, being a stranger, wrongdoing between neighbours) feels closest to where you are now? What would it mean to bring it to God in prayer today?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Solomon says of God, \"for thou, even thou only, knowest the hearts of all the children of men\" (1 Kings 8:39).",
+     "q": "Ask the Holy Spirit to search your heart gently, and to show you what he sees there with kindness. Let yourself be known, and do not rush to fix what you find."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"LORD God of Israel, there is no God like thee, in heaven above, or on earth beneath, who keepest covenant and mercy with thy servants that walk before thee with all their heart\" (1 Kings 8:23).",
+     "q": "Adore God for who he is: greater than heaven and yet attentive to a single prayer, faithful to his promises and merciful to sinners. Use Solomon's words, or your own, and say what you see in him."
+    }
+   ]
+  }
+ ]
+},
+// Day 696
+{
+ "ref": "Song of Solomon 6",
+ "tag": "Psalms & Wisdom",
+ "api": "songofsolomon+6",
+ "sum": [
+  "The chorus of the daughters of Jerusalem asks, \"Whither is thy beloved gone, O thou fairest among women?\" and offers to seek him with her, and she answers that he has gone down to his garden and that \"I am my beloved's, and my beloved is mine.\"",
+  "The lover praises her as beautiful as Tirzah and comely as Jerusalem, and confesses that her eyes have overcome him, and describes her as if with the images used earlier in the Song.",
+  "Among sixty queens and eighty concubines and virgins without number, \"My dove, my undefiled is but one,\" and the queens and daughters bless and praise her, asking, \"Who is she that looketh forth as the morning, fair as the moon, clear as the sun?\"",
+  "He tells of going down to the garden of nuts to see whether the vine flourished, and of being swept away by desire, and the friends call her, \"Return, return, O Shulamite,\" asking what they will see in her."
+ ],
+ "nug": [
+  {
+   "h": "Seeking together",
+   "b": "\"Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee\" (Song of Solomon 6:1). After the search in the previous chapter, the daughters stop being bystanders and offer to help her look."
+  },
+  {
+   "h": "Belonging, said again",
+   "b": "\"I am my beloved's, and my beloved is mine: he feedeth among the lilies\" (Song of Solomon 6:3). Compare 2:16, where the words were in the opposite order. There she put herself first; here the order has shifted. The steady centre of the Song is a mutual belonging, spoken in more than one way."
+  },
+  {
+   "h": "The only one",
+   "b": "\"My dove, my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her\" (Song of Solomon 6:9). Beside sixty queens and eighty concubines, one is chosen. Whatever else this passage means, the Song sets faithful, exclusive love against a court of multiplied women, and readers meeting Solomon's story in 1 Kings may notice the contrast."
+  },
+  {
+   "h": "Fair as the morning",
+   "b": "\"Who is she that looketh forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?\" (Song of Solomon 6:10). Love here is praised as awe-inspiring, not merely tender."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Song of Solomon 2:16-17 · Isaiah 62:1-5 · John 10:27-28",
+   "qs": [
+    {
+     "th": "In Song of Solomon 2 the beloved is first declared to be hers and she his, Isaiah 62 says that as the bridegroom rejoices over the bride so shall God rejoice over his people, and Jesus says of his sheep that they hear his voice and that no one will snatch them out of his hand.",
+     "q": "Read these together. Many readers, Jewish and Christian, have heard God's love for his people in this poem as well as human love. What do you hear in the phrase \"mine\" and \"his\" when you read them side by side?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The daughters of Jerusalem do not simply say what they think of her beloved. They offer to seek him with her.",
+     "q": "Who in your life is searching, for a person, a direction, or for God, and could use someone to walk beside them? What would it mean to offer to look with them?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Being found and known is a theme of the whole Song, and of the Spirit's work in us.",
+     "q": "Ask the Holy Spirit to bring to mind someone who is in a season of searching or of distance from those they love. Ask him what the next small step of care toward them might be."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The friends say to the Shulamite, \"Return, return, O Shulamite; return, return, that we may look upon thee\" (Song of Solomon 6:13).",
+     "q": "Bring to God by name someone who is in a hard season in their marriage, friendship or family, or who has drifted from those who love them. Ask that they would be sought, found, and welcomed home, and that you would be willing to play a part."
+    }
+   ]
+  }
+ ]
+},
+// Day 697
+{
+ "ref": "1 Kings 9",
+ "tag": "Old Testament",
+ "api": "1kings+9",
+ "sum": [
+  "When Solomon has finished the house of the LORD, the king's house and all he desired, the LORD appears to him a second time, saying he has heard his prayer and hallowed the house, and that his eyes and heart will be there perpetually.",
+  "The LORD promises to establish the throne for ever if Solomon walks \"in integrity of heart, and in uprightness,\" but warns that if Israel turns to other gods he will cut them off and the house will become a byword and astonishment.",
+  "After twenty years Solomon gives Hiram of Tyre twenty cities in Galilee, which \"pleased him not,\" and the chapter lists his building projects, Gezer, Millo and the cities of store and chariots, and the forced labour levied on the peoples left in the land.",
+  "The chapter closes with Solomon offering sacrifice three times a year, building a navy at Ezion-geber, and bringing back gold from Ophir."
+ ],
+ "nug": [
+  {
+   "h": "A second appearance",
+   "b": "\"That the LORD appeared to Solomon the second time, as he had appeared unto him at Gibeon\" (1 Kings 9:2). The first time, Solomon asked for wisdom. This time, the LORD speaks after the building is complete, and what he says is more of a warning than a congratulation."
+  },
+  {
+   "h": "Heard, hallowed, present",
+   "b": "\"I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house... and mine eyes and mine heart shall be there perpetually\" (1 Kings 9:3). The answer to the great prayer of chapter 8 is yes. It is a reassuring beginning."
+  },
+  {
+   "h": "Integrity of heart",
+   "b": "\"And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness\" (1 Kings 9:4). The promise for the dynasty is conditional. God does not ask for more buildings. He asks for a heart that is whole."
+  },
+  {
+   "h": "If ye shall at all turn",
+   "b": "\"But if ye shall at all turn from following me, ye or your children... but go and serve other gods, and worship them: Then will I cut off Israel out of the land which I have given them\" (1 Kings 9:6-7). The blessing is real, and so is the warning. Chapter 11 will show how close the danger is."
+  },
+  {
+   "h": "Twenty years, and quiet strain",
+   "b": "Hiram looks at the cities Solomon gives him and they \"pleased him not\" (1 Kings 9:12), and Solomon did \"levy a tribute of bondservice\" on the peoples left in the land (1 Kings 9:21), while \"of the children of Israel did Solomon make no bondmen\" (1 Kings 9:22). The chapter reports great achievement, but some of the details, favours that disappoint and forced labour, sit uneasily beside the LORD's call to integrity."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "2 Chronicles 7:12-14 · Deuteronomy 6:10-12 · 1 Kings 3:5-14",
+   "qs": [
+    {
+     "th": "In 2 Chronicles the LORD's answer to the dedication includes the promise that if his people humble themselves and pray he will hear and heal their land, Deuteronomy warns Israel that when they live in houses they did not build they must not forget the LORD who brought them out of Egypt, and 1 Kings 3 records the first appearance at Gibeon, when Solomon asked for wisdom.",
+     "q": "Read these together. What has changed between the first appearance and the second, and what do the warnings in Deuteronomy suggest about the danger that comes with success?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "God says he has heard Solomon's prayer, then names the condition: integrity of heart and uprightness.",
+     "q": "Where has your life become more comfortable or more successful than it once was? What is the equivalent, in your case, of remembering the LORD in the middle of it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The LORD said, \"I have heard thy prayer and thy supplication\" (1 Kings 9:3).",
+     "q": "Sit quietly for a few minutes. Do not rush to speak. Ask the Holy Spirit whether there is anything God wants to say to you about the condition of your heart, and simply listen, without forcing an answer."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"And mine eyes and mine heart shall be there perpetually\" (1 Kings 9:3).",
+     "q": "Be still and let those words settle. Give yourself several minutes of silence, and if thoughts or worries arise, gently return to this promise that God's eyes and heart are toward those who pray to him. Close by writing down anything you sensed."
+    }
+   ]
+  }
+ ]
+},
+// Day 698
+{
+ "ref": "Acts 11",
+ "tag": "New Testament",
+ "api": "acts+11",
+ "sum": [
+  "Peter is confronted in Jerusalem by believers who object, \"Thou wentest in to men uncircumcised, and didst eat with them,\" and he explains the matter in order: the vision of the great sheet, the voice saying \"What God hath cleansed, that call not thou common,\" the three men from Caesarea and the Holy Ghost falling on Cornelius's household.",
+  "Peter concludes, \"what was I, that I could withstand God?\" and the Jerusalem believers, hearing it, hold their peace and glorify God, saying, \"Then hath God also to the Gentiles granted repentance unto life.\"",
+  "Meanwhile those scattered by the persecution after Stephen carry the message as far as Antioch, where some speak to the Greeks and \"a great number believed,\" and the church in Jerusalem sends Barnabas, a good man full of the Holy Ghost and of faith.",
+  "Barnabas fetches Saul from Tarsus, they teach a great number for a year, and \"the disciples were called Christians first in Antioch,\" and when the prophet Agabus foretells a famine the disciples each send relief to Judea by Barnabas and Saul."
+ ],
+ "nug": [
+  {
+   "h": "The objection",
+   "b": "\"Thou wentest in to men uncircumcised, and didst eat with them\" (Acts 11:3). The complaint is not that Gentiles have believed, but that Peter shared a table with them. Old boundaries were being felt at the level of who eats with whom."
+  },
+  {
+   "h": "What God hath cleansed",
+   "b": "\"What God hath cleansed, that call not thou common\" (Acts 11:9). Peter had said, \"Not so, Lord: for nothing common or unclean hath at any time entered into my mouth\" (Acts 11:8). It is worth noticing that even a sincere and devoted man can say no to the Lord, and that the voice comes back three times."
+  },
+  {
+   "h": "Who could withstand God?",
+   "b": "\"Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?\" (Acts 11:17). Peter's argument is not a theory but a fact he has seen: God has already acted, and the only question is whether the church will follow."
+  },
+  {
+   "h": "Repentance unto life",
+   "b": "\"When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life\" (Acts 11:18). The objectors change their minds. A whole church learns something it did not expect."
+  },
+  {
+   "h": "A good man, and the first Christians",
+   "b": "Barnabas \"was a good man, and full of the Holy Ghost and of faith\" (Acts 11:24), and he seeks out Saul. \"The disciples were called Christians first in Antioch\" (Acts 11:26). In Antioch, a mixed church, generous to those in Judea, is given a new name."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Acts 10:34-35 · Ephesians 2:11-13 · Acts 15:7-9",
+   "qs": [
+    {
+     "th": "In Acts 10 Peter says he perceives that God is no respecter of persons, Ephesians 2 tells Gentile believers that those once far off have been brought near by the blood of Christ, and in Acts 15 Peter recalls how God gave the Gentiles the Holy Ghost and put no difference between them and Jewish believers.",
+     "q": "Read these together. How do they show that the welcome of the Gentiles was not a passing exception but the direction of the gospel, and where do you feel that same pull today?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Peter said, \"Not so, Lord\" (Acts 11:8), and then had to explain his change of mind to a church that was not convinced.",
+     "q": "Where have you drawn a line about who is in or out, whom you will sit with or serve, that God may be asking you to reconsider? What would it cost you to be honest about it?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Spirit told Peter to go \"nothing doubting\" (Acts 11:12).",
+     "q": "Ask the Holy Spirit to show you where fear of people's opinions, or old habits of thinking, has stopped you from doing what he has made plain. Ask for the courage of Peter and the humility of the Jerusalem church."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"What was I, that I could withstand God?\" (Acts 11:17).",
+     "q": "Confess to God any place where you have resisted him, by prejudice, by pride, by preferring what is comfortable. Name it plainly, without excuses, receive his forgiveness, and ask him to give you a heart that is willing to follow."
+    }
+   ]
+  }
+ ]
+},
+// Day 699
+{
+ "ref": "Song of Solomon 7",
+ "tag": "Psalms & Wisdom",
+ "api": "songofsolomon+7",
+ "sum": [
+  "The lover describes his beloved in the language of admiration, from her feet to her head, using images of jewels, towers, pools and Carmel, and concludes, \"the king is held in the galleries.\"",
+  "He exclaims, \"How fair and how pleasant art thou, O love, for delights!\" and speaks of desire in the imagery of the palm tree and the clusters of the vine.",
+  "She answers, \"I am my beloved's, and his desire is toward me,\" and invites him to go out into the fields.",
+  "Together they will lodge in the villages, rise early to the vineyards to see whether the vine flourishes and the pomegranates bud, and she promises, \"there will I give thee my loves,\" with all the pleasant fruits \"new and old, which I have laid up for thee.\""
+ ],
+ "nug": [
+  {
+   "h": "A poem of admiration",
+   "b": "\"How beautiful are thy feet with shoes, O prince's daughter!\" (Song of Solomon 7:1). The description starts at the feet and moves upwards, a slow and appreciative look. The imagery is bold and of its own ancient world, and the Song does not apologise for physical love as part of God's good creation."
+  },
+  {
+   "h": "How fair and how pleasant",
+   "b": "\"How fair and how pleasant art thou, O love, for delights!\" (Song of Solomon 7:6). Delight is named as a good in itself. Scripture allows joy in another person to be enjoyed and not just endured."
+  },
+  {
+   "h": "His desire is toward me",
+   "b": "\"I am my beloved's, and his desire is toward me\" (Song of Solomon 7:10). It is worth setting this beside Genesis 3:16, where desire is bound up with the fall and its pains. Here belonging is again free, mutual and glad, and many readers hear a small reversal of that curse."
+  },
+  {
+   "h": "Come, let us go forth",
+   "b": "\"Come, my beloved, let us go forth into the field; let us lodge in the villages. Let us get up early to the vineyards\" (Song of Solomon 7:11-12). Her invitation moves the poem out of the palace and into the countryside, to ordinary places and early mornings shared together."
+  },
+  {
+   "h": "Fruits laid up",
+   "b": "\"And at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved\" (Song of Solomon 7:13). She has been saving good things for him, some old and some new. Faithful love keeps a store of gifts for the other."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Genesis 2:23-25 · Song of Solomon 2:10-13 · Ephesians 5:31-32",
+   "qs": [
+    {
+     "th": "Genesis 2 shows the first man and woman joyful and unashamed, Song of Solomon 2 has the beloved calling his love to come away because winter is past, and Paul quotes the words about two becoming one flesh and calls it a great mystery concerning Christ and the church.",
+     "q": "Read these together. What do they tell you about how God sees love, delight and belonging, and why might Scripture place this poem within the Bible at all?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The lover admires her without hurry, and she answers by giving herself and inviting him into her world.",
+     "q": "Who in your life do you have the chance to notice and appreciate with real attention? Is there someone, a spouse, friend, child or parent, to whom you could say something specific and kind today?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The Song sets delight alongside faithfulness, \"I am my beloved's\" (Song of Solomon 7:10).",
+     "q": "Ask the Holy Spirit to teach you how to receive love, human and divine, without shame or suspicion, and to help you love others with real attention and warmth."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Which I have laid up for thee, O my beloved\" (Song of Solomon 7:13).",
+     "q": "Give thanks to God for the good gifts of love, the people who have delighted in you, the friendships and family that have held you, and the beauty of the ordinary places you share. Name specific people and moments, and thank him for each."
+    }
+   ]
+  }
+ ]
+},
+// Day 700
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "Not one word failed",
+   "b": "\"Blessed be the LORD, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise\" (1 Kings 8:56). This week carried Solomon's temple furnishings, the dedication and the LORD's second appearance, and Peter's defence of the Gentile mission in Acts 11."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read the furnishings of the temple and the palace (1 Kings 7), the dedication of the temple and Solomon's prayer (1 Kings 8), the LORD's second appearance to Solomon and his building projects (1 Kings 9), Peter's explanation of Cornelius and the church at Antioch (Acts 11), and the sixth and seventh chapters of the Song of Solomon (Song of Solomon 6-7).",
+     "q": "Which stayed with you more this week: Solomon's honest question, \"will God indeed dwell on the earth?\" (1 Kings 8:27), or Peter's, \"what was I, that I could withstand God?\" (Acts 11:17)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"The LORD our God be with us, as he was with our fathers: let him not leave us, nor forsake us\" (1 Kings 8:57).",
+     "q": "Sit quietly for a moment and rest in the thought that the God who kept every word he spoke to Israel is with you too."
+    }
+   ]
+  }
+ ]
+},
+// Day 701
+{
+ "ref": "1 Kings 10",
+ "tag": "Old Testament",
+ "api": "1kings+10",
+ "sum": [
+  "The queen of Sheba, hearing of Solomon's fame, travels to Jerusalem with camels, spices, gold and jewels to test him with hard questions, and finds that \"there was not any thing hid from the king.\"",
+  "Overwhelmed by his wisdom, his house, his table and his worship, she confesses, \"the half was not told me,\" and blesses the LORD who set Solomon on the throne to do judgment and justice.",
+  "The chapter catalogues Solomon's staggering wealth: gold from Ophir and Tharshish, two hundred targets and three hundred shields of beaten gold, and a great ivory throne flanked by lions.",
+  "It closes by noting that \"king Solomon exceeded all the kings of the earth for riches and for wisdom,\" while quietly recording his stockpiling of chariots and horses brought out of Egypt."
+ ],
+ "nug": [
+  {
+   "h": "Come to prove him with hard questions",
+   "b": "\"And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions\" (1 Kings 10:1). Notice that his fame is tied to \"the name of the LORD\": the queen travels a great distance because Solomon's wisdom points beyond himself."
+  },
+  {
+   "h": "Nothing hid from the king",
+   "b": "\"And Solomon told her all her questions: there was not any thing hid from the king, which he told her not\" (1 Kings 10:3). The wisdom God gave Solomon in chapter 3 is now on public display, and a foreign ruler is the one to recognise it."
+  },
+  {
+   "h": "The half was not told me",
+   "b": "\"It was a true report that I heard in mine own land of thy acts and of thy wisdom. Howbeit I believed not the words, until I came, and mine eyes had seen it: and, behold, the half was not told me\" (1 Kings 10:6-7). Second-hand reports can never substitute for coming and seeing for yourself."
+  },
+  {
+   "h": "Blessed be the LORD thy God",
+   "b": "\"Blessed be the LORD thy God, which delighted in thee, to set thee on the throne of Israel: because the LORD loved Israel for ever, therefore made he thee king, to do judgment and justice\" (1 Kings 10:9). She rightly credits God's love for his people, not Solomon's brilliance, as the source of his kingship."
+  },
+  {
+   "h": "A quiet warning among the splendour",
+   "b": "\"And Solomon had horses brought out of Egypt\" (1 Kings 10:28). Set beside Deuteronomy 17:16, where a future king was forbidden to multiply horses or send back to Egypt for them, this small detail casts a shadow over all the glitter, a foretaste of chapter 11."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Matthew 12:42 · Deuteronomy 17:16-17 · Psalm 72:10-11",
+   "qs": [
+    {
+     "th": "Jesus says the queen of the south will rise up in judgment against his generation, because she came from far to hear Solomon and \"a greater than Solomon is here\"; Deuteronomy 17 gives the king's charter, with its warnings against horses, wives and gold; and Psalm 72, a psalm for Solomon, pictures the kings of Sheba bringing gifts to the ideal king.",
+     "q": "Read these together. How do they help you see both the genuine glory of Solomon's reign and its limits, and how they point ahead to a greater king?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The queen refused to rely on rumour and made the journey to see for herself, and she left changed.",
+     "q": "Where have you been content with second-hand knowledge of God, and what would it cost you to \"come and see\" for yourself in prayer and Scripture this week?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The queen's response to wisdom was to bless the LORD: \"Blessed be the LORD thy God\" (1 Kings 10:9).",
+     "q": "Ask the Spirit to help you notice where you have admired a gift, a person or an achievement without thanking the Giver."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Blessed be the LORD thy God, which delighted in thee... because the LORD loved Israel for ever\" (1 Kings 10:9).",
+     "q": "Follow the queen's lead: adore the LORD for his everlasting love and for the wisdom he gives, and let your praise end with him rather than with any of his gifts."
+    }
+   ]
+  }
+ ]
+},
+// Day 702
+{
+ "ref": "1 Kings 11",
+ "tag": "Old Testament",
+ "api": "1kings+11",
+ "sum": [
+  "Solomon loves many foreign women in direct disobedience to God's command, and in his old age his wives turn away his heart after other gods, so that he builds high places for Chemosh and Molech.",
+  "The LORD, who had appeared to Solomon twice, is angry and announces that he will tear the kingdom away, sparing one tribe for David's sake and for Jerusalem's.",
+  "The LORD stirs up adversaries against Solomon, first Hadad the Edomite and then Rezon in Damascus, and Jeroboam, Solomon's own servant, is told by the prophet Ahijah that he will rule ten tribes.",
+  "Solomon seeks to kill Jeroboam, who flees to Egypt, and after forty years' reign Solomon dies and his son Rehoboam takes the throne."
+ ],
+ "nug": [
+  {
+   "h": "Solomon loved many strange women",
+   "b": "\"But king Solomon loved many strange women\" (1 Kings 11:1). The narrator uses the word \"loved\" pointedly; the man who had asked for an understanding heart now gives his heart to the wrong things."
+  },
+  {
+   "h": "Turned away his heart",
+   "b": "\"For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the LORD his God, as was the heart of David his father\" (1 Kings 11:4). The decline is gradual and comes late in life, a sober reminder that a good start guarantees nothing."
+  },
+  {
+   "h": "Twice appeared, twice warned",
+   "b": "\"And the LORD was angry with Solomon, because his heart was turned from the LORD God of Israel, which had appeared unto him twice\" (1 Kings 11:9). Solomon fell despite having the clearest possible revelation of God, so privilege is no protection against drift."
+  },
+  {
+   "h": "Adversaries stirred up",
+   "b": "\"And the LORD stirred up an adversary unto Solomon, Hadad the Edomite\" (1 Kings 11:14). The peace of Solomon's early reign begins to fray; God allows consequences to arrive through ordinary political enemies."
+  },
+  {
+   "h": "Judgment tempered by promise",
+   "b": "\"And I will for this afflict the seed of David, but not for ever\" (1 Kings 11:39). Even in this sombre chapter God keeps a lamp burning \"for David my servant's sake\" (1 Kings 11:34), holding out hope beyond the ruin."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Deuteronomy 7:3-4 · Nehemiah 13:26 · Proverbs 4:23",
+   "qs": [
+    {
+     "th": "Deuteronomy 7 gives the original reason for the command against intermarriage with the nations, that they would turn hearts away from the LORD; Nehemiah looks back on Solomon as a warning; and Proverbs 4:23, in the voice of a father's wisdom, urges careful guarding of the heart.",
+     "q": "Read these together. What does Solomon's story teach you about how hearts are slowly turned, and what it takes to guard yours?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Solomon's heart was turned gradually, through many small compromises, until it \"was not perfect with the LORD his God\" (1 Kings 11:4).",
+     "q": "Are there quiet compromises, affections or habits in your life that are slowly pulling your heart away from wholehearted devotion? Name one honestly."
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Solomon knew the right thing and had been warned twice, yet did not keep it.",
+     "q": "Ask the Spirit to show you where you know what is right but have been delaying, and to give you the desire as well as the strength to obey."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: intercession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"For it came to pass, when Solomon was old, that his wives turned away his heart after other gods\" (1 Kings 11:4).",
+     "q": "Pray for those you know whose hearts are drifting, including leaders and older believers, and for anyone finishing their walk of faith. Pray that God would keep their hearts undivided and bring back those who have wandered."
+    }
+   ]
+  }
+ ]
+},
+// Day 703
+{
+ "ref": "Song of Solomon 8",
+ "tag": "Psalms & Wisdom",
+ "api": "songofsolomon+8",
+ "sum": [
+  "The woman longs for open, unashamed intimacy with her beloved, wishing she could kiss him in public, lead him to her mother's house, and rest in his embrace.",
+  "A voice asks, \"Who is this that cometh up from the wilderness, leaning upon her beloved?\" and she recalls the place where their love began.",
+  "She asks to be set \"as a seal upon thine heart, as a seal upon thine arm,\" for love is as strong as death, burns like a most vehement flame, and cannot be quenched by many waters or bought at any price.",
+  "The Song closes with the brothers' concern for their little sister, her declaration that she is a wall who has found favour, a playful contrast with Solomon's vineyard, and a final cry to her beloved to make haste."
+ ],
+ "nug": [
+  {
+   "h": "Longing without shame",
+   "b": "\"O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised\" (Song of Solomon 8:1). She wants a love that can be openly enjoyed; the Song treats married love as something good and honourable."
+  },
+  {
+   "h": "Do not stir up love before its time",
+   "b": "\"I charge you, O daughters of Jerusalem, that ye stir not up, nor awake my love, until he please\" (Song of Solomon 8:4). The refrain returns once more: love is a gift to be received at the right time, not manufactured or hurried."
+  },
+  {
+   "h": "Set me as a seal",
+   "b": "\"Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death\" (Song of Solomon 8:6). A seal marks ownership and belonging; she asks to be held close to the heart and carried on the strong arm, a picture of faithful, exclusive commitment."
+  },
+  {
+   "h": "A flame that floods cannot quench",
+   "b": "\"Many waters cannot quench love, neither can the floods drown it\" (Song of Solomon 8:7). Real love is stronger than testing, and it cannot be purchased; \"if a man would give all the substance of his house for love, it would utterly be contemned.\""
+  },
+  {
+   "h": "Come away, my beloved",
+   "b": "\"Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices\" (Song of Solomon 8:14). The Song ends not with possession but with longing, a note that Christians have long heard as pointing to the Bridegroom's return."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Romans 8:37-39 · Isaiah 49:15-16 · 1 Corinthians 13:4-8",
+   "qs": [
+    {
+     "th": "Paul declares that nothing in all creation can separate believers from the love of God in Christ, echoing the claim that love is stronger than death; Isaiah 49 has God say he has engraved his people on the palms of his hands, like a seal that is never removed; and 1 Corinthians 13 describes the enduring character of true love.",
+     "q": "Read these together. How do they enrich your reading of the Song's final claims about love, both in human relationships and in God's love for his people?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The woman asks to be held as a seal on the heart and the arm, close to the affections and the strength.",
+     "q": "Where do you most long for a love that is lasting and secure, and how might God's steadfast love speak into that longing?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Many waters cannot quench love, neither can the floods drown it\" (Song of Solomon 8:7).",
+     "q": "Ask the Spirit to remind you of a time when love, whether human or divine, held firm when circumstances threatened to overwhelm you."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: listening-silence",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death\" (Song of Solomon 8:6).",
+     "q": "Be still and quiet for a few minutes. Rather than speaking, listen for what the Lord may want you to hear about his love for you, and sit in that love without hurrying to fill the silence."
+    }
+   ]
+  }
+ ]
+},
+// Day 704
+{
+ "ref": "1 Kings 12",
+ "tag": "Old Testament",
+ "api": "1kings+12",
+ "sum": [
+  "Rehoboam goes to Shechem to be made king, where the people, led by Jeroboam who has returned from Egypt, ask him to lighten the heavy yoke that Solomon laid on them.",
+  "Rehoboam rejects the counsel of the old men who advise servanthood, follows his young friends, and answers the people roughly, threatening to add to their yoke and to chastise them \"with scorpions.\"",
+  "Ten tribes rebel and make Jeroboam king, Rehoboam's tax chief Adoram is stoned, and when Rehoboam gathers an army the word of God through Shemaiah tells him not to fight his brethren.",
+  "Fearing that pilgrimage to Jerusalem will lose him the people, Jeroboam makes two golden calves at Bethel and Dan, appoints non-Levite priests and invents a feast, and \"this thing became a sin.\""
+ ],
+ "nug": [
+  {
+   "h": "Make the yoke lighter",
+   "b": "\"Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee\" (1 Kings 12:4). The request is reasonable and even generous; the people are offering loyalty in exchange for relief."
+  },
+  {
+   "h": "He forsook the counsel of the old men",
+   "b": "\"But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him\" (1 Kings 12:8). Rehoboam chose advisers who told him what flattered his pride rather than what would serve his people."
+  },
+  {
+   "h": "The little finger",
+   "b": "\"My little finger shall be thicker than my father's loins\" (1 Kings 12:10). Insecurity dressed as strength: harshness meant to prove authority ends up destroying it."
+  },
+  {
+   "h": "The cause was from the LORD",
+   "b": "\"Wherefore the king hearkened not unto the people; for the cause was from the LORD, that he might perform his saying\" (1 Kings 12:15). Human folly and divine judgment meet here; God's word through Ahijah in chapter 11 is fulfilled without excusing Rehoboam's choices."
+  },
+  {
+   "h": "And this thing became a sin",
+   "b": "\"Behold thy gods, O Israel, which brought thee up out of the land of Egypt\" (1 Kings 12:28). Jeroboam's calves deliberately echo the golden calf of Exodus 32. \"And this thing became a sin\" (1 Kings 12:30), and its shadow will fall across the northern kingdom's whole history."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Proverbs 15:1 · Exodus 32:1-4 · Proverbs 11:14",
+   "qs": [
+    {
+     "th": "Proverbs 15:1 shows the wisdom Rehoboam missed, that a soft answer turns away wrath; Exodus 32 records the original golden calf, whose very words Jeroboam echoes; and Proverbs 11:14 commends a multitude of counsellors.",
+     "q": "Read these together. Where do you see the pattern of Israel's earlier failures repeating here, and what wisdom might have changed the outcome?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Rehoboam heard a reasonable request, took advice that suited his pride, and answered harshly, and a kingdom split as a result.",
+     "q": "Whose counsel do you tend to seek, and whose do you avoid because it is uncomfortable? Is there a piece of wise advice you have been ignoring?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Jeroboam let fear and political calculation shape his worship, reasoning \"in his heart\" (1 Kings 12:26) instead of trusting God's promise.",
+     "q": "Ask the Spirit to show you where fear or self-protection has quietly driven a decision that should have been made in faith."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: confession",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"And this thing became a sin\" (1 Kings 12:30).",
+     "q": "Confess honestly to God any place where pride, fear or the wish to protect your position has led you to reject wise counsel or to substitute something convenient for wholehearted obedience. Receive his forgiveness and ask for a humbler heart."
+    }
+   ]
+  }
+ ]
+},
+// Day 705
+{
+ "ref": "Acts 12",
+ "tag": "New Testament",
+ "api": "acts+12",
+ "sum": [
+  "King Herod begins to persecute the church, kills James the brother of John with the sword, and, seeing that it pleases the Jews, arrests Peter and sets four squads of soldiers to guard him.",
+  "While \"prayer was made without ceasing of the church unto God for him,\" an angel wakes Peter, his chains fall off, and he is led past the guards and through an iron gate that opens of its own accord.",
+  "Peter goes to the house of Mary, the mother of John Mark, where the praying believers are so astonished that Rhoda's news is met with \"Thou art mad,\" until they open the door and see him.",
+  "Herod puts the guards to death, then in Caesarea accepts the crowd's acclaim as a god and is struck down because he \"gave not God the glory,\" while \"the word of God grew and multiplied.\""
+ ],
+ "nug": [
+  {
+   "h": "James killed, Peter arrested",
+   "b": "\"And he killed James the brother of John with the sword\" (Acts 12:2). The chapter does not explain why James dies and Peter lives; it simply leaves both facts standing, and honest readers should let that tension stand too."
+  },
+  {
+   "h": "Prayer made without ceasing",
+   "b": "\"Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him\" (Acts 12:5). The church has no power against Herod's soldiers, yet it turns to the one resource it has."
+  },
+  {
+   "h": "Sleeping between two soldiers",
+   "b": "\"The same night Peter was sleeping between two soldiers, bound with two chains\" (Acts 12:6). On what may be his last night, Peter is sleeping so soundly that the angel has to strike him on the side to wake him."
+  },
+  {
+   "h": "Continued knocking",
+   "b": "\"But Peter continued knocking: and when they had opened the door, and saw him, they were astonished\" (Acts 12:16). The believers who prayed are surprised when the answer arrives, a very human and honest detail."
+  },
+  {
+   "h": "The word of God grew",
+   "b": "\"And immediately the angel of the Lord smote him, because he gave not God the glory\" (Acts 12:23). Yet \"the word of God grew and multiplied\" (Acts 12:24): kings rise and fall, but God's word keeps spreading."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "Acts 4:23-31 · Psalm 34:7-8 · Isaiah 42:8",
+   "qs": [
+    {
+     "th": "Acts 4 shows the same church praying together under threat and being filled with boldness; Psalm 34 speaks of the angel of the LORD who encamps around those who fear him and delivers them; and Isaiah 42:8 explains why Herod's fate is so severe, since the LORD will not give his glory to another.",
+     "q": "Read these together. How do they help you hold together God's deliverance of Peter, God's silence over James, and God's jealousy for his own glory?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The church prayed \"without ceasing\" (Acts 12:5) and yet was astonished when Peter stood at the door.",
+     "q": "Is there a prayer you have prayed for a long time and half-stopped expecting an answer to? What would it look like to keep knocking?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Peter walked out believing at first that he was seeing a vision, and only later, when \"Peter was come to himself,\" understood what had happened (Acts 12:11).",
+     "q": "Ask the Spirit to open your eyes to answers to prayer that you may not have recognised yet, or to God's quiet work in circumstances you have been reading as closed doors."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: thanksgiving",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod\" (Acts 12:11).",
+     "q": "Give thanks for specific times God has delivered you or those you love, and thank him too for the friends and churches who have prayed for you when you could not pray for yourself."
+    }
+   ]
+  }
+ ]
+},
+// Day 706
+{
+ "ref": "Job 1",
+ "tag": "Psalms & Wisdom",
+ "api": "job+1",
+ "sum": [
+  "Job, a man of Uz who is \"perfect and upright, and one that feared God, and eschewed evil,\" is the greatest of all the men of the east, with seven sons, three daughters and vast herds, and he offers sacrifices for his children just in case they have sinned.",
+  "In the heavenly council Satan appears among the sons of God, and the LORD points to Job as a servant without equal.",
+  "Satan replies, \"Doth Job fear God for nought?\" and is permitted to strike everything Job has, though not Job himself.",
+  "In a single day messengers report the loss of oxen, donkeys, sheep, camels, servants and finally all ten of Job's children, and Job tears his robe, shaves his head and worships, saying, \"the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.\""
+ ],
+ "nug": [
+  {
+   "h": "A man in the land of Uz",
+   "b": "\"There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil\" (Job 1:1). Job's story is set outside Israel and outside the covenant history, and is presented as a story about all who fear God."
+  },
+  {
+   "h": "Job sanctified them",
+   "b": "\"Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all\" (Job 1:5). Job's care as a father is on show here, along with a habit of continual, humble intercession."
+  },
+  {
+   "h": "Doth Job fear God for nought?",
+   "b": "\"Doth Job fear God for nought?\" (Job 1:9). This is the question on which the whole book turns: can genuine faith exist when it brings no reward? Satan claims it cannot."
+  },
+  {
+   "h": "Within limits",
+   "b": "\"Behold, all that he hath is in thy power; only upon himself put not forth thine hand\" (Job 1:12). Satan can do only what is permitted, and even his worst is held on a leash by the LORD."
+  },
+  {
+   "h": "Blessed be the name of the LORD",
+   "b": "\"Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD\" (Job 1:21). Job's grief is real, as he tears his mantle and falls to the ground, and yet what he does with it is worship. \"In all this Job sinned not, nor charged God foolishly\" (Job 1:22)."
+  }
+ ],
+ "steps": [
+  {
+   "id": "con",
+   "t": "Connections",
+   "m": "3–5 min",
+   "xr": "James 5:10-11 · 1 Timothy 6:6-8 · Habakkuk 3:17-18",
+   "qs": [
+    {
+     "th": "James holds up Job as an example of patience and shows that the Lord is very pitiful and of tender mercy; Paul reminds Timothy that we brought nothing into the world and will carry nothing out; and Habakkuk resolves to rejoice in the LORD even when fields, flocks and herds all fail.",
+     "q": "Read these together. How do they help you approach the book of Job, which begins here, as a companion for the hardest seasons and not as a puzzle to be solved?"
+    }
+   ]
+  },
+  {
+   "id": "life",
+   "t": "Life reflection",
+   "m": "5–7 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "Job lost everything in a single day, and his first response was grief expressed in worship.",
+     "q": "When loss or disappointment has come to you, what has been your first instinct? What might it look like to bring your grief to God rather than away from him?"
+    }
+   ]
+  },
+  {
+   "id": "spirit",
+   "t": "Holy Spirit",
+   "m": "2–3 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "The chapter shows a dimension of reality Job knew nothing about, since the scene in heaven is hidden from him and the reader.",
+     "q": "Ask the Spirit to help you trust God with the parts of your story you cannot see or explain, and to give you peace where you have no answers."
+    }
+   ]
+  },
+  {
+   "id": "prayer",
+   "t": "Prayer: adoration",
+   "m": "3–5 min",
+   "xr": "",
+   "qs": [
+    {
+     "th": "\"The LORD gave, and the LORD hath taken away; blessed be the name of the LORD\" (Job 1:21).",
+     "q": "Adore the LORD simply for who he is, the giver of every good gift, sovereign, worthy of praise in plenty and in loss. Let your words stay on his character and not on your circumstances."
+    }
+   ]
+  }
+ ]
+},
+// Day 707
+{
+ "ref": "Rest & review",
+ "tag": "Rest day",
+ "rest": 1,
+ "nug": [
+  {
+   "h": "The word of God grew and multiplied",
+   "b": "\"But the word of God grew and multiplied\" (Acts 12:24). This week ran from Solomon's glory to his fall and the kingdom's division, closed the Song of Solomon (\"Set me as a seal upon thine heart\"), and opened the book of Job, and through it all the word of God endures."
+  }
+ ],
+ "steps": [
+  {
+   "id": "back",
+   "t": "Look back",
+   "m": "5 min",
+   "qs": [
+    {
+     "th": "This week you read the Queen of Sheba's visit and Solomon's splendour (1 Kings 10), Solomon's many wives and the decision to tear the kingdom away (1 Kings 11), the close of the Song of Solomon (Song of Solomon 8), the division of the kingdom under Rehoboam and Jeroboam (1 Kings 12), Peter's escape from prison and Herod's death (Acts 12), and the opening of the book of Job (Job 1). You have now finished the Song of Solomon, and 1 Kings 13 and Acts 13 come next.",
+     "q": "Which scene stays with you most this week: the wise queen who said \"the half was not told me\" (1 Kings 10:7), the king who \"forsook the counsel of the old men\" (1 Kings 12:8), or the church that prayed \"without ceasing\" (Acts 12:5)? Why?"
+    },
+    {
+     "th": "Most people naturally lean toward one or two of the five prayer forms you practised this week.",
+     "q": "Which felt easiest and which hardest, and why do you think that is?"
+    }
+   ]
+  },
+  {
+   "id": "rest",
+   "t": "Rest",
+   "m": "2 min",
+   "qs": [
+    {
+     "th": "\"Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death\" (Song of Solomon 8:6).",
+     "q": "Sit quietly for a moment and rest in the love that holds you, asking for nothing and needing to do nothing."
+    }
+   ]
+  }
+ ]
+},
 ];
